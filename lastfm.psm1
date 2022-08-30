@@ -65,7 +65,7 @@ function Get-LFMTopArtistsStatus {
         $SeenLiveArtists,
         [Parameter(HelpMessage = "List of non active artists")]
         [String[]]
-        $InActiveArtists = @()
+        $InactiveArtists = @()
     )
     $res = @()
     foreach ($artist in $TopArtists) {
@@ -75,7 +75,7 @@ function Get-LFMTopArtistsStatus {
             SeenLive  = $false
             IsActive  = $true
         }
-        if ($artist.Name -in $InActiveArtists) {
+        if ($artist.Name -in $InactiveArtists) {
             $current.IsActive = $False
         }
         if ($artist.name -in $SeenLiveArtists) {
