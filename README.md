@@ -1,5 +1,7 @@
 # Top Artists seen live
 
+[![Run](https://github.com/matsest/lastfm-artists-seen-live/actions/workflows/run.yaml/badge.svg)](https://github.com/matsest/lastfm-artists-seen-live/actions/workflows/run.yaml)
+
 > Which of my most listened to artists have I not seen live?
 
 ## Background
@@ -20,6 +22,8 @@ $env:API_KEY = "<API Key>"
          [[-NumberOfArtists] <string>] `
          [[-InactiveArtistsFile] <string>]
 ```
+
+See the latest run of the script in [Actions](https://github.com/matsest/lastfm-artists-seen-live/actions).
 
 ## License
 
