@@ -7,6 +7,7 @@ on:
     paths:
       - '*.psm1'
       - '*.ps1'
+      - '.github/workflows/run.yaml'
 
 permissions:
   contents: read
@@ -19,6 +20,6 @@ jobs:
 
       - name: "Run"
         env:
-          API_KEY: ${{ secret.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
         shell: pwsh
         run: ./main.ps1
