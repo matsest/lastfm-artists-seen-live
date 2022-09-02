@@ -5,8 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - '*.psm1'
-      - '*.ps1'
+      - 'src/**'
       - '.github/workflows/run.yaml'
   schedule:
     - cron: "00 1 * * *"
