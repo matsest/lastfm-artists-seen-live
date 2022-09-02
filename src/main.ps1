@@ -56,7 +56,7 @@ $totalNotSeen = $activeNotSeen.Count + $inactiveNotSeen.Count
 # Print summary
 Write-Output "## Stats `n"
 Write-Output "`nLast.fm user: [$LastFmUserName](https://www.last.fm/user/$LastFMUserName)"
-Write-Output "`n- Number of top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
+Write-Output "`n- Number of fetched top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
 Write-Output "`n- Number of top artists seen live $totalSeen (Active: $($activeSeen.Count) Inactive: $($inactiveSeen.Count))"
 Write-Output "`n- Number of top artists not seen live $totalNotSeen (Active: $($activeNotSeen.Count) Inactive: $($inactiveNotSeen.Count))"
 

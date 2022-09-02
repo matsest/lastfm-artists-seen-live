@@ -20,7 +20,8 @@ Prerequisites:
 $env:API_KEY = "<API Key>"
 ./src/main.ps1 [[-LastFmUserName] <string>] `
          [[-NumberOfArtists] <string>] `
-         [[-InactiveArtistsFile] <string>]
+         [[-InactiveArtistsFile] <string>] `
+         | Out-File artists.md
 ```
 
 ### Output
