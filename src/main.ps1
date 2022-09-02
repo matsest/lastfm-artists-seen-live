@@ -1,12 +1,12 @@
 [CmdletBinding()]
 param (
-    [Parameter()]
+    [Parameter(HelpMessage = "Last.fm username")]
     [string]
     $LastFmUserName = "matsest",
-    [Parameter()]
+    [Parameter(HelpMessage = "Number of most listened to artists to fetch from Last.fm")]
     [string]
     $NumberOfArtists = "100",
-    [Parameter()]
+    [Parameter(HelpMessage = "File with a list of artists that are no longer active (can't be seen live)")]
     [string]
     $InactiveArtistsFile = "$PSScriptRoot/nonActiveArtists.txt"
 )

@@ -63,7 +63,7 @@ function Get-LFMTopArtistsStatus {
         [Parameter(HelpMessage = "List of seen live artists from Invoke-LFMSeenLiveArtists")]
         [String[]]
         $SeenLiveArtists,
-        [Parameter(HelpMessage = "List of non active artists")]
+        [Parameter(HelpMessage = "List of inactive artists")]
         [String[]]
         $InactiveArtists = @()
     )
