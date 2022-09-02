@@ -8,7 +8,7 @@ param (
     $NumberOfArtists = "100",
     [Parameter()]
     [string]
-    $InactiveArtistsFile = "nonActiveArtists.txt"
+    $InactiveArtistsFile = "$PSScriptRoot/nonActiveArtists.txt"
 )
 
 # Defaults
@@ -36,7 +36,6 @@ if ($test.StatusCode -ne 200) {
 # Import module
 Import-Module "$PSScriptRoot/lastfm.psm1" -Force
 
-
 # Get artists
 $topArtists = Invoke-LFMTopArtists -UserName $LastFmUserName -ApiKey $ApiKey -Number $NumberOfArtists
 $artistsSeenLive = Invoke-LFMSeenLiveArtists -UserName $LastFmUserName -ApiKey $ApiKey
@@ -55,16 +54,17 @@ $totalSeen = $activeSeen.Count + $inactiveSeen.Count
 $totalNotSeen = $activeNotSeen.Count + $inactiveNotSeen.Count
 
 # Print summary
-Write-Host "Number of top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
-Write-Host "Number of top artists seen live $totalSeen (Active: $($activeSeen.Count) Inactive: $($inactiveSeen.Count))"
-Write-Host "Number of top artists not seen live $totalNotSeen (Active: $($activeNotSeen.Count) Inactive: $($inactiveNotSeen.Count))"
+Write-Output "## Stats `n"
+Write-Output "- Number of top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
+Write-Output "`n- Number of top artists seen live $totalSeen (Active: $($activeSeen.Count) Inactive: $($inactiveSeen.Count))"
+Write-Output "`n- Number of top artists not seen live $totalNotSeen (Active: $($activeNotSeen.Count) Inactive: $($inactiveNotSeen.Count))"
 
 # Print lists
-Write-Host "`nTop $NumberOfArtists artists seen live ($totalSeen)"
-Write-Host ($artists | ? { $_.SeenLive } | Select-Object Name, PlayCount | Format-Table | Out-String)
+Write-Output "`n## Top $NumberOfArtists artists seen live ($totalSeen)`n"
+Write-Output ($artists | ? { $_.SeenLive } | Select-Object Name, PlayCount | ConvertTo-Markdown)
 
-Write-Host "Active top $NumberOfArtists artists not seen live ($($activeNotSeen.Count))"
-Write-Host ($activeNotSeen | Format-Table | Out-String)
+Write-Output "`n## Active top $NumberOfArtists artists not seen live ($($activeNotSeen.Count))`n"
+Write-Output ($activeNotSeen | ConvertTo-Markdown)
 
-Write-Host "Inactive top $NumberOfArtists artists not seen live ($($inactiveNotSeen.Count))"
-Write-Host ($inactiveNotSeen | Format-Table | Out-String)
+Write-Output "`n## Inactive top $NumberOfArtists artists not seen live ($($inactiveNotSeen.Count))`n"
+Write-Output ($inactiveNotSeen | ConvertTo-Markdown)
