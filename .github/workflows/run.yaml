@@ -8,6 +8,8 @@ on:
       - '*.psm1'
       - '*.ps1'
       - '.github/workflows/run.yaml'
+  schedule:
+    - cron: "00 1 * * *"
 
 permissions:
   contents: write
