@@ -15,12 +15,12 @@ Name                           | PlayCount
 ------------------------------ | ---------
 Soundgarden                    | 6088     
 Pearl Jam                      | 6003     
-Rush                           | 4448     
+Rush                           | 4450     
 The Gaslight Anthem            | 4259     
 Against Me!                    | 2967     
 DumDum Boys                    | 2885     
 Motorpsycho                    | 2628     
-Bruce Springsteen              | 2472     
+Bruce Springsteen              | 2473     
 Frank Turner                   | 2353     
 Manic Street Preachers         | 2323     
 Chris Cornell                  | 2233     
@@ -42,15 +42,15 @@ Hellbillies                    | 973
 Anti-Lam Front                 | 875      
 Oslo Ess                       | 832      
 Brian Fallon                   | 796      
+Thin Lizzy                     | 786      
 The Tallest Man on Earth       | 785      
-Thin Lizzy                     | 785      
 Sweden                         | 771      
 Thulsa Doom                    | 698      
 Tool                           | 698      
 Devin Townsend                 | 697      
 Jason Isbell                   | 647      
+Ghost                          | 644      
 The Posies                     | 644      
-Ghost                          | 643      
 Japandroids                    | 639      
 Devin Townsend Project         | 603      
 Blood Command                  | 566      
@@ -83,13 +83,13 @@ Touché Amoré             | 952
 Melvins                  | 780      
 Bob Dylan                | 754      
 The Black Crowes         | 719      
-The Hold Steady          | 711      
+The Hold Steady          | 714      
 Eddie Vedder             | 685      
 Hot Water Music          | 643      
 Neil Young               | 637      
 Afghan Whigs             | 550      
 The War on Drugs         | 472      
-Yes                      | 461      
+Yes                      | 462      
 Rage Against the Machine | 455      
 Dinosaur Jr.             | 454      
 Thåström                 | 435      
@@ -118,7 +118,7 @@ Temple of the Dog    | 547
 Paul Westerberg      | 523      
 The Beatles          | 500      
 Pink Floyd           | 462      
-Black Sabbath        | 458      
+Black Sabbath        | 460      
 The Twilight Singers | 420      
 Marillion            | 418      
 Jokke med Tourettes  | 389      
