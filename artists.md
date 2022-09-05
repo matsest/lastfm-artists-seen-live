@@ -15,12 +15,12 @@ Name                           | PlayCount
 ------------------------------ | ---------
 Soundgarden                    | 6088     
 Pearl Jam                      | 6003     
-Rush                           | 4450     
+Rush                           | 4452     
 The Gaslight Anthem            | 4259     
 Against Me!                    | 2967     
 DumDum Boys                    | 2885     
 Motorpsycho                    | 2628     
-Bruce Springsteen              | 2473     
+Bruce Springsteen              | 2475     
 Frank Turner                   | 2353     
 Manic Street Preachers         | 2323     
 Chris Cornell                  | 2233     
@@ -42,7 +42,7 @@ Hellbillies                    | 973
 Anti-Lam Front                 | 875      
 Oslo Ess                       | 832      
 Brian Fallon                   | 796      
-Thin Lizzy                     | 786      
+Thin Lizzy                     | 787      
 The Tallest Man on Earth       | 785      
 Sweden                         | 771      
 Thulsa Doom                    | 698      
