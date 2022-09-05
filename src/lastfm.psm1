@@ -22,6 +22,7 @@ function Invoke-LFMTopArtists {
         [PSCustomObject]@{
             Name      = $_.name
             PlayCount = $_.playcount
+            Rank      = $_.'@attr'.rank
         }
     }
 }
@@ -72,6 +73,7 @@ function Get-LFMTopArtistsStatus {
         $current = [PSCustomObject]@{
             Name      = $artist.Name
             PlayCount = $artist.PlayCount
+            Rank      = $artist.Rank
             SeenLive  = $false
             IsActive  = $true
         }
@@ -97,7 +99,7 @@ function Select-LFMArtists {
     )
     $artists `
     | Where-Object { $_.SeenLive -eq $SeenLive -and $_.IsActive -eq $Active } `
-    | Select-Object Name, PlayCount
+    | Select-Object Name, Rank, PlayCount
 }
 
 # Helper function

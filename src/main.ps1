@@ -62,7 +62,7 @@ Write-Output "`n- Number of top artists not seen live $totalNotSeen (Active: $($
 
 # Print lists
 Write-Output "`n## Top $NumberOfArtists artists seen live ($totalSeen)`n"
-Write-Output ($artists | ? { $_.SeenLive } | Select-Object Name, PlayCount | ConvertTo-Markdown)
+Write-Output ($artists | ? { $_.SeenLive } | Select-Object Name, Rank, PlayCount | ConvertTo-Markdown)
 
 Write-Output "`n## Active top $NumberOfArtists artists not seen live ($($activeNotSeen.Count))`n"
 Write-Output ($activeNotSeen | ConvertTo-Markdown)
