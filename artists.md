@@ -105,9 +105,9 @@ The Hotelier             | 98   | 352
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3012     
-Hüsker Dü            | 8    | 2784     
+Hüsker Dü            | 8    | 2785     
 The Horrible Crowes  | 32   | 1169     
-Sugar                | 33   | 1150     
+Sugar                | 33   | 1151     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 896      
 Audioslave           | 55   | 690      
