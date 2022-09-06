@@ -1,12 +1,12 @@
-# Top Artists seen live
+# Top last.fm artists seen live
 
 [![Run](https://github.com/matsest/lastfm-artists-seen-live/actions/workflows/run.yaml/badge.svg?event=schedule)](https://github.com/matsest/lastfm-artists-seen-live/actions/workflows/run.yaml)
 
-> Which of my most listened to artists have I not seen live?
+> Which of my top last.fm (most listened to) artists have I seen or not seen live?
 
 ## Background
 
-Using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the ['seen live' tag](https://www.last.fm/tag/seen+live) on last.fm artists and the [Last.FM API](https://www.last.fm/api) together with some PowerShell this repo keeps track of which of my top artists I've seen/not seen live.
+To answer the question above I'm using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the ['seen live' tag](https://www.last.fm/tag/seen+live) on my last.fm artists and the [last.fm API](https://www.last.fm/api) together with some PowerShell.
 
 ## Usage
 
