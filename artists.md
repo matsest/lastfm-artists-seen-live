@@ -3,11 +3,13 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
+- Number of artists seen live in total: 320
+
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
-- Number of top artists seen live 53 (Active: 45 Inactive: 8)
+- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
 
-- Number of top artists not seen live 47 (Active: 28 Inactive: 19)
+- Number of top artists not seen live: 47 (Active: 28 Inactive: 19)
 
 ## Top 100 artists seen live (53)
 
@@ -15,25 +17,25 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6088     
 Pearl Jam                      | 2    | 6003     
-Rush                           | 3    | 4453     
+Rush                           | 3    | 4454     
 The Gaslight Anthem            | 4    | 4259     
 Against Me!                    | 6    | 2967     
-DumDum Boys                    | 7    | 2885     
-Motorpsycho                    | 9    | 2628     
-Bruce Springsteen              | 10   | 2477     
+DumDum Boys                    | 7    | 2886     
+Motorpsycho                    | 9    | 2631     
+Bruce Springsteen              | 10   | 2479     
 Frank Turner                   | 12   | 2353     
 Manic Street Preachers         | 13   | 2323     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
-Raga Rockers                   | 18   | 2043     
-johndoe                        | 19   | 1879     
+Raga Rockers                   | 18   | 2045     
+johndoe                        | 19   | 1880     
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1731     
 Mark Lanegan                   | 26   | 1413     
 The Smashing Pumpkins          | 27   | 1355     
-Spidergawd                     | 29   | 1301     
+Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
-Kvelertak                      | 31   | 1210     
+Kvelertak                      | 31   | 1211     
 Chuck Ragan                    | 34   | 1135     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
@@ -45,7 +47,7 @@ Brian Fallon                   | 44   | 796
 Thin Lizzy                     | 45   | 787      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 771      
-Thulsa Doom                    | 52   | 698      
+Thulsa Doom                    | 52   | 702      
 Tool                           | 53   | 698      
 Devin Townsend                 | 54   | 697      
 Jason Isbell                   | 58   | 647      
@@ -53,12 +55,12 @@ Ghost                          | 59   | 644
 The Posies                     | 60   | 644      
 Japandroids                    | 62   | 639      
 Devin Townsend Project         | 64   | 603      
-Blood Command                  | 66   | 566      
+Blood Command                  | 66   | 569      
 Pappasaft                      | 68   | 556      
 Kylesa                         | 69   | 553      
-Spielbergs                     | 70   | 552      
+Spielbergs                     | 70   | 553      
 Dropkick Murphys               | 74   | 519      
-The Good The Bad and The Zugly | 76   | 490      
+The Good The Bad and The Zugly | 76   | 491      
 Clutch                         | 83   | 447      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
@@ -83,7 +85,7 @@ Touché Amoré             | 40   | 952
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 754      
 The Black Crowes         | 50   | 719      
-The Hold Steady          | 51   | 714      
+The Hold Steady          | 51   | 715      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
 Neil Young               | 63   | 637      
@@ -111,11 +113,11 @@ Sugar                | 33   | 1151
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 896      
 Audioslave           | 55   | 690      
-Jokke & Valentinerne | 57   | 668      
+Jokke & Valentinerne | 57   | 669      
 Foo Fighters         | 65   | 595      
 Big Star             | 67   | 557      
 Temple of the Dog    | 72   | 547      
-Paul Westerberg      | 73   | 523      
+Paul Westerberg      | 73   | 524      
 The Beatles          | 75   | 500      
 Pink Floyd           | 78   | 462      
 Black Sabbath        | 80   | 460      
