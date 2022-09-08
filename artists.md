@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 11   | 2369     
 The Who                  | 15   | 2211     
-Bob Mould                | 16   | 2143     
+Bob Mould                | 16   | 2188     
 Propagandhi              | 20   | 1790     
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1612     
@@ -109,7 +109,7 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3012     
 Hüsker Dü            | 8    | 2785     
 The Horrible Crowes  | 32   | 1169     
-Sugar                | 33   | 1151     
+Sugar                | 33   | 1168     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 896      
 Audioslave           | 55   | 690      
