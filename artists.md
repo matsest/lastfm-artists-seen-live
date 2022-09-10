@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4259
 Against Me!                    | 6    | 2967     
 DumDum Boys                    | 7    | 2886     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2495     
+Bruce Springsteen              | 10   | 2496     
 Frank Turner                   | 12   | 2353     
 Manic Street Preachers         | 13   | 2323     
 Chris Cornell                  | 14   | 2233     
@@ -36,7 +36,7 @@ The Smashing Pumpkins          | 27   | 1355
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
 Kvelertak                      | 31   | 1211     
-Chuck Ragan                    | 34   | 1135     
+Chuck Ragan                    | 34   | 1136     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
