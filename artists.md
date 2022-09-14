@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2967
 DumDum Boys                    | 7    | 2886     
 Motorpsycho                    | 9    | 2631     
 Bruce Springsteen              | 10   | 2496     
-Frank Turner                   | 11   | 2389     
+Frank Turner                   | 11   | 2390     
 Manic Street Preachers         | 13   | 2323     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
@@ -61,7 +61,7 @@ Kylesa                         | 69   | 553
 Spielbergs                     | 70   | 553      
 Dropkick Murphys               | 74   | 519      
 The Good The Bad and The Zugly | 76   | 491      
-Clutch                         | 83   | 450      
+Clutch                         | 83   | 451      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
 Jason Isbell and The 400 Unit  | 93   | 377      
@@ -75,8 +75,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2370     
 The Who                  | 15   | 2211     
-Bob Mould                | 16   | 2188     
-Propagandhi              | 20   | 1790     
+Bob Mould                | 16   | 2189     
+Propagandhi              | 20   | 1791     
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1612     
 The Menzingers           | 25   | 1457     
