@@ -17,12 +17,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6089     
 Pearl Jam                      | 2    | 6003     
-Rush                           | 3    | 4454     
+Rush                           | 3    | 4455     
 The Gaslight Anthem            | 4    | 4259     
 Against Me!                    | 6    | 2967     
 DumDum Boys                    | 7    | 2886     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2496     
+Bruce Springsteen              | 10   | 2500     
 Frank Turner                   | 11   | 2390     
 Manic Street Preachers         | 13   | 2323     
 Chris Cornell                  | 14   | 2233     
@@ -30,7 +30,7 @@ The National                   | 17   | 2055
 Raga Rockers                   | 18   | 2045     
 johndoe                        | 19   | 1880     
 Mastodon                       | 22   | 1751     
-AC/DC                          | 23   | 1731     
+AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1413     
 The Smashing Pumpkins          | 27   | 1356     
 Spidergawd                     | 29   | 1303     
@@ -44,7 +44,7 @@ Hellbillies                    | 39   | 973
 Anti-Lam Front                 | 42   | 875      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
-Thin Lizzy                     | 45   | 787      
+Thin Lizzy                     | 45   | 789      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 771      
 Thulsa Doom                    | 52   | 702      
@@ -74,7 +74,7 @@ Swans                          | 100  | 339
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2370     
-The Who                  | 15   | 2211     
+The Who                  | 15   | 2212     
 Bob Mould                | 16   | 2189     
 Propagandhi              | 20   | 1791     
 Ryan Adams               | 21   | 1776     
