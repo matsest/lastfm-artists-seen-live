@@ -41,15 +41,15 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 973      
-Anti-Lam Front                 | 42   | 875      
+Anti-Lam Front                 | 42   | 896      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 789      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
-Thulsa Doom                    | 52   | 702      
-Tool                           | 53   | 698      
-Devin Townsend                 | 54   | 697      
+Devin Townsend                 | 50   | 722      
+Thulsa Doom                    | 53   | 702      
+Tool                           | 54   | 698      
 Jason Isbell                   | 58   | 647      
 Ghost                          | 59   | 644      
 The Posies                     | 60   | 644      
@@ -61,7 +61,7 @@ Spielbergs                     | 69   | 554
 Kylesa                         | 70   | 553      
 Dropkick Murphys               | 74   | 519      
 The Good The Bad and The Zugly | 76   | 491      
-Clutch                         | 83   | 451      
+Clutch                         | 81   | 458      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
 Jason Isbell and The 400 Unit  | 93   | 377      
@@ -84,16 +84,16 @@ Weezer                   | 28   | 1336
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 754      
-The Black Crowes         | 50   | 719      
-The Hold Steady          | 51   | 715      
+The Black Crowes         | 51   | 719      
+The Hold Steady          | 52   | 715      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
 Neil Young               | 63   | 637      
 Afghan Whigs             | 71   | 552      
 The War on Drugs         | 77   | 472      
 Yes                      | 79   | 462      
-Dinosaur Jr.             | 81   | 455      
-Rage Against the Machine | 82   | 455      
+Dinosaur Jr.             | 82   | 455      
+Rage Against the Machine | 83   | 455      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 423      
 Dawes                    | 89   | 396      
@@ -107,7 +107,7 @@ The Hotelier             | 98   | 352
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3012     
-Hüsker Dü            | 8    | 2786     
+Hüsker Dü            | 8    | 2787     
 Sugar                | 32   | 1169     
 The Horrible Crowes  | 33   | 1169     
 Genesis              | 36   | 1066     
