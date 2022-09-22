@@ -32,7 +32,7 @@ johndoe                        | 19   | 1886
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1413     
-The Smashing Pumpkins          | 27   | 1357     
+The Smashing Pumpkins          | 27   | 1358     
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
 Kvelertak                      | 31   | 1211     
@@ -47,7 +47,7 @@ Brian Fallon                   | 44   | 796
 Thin Lizzy                     | 45   | 789      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
-Devin Townsend                 | 50   | 722      
+Devin Townsend                 | 50   | 723      
 Thulsa Doom                    | 53   | 702      
 Tool                           | 54   | 698      
 Jason Isbell                   | 58   | 647      
