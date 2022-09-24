@@ -32,7 +32,7 @@ johndoe                        | 19   | 1886
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1413     
-The Smashing Pumpkins          | 27   | 1358     
+The Smashing Pumpkins          | 27   | 1359     
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
 Kvelertak                      | 31   | 1211     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 973      
-Anti-Lam Front                 | 42   | 896      
+Anti-Lam Front                 | 42   | 897      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 789      
@@ -56,12 +56,12 @@ The Posies                     | 60   | 644
 Japandroids                    | 62   | 639      
 Devin Townsend Project         | 64   | 603      
 Blood Command                  | 66   | 569      
-Pappasaft                      | 68   | 556      
-Spielbergs                     | 69   | 554      
-Kylesa                         | 70   | 553      
+Pappasaft                      | 69   | 556      
+Spielbergs                     | 70   | 554      
+Kylesa                         | 71   | 553      
 Dropkick Murphys               | 74   | 519      
 The Good The Bad and The Zugly | 76   | 491      
-Clutch                         | 81   | 458      
+Clutch                         | 78   | 468      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
 Jason Isbell and The 400 Unit  | 93   | 377      
@@ -78,9 +78,9 @@ The Who                  | 15   | 2212
 Bob Mould                | 16   | 2192     
 Propagandhi              | 20   | 1795     
 Ryan Adams               | 21   | 1776     
-Guided by Voices         | 24   | 1612     
+Guided by Voices         | 24   | 1613     
 The Menzingers           | 25   | 1457     
-Weezer                   | 28   | 1346     
+Weezer                   | 28   | 1353     
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 754      
@@ -89,9 +89,9 @@ The Hold Steady          | 52   | 715
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
 Neil Young               | 63   | 637      
-Afghan Whigs             | 71   | 552      
+Afghan Whigs             | 67   | 562      
 The War on Drugs         | 77   | 472      
-Yes                      | 79   | 462      
+Yes                      | 80   | 462      
 Dinosaur Jr.             | 82   | 455      
 Rage Against the Machine | 83   | 455      
 Thåström                 | 84   | 435      
@@ -115,12 +115,12 @@ Fugazi               | 41   | 898
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 669      
 Foo Fighters         | 65   | 595      
-Big Star             | 67   | 557      
+Big Star             | 68   | 557      
 Temple of the Dog    | 72   | 547      
 Paul Westerberg      | 73   | 524      
 The Beatles          | 75   | 500      
-Pink Floyd           | 78   | 462      
-Black Sabbath        | 80   | 461      
+Pink Floyd           | 79   | 462      
+Black Sabbath        | 81   | 461      
 The Twilight Singers | 86   | 420      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 91   | 389      
