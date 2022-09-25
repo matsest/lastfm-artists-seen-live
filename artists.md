@@ -15,8 +15,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6099     
-Pearl Jam                      | 2    | 6003     
+Soundgarden                    | 1    | 6100     
+Pearl Jam                      | 2    | 6004     
 Rush                           | 3    | 4455     
 The Gaslight Anthem            | 4    | 4259     
 Against Me!                    | 6    | 2967     
@@ -24,14 +24,14 @@ DumDum Boys                    | 7    | 2888
 Motorpsycho                    | 9    | 2631     
 Bruce Springsteen              | 10   | 2510     
 Frank Turner                   | 11   | 2390     
-Manic Street Preachers         | 13   | 2323     
+Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2045     
 johndoe                        | 19   | 1886     
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
-Mark Lanegan                   | 26   | 1413     
+Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 27   | 1359     
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
@@ -80,7 +80,7 @@ Propagandhi              | 20   | 1795
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1613     
 The Menzingers           | 25   | 1457     
-Weezer                   | 28   | 1353     
+Weezer                   | 28   | 1354     
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 754      
@@ -124,4 +124,4 @@ Black Sabbath        | 81   | 461
 The Twilight Singers | 86   | 420      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 91   | 389      
-Blind Melon          | 99   | 344      
+Blind Melon          | 99   | 345      
