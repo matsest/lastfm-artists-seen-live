@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6100     
 Pearl Jam                      | 2    | 6004     
-Rush                           | 3    | 4455     
+Rush                           | 3    | 4456     
 The Gaslight Anthem            | 4    | 4259     
 Against Me!                    | 6    | 2967     
 DumDum Boys                    | 7    | 2888     
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 12   | 2370     
 The Who                  | 15   | 2212     
 Bob Mould                | 16   | 2192     
-Propagandhi              | 20   | 1795     
+Propagandhi              | 20   | 1796     
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1613     
 The Menzingers           | 25   | 1457     
@@ -89,7 +89,7 @@ The Hold Steady          | 52   | 715
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
 Neil Young               | 63   | 637      
-Afghan Whigs             | 67   | 562      
+Afghan Whigs             | 67   | 563      
 The War on Drugs         | 77   | 472      
 Yes                      | 80   | 462      
 Dinosaur Jr.             | 82   | 455      
