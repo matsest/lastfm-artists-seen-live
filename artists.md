@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4259
 Against Me!                    | 6    | 2967     
 DumDum Boys                    | 7    | 2888     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2510     
+Bruce Springsteen              | 10   | 2514     
 Frank Turner                   | 11   | 2390     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
@@ -35,12 +35,12 @@ Mark Lanegan                   | 26   | 1414
 The Smashing Pumpkins          | 27   | 1359     
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
-Kvelertak                      | 31   | 1211     
+Kvelertak                      | 31   | 1212     
 Chuck Ragan                    | 34   | 1136     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
-Hellbillies                    | 39   | 973      
+Hellbillies                    | 39   | 974      
 Anti-Lam Front                 | 42   | 897      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
@@ -48,7 +48,7 @@ Thin Lizzy                     | 45   | 789
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
-Thulsa Doom                    | 53   | 702      
+Thulsa Doom                    | 53   | 703      
 Tool                           | 54   | 698      
 Jason Isbell                   | 58   | 647      
 Ghost                          | 59   | 644      
@@ -60,7 +60,7 @@ Pappasaft                      | 69   | 556
 Spielbergs                     | 70   | 554      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 74   | 519      
-The Good The Bad and The Zugly | 76   | 491      
+The Good The Bad and The Zugly | 76   | 492      
 Clutch                         | 78   | 468      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
