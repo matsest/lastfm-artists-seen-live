@@ -35,7 +35,7 @@ Mark Lanegan                   | 26   | 1414
 The Smashing Pumpkins          | 27   | 1359     
 Spidergawd                     | 29   | 1303     
 Baroness                       | 30   | 1271     
-Kvelertak                      | 31   | 1212     
+Kvelertak                      | 31   | 1221     
 Chuck Ragan                    | 34   | 1136     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
