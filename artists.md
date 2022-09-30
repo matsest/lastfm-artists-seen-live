@@ -40,15 +40,15 @@ Chuck Ragan                    | 34   | 1136
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
-Hellbillies                    | 39   | 974      
-Anti-Lam Front                 | 42   | 897      
+Hellbillies                    | 39   | 975      
+Anti-Lam Front                 | 41   | 898      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 789      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
-Thulsa Doom                    | 53   | 703      
+Thulsa Doom                    | 53   | 704      
 Tool                           | 54   | 698      
 Jason Isbell                   | 58   | 647      
 Ghost                          | 59   | 644      
@@ -56,11 +56,11 @@ The Posies                     | 60   | 644
 Japandroids                    | 62   | 639      
 Devin Townsend Project         | 64   | 603      
 Blood Command                  | 66   | 569      
-Pappasaft                      | 69   | 556      
-Spielbergs                     | 70   | 554      
+Pappasaft                      | 68   | 562      
+Spielbergs                     | 70   | 555      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 74   | 519      
-The Good The Bad and The Zugly | 76   | 492      
+The Good The Bad and The Zugly | 76   | 493      
 Clutch                         | 78   | 468      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 385      
@@ -111,11 +111,11 @@ Hüsker Dü            | 8    | 2787
 Sugar                | 32   | 1169     
 The Horrible Crowes  | 33   | 1169     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 898      
+Fugazi               | 42   | 898      
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 669      
 Foo Fighters         | 65   | 595      
-Big Star             | 68   | 557      
+Big Star             | 69   | 557      
 Temple of the Dog    | 72   | 547      
 Paul Westerberg      | 73   | 524      
 The Beatles          | 75   | 500      
