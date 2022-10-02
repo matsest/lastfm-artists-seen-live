@@ -41,14 +41,14 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 975      
-Anti-Lam Front                 | 41   | 898      
+Anti-Lam Front                 | 41   | 899      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 789      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
-Thulsa Doom                    | 53   | 704      
+Thulsa Doom                    | 53   | 705      
 Tool                           | 54   | 698      
 Jason Isbell                   | 58   | 647      
 Ghost                          | 59   | 644      
@@ -75,10 +75,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2370     
 The Who                  | 15   | 2212     
-Bob Mould                | 16   | 2192     
+Bob Mould                | 16   | 2193     
 Propagandhi              | 20   | 1804     
 Ryan Adams               | 21   | 1776     
-Guided by Voices         | 24   | 1613     
+Guided by Voices         | 24   | 1617     
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1354     
 Touché Amoré             | 40   | 952      
