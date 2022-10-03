@@ -59,7 +59,7 @@ Blood Command                  | 66   | 569
 Pappasaft                      | 68   | 563      
 Spielbergs                     | 70   | 555      
 Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 529      
+Dropkick Murphys               | 73   | 539      
 The Good The Bad and The Zugly | 76   | 493      
 Clutch                         | 78   | 470      
 Opeth                          | 88   | 409      
@@ -76,9 +76,9 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 12   | 2370     
 The Who                  | 15   | 2212     
 Bob Mould                | 16   | 2193     
-Propagandhi              | 20   | 1804     
+Propagandhi              | 20   | 1808     
 Ryan Adams               | 21   | 1776     
-Guided by Voices         | 24   | 1617     
+Guided by Voices         | 24   | 1618     
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1354     
 Touché Amoré             | 40   | 952      
