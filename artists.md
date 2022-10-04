@@ -22,13 +22,13 @@ The Gaslight Anthem            | 4    | 4260
 Against Me!                    | 6    | 2969     
 DumDum Boys                    | 7    | 2888     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2514     
+Bruce Springsteen              | 10   | 2520     
 Frank Turner                   | 11   | 2392     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2045     
-johndoe                        | 19   | 1886     
+johndoe                        | 19   | 1907     
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1414     
@@ -59,7 +59,7 @@ Blood Command                  | 66   | 569
 Pappasaft                      | 68   | 563      
 Spielbergs                     | 70   | 555      
 Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 539      
+Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 493      
 Clutch                         | 78   | 470      
 Opeth                          | 88   | 409      
