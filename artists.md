@@ -17,18 +17,18 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6100     
 Pearl Jam                      | 2    | 6004     
-Rush                           | 3    | 4456     
+Rush                           | 3    | 4457     
 The Gaslight Anthem            | 4    | 4260     
 Against Me!                    | 6    | 2969     
 DumDum Boys                    | 7    | 2888     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2520     
+Bruce Springsteen              | 10   | 2540     
 Frank Turner                   | 11   | 2392     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2045     
-johndoe                        | 19   | 1907     
+johndoe                        | 19   | 1908     
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1414     
@@ -44,7 +44,7 @@ Hellbillies                    | 39   | 975
 Anti-Lam Front                 | 41   | 899      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
-Thin Lizzy                     | 45   | 789      
+Thin Lizzy                     | 45   | 790      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
@@ -84,7 +84,7 @@ Weezer                   | 28   | 1354
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 754      
-The Black Crowes         | 51   | 719      
+The Black Crowes         | 51   | 720      
 The Hold Steady          | 52   | 715      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
