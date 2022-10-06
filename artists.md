@@ -22,13 +22,13 @@ The Gaslight Anthem            | 4    | 4260
 Against Me!                    | 6    | 2969     
 DumDum Boys                    | 7    | 2888     
 Motorpsycho                    | 9    | 2631     
-Bruce Springsteen              | 10   | 2540     
+Bruce Springsteen              | 10   | 2541     
 Frank Turner                   | 11   | 2392     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2045     
-johndoe                        | 19   | 1908     
+johndoe                        | 19   | 1909     
 Mastodon                       | 22   | 1751     
 AC/DC                          | 23   | 1732     
 Mark Lanegan                   | 26   | 1414     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 975      
-Anti-Lam Front                 | 41   | 899      
+Anti-Lam Front                 | 41   | 900      
 Oslo Ess                       | 43   | 832      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 790      
@@ -55,9 +55,9 @@ Ghost                          | 59   | 644
 The Posies                     | 60   | 644      
 Japandroids                    | 62   | 639      
 Devin Townsend Project         | 64   | 603      
-Blood Command                  | 66   | 569      
-Pappasaft                      | 68   | 563      
-Spielbergs                     | 70   | 555      
+Blood Command                  | 66   | 570      
+Pappasaft                      | 68   | 564      
+Spielbergs                     | 70   | 556      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 493      
@@ -75,10 +75,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2370     
 The Who                  | 15   | 2212     
-Bob Mould                | 16   | 2193     
+Bob Mould                | 16   | 2197     
 Propagandhi              | 20   | 1808     
 Ryan Adams               | 21   | 1776     
-Guided by Voices         | 24   | 1618     
+Guided by Voices         | 24   | 1622     
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1354     
 Touché Amoré             | 40   | 952      
@@ -89,10 +89,10 @@ The Hold Steady          | 52   | 715
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 61   | 643      
 Neil Young               | 63   | 637      
-Afghan Whigs             | 67   | 563      
+Afghan Whigs             | 67   | 564      
 The War on Drugs         | 77   | 472      
 Yes                      | 80   | 462      
-Dinosaur Jr.             | 82   | 455      
+Dinosaur Jr.             | 82   | 457      
 Rage Against the Machine | 83   | 455      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 423      
@@ -106,18 +106,18 @@ The Hotelier             | 98   | 352
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3012     
-Hüsker Dü            | 8    | 2787     
-The Horrible Crowes  | 32   | 1170     
-Sugar                | 33   | 1169     
+The Replacements     | 5    | 3018     
+Hüsker Dü            | 8    | 2789     
+Sugar                | 32   | 1173     
+The Horrible Crowes  | 33   | 1170     
 Genesis              | 36   | 1066     
-Fugazi               | 42   | 898      
+Fugazi               | 42   | 900      
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 669      
 Foo Fighters         | 65   | 595      
 Big Star             | 69   | 557      
 Temple of the Dog    | 72   | 547      
-Paul Westerberg      | 74   | 524      
+Paul Westerberg      | 74   | 528      
 The Beatles          | 75   | 500      
 Pink Floyd           | 79   | 462      
 Black Sabbath        | 81   | 461      
