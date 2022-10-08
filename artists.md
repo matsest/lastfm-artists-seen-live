@@ -49,15 +49,15 @@ The Tallest Man on Earth       | 46   | 785
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
 Thulsa Doom                    | 53   | 705      
-Tool                           | 54   | 698      
+Tool                           | 54   | 705      
 Jason Isbell                   | 58   | 647      
 Ghost                          | 59   | 645      
 The Posies                     | 60   | 644      
 Japandroids                    | 62   | 639      
 Devin Townsend Project         | 64   | 603      
-Blood Command                  | 66   | 570      
-Pappasaft                      | 67   | 565      
-Spielbergs                     | 70   | 556      
+Pappasaft                      | 66   | 577      
+Blood Command                  | 67   | 571      
+Spielbergs                     | 70   | 557      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 493      
@@ -107,7 +107,7 @@ The Hotelier             | 98   | 352
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3019     
-Hüsker Dü            | 8    | 2789     
+Hüsker Dü            | 8    | 2790     
 Sugar                | 32   | 1173     
 The Horrible Crowes  | 33   | 1170     
 Genesis              | 36   | 1066     
