@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6004
 Rush                           | 3    | 4459     
 The Gaslight Anthem            | 4    | 4261     
 Against Me!                    | 6    | 2971     
-DumDum Boys                    | 7    | 2888     
+DumDum Boys                    | 7    | 2889     
 Motorpsycho                    | 9    | 2631     
 Bruce Springsteen              | 10   | 2542     
 Frank Turner                   | 11   | 2392     
@@ -50,9 +50,9 @@ Sweden                         | 48   | 772
 Devin Townsend                 | 50   | 723      
 Thulsa Doom                    | 53   | 705      
 Tool                           | 54   | 705      
-Jason Isbell                   | 58   | 647      
-Ghost                          | 59   | 645      
-The Posies                     | 60   | 644      
+Jason Isbell                   | 59   | 647      
+Ghost                          | 60   | 645      
+The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
 Devin Townsend Project         | 64   | 603      
 Pappasaft                      | 66   | 577      
@@ -87,7 +87,7 @@ Bob Dylan                | 49   | 754
 The Black Crowes         | 51   | 721      
 The Hold Steady          | 52   | 715      
 Eddie Vedder             | 56   | 685      
-Hot Water Music          | 61   | 643      
+Hot Water Music          | 58   | 647      
 Neil Young               | 63   | 637      
 Afghan Whigs             | 68   | 564      
 The War on Drugs         | 77   | 472      
