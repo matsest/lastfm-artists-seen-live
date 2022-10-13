@@ -48,7 +48,7 @@ Thin Lizzy                     | 45   | 791
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 772      
 Devin Townsend                 | 50   | 723      
-Tool                           | 53   | 708      
+Tool                           | 53   | 709      
 Thulsa Doom                    | 54   | 705      
 Ghost                          | 59   | 647      
 Jason Isbell                   | 60   | 647      
@@ -91,7 +91,7 @@ Hot Water Music          | 58   | 651
 Neil Young               | 63   | 637      
 Afghan Whigs             | 68   | 564      
 The War on Drugs         | 78   | 472      
-Yes                      | 81   | 462      
+Yes                      | 80   | 463      
 Dinosaur Jr.             | 82   | 458      
 Rage Against the Machine | 83   | 455      
 Thåström                 | 84   | 435      
@@ -120,7 +120,7 @@ Temple of the Dog    | 72   | 547
 Paul Westerberg      | 74   | 529      
 The Beatles          | 75   | 500      
 Black Sabbath        | 79   | 463      
-Pink Floyd           | 80   | 462      
+Pink Floyd           | 81   | 462      
 The Twilight Singers | 86   | 420      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 91   | 389      
