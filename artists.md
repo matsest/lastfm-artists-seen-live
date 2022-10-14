@@ -54,8 +54,8 @@ Ghost                          | 59   | 647
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
-Devin Townsend Project         | 64   | 603      
-Pappasaft                      | 66   | 577      
+Pappasaft                      | 64   | 623      
+Devin Townsend Project         | 65   | 603      
 Blood Command                  | 67   | 571      
 Spielbergs                     | 70   | 557      
 Kylesa                         | 71   | 553      
@@ -83,7 +83,7 @@ The Menzingers           | 25   | 1457
 Weezer                   | 27   | 1364     
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
-Bob Dylan                | 49   | 754      
+Bob Dylan                | 49   | 755      
 The Black Crowes         | 51   | 722      
 The Hold Steady          | 52   | 715      
 Eddie Vedder             | 56   | 685      
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 42   | 901      
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 673      
-Foo Fighters         | 65   | 596      
+Foo Fighters         | 66   | 596      
 Big Star             | 69   | 557      
 Temple of the Dog    | 72   | 547      
 Paul Westerberg      | 74   | 529      
