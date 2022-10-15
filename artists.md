@@ -63,7 +63,7 @@ Dropkick Murphys               | 73   | 540
 The Good The Bad and The Zugly | 76   | 493      
 Clutch                         | 77   | 472      
 Opeth                          | 88   | 409      
-Gojira                         | 92   | 386      
+Gojira                         | 92   | 387      
 Jason Isbell and The 400 Unit  | 93   | 377      
 Kaizers Orchestra              | 95   | 368      
 deLillos                       | 97   | 353      
@@ -78,7 +78,7 @@ The Who                  | 15   | 2213
 Bob Mould                | 16   | 2197     
 Propagandhi              | 20   | 1808     
 Ryan Adams               | 21   | 1776     
-Guided by Voices         | 24   | 1624     
+Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
 Weezer                   | 27   | 1364     
 Touché Amoré             | 40   | 952      
