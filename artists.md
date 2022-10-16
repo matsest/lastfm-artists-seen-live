@@ -50,7 +50,7 @@ Sweden                         | 48   | 772
 Devin Townsend                 | 50   | 723      
 Tool                           | 53   | 709      
 Thulsa Doom                    | 54   | 705      
-Ghost                          | 59   | 647      
+Ghost                          | 58   | 652      
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
@@ -87,7 +87,7 @@ Bob Dylan                | 49   | 755
 The Black Crowes         | 51   | 722      
 The Hold Steady          | 52   | 715      
 Eddie Vedder             | 56   | 685      
-Hot Water Music          | 58   | 651      
+Hot Water Music          | 59   | 651      
 Neil Young               | 63   | 637      
 Afghan Whigs             | 68   | 564      
 The War on Drugs         | 78   | 472      
@@ -113,7 +113,7 @@ The Horrible Crowes  | 33   | 1170
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 901      
 Audioslave           | 55   | 690      
-Jokke & Valentinerne | 57   | 673      
+Jokke & Valentinerne | 57   | 676      
 Foo Fighters         | 66   | 596      
 Big Star             | 69   | 557      
 Temple of the Dog    | 72   | 547      
