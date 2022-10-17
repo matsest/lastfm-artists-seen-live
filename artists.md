@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2046     
 johndoe                        | 19   | 1920     
-Mastodon                       | 22   | 1751     
+Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1734     
 Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 28   | 1360     
@@ -50,7 +50,7 @@ Sweden                         | 48   | 772
 Devin Townsend                 | 50   | 723      
 Tool                           | 53   | 709      
 Thulsa Doom                    | 54   | 705      
-Ghost                          | 58   | 652      
+Ghost                          | 58   | 654      
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
@@ -60,10 +60,10 @@ Blood Command                  | 67   | 571
 Spielbergs                     | 70   | 557      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
-The Good The Bad and The Zugly | 76   | 493      
+The Good The Bad and The Zugly | 76   | 494      
 Clutch                         | 77   | 472      
 Opeth                          | 88   | 409      
-Gojira                         | 92   | 387      
+Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 377      
 Kaizers Orchestra              | 95   | 368      
 deLillos                       | 97   | 353      
