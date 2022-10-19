@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6100     
 Pearl Jam                      | 2    | 6004     
-Rush                           | 3    | 4463     
+Rush                           | 3    | 4464     
 The Gaslight Anthem            | 4    | 4261     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2889     
@@ -28,7 +28,7 @@ Manic Street Preachers         | 13   | 2324
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2046     
-johndoe                        | 19   | 1920     
+johndoe                        | 19   | 1940     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1734     
 Mark Lanegan                   | 26   | 1414     
