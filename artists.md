@@ -41,12 +41,12 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 975      
-Anti-Lam Front                 | 41   | 901      
+Anti-Lam Front                 | 41   | 903      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 44   | 796      
 Thin Lizzy                     | 45   | 791      
 The Tallest Man on Earth       | 46   | 785      
-Sweden                         | 48   | 772      
+Sweden                         | 48   | 774      
 Devin Townsend                 | 50   | 723      
 Tool                           | 53   | 709      
 Thulsa Doom                    | 54   | 705      
@@ -54,10 +54,10 @@ Ghost                          | 58   | 654
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
-Pappasaft                      | 64   | 623      
+Pappasaft                      | 64   | 625      
 Devin Townsend Project         | 65   | 603      
 Blood Command                  | 67   | 571      
-Spielbergs                     | 70   | 557      
+Spielbergs                     | 69   | 560      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 494      
@@ -115,7 +115,7 @@ Fugazi               | 42   | 901
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 676      
 Foo Fighters         | 66   | 596      
-Big Star             | 69   | 557      
+Big Star             | 70   | 557      
 Temple of the Dog    | 72   | 547      
 Paul Westerberg      | 74   | 529      
 The Beatles          | 75   | 500      
