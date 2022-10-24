@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6100     
 Pearl Jam                      | 2    | 6004     
-Rush                           | 3    | 4464     
+Rush                           | 3    | 4465     
 The Gaslight Anthem            | 4    | 4261     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2889     
@@ -30,10 +30,10 @@ The National                   | 17   | 2055
 Raga Rockers                   | 18   | 2046     
 johndoe                        | 19   | 1940     
 Mastodon                       | 22   | 1752     
-AC/DC                          | 23   | 1734     
+AC/DC                          | 23   | 1735     
 Mark Lanegan                   | 26   | 1414     
-The Smashing Pumpkins          | 28   | 1360     
-Spidergawd                     | 29   | 1304     
+The Smashing Pumpkins          | 28   | 1361     
+Spidergawd                     | 29   | 1305     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1221     
 Chuck Ragan                    | 34   | 1137     
@@ -41,16 +41,16 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 983      
 Hellbillies                    | 39   | 975      
-Anti-Lam Front                 | 41   | 903      
+Anti-Lam Front                 | 41   | 908      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 44   | 796      
-Thin Lizzy                     | 45   | 791      
+Thin Lizzy                     | 45   | 792      
 The Tallest Man on Earth       | 46   | 785      
 Sweden                         | 48   | 774      
-Devin Townsend                 | 50   | 723      
-Tool                           | 53   | 709      
+Devin Townsend                 | 51   | 723      
+Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 705      
-Ghost                          | 58   | 654      
+Ghost                          | 58   | 655      
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
@@ -61,7 +61,7 @@ Spielbergs                     | 69   | 560
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 494      
-Clutch                         | 77   | 472      
+Clutch                         | 77   | 474      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 377      
@@ -80,12 +80,12 @@ Propagandhi              | 20   | 1808
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
-Weezer                   | 27   | 1364     
+Weezer                   | 27   | 1365     
 Touché Amoré             | 40   | 952      
 Melvins                  | 47   | 780      
 Bob Dylan                | 49   | 755      
-The Black Crowes         | 51   | 722      
-The Hold Steady          | 52   | 715      
+The Hold Steady          | 50   | 724      
+The Black Crowes         | 52   | 722      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 59   | 651      
 Neil Young               | 63   | 637      
@@ -93,9 +93,9 @@ Afghan Whigs             | 68   | 564
 The War on Drugs         | 78   | 472      
 Yes                      | 80   | 463      
 Dinosaur Jr.             | 82   | 458      
-Rage Against the Machine | 83   | 455      
+Rage Against the Machine | 83   | 456      
 Thåström                 | 84   | 435      
-Faith No More            | 85   | 424      
+Faith No More            | 85   | 425      
 Dawes                    | 89   | 396      
 Ulver                    | 90   | 396      
 System of a Down         | 94   | 376      
