@@ -44,9 +44,9 @@ Hellbillies                    | 39   | 975
 Anti-Lam Front                 | 41   | 908      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 44   | 796      
-Thin Lizzy                     | 45   | 792      
-The Tallest Man on Earth       | 46   | 785      
-Sweden                         | 48   | 774      
+Thin Lizzy                     | 46   | 792      
+The Tallest Man on Earth       | 47   | 785      
+Sweden                         | 49   | 774      
 Devin Townsend                 | 51   | 723      
 Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 705      
@@ -54,7 +54,7 @@ Ghost                          | 58   | 655
 Jason Isbell                   | 60   | 647      
 The Posies                     | 61   | 644      
 Japandroids                    | 62   | 640      
-Pappasaft                      | 64   | 625      
+Pappasaft                      | 64   | 633      
 Devin Townsend Project         | 65   | 603      
 Blood Command                  | 67   | 571      
 Spielbergs                     | 69   | 560      
@@ -82,9 +82,9 @@ Guided by Voices         | 24   | 1633
 The Menzingers           | 25   | 1457     
 Weezer                   | 27   | 1365     
 Touché Amoré             | 40   | 952      
-Melvins                  | 47   | 780      
-Bob Dylan                | 49   | 755      
-The Hold Steady          | 50   | 724      
+The Hold Steady          | 45   | 793      
+Melvins                  | 48   | 780      
+Bob Dylan                | 50   | 755      
 The Black Crowes         | 52   | 722      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 59   | 651      
