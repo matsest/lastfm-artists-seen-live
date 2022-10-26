@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6100     
 Pearl Jam                      | 2    | 6004     
-Rush                           | 3    | 4465     
+Rush                           | 3    | 4466     
 The Gaslight Anthem            | 4    | 4261     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2889     
@@ -44,17 +44,17 @@ Hellbillies                    | 39   | 975
 Anti-Lam Front                 | 41   | 908      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 44   | 796      
-Thin Lizzy                     | 46   | 792      
+Thin Lizzy                     | 46   | 793      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 774      
-Devin Townsend                 | 51   | 723      
+Devin Townsend                 | 50   | 758      
 Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 705      
-Ghost                          | 58   | 655      
-Jason Isbell                   | 60   | 647      
-The Posies                     | 61   | 644      
-Japandroids                    | 62   | 640      
-Pappasaft                      | 64   | 633      
+Pappasaft                      | 58   | 657      
+Ghost                          | 59   | 655      
+Jason Isbell                   | 61   | 647      
+The Posies                     | 62   | 644      
+Japandroids                    | 63   | 640      
 Devin Townsend Project         | 65   | 603      
 Blood Command                  | 67   | 571      
 Spielbergs                     | 69   | 560      
@@ -80,15 +80,15 @@ Propagandhi              | 20   | 1808
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
-Weezer                   | 27   | 1365     
+Weezer                   | 27   | 1366     
 Touché Amoré             | 40   | 952      
-The Hold Steady          | 45   | 793      
+The Hold Steady          | 45   | 795      
 Melvins                  | 48   | 780      
-Bob Dylan                | 50   | 755      
+Bob Dylan                | 51   | 755      
 The Black Crowes         | 52   | 722      
 Eddie Vedder             | 56   | 685      
-Hot Water Music          | 59   | 651      
-Neil Young               | 63   | 637      
+Hot Water Music          | 60   | 651      
+Neil Young               | 64   | 637      
 Afghan Whigs             | 68   | 564      
 The War on Drugs         | 78   | 472      
 Yes                      | 80   | 463      
