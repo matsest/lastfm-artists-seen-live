@@ -47,7 +47,7 @@ Brian Fallon                   | 44   | 796
 Thin Lizzy                     | 46   | 793      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 774      
-Devin Townsend                 | 50   | 758      
+Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 705      
 Pappasaft                      | 58   | 657      
@@ -61,7 +61,7 @@ Spielbergs                     | 69   | 560
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
 The Good The Bad and The Zugly | 76   | 494      
-Clutch                         | 77   | 474      
+Clutch                         | 77   | 475      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 377      
