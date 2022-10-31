@@ -7,11 +7,11 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
-- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
+- Number of top artists seen live: 52 (Active: 44 Inactive: 8)
 
-- Number of top artists not seen live: 47 (Active: 28 Inactive: 19)
+- Number of top artists not seen live: 48 (Active: 29 Inactive: 19)
 
-## Top 100 artists seen live (53)
+## Top 100 artists seen live (52)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -67,9 +67,8 @@ Gojira                         | 92   | 388
 Jason Isbell and The 400 Unit  | 93   | 377      
 Kaizers Orchestra              | 95   | 368      
 deLillos                       | 97   | 353      
-Swans                          | 100  | 339      
 
-## Active top 100 artists not seen live (28)
+## Active top 100 artists not seen live (29)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -82,7 +81,7 @@ Guided by Voices         | 24   | 1633
 The Menzingers           | 25   | 1457     
 Weezer                   | 27   | 1366     
 Touché Amoré             | 40   | 952      
-The Hold Steady          | 44   | 799      
+The Hold Steady          | 44   | 801      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 755      
 The Black Crowes         | 52   | 723      
@@ -101,6 +100,7 @@ Ulver                    | 90   | 396
 System of a Down         | 94   | 376      
 Dave Hause               | 96   | 355      
 The Hotelier             | 98   | 352      
+The Avett Brothers       | 100  | 340      
 
 ## Inactive top 100 artists not seen live (19)
 
