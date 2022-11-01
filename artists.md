@@ -27,26 +27,26 @@ Frank Turner                   | 11   | 2392
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
-Raga Rockers                   | 18   | 2047     
+Raga Rockers                   | 18   | 2048     
 johndoe                        | 19   | 1940     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1735     
 Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 28   | 1361     
-Spidergawd                     | 29   | 1312     
+Spidergawd                     | 29   | 1314     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1221     
 Chuck Ragan                    | 34   | 1137     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
-Stein Torleif Bjella           | 38   | 983      
+Stein Torleif Bjella           | 38   | 984      
 Hellbillies                    | 39   | 975      
 Anti-Lam Front                 | 41   | 908      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 45   | 796      
 Thin Lizzy                     | 46   | 793      
 The Tallest Man on Earth       | 47   | 785      
-Sweden                         | 49   | 774      
+Sweden                         | 49   | 775      
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 707      
@@ -56,7 +56,7 @@ Jason Isbell                   | 61   | 647
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 640      
 Devin Townsend Project         | 65   | 603      
-Blood Command                  | 67   | 571      
+Blood Command                  | 67   | 572      
 Spielbergs                     | 69   | 560      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 540      
@@ -84,7 +84,7 @@ Touché Amoré             | 40   | 952
 The Hold Steady          | 44   | 801      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 755      
-The Black Crowes         | 52   | 723      
+The Black Crowes         | 52   | 741      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 637      
