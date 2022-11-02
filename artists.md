@@ -27,20 +27,20 @@ Frank Turner                   | 11   | 2392
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
-Raga Rockers                   | 18   | 2048     
+Raga Rockers                   | 18   | 2049     
 johndoe                        | 19   | 1940     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1735     
 Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 28   | 1361     
-Spidergawd                     | 29   | 1314     
+Spidergawd                     | 29   | 1315     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1221     
 Chuck Ragan                    | 34   | 1137     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 984      
-Hellbillies                    | 39   | 975      
+Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 41   | 908      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 45   | 796      
@@ -50,7 +50,7 @@ Sweden                         | 49   | 775
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 711      
 Thulsa Doom                    | 54   | 707      
-Pappasaft                      | 58   | 657      
+Pappasaft                      | 58   | 662      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
@@ -74,8 +74,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2371     
 The Who                  | 15   | 2213     
-Bob Mould                | 16   | 2197     
-Propagandhi              | 20   | 1808     
+Bob Mould                | 16   | 2198     
+Propagandhi              | 20   | 1816     
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
