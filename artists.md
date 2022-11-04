@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2889     
 Motorpsycho                    | 9    | 2631     
 Bruce Springsteen              | 10   | 2548     
-Frank Turner                   | 11   | 2392     
+Frank Turner                   | 11   | 2393     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
@@ -59,7 +59,7 @@ Devin Townsend Project         | 65   | 603
 Blood Command                  | 67   | 572      
 Spielbergs                     | 69   | 560      
 Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 540      
+Dropkick Murphys               | 73   | 545      
 The Good The Bad and The Zugly | 76   | 494      
 Clutch                         | 77   | 475      
 Opeth                          | 88   | 409      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 12   | 2371     
 The Who                  | 15   | 2213     
 Bob Mould                | 16   | 2198     
-Propagandhi              | 20   | 1816     
+Propagandhi              | 20   | 1817     
 Ryan Adams               | 21   | 1776     
 Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
