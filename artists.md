@@ -76,12 +76,12 @@ Alice in Chains          | 12   | 2373
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2198     
 Propagandhi              | 20   | 1817     
-Ryan Adams               | 21   | 1782     
+Ryan Adams               | 21   | 1790     
 Guided by Voices         | 24   | 1633     
 The Menzingers           | 25   | 1457     
 Weezer                   | 27   | 1366     
 Touché Amoré             | 40   | 953      
-The Hold Steady          | 44   | 801      
+The Hold Steady          | 44   | 811      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 755      
 The Black Crowes         | 52   | 742      
@@ -100,7 +100,7 @@ Ulver                    | 90   | 396
 System of a Down         | 94   | 376      
 Dave Hause               | 96   | 355      
 The Hotelier             | 98   | 352      
-The Avett Brothers       | 100  | 340      
+The Avett Brothers       | 100  | 342      
 
 ## Inactive top 100 artists not seen live (19)
 
