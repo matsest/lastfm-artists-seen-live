@@ -18,7 +18,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6101     
 Pearl Jam                      | 2    | 6005     
 Rush                           | 3    | 4467     
-The Gaslight Anthem            | 4    | 4278     
+The Gaslight Anthem            | 4    | 4279     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2890     
 Motorpsycho                    | 9    | 2631     
@@ -54,9 +54,9 @@ Pappasaft                      | 58   | 662
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
-Japandroids                    | 63   | 640      
+Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 603      
-Blood Command                  | 67   | 572      
+Blood Command                  | 67   | 574      
 Spielbergs                     | 69   | 560      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 545      
@@ -77,11 +77,11 @@ The Who                  | 15   | 2216
 Bob Mould                | 16   | 2198     
 Propagandhi              | 20   | 1817     
 Ryan Adams               | 21   | 1790     
-Guided by Voices         | 24   | 1633     
+Guided by Voices         | 24   | 1634     
 The Menzingers           | 25   | 1457     
 Weezer                   | 27   | 1366     
 Touché Amoré             | 40   | 953      
-The Hold Steady          | 44   | 811      
+The Hold Steady          | 44   | 816      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 755      
 The Black Crowes         | 52   | 742      
@@ -92,7 +92,7 @@ Afghan Whigs             | 68   | 564
 The War on Drugs         | 78   | 472      
 Yes                      | 81   | 464      
 Dinosaur Jr.             | 82   | 459      
-Rage Against the Machine | 83   | 456      
+Rage Against the Machine | 83   | 458      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 428      
 Dawes                    | 89   | 396      
@@ -106,10 +106,10 @@ The Avett Brothers       | 100  | 342
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3019     
+The Replacements     | 5    | 3021     
 Hüsker Dü            | 8    | 2790     
 Sugar                | 32   | 1174     
-The Horrible Crowes  | 33   | 1170     
+The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 901      
 Audioslave           | 55   | 690      
