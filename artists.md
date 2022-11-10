@@ -27,15 +27,15 @@ Frank Turner                   | 11   | 2393
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
-Raga Rockers                   | 18   | 2049     
-johndoe                        | 19   | 1940     
+Raga Rockers                   | 18   | 2050     
+johndoe                        | 19   | 1942     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1736     
 Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 28   | 1361     
 Spidergawd                     | 29   | 1317     
 Baroness                       | 30   | 1272     
-Kvelertak                      | 31   | 1221     
+Kvelertak                      | 31   | 1222     
 Chuck Ragan                    | 34   | 1137     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
@@ -48,16 +48,16 @@ Thin Lizzy                     | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 775      
 Devin Townsend                 | 50   | 759      
-Tool                           | 53   | 711      
+Tool                           | 53   | 712      
 Thulsa Doom                    | 54   | 708      
-Pappasaft                      | 58   | 663      
+Pappasaft                      | 58   | 664      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
-Devin Townsend Project         | 65   | 603      
+Devin Townsend Project         | 65   | 604      
 Blood Command                  | 67   | 574      
-Spielbergs                     | 69   | 560      
+Spielbergs                     | 69   | 561      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 545      
 The Good The Bad and The Zugly | 76   | 494      
@@ -75,11 +75,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 12   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2199     
-Propagandhi              | 20   | 1821     
+Propagandhi              | 20   | 1823     
 Ryan Adams               | 21   | 1790     
 Guided by Voices         | 24   | 1636     
 The Menzingers           | 25   | 1457     
-Weezer                   | 27   | 1366     
+Weezer                   | 27   | 1367     
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 44   | 816      
 Melvins                  | 48   | 780      
@@ -106,12 +106,12 @@ The Avett Brothers       | 100  | 342
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3021     
+The Replacements     | 5    | 3022     
 Hüsker Dü            | 8    | 2790     
 Sugar                | 32   | 1174     
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
-Fugazi               | 42   | 901      
+Fugazi               | 42   | 902      
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 57   | 676      
 Foo Fighters         | 66   | 596      
