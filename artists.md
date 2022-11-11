@@ -28,7 +28,7 @@ Manic Street Preachers         | 13   | 2324
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2055     
 Raga Rockers                   | 18   | 2050     
-johndoe                        | 19   | 1942     
+johndoe                        | 19   | 1943     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1736     
 Mark Lanegan                   | 26   | 1414     
@@ -49,8 +49,8 @@ The Tallest Man on Earth       | 47   | 785
 Sweden                         | 49   | 775      
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 712      
-Thulsa Doom                    | 54   | 708      
-Pappasaft                      | 58   | 664      
+Thulsa Doom                    | 54   | 711      
+Pappasaft                      | 58   | 665      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
@@ -60,7 +60,7 @@ Blood Command                  | 67   | 574
 Spielbergs                     | 69   | 561      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 545      
-The Good The Bad and The Zugly | 76   | 494      
+The Good The Bad and The Zugly | 76   | 495      
 Clutch                         | 77   | 477      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
