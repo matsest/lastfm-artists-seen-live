@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6101     
+Soundgarden                    | 1    | 6104     
 Pearl Jam                      | 2    | 6005     
 Rush                           | 3    | 4468     
 The Gaslight Anthem            | 4    | 4279     
@@ -48,7 +48,7 @@ Thin Lizzy                     | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 775      
 Devin Townsend                 | 50   | 759      
-Tool                           | 53   | 712      
+Tool                           | 53   | 713      
 Thulsa Doom                    | 54   | 711      
 Pappasaft                      | 58   | 665      
 Ghost                          | 59   | 655      
