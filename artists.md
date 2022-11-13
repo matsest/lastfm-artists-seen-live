@@ -15,8 +15,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6104     
-Pearl Jam                      | 2    | 6005     
+Soundgarden                    | 1    | 6105     
+Pearl Jam                      | 2    | 6006     
 Rush                           | 3    | 4468     
 The Gaslight Anthem            | 4    | 4279     
 Against Me!                    | 6    | 2971     
@@ -33,7 +33,7 @@ Mastodon                       | 22   | 1752
 AC/DC                          | 23   | 1736     
 Mark Lanegan                   | 26   | 1414     
 The Smashing Pumpkins          | 28   | 1361     
-Spidergawd                     | 29   | 1317     
+Spidergawd                     | 29   | 1319     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
 Chuck Ragan                    | 34   | 1137     
@@ -56,7 +56,7 @@ Jason Isbell                   | 61   | 647
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
-Blood Command                  | 67   | 574      
+Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 561      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 545      
@@ -84,11 +84,11 @@ Touché Amoré             | 40   | 953
 The Hold Steady          | 44   | 816      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 755      
-The Black Crowes         | 52   | 742      
+The Black Crowes         | 52   | 743      
 Eddie Vedder             | 56   | 685      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 638      
-Afghan Whigs             | 68   | 564      
+Afghan Whigs             | 67   | 577      
 The War on Drugs         | 78   | 472      
 Yes                      | 81   | 464      
 Dinosaur Jr.             | 82   | 459      
@@ -118,10 +118,10 @@ Foo Fighters         | 66   | 596
 Big Star             | 70   | 557      
 Temple of the Dog    | 72   | 549      
 Paul Westerberg      | 74   | 529      
-The Beatles          | 75   | 501      
+The Beatles          | 75   | 502      
 Pink Floyd           | 79   | 465      
 Black Sabbath        | 80   | 464      
-The Twilight Singers | 86   | 420      
+The Twilight Singers | 86   | 424      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 91   | 389      
 Blind Melon          | 99   | 345      
