@@ -107,8 +107,8 @@ The Avett Brothers       | 100  | 342
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3022     
-Hüsker Dü            | 8    | 2790     
-Sugar                | 32   | 1174     
+Hüsker Dü            | 8    | 2791     
+Sugar                | 32   | 1175     
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 902      
