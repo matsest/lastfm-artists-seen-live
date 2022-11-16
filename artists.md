@@ -21,18 +21,18 @@ Rush                           | 3    | 4468
 The Gaslight Anthem            | 4    | 4279     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2890     
-Motorpsycho                    | 9    | 2631     
+Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2549     
 Frank Turner                   | 11   | 2393     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2055     
-Raga Rockers                   | 18   | 2050     
+Raga Rockers                   | 17   | 2073     
+The National                   | 18   | 2055     
 johndoe                        | 19   | 1943     
 Mastodon                       | 22   | 1752     
-AC/DC                          | 23   | 1748     
+AC/DC                          | 23   | 1751     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 28   | 1361     
+The Smashing Pumpkins          | 27   | 1392     
 Spidergawd                     | 29   | 1319     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
@@ -48,7 +48,7 @@ Thin Lizzy                     | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 775      
 Devin Townsend                 | 50   | 759      
-Tool                           | 53   | 726      
+Tool                           | 53   | 728      
 Thulsa Doom                    | 54   | 711      
 Pappasaft                      | 58   | 665      
 Ghost                          | 59   | 655      
@@ -79,7 +79,7 @@ Propagandhi              | 20   | 1823
 Ryan Adams               | 21   | 1790     
 Guided by Voices         | 24   | 1636     
 The Menzingers           | 25   | 1457     
-Weezer                   | 27   | 1367     
+Weezer                   | 28   | 1367     
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 44   | 816      
 Melvins                  | 48   | 780      
