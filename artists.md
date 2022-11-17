@@ -18,7 +18,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6006     
 Rush                           | 3    | 4468     
-The Gaslight Anthem            | 4    | 4279     
+The Gaslight Anthem            | 4    | 4282     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2890     
 Motorpsycho                    | 9    | 2637     
@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2549
 Frank Turner                   | 11   | 2393     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
-Raga Rockers                   | 17   | 2073     
+Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1943     
 Mastodon                       | 22   | 1752     
@@ -41,12 +41,12 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 984      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 909      
+Anti-Lam Front                 | 41   | 910      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 45   | 796      
 Thin Lizzy                     | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
-Sweden                         | 49   | 775      
+Sweden                         | 49   | 776      
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 728      
 Thulsa Doom                    | 54   | 711      
@@ -59,12 +59,12 @@ Devin Townsend Project         | 65   | 604
 Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 561      
 Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 545      
+Dropkick Murphys               | 73   | 546      
 The Good The Bad and The Zugly | 76   | 495      
 Clutch                         | 77   | 477      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
-Jason Isbell and The 400 Unit  | 93   | 377      
+Jason Isbell and The 400 Unit  | 93   | 378      
 Kaizers Orchestra              | 95   | 368      
 deLillos                       | 97   | 353      
 
@@ -75,8 +75,8 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 12   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2199     
-Propagandhi              | 20   | 1823     
-Ryan Adams               | 21   | 1790     
+Propagandhi              | 20   | 1851     
+Ryan Adams               | 21   | 1791     
 Guided by Voices         | 24   | 1636     
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1367     
@@ -91,14 +91,14 @@ Neil Young               | 64   | 638
 Afghan Whigs             | 67   | 577      
 The War on Drugs         | 78   | 472      
 Yes                      | 81   | 464      
-Dinosaur Jr.             | 82   | 459      
+Dinosaur Jr.             | 82   | 460      
 Rage Against the Machine | 83   | 458      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 428      
-Dawes                    | 89   | 396      
+Dawes                    | 89   | 397      
 Ulver                    | 90   | 396      
 System of a Down         | 94   | 376      
-Dave Hause               | 96   | 355      
+Dave Hause               | 96   | 356      
 The Hotelier             | 98   | 352      
 The Avett Brothers       | 100  | 342      
 
