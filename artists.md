@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 324
+- Number of artists seen live in total: 325
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6006     
-Rush                           | 3    | 4473     
+Rush                           | 3    | 4476     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2891     
@@ -28,11 +28,11 @@ Manic Street Preachers         | 13   | 2324
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
-johndoe                        | 19   | 1943     
+johndoe                        | 19   | 1968     
 Mastodon                       | 22   | 1752     
 AC/DC                          | 23   | 1751     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 27   | 1394     
+The Smashing Pumpkins          | 27   | 1397     
 Spidergawd                     | 29   | 1319     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
@@ -41,16 +41,16 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 985      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 911      
+Anti-Lam Front                 | 41   | 918      
 Oslo Ess                       | 43   | 834      
 Brian Fallon                   | 45   | 796      
 Thin Lizzy                     | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
-Sweden                         | 49   | 776      
+Sweden                         | 49   | 777      
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 728      
 Thulsa Doom                    | 54   | 711      
-Pappasaft                      | 58   | 665      
+Pappasaft                      | 58   | 667      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
