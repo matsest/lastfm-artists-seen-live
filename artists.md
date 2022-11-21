@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4283
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
-Bruce Springsteen              | 10   | 2550     
+Bruce Springsteen              | 10   | 2554     
 Frank Turner                   | 11   | 2393     
 Manic Street Preachers         | 13   | 2324     
 Chris Cornell                  | 14   | 2233     
