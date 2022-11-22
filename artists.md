@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 985      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 918      
+Anti-Lam Front                 | 41   | 925      
 Oslo Ess                       | 43   | 834      
 Thin Lizzy                     | 45   | 798      
 Brian Fallon                   | 46   | 796      
@@ -50,7 +50,7 @@ Sweden                         | 49   | 777
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 728      
 Thulsa Doom                    | 54   | 711      
-Pappasaft                      | 58   | 667      
+Pappasaft                      | 58   | 674      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
