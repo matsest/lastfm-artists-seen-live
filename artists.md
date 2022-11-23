@@ -42,7 +42,7 @@ Justin Townes Earle            | 37   | 1018
 Stein Torleif Bjella           | 38   | 985      
 Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 41   | 925      
-Oslo Ess                       | 43   | 834      
+Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 798      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
@@ -81,7 +81,7 @@ Guided by Voices         | 24   | 1637
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1367     
 Touché Amoré             | 40   | 953      
-The Hold Steady          | 44   | 816      
+The Hold Steady          | 43   | 840      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 756      
 The Black Crowes         | 52   | 744      
