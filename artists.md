@@ -39,7 +39,7 @@ Kvelertak                      | 31   | 1222
 Chuck Ragan                    | 34   | 1137     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
-Stein Torleif Bjella           | 38   | 985      
+Stein Torleif Bjella           | 38   | 986      
 Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 41   | 925      
 Oslo Ess                       | 44   | 834      
@@ -60,7 +60,7 @@ Blood Command                  | 68   | 574
 Spielbergs                     | 69   | 561      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 546      
-The Good The Bad and The Zugly | 76   | 497      
+The Good The Bad and The Zugly | 76   | 498      
 Clutch                         | 77   | 479      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
@@ -74,7 +74,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 12   | 2373     
 The Who                  | 15   | 2216     
-Bob Mould                | 16   | 2200     
+Bob Mould                | 16   | 2201     
 Propagandhi              | 20   | 1876     
 Ryan Adams               | 21   | 1791     
 Guided by Voices         | 24   | 1637     
