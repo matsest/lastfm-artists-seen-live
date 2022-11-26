@@ -24,7 +24,7 @@ DumDum Boys                    | 7    | 2891
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
 Frank Turner                   | 11   | 2393     
-Manic Street Preachers         | 13   | 2324     
+Manic Street Preachers         | 13   | 2345     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
@@ -32,7 +32,7 @@ johndoe                        | 19   | 1968
 AC/DC                          | 22   | 1752     
 Mastodon                       | 23   | 1752     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 27   | 1413     
+The Smashing Pumpkins          | 27   | 1414     
 Spidergawd                     | 29   | 1319     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
