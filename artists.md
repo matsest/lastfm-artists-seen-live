@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 325
+- Number of artists seen live in total: 327
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -24,15 +24,15 @@ DumDum Boys                    | 7    | 2891
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
 Frank Turner                   | 11   | 2393     
-Manic Street Preachers         | 13   | 2345     
+Manic Street Preachers         | 13   | 2352     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1752     
+AC/DC                          | 22   | 1766     
 Mastodon                       | 23   | 1752     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 27   | 1414     
+The Smashing Pumpkins          | 27   | 1415     
 Spidergawd                     | 29   | 1319     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
@@ -49,7 +49,7 @@ The Tallest Man on Earth       | 47   | 785
 Sweden                         | 49   | 777      
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 728      
-Thulsa Doom                    | 54   | 711      
+Thulsa Doom                    | 54   | 722      
 Pappasaft                      | 58   | 674      
 Ghost                          | 59   | 655      
 Jason Isbell                   | 61   | 647      
