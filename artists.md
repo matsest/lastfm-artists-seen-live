@@ -24,7 +24,7 @@ DumDum Boys                    | 7    | 2891
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
 Frank Turner                   | 11   | 2393     
-Manic Street Preachers         | 13   | 2352     
+Manic Street Preachers         | 12   | 2374     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
@@ -72,7 +72,7 @@ deLillos                       | 97   | 353
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-Alice in Chains          | 12   | 2373     
+Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
 Propagandhi              | 20   | 1876     
@@ -92,7 +92,7 @@ Afghan Whigs             | 67   | 577
 The War on Drugs         | 78   | 472      
 Yes                      | 81   | 464      
 Dinosaur Jr.             | 82   | 461      
-Rage Against the Machine | 83   | 459      
+Rage Against the Machine | 83   | 460      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 428      
 Dawes                    | 89   | 397      
