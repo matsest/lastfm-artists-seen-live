@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
-Manic Street Preachers         | 11   | 2409     
+Manic Street Preachers         | 11   | 2445     
 Frank Turner                   | 12   | 2393     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
