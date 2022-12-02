@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
-Manic Street Preachers         | 11   | 2445     
+Manic Street Preachers         | 11   | 2511     
 Frank Turner                   | 12   | 2393     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
-Propagandhi              | 20   | 1876     
+Propagandhi              | 20   | 1877     
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
