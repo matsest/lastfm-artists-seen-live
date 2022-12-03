@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6008     
-Rush                           | 3    | 4476     
+Rush                           | 3    | 4477     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2891     
@@ -48,16 +48,16 @@ Brian Fallon                   | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
 Devin Townsend                 | 50   | 759      
-Tool                           | 53   | 728      
+Tool                           | 53   | 729      
 Thulsa Doom                    | 54   | 722      
-Pappasaft                      | 58   | 674      
-Ghost                          | 59   | 655      
+Pappasaft                      | 57   | 677      
+Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
-Spielbergs                     | 69   | 561      
+Spielbergs                     | 69   | 563      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 546      
 The Good The Bad and The Zugly | 76   | 498      
@@ -113,7 +113,7 @@ The Horrible Crowes  | 33   | 1172
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 902      
 Audioslave           | 55   | 690      
-Jokke & Valentinerne | 57   | 676      
+Jokke & Valentinerne | 58   | 676      
 Foo Fighters         | 66   | 596      
 Big Star             | 70   | 557      
 Temple of the Dog    | 72   | 549      
