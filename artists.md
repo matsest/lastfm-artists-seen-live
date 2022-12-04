@@ -17,13 +17,13 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6008     
-Rush                           | 3    | 4477     
+Rush                           | 3    | 4478     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
-Manic Street Preachers         | 11   | 2511     
+Manic Street Preachers         | 11   | 2515     
 Frank Turner                   | 12   | 2393     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
@@ -32,8 +32,8 @@ johndoe                        | 19   | 1968
 AC/DC                          | 22   | 1766     
 Mastodon                       | 23   | 1752     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 27   | 1415     
-Spidergawd                     | 29   | 1319     
+The Smashing Pumpkins          | 27   | 1416     
+Spidergawd                     | 29   | 1321     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
 Chuck Ragan                    | 34   | 1137     
@@ -41,27 +41,27 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 986      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 925      
+Anti-Lam Front                 | 41   | 926      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 798      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
 Devin Townsend                 | 50   | 759      
-Tool                           | 53   | 729      
-Thulsa Doom                    | 54   | 722      
-Pappasaft                      | 57   | 677      
+Tool                           | 53   | 731      
+Thulsa Doom                    | 54   | 723      
+Pappasaft                      | 57   | 678      
 Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
-Spielbergs                     | 69   | 563      
+Spielbergs                     | 69   | 565      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 546      
 The Good The Bad and The Zugly | 76   | 498      
-Clutch                         | 77   | 479      
+Clutch                         | 77   | 480      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 378      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
-Propagandhi              | 20   | 1877     
+Propagandhi              | 20   | 1884     
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
@@ -85,7 +85,7 @@ The Hold Steady          | 43   | 840
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 756      
 The Black Crowes         | 52   | 744      
-Eddie Vedder             | 56   | 685      
+Eddie Vedder             | 56   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
 Afghan Whigs             | 67   | 577      
@@ -94,7 +94,7 @@ Yes                      | 81   | 464
 Dinosaur Jr.             | 82   | 461      
 Rage Against the Machine | 83   | 460      
 Thåström                 | 84   | 435      
-Faith No More            | 85   | 428      
+Faith No More            | 85   | 429      
 Dawes                    | 89   | 397      
 Ulver                    | 90   | 396      
 System of a Down         | 94   | 376      
