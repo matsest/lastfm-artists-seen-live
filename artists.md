@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
-Manic Street Preachers         | 11   | 2515     
+Manic Street Preachers         | 11   | 2532     
 Frank Turner                   | 12   | 2393     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
@@ -59,9 +59,9 @@ Devin Townsend Project         | 65   | 604
 Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 565      
 Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 546      
+Dropkick Murphys               | 73   | 548      
 The Good The Bad and The Zugly | 76   | 498      
-Clutch                         | 77   | 480      
+Clutch                         | 77   | 492      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 378      
