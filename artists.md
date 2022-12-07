@@ -60,7 +60,7 @@ Blood Command                  | 68   | 574
 Spielbergs                     | 69   | 565      
 Kylesa                         | 71   | 553      
 Dropkick Murphys               | 73   | 548      
-Clutch                         | 75   | 509      
+Clutch                         | 74   | 543      
 The Good The Bad and The Zugly | 77   | 498      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
@@ -117,7 +117,7 @@ Jokke & Valentinerne | 58   | 676
 Foo Fighters         | 66   | 596      
 Big Star             | 70   | 557      
 Temple of the Dog    | 72   | 549      
-Paul Westerberg      | 74   | 529      
+Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 502      
 Pink Floyd           | 79   | 466      
 Black Sabbath        | 80   | 464      
