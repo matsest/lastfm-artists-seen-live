@@ -58,9 +58,9 @@ Japandroids                    | 63   | 642
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 565      
-Kylesa                         | 71   | 553      
-Dropkick Murphys               | 73   | 548      
-Clutch                         | 74   | 543      
+Clutch                         | 70   | 560      
+Kylesa                         | 72   | 553      
+Dropkick Murphys               | 74   | 548      
 The Good The Bad and The Zugly | 77   | 498      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
@@ -115,8 +115,8 @@ Fugazi               | 42   | 902
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 58   | 676      
 Foo Fighters         | 66   | 596      
-Big Star             | 70   | 557      
-Temple of the Dog    | 72   | 549      
+Big Star             | 71   | 557      
+Temple of the Dog    | 73   | 549      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 502      
 Pink Floyd           | 79   | 466      
