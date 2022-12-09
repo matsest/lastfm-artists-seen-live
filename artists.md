@@ -58,7 +58,7 @@ Japandroids                    | 63   | 642
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 565      
-Clutch                         | 70   | 560      
+Clutch                         | 70   | 561      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 74   | 548      
 The Good The Bad and The Zugly | 77   | 498      
