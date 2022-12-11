@@ -32,8 +32,8 @@ johndoe                        | 19   | 1968
 AC/DC                          | 22   | 1766     
 Mastodon                       | 23   | 1752     
 Mark Lanegan                   | 26   | 1418     
-The Smashing Pumpkins          | 27   | 1416     
-Spidergawd                     | 29   | 1322     
+The Smashing Pumpkins          | 27   | 1417     
+Spidergawd                     | 29   | 1323     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1222     
 Chuck Ragan                    | 34   | 1137     
@@ -57,7 +57,7 @@ The Posies                     | 62   | 644
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
-Spielbergs                     | 69   | 566      
+Spielbergs                     | 69   | 567      
 Clutch                         | 70   | 562      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 74   | 548      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
-Propagandhi              | 20   | 1885     
+Propagandhi              | 20   | 1886     
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
