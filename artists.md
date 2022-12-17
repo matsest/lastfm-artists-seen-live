@@ -58,7 +58,7 @@ Japandroids                    | 63   | 642
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
 Spielbergs                     | 69   | 568      
-Clutch                         | 70   | 563      
+Clutch                         | 70   | 566      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 74   | 548      
 The Good The Bad and The Zugly | 77   | 498      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
-Propagandhi              | 20   | 1886     
+Propagandhi              | 20   | 1887     
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
@@ -111,7 +111,7 @@ Hüsker Dü            | 8    | 2791
 Sugar                | 32   | 1176     
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
-Fugazi               | 42   | 902      
+Fugazi               | 42   | 906      
 Audioslave           | 55   | 690      
 Jokke & Valentinerne | 58   | 676      
 Foo Fighters         | 66   | 596      
