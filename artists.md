@@ -50,7 +50,7 @@ Sweden                         | 49   | 777
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 731      
 Thulsa Doom                    | 54   | 723      
-Pappasaft                      | 57   | 681      
+Pappasaft                      | 58   | 681      
 Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
@@ -85,7 +85,7 @@ The Hold Steady          | 43   | 841
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 756      
 The Black Crowes         | 52   | 748      
-Eddie Vedder             | 56   | 686      
+Eddie Vedder             | 57   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
 Afghan Whigs             | 67   | 577      
@@ -95,8 +95,8 @@ Dinosaur Jr.             | 82   | 461
 Rage Against the Machine | 83   | 460      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 432      
-Dawes                    | 89   | 397      
-Ulver                    | 90   | 396      
+Dawes                    | 90   | 397      
+Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
 Dave Hause               | 96   | 356      
 The Hotelier             | 98   | 352      
@@ -112,8 +112,8 @@ Sugar                | 32   | 1176
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 906      
-Audioslave           | 55   | 690      
-Jokke & Valentinerne | 58   | 676      
+Jokke & Valentinerne | 55   | 716      
+Audioslave           | 56   | 690      
 Foo Fighters         | 66   | 596      
 Big Star             | 71   | 557      
 Temple of the Dog    | 73   | 549      
@@ -123,5 +123,5 @@ Pink Floyd           | 79   | 466
 Black Sabbath        | 81   | 464      
 The Twilight Singers | 86   | 424      
 Marillion            | 87   | 418      
-Jokke med Tourettes  | 91   | 389      
+Jokke med Tourettes  | 89   | 407      
 Blind Melon          | 99   | 345      
