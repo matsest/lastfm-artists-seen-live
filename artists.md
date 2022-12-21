@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2891     
 Motorpsycho                    | 9    | 2637     
 Bruce Springsteen              | 10   | 2554     
-Manic Street Preachers         | 11   | 2533     
+Manic Street Preachers         | 11   | 2534     
 Frank Turner                   | 12   | 2394     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
@@ -50,7 +50,7 @@ Sweden                         | 49   | 777
 Devin Townsend                 | 50   | 759      
 Tool                           | 53   | 731      
 Thulsa Doom                    | 54   | 723      
-Pappasaft                      | 58   | 681      
+Pappasaft                      | 58   | 682      
 Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2216     
 Bob Mould                | 16   | 2201     
-Propagandhi              | 20   | 1887     
+Propagandhi              | 20   | 1888     
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
