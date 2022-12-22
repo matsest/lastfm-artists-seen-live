@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
-Pearl Jam                      | 2    | 6008     
+Pearl Jam                      | 2    | 6010     
 Rush                           | 3    | 4480     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1767     
+AC/DC                          | 22   | 1769     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1419     
 Mark Lanegan                   | 27   | 1418     
@@ -57,10 +57,10 @@ The Posies                     | 62   | 644
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
-Spielbergs                     | 69   | 568      
-Clutch                         | 70   | 566      
+Clutch                         | 69   | 572      
+Spielbergs                     | 70   | 568      
 Kylesa                         | 72   | 553      
-Dropkick Murphys               | 74   | 548      
+Dropkick Murphys               | 73   | 549      
 The Good The Bad and The Zugly | 77   | 498      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
@@ -115,8 +115,8 @@ Fugazi               | 42   | 906
 Jokke & Valentinerne | 55   | 716      
 Audioslave           | 56   | 690      
 Foo Fighters         | 66   | 596      
-Big Star             | 71   | 557      
-Temple of the Dog    | 73   | 549      
+Big Star             | 71   | 558      
+Temple of the Dog    | 74   | 549      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 502      
 Pink Floyd           | 79   | 466      
