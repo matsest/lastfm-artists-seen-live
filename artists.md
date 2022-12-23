@@ -57,7 +57,7 @@ The Posies                     | 62   | 644
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
 Blood Command                  | 68   | 574      
-Clutch                         | 69   | 572      
+Clutch                         | 69   | 573      
 Spielbergs                     | 70   | 568      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 549      
@@ -79,7 +79,7 @@ Propagandhi              | 20   | 1888
 Ryan Adams               | 21   | 1807     
 Guided by Voices         | 24   | 1637     
 The Menzingers           | 25   | 1457     
-Weezer                   | 28   | 1378     
+Weezer                   | 28   | 1401     
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 43   | 841      
 Melvins                  | 48   | 780      
