@@ -5,24 +5,24 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 329
 
-- Number of fetched top artists: 100 (Active: 73 Inactive: 27)
+- Number of fetched top artists: 100 (Active: 72 Inactive: 28)
 
 - Number of top artists seen live: 52 (Active: 44 Inactive: 8)
 
-- Number of top artists not seen live: 48 (Active: 29 Inactive: 19)
+- Number of top artists not seen live: 48 (Active: 28 Inactive: 20)
 
 ## Top 100 artists seen live (52)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
-Pearl Jam                      | 2    | 6012     
+Pearl Jam                      | 2    | 6013     
 Rush                           | 3    | 4480     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
-DumDum Boys                    | 7    | 2891     
+DumDum Boys                    | 7    | 2892     
 Motorpsycho                    | 9    | 2637     
-Bruce Springsteen              | 10   | 2555     
+Bruce Springsteen              | 10   | 2557     
 Manic Street Preachers         | 11   | 2535     
 Frank Turner                   | 12   | 2395     
 Chris Cornell                  | 14   | 2233     
@@ -31,7 +31,7 @@ The National                   | 18   | 2055
 johndoe                        | 19   | 1968     
 AC/DC                          | 22   | 1769     
 Mastodon                       | 23   | 1752     
-The Smashing Pumpkins          | 26   | 1419     
+The Smashing Pumpkins          | 26   | 1420     
 Mark Lanegan                   | 27   | 1418     
 Spidergawd                     | 29   | 1323     
 Baroness                       | 30   | 1272     
@@ -60,15 +60,15 @@ Blood Command                  | 68   | 574
 Clutch                         | 69   | 573      
 Spielbergs                     | 70   | 568      
 Kylesa                         | 72   | 553      
-Dropkick Murphys               | 73   | 549      
+Dropkick Murphys               | 73   | 550      
 The Good The Bad and The Zugly | 77   | 498      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 378      
 Kaizers Orchestra              | 95   | 368      
-deLillos                       | 97   | 353      
+deLillos                       | 98   | 353      
 
-## Active top 100 artists not seen live (29)
+## Active top 100 artists not seen live (28)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -83,7 +83,7 @@ Weezer                   | 28   | 1403
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 43   | 841      
 Melvins                  | 48   | 780      
-Bob Dylan                | 51   | 756      
+Bob Dylan                | 51   | 758      
 The Black Crowes         | 52   | 748      
 Eddie Vedder             | 57   | 686      
 Hot Water Music          | 60   | 651      
@@ -98,11 +98,10 @@ Faith No More            | 85   | 432
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
-Dave Hause               | 96   | 356      
-The Hotelier             | 98   | 352      
-The Avett Brothers       | 100  | 342      
+Dave Hause               | 97   | 356      
+The Hotelier             | 99   | 352      
 
-## Inactive top 100 artists not seen live (19)
+## Inactive top 100 artists not seen live (20)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
@@ -115,7 +114,7 @@ Fugazi               | 42   | 906
 Jokke & Valentinerne | 55   | 716      
 Audioslave           | 56   | 690      
 Foo Fighters         | 66   | 596      
-Big Star             | 71   | 559      
+Big Star             | 71   | 560      
 Temple of the Dog    | 74   | 549      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 502      
@@ -124,4 +123,5 @@ Black Sabbath        | 81   | 464
 The Twilight Singers | 86   | 424      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 407      
-Blind Melon          | 99   | 345      
+The Band             | 96   | 361      
+Blind Melon          | 100  | 345      
