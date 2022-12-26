@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
-Pearl Jam                      | 2    | 6013     
+Pearl Jam                      | 2    | 6014     
 Rush                           | 3    | 4480     
 The Gaslight Anthem            | 4    | 4283     
 Against Me!                    | 6    | 2971     
@@ -73,11 +73,11 @@ deLillos                       | 98   | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2373     
-The Who                  | 15   | 2216     
+The Who                  | 15   | 2217     
 Bob Mould                | 16   | 2201     
 Propagandhi              | 20   | 1888     
 Ryan Adams               | 21   | 1807     
-Guided by Voices         | 24   | 1637     
+Guided by Voices         | 24   | 1639     
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1403     
 Touché Amoré             | 40   | 953      
@@ -91,7 +91,7 @@ Neil Young               | 64   | 639
 Afghan Whigs             | 67   | 577      
 The War on Drugs         | 78   | 472      
 Yes                      | 80   | 466      
-Dinosaur Jr.             | 82   | 461      
+Dinosaur Jr.             | 82   | 463      
 Rage Against the Machine | 83   | 460      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 432      
