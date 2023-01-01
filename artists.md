@@ -31,9 +31,9 @@ The National                   | 18   | 2055
 johndoe                        | 19   | 1968     
 AC/DC                          | 22   | 1770     
 Mastodon                       | 23   | 1752     
-The Smashing Pumpkins          | 26   | 1421     
+The Smashing Pumpkins          | 26   | 1422     
 Mark Lanegan                   | 27   | 1418     
-Spidergawd                     | 29   | 1323     
+Spidergawd                     | 29   | 1325     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1223     
 Chuck Ragan                    | 34   | 1137     
@@ -56,8 +56,8 @@ Jason Isbell                   | 61   | 647
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 65   | 604      
-Blood Command                  | 68   | 574      
-Clutch                         | 69   | 573      
+Clutch                         | 68   | 575      
+Blood Command                  | 69   | 574      
 Spielbergs                     | 70   | 568      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -84,7 +84,7 @@ Touché Amoré             | 40   | 953
 The Hold Steady          | 43   | 841      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 758      
-The Black Crowes         | 52   | 749      
+The Black Crowes         | 52   | 750      
 Eddie Vedder             | 57   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
