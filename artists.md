@@ -55,7 +55,7 @@ Ghost                          | 59   | 656
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
-Devin Townsend Project         | 65   | 604      
+Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 575      
 Blood Command                  | 69   | 574      
 Spielbergs                     | 70   | 568      
@@ -88,7 +88,7 @@ The Black Crowes         | 52   | 750
 Eddie Vedder             | 57   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 67   | 577      
+Afghan Whigs             | 65   | 604      
 The War on Drugs         | 78   | 472      
 Yes                      | 80   | 466      
 Dinosaur Jr.             | 82   | 463      
@@ -113,14 +113,14 @@ Genesis              | 36   | 1066
 Fugazi               | 42   | 906      
 Jokke & Valentinerne | 55   | 716      
 Audioslave           | 56   | 690      
-Foo Fighters         | 66   | 596      
+Foo Fighters         | 67   | 596      
 Big Star             | 71   | 560      
 Temple of the Dog    | 74   | 549      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 502      
 Pink Floyd           | 79   | 467      
 Black Sabbath        | 81   | 464      
-The Twilight Singers | 86   | 424      
+The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 407      
 The Band             | 96   | 361      
