@@ -33,7 +33,7 @@ AC/DC                          | 22   | 1770
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1422     
 Mark Lanegan                   | 27   | 1418     
-Spidergawd                     | 29   | 1325     
+Spidergawd                     | 29   | 1327     
 Baroness                       | 30   | 1272     
 Kvelertak                      | 31   | 1223     
 Chuck Ragan                    | 34   | 1137     
