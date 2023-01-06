@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1770     
+AC/DC                          | 22   | 1772     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1422     
 Mark Lanegan                   | 27   | 1418     
@@ -48,7 +48,7 @@ Brian Fallon                   | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
 Devin Townsend                 | 51   | 759      
-Tool                           | 53   | 732      
+Tool                           | 53   | 738      
 Thulsa Doom                    | 54   | 723      
 Pappasaft                      | 58   | 682      
 Ghost                          | 59   | 656      
@@ -81,7 +81,7 @@ Guided by Voices         | 24   | 1639
 The Menzingers           | 25   | 1457     
 Weezer                   | 28   | 1405     
 Touché Amoré             | 40   | 953      
-The Hold Steady          | 43   | 841      
+The Hold Steady          | 43   | 842      
 Melvins                  | 48   | 780      
 Bob Dylan                | 50   | 759      
 The Black Crowes         | 52   | 750      
