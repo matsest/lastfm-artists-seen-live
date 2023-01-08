@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6014     
-Rush                           | 3    | 4480     
+Rush                           | 3    | 4481     
 The Gaslight Anthem            | 4    | 4289     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2892     
@@ -43,7 +43,7 @@ Stein Torleif Bjella           | 38   | 987
 Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 41   | 926      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 815      
+Thin Lizzy                     | 45   | 818      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
