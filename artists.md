@@ -58,7 +58,7 @@ Japandroids                    | 63   | 642
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 577      
 Blood Command                  | 69   | 574      
-Spielbergs                     | 70   | 570      
+Spielbergs                     | 70   | 571      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
 The Good The Bad and The Zugly | 77   | 501      
@@ -74,7 +74,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2218     
-Bob Mould                | 16   | 2202     
+Bob Mould                | 16   | 2203     
 Propagandhi              | 20   | 1892     
 Ryan Adams               | 21   | 1837     
 Guided by Voices         | 24   | 1639     
@@ -91,7 +91,7 @@ Neil Young               | 64   | 639
 Afghan Whigs             | 65   | 606      
 The War on Drugs         | 78   | 472      
 Yes                      | 80   | 466      
-Dinosaur Jr.             | 82   | 463      
+Dinosaur Jr.             | 82   | 464      
 Rage Against the Machine | 83   | 460      
 Thåström                 | 84   | 435      
 Faith No More            | 85   | 433      
@@ -106,7 +106,7 @@ The Hotelier             | 99   | 352
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3025     
-Hüsker Dü            | 8    | 2791     
+Hüsker Dü            | 8    | 2823     
 Sugar                | 32   | 1176     
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
