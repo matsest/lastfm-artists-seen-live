@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 987      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 928      
+Anti-Lam Front                 | 41   | 931      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 818      
 Brian Fallon                   | 46   | 796      
@@ -49,15 +49,15 @@ The Tallest Man on Earth       | 47   | 785
 Sweden                         | 49   | 777      
 Devin Townsend                 | 51   | 759      
 Tool                           | 53   | 739      
-Thulsa Doom                    | 54   | 723      
-Pappasaft                      | 56   | 697      
+Pappasaft                      | 54   | 728      
+Thulsa Doom                    | 55   | 723      
 Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 577      
-Blood Command                  | 69   | 574      
+Blood Command                  | 69   | 575      
 Spielbergs                     | 70   | 571      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -78,7 +78,7 @@ Bob Mould                | 16   | 2203
 Propagandhi              | 20   | 1892     
 Ryan Adams               | 21   | 1837     
 Guided by Voices         | 24   | 1639     
-The Menzingers           | 25   | 1457     
+The Menzingers           | 25   | 1458     
 Weezer                   | 28   | 1407     
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 43   | 842      
@@ -111,7 +111,7 @@ Sugar                | 32   | 1176
 The Horrible Crowes  | 33   | 1172     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 908      
-Jokke & Valentinerne | 55   | 716      
+Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
 Big Star             | 71   | 560      
