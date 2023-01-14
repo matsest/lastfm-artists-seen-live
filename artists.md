@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6014     
-Rush                           | 3    | 4482     
+Rush                           | 3    | 4484     
 The Gaslight Anthem            | 4    | 4289     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2892     
@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1775     
+AC/DC                          | 22   | 1779     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1423     
 Mark Lanegan                   | 27   | 1418     
@@ -50,7 +50,7 @@ Sweden                         | 49   | 777
 Devin Townsend                 | 51   | 759      
 Pappasaft                      | 53   | 739      
 Tool                           | 54   | 739      
-Thulsa Doom                    | 55   | 723      
+Thulsa Doom                    | 55   | 724      
 Ghost                          | 59   | 656      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
