@@ -48,7 +48,7 @@ Brian Fallon                   | 46   | 796
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
 Devin Townsend                 | 51   | 759      
-Pappasaft                      | 53   | 739      
+Pappasaft                      | 52   | 757      
 Tool                           | 54   | 739      
 Thulsa Doom                    | 55   | 724      
 Ghost                          | 59   | 656      
@@ -76,15 +76,15 @@ Alice in Chains          | 13   | 2373
 The Who                  | 15   | 2218     
 Bob Mould                | 16   | 2210     
 Propagandhi              | 20   | 1892     
-Ryan Adams               | 21   | 1837     
+Ryan Adams               | 21   | 1840     
 Guided by Voices         | 24   | 1647     
 The Menzingers           | 25   | 1458     
 Weezer                   | 28   | 1407     
 Touché Amoré             | 40   | 953      
-The Hold Steady          | 43   | 842      
+The Hold Steady          | 43   | 843      
 Melvins                  | 48   | 780      
 Bob Dylan                | 50   | 759      
-The Black Crowes         | 52   | 750      
+The Black Crowes         | 53   | 750      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3029     
 Hüsker Dü            | 8    | 2834     
 Sugar                | 32   | 1183     
-The Horrible Crowes  | 33   | 1172     
+The Horrible Crowes  | 33   | 1173     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 916      
 Jokke & Valentinerne | 56   | 716      
@@ -123,5 +123,5 @@ Black Sabbath        | 82   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 407      
-The Band             | 96   | 361      
+The Band             | 96   | 363      
 Blind Melon          | 100  | 345      
