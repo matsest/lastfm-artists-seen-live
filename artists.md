@@ -57,7 +57,7 @@ The Posies                     | 62   | 644
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 577      
-Blood Command                  | 69   | 575      
+Blood Command                  | 69   | 576      
 Spielbergs                     | 70   | 571      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -66,7 +66,7 @@ Opeth                          | 88   | 409
 Gojira                         | 92   | 388      
 Jason Isbell and The 400 Unit  | 93   | 378      
 Kaizers Orchestra              | 95   | 368      
-deLillos                       | 98   | 353      
+deLillos                       | 99   | 353      
 
 ## Active top 100 artists not seen live (28)
 
@@ -74,10 +74,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2218     
-Bob Mould                | 16   | 2210     
+Bob Mould                | 16   | 2211     
 Propagandhi              | 20   | 1892     
 Ryan Adams               | 21   | 1840     
-Guided by Voices         | 24   | 1647     
+Guided by Voices         | 24   | 1648     
 The Menzingers           | 25   | 1458     
 Weezer                   | 28   | 1407     
 Touché Amoré             | 40   | 953      
@@ -88,7 +88,7 @@ The Black Crowes         | 53   | 750
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 65   | 617      
+Afghan Whigs             | 65   | 618      
 Dinosaur Jr.             | 78   | 473      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
@@ -99,15 +99,15 @@ Dawes                    | 90   | 397
 Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
 Dave Hause               | 97   | 356      
-The Hotelier             | 99   | 352      
+The Hotelier             | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3029     
+The Replacements     | 5    | 3030     
 Hüsker Dü            | 8    | 2834     
-Sugar                | 32   | 1183     
+Sugar                | 32   | 1184     
 The Horrible Crowes  | 33   | 1173     
 Genesis              | 36   | 1066     
 Fugazi               | 42   | 916      
