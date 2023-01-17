@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1103
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 987      
 Hellbillies                    | 39   | 983      
-Anti-Lam Front                 | 41   | 931      
+Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 818      
 Brian Fallon                   | 46   | 796      
@@ -78,7 +78,7 @@ Bob Mould                | 16   | 2211
 Propagandhi              | 20   | 1892     
 Ryan Adams               | 21   | 1840     
 Guided by Voices         | 24   | 1648     
-The Menzingers           | 25   | 1458     
+The Menzingers           | 25   | 1497     
 Weezer                   | 28   | 1407     
 Touché Amoré             | 40   | 953      
 The Hold Steady          | 43   | 843      
@@ -98,8 +98,8 @@ Faith No More            | 85   | 433
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
-Dave Hause               | 97   | 356      
-The Hotelier             | 98   | 356      
+The Hotelier             | 97   | 361      
+Dave Hause               | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
 
@@ -110,7 +110,7 @@ Hüsker Dü            | 8    | 2834
 Sugar                | 32   | 1184     
 The Horrible Crowes  | 33   | 1173     
 Genesis              | 36   | 1066     
-Fugazi               | 42   | 916      
+Fugazi               | 41   | 943      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
