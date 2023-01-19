@@ -23,13 +23,13 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2892     
 Motorpsycho                    | 9    | 2646     
 Bruce Springsteen              | 10   | 2569     
-Manic Street Preachers         | 11   | 2538     
+Manic Street Preachers         | 11   | 2540     
 Frank Turner                   | 12   | 2395     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2055     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1792     
+AC/DC                          | 22   | 1793     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1425     
 Mark Lanegan                   | 27   | 1418     
@@ -74,12 +74,12 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2218     
-Bob Mould                | 16   | 2211     
+Bob Mould                | 16   | 2212     
 Propagandhi              | 20   | 1892     
 Ryan Adams               | 21   | 1840     
-Guided by Voices         | 24   | 1649     
+Guided by Voices         | 24   | 1650     
 The Menzingers           | 25   | 1497     
-Weezer                   | 28   | 1408     
+Weezer                   | 28   | 1409     
 Touché Amoré             | 41   | 953      
 The Hold Steady          | 43   | 843      
 Melvins                  | 48   | 780      
@@ -88,8 +88,8 @@ The Black Crowes         | 53   | 750
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 65   | 618      
-Dinosaur Jr.             | 78   | 474      
+Afghan Whigs             | 65   | 620      
+Dinosaur Jr.             | 78   | 475      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
 Rage Against the Machine | 83   | 460      
@@ -106,11 +106,11 @@ Dave Hause               | 98   | 356
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3031     
-Hüsker Dü            | 8    | 2834     
-Sugar                | 32   | 1184     
+Hüsker Dü            | 8    | 2839     
+Sugar                | 32   | 1187     
 The Horrible Crowes  | 33   | 1174     
 Genesis              | 36   | 1066     
-Fugazi               | 40   | 964      
+Fugazi               | 40   | 966      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
