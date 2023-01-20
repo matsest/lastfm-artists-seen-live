@@ -18,16 +18,16 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6015     
 Rush                           | 3    | 4484     
-The Gaslight Anthem            | 4    | 4289     
+The Gaslight Anthem            | 4    | 4290     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2892     
 Motorpsycho                    | 9    | 2646     
 Bruce Springsteen              | 10   | 2569     
-Manic Street Preachers         | 11   | 2540     
+Manic Street Preachers         | 11   | 2541     
 Frank Turner                   | 12   | 2395     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
-The National                   | 18   | 2055     
+The National                   | 18   | 2068     
 johndoe                        | 19   | 1968     
 AC/DC                          | 22   | 1793     
 Mastodon                       | 23   | 1752     
@@ -75,20 +75,20 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2373     
 The Who                  | 15   | 2218     
 Bob Mould                | 16   | 2212     
-Propagandhi              | 20   | 1892     
+Propagandhi              | 20   | 1896     
 Ryan Adams               | 21   | 1840     
 Guided by Voices         | 24   | 1650     
 The Menzingers           | 25   | 1497     
 Weezer                   | 28   | 1409     
 Touché Amoré             | 41   | 953      
-The Hold Steady          | 43   | 843      
+The Hold Steady          | 43   | 844      
 Melvins                  | 48   | 780      
 Bob Dylan                | 50   | 759      
 The Black Crowes         | 53   | 750      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 65   | 620      
+Afghan Whigs             | 65   | 621      
 Dinosaur Jr.             | 78   | 475      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
@@ -107,7 +107,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3031     
 Hüsker Dü            | 8    | 2839     
-Sugar                | 32   | 1187     
+Sugar                | 32   | 1188     
 The Horrible Crowes  | 33   | 1174     
 Genesis              | 36   | 1066     
 Fugazi               | 40   | 966      
