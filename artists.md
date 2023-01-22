@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2068     
 johndoe                        | 19   | 1968     
-AC/DC                          | 22   | 1795     
+AC/DC                          | 22   | 1796     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1425     
 Mark Lanegan                   | 27   | 1418     
@@ -43,7 +43,7 @@ Stein Torleif Bjella           | 38   | 987
 Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 820      
+Thin Lizzy                     | 45   | 822      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
@@ -84,7 +84,7 @@ Touché Amoré             | 41   | 953
 The Hold Steady          | 43   | 844      
 Melvins                  | 48   | 780      
 Bob Dylan                | 50   | 759      
-The Black Crowes         | 53   | 750      
+The Black Crowes         | 53   | 751      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
