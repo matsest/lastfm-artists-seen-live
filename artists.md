@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 329
+- Number of artists seen live in total: 331
 
 - Number of fetched top artists: 100 (Active: 72 Inactive: 28)
 
@@ -27,11 +27,11 @@ Manic Street Preachers         | 11   | 2541
 Frank Turner                   | 12   | 2395     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
-The National                   | 18   | 2068     
+The National                   | 18   | 2069     
 johndoe                        | 19   | 1968     
 AC/DC                          | 22   | 1796     
 Mastodon                       | 23   | 1752     
-The Smashing Pumpkins          | 26   | 1425     
+The Smashing Pumpkins          | 26   | 1426     
 Mark Lanegan                   | 27   | 1418     
 Spidergawd                     | 29   | 1331     
 Baroness                       | 30   | 1272     
@@ -74,10 +74,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2221     
-Bob Mould                | 16   | 2212     
+Bob Mould                | 16   | 2213     
 Propagandhi              | 20   | 1896     
 Ryan Adams               | 21   | 1840     
-Guided by Voices         | 24   | 1652     
+Guided by Voices         | 24   | 1653     
 The Menzingers           | 25   | 1497     
 Weezer                   | 28   | 1409     
 Touché Amoré             | 41   | 953      
@@ -88,7 +88,7 @@ The Black Crowes         | 53   | 751
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 65   | 621      
+Afghan Whigs             | 65   | 622      
 Dinosaur Jr.             | 78   | 476      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
@@ -105,9 +105,9 @@ Dave Hause               | 98   | 356
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3033     
-Hüsker Dü            | 8    | 2839     
-Sugar                | 32   | 1189     
+The Replacements     | 5    | 3034     
+Hüsker Dü            | 8    | 2841     
+Sugar                | 32   | 1190     
 The Horrible Crowes  | 33   | 1174     
 Genesis              | 36   | 1066     
 Fugazi               | 40   | 966      
