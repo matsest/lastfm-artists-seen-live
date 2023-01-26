@@ -29,12 +29,12 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2071     
 johndoe                        | 19   | 1971     
-AC/DC                          | 22   | 1796     
+AC/DC                          | 22   | 1800     
 Mastodon                       | 23   | 1752     
-The Smashing Pumpkins          | 26   | 1427     
+The Smashing Pumpkins          | 26   | 1430     
 Mark Lanegan                   | 27   | 1418     
 Spidergawd                     | 29   | 1331     
-Baroness                       | 30   | 1272     
+Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1137     
 Biffy Clyro                    | 35   | 1103     
@@ -43,7 +43,7 @@ Stein Torleif Bjella           | 38   | 987
 Hellbillies                    | 39   | 983      
 Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 822      
+Thin Lizzy                     | 45   | 824      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
@@ -51,7 +51,7 @@ Pappasaft                      | 50   | 764
 Devin Townsend                 | 52   | 759      
 Tool                           | 54   | 739      
 Thulsa Doom                    | 55   | 726      
-Ghost                          | 59   | 657      
+Ghost                          | 59   | 658      
 Jason Isbell                   | 61   | 647      
 The Posies                     | 62   | 644      
 Japandroids                    | 63   | 642      
@@ -77,7 +77,7 @@ The Who                  | 15   | 2221
 Bob Mould                | 16   | 2214     
 Propagandhi              | 20   | 1908     
 Ryan Adams               | 21   | 1846     
-Guided by Voices         | 24   | 1664     
+Guided by Voices         | 24   | 1666     
 The Menzingers           | 25   | 1503     
 Weezer                   | 28   | 1409     
 Touché Amoré             | 41   | 953      
@@ -88,8 +88,8 @@ The Black Crowes         | 53   | 751
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 60   | 651      
 Neil Young               | 64   | 639      
-Afghan Whigs             | 65   | 627      
-Dinosaur Jr.             | 78   | 476      
+Afghan Whigs             | 65   | 637      
+Dinosaur Jr.             | 78   | 479      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
 Rage Against the Machine | 83   | 460      
@@ -106,8 +106,8 @@ Dave Hause               | 98   | 356
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3034     
-Hüsker Dü            | 8    | 2841     
-Sugar                | 32   | 1190     
+Hüsker Dü            | 8    | 2843     
+Sugar                | 32   | 1192     
 The Horrible Crowes  | 33   | 1175     
 Genesis              | 36   | 1066     
 Fugazi               | 40   | 966      
