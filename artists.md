@@ -52,8 +52,8 @@ Devin Townsend                 | 52   | 759
 Tool                           | 54   | 739      
 Thulsa Doom                    | 55   | 726      
 Ghost                          | 59   | 658      
-Jason Isbell                   | 61   | 647      
-The Posies                     | 62   | 644      
+The Posies                     | 60   | 654      
+Jason Isbell                   | 62   | 647      
 Japandroids                    | 63   | 642      
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 585      
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2221     
 Bob Mould                | 16   | 2214     
-Propagandhi              | 20   | 1908     
+Propagandhi              | 20   | 1909     
 Ryan Adams               | 21   | 1846     
 Guided by Voices         | 24   | 1666     
 The Menzingers           | 25   | 1503     
@@ -86,7 +86,7 @@ Melvins                  | 48   | 780
 Bob Dylan                | 51   | 759      
 The Black Crowes         | 53   | 751      
 Eddie Vedder             | 58   | 686      
-Hot Water Music          | 60   | 651      
+Hot Water Music          | 61   | 651      
 Neil Young               | 64   | 639      
 Afghan Whigs             | 65   | 637      
 Dinosaur Jr.             | 78   | 479      
