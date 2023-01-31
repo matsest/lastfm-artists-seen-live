@@ -33,10 +33,10 @@ AC/DC                          | 22   | 1800
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1430     
 Mark Lanegan                   | 27   | 1418     
-Spidergawd                     | 29   | 1331     
+Spidergawd                     | 29   | 1350     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
-Chuck Ragan                    | 34   | 1137     
+Chuck Ragan                    | 34   | 1143     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 987      
@@ -51,14 +51,14 @@ Pappasaft                      | 50   | 764
 Devin Townsend                 | 52   | 759      
 Tool                           | 54   | 739      
 Thulsa Doom                    | 55   | 726      
-Ghost                          | 59   | 658      
+Ghost                          | 59   | 659      
 The Posies                     | 60   | 654      
 Jason Isbell                   | 62   | 647      
-Japandroids                    | 63   | 642      
+Japandroids                    | 63   | 645      
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 585      
 Blood Command                  | 69   | 578      
-Spielbergs                     | 70   | 572      
+Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
 The Good The Bad and The Zugly | 77   | 503      
@@ -75,10 +75,10 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2221     
 Bob Mould                | 16   | 2214     
-Propagandhi              | 20   | 1909     
+Propagandhi              | 20   | 1918     
 Ryan Adams               | 21   | 1846     
 Guided by Voices         | 24   | 1666     
-The Menzingers           | 25   | 1503     
+The Menzingers           | 25   | 1504     
 Weezer                   | 28   | 1409     
 Touché Amoré             | 41   | 953      
 The Hold Steady          | 43   | 845      
@@ -98,7 +98,7 @@ Faith No More            | 85   | 434
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
-The Hotelier             | 97   | 365      
+The Hotelier             | 96   | 368      
 Dave Hause               | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
@@ -108,9 +108,9 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3034     
 Hüsker Dü            | 8    | 2843     
 Sugar                | 32   | 1192     
-The Horrible Crowes  | 33   | 1175     
+The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 40   | 966      
+Fugazi               | 40   | 979      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
@@ -123,5 +123,5 @@ Black Sabbath        | 82   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 96   | 365      
+The Band             | 97   | 365      
 Blind Melon          | 100  | 345      
