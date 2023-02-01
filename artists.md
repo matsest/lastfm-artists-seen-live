@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6016     
-Rush                           | 3    | 4484     
+Rush                           | 3    | 4485     
 The Gaslight Anthem            | 4    | 4290     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
@@ -29,14 +29,14 @@ Chris Cornell                  | 14   | 2233
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2071     
 johndoe                        | 19   | 1971     
-AC/DC                          | 22   | 1800     
+AC/DC                          | 22   | 1801     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1430     
 Mark Lanegan                   | 27   | 1418     
 Spidergawd                     | 29   | 1350     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
-Chuck Ragan                    | 34   | 1143     
+Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1103     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 987      
@@ -49,8 +49,8 @@ The Tallest Man on Earth       | 47   | 785
 Sweden                         | 49   | 777      
 Pappasaft                      | 50   | 764      
 Devin Townsend                 | 52   | 759      
-Tool                           | 54   | 739      
-Thulsa Doom                    | 55   | 726      
+Thulsa Doom                    | 54   | 740      
+Tool                           | 55   | 739      
 Ghost                          | 59   | 659      
 The Posies                     | 60   | 654      
 Jason Isbell                   | 62   | 647      
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 77   | 503
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 93   | 378      
-Kaizers Orchestra              | 95   | 368      
+Kaizers Orchestra              | 96   | 368      
 deLillos                       | 99   | 353      
 
 ## Active top 100 artists not seen live (28)
@@ -73,7 +73,7 @@ deLillos                       | 99   | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2221     
+The Who                  | 15   | 2222     
 Bob Mould                | 16   | 2214     
 Propagandhi              | 20   | 1918     
 Ryan Adams               | 21   | 1846     
@@ -84,21 +84,21 @@ Touché Amoré             | 41   | 953
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 759      
-The Black Crowes         | 53   | 751      
+The Black Crowes         | 53   | 753      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 61   | 651      
 Neil Young               | 64   | 639      
 Afghan Whigs             | 65   | 637      
-Dinosaur Jr.             | 78   | 479      
+Dinosaur Jr.             | 78   | 480      
 The War on Drugs         | 79   | 472      
 Yes                      | 81   | 466      
 Rage Against the Machine | 83   | 460      
-Thåström                 | 84   | 435      
-Faith No More            | 85   | 434      
+Faith No More            | 84   | 435      
+Thåström                 | 85   | 435      
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
 System of a Down         | 94   | 376      
-The Hotelier             | 96   | 368      
+The Hotelier             | 95   | 369      
 Dave Hause               | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
