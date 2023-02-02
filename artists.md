@@ -31,13 +31,13 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1801     
 Mastodon                       | 23   | 1752     
-The Smashing Pumpkins          | 26   | 1430     
+The Smashing Pumpkins          | 26   | 1431     
 Mark Lanegan                   | 27   | 1418     
-Spidergawd                     | 29   | 1350     
+Spidergawd                     | 29   | 1353     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
-Biffy Clyro                    | 35   | 1103     
+Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
 Stein Torleif Bjella           | 38   | 987      
 Hellbillies                    | 39   | 983      
@@ -78,9 +78,9 @@ Bob Mould                | 16   | 2214
 Propagandhi              | 20   | 1918     
 Ryan Adams               | 21   | 1846     
 Guided by Voices         | 24   | 1666     
-The Menzingers           | 25   | 1504     
+The Menzingers           | 25   | 1506     
 Weezer                   | 28   | 1409     
-Touché Amoré             | 41   | 953      
+Touché Amoré             | 41   | 954      
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 759      
@@ -97,8 +97,8 @@ Faith No More            | 84   | 435
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
-System of a Down         | 94   | 376      
-The Hotelier             | 95   | 369      
+The Hotelier             | 94   | 377      
+System of a Down         | 95   | 376      
 Dave Hause               | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
