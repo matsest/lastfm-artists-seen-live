@@ -32,8 +32,8 @@ johndoe                        | 19   | 1971
 AC/DC                          | 22   | 1801     
 Mastodon                       | 23   | 1752     
 The Smashing Pumpkins          | 26   | 1431     
-Mark Lanegan                   | 27   | 1418     
-Spidergawd                     | 29   | 1353     
+Mark Lanegan                   | 28   | 1418     
+Spidergawd                     | 29   | 1354     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
@@ -57,7 +57,7 @@ Jason Isbell                   | 62   | 647
 Japandroids                    | 63   | 645      
 Devin Townsend Project         | 66   | 604      
 Clutch                         | 68   | 585      
-Blood Command                  | 69   | 578      
+Blood Command                  | 69   | 579      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -79,7 +79,7 @@ Propagandhi              | 20   | 1918
 Ryan Adams               | 21   | 1846     
 Guided by Voices         | 24   | 1666     
 The Menzingers           | 25   | 1506     
-Weezer                   | 28   | 1409     
+Weezer                   | 27   | 1428     
 Touché Amoré             | 41   | 954      
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
