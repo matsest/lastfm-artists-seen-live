@@ -30,7 +30,7 @@ Raga Rockers                   | 17   | 2074
 The National                   | 18   | 2071     
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1802     
-Mastodon                       | 23   | 1752     
+Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1432     
 Mark Lanegan                   | 28   | 1418     
 Spidergawd                     | 29   | 1354     
@@ -77,8 +77,8 @@ The Who                  | 15   | 2222
 Bob Mould                | 16   | 2218     
 Propagandhi              | 20   | 1918     
 Ryan Adams               | 21   | 1846     
-Guided by Voices         | 24   | 1671     
-The Menzingers           | 25   | 1506     
+Guided by Voices         | 23   | 1759     
+The Menzingers           | 25   | 1520     
 Weezer                   | 27   | 1431     
 Touché Amoré             | 41   | 954      
 The Hold Steady          | 43   | 845      
