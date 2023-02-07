@@ -33,14 +33,14 @@ AC/DC                          | 22   | 1802
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1432     
 Mark Lanegan                   | 28   | 1418     
-Spidergawd                     | 29   | 1354     
+Spidergawd                     | 29   | 1370     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Stein Torleif Bjella           | 38   | 987      
-Hellbillies                    | 40   | 983      
+Hellbillies                    | 38   | 992      
+Stein Torleif Bjella           | 39   | 989      
 Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 824      
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 77   | 503
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 93   | 378      
-Kaizers Orchestra              | 96   | 368      
+Kaizers Orchestra              | 96   | 371      
 deLillos                       | 99   | 353      
 
 ## Active top 100 artists not seen live (28)
@@ -110,7 +110,7 @@ Hüsker Dü            | 8    | 2852
 Sugar                | 32   | 1199     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 39   | 983      
+Fugazi               | 40   | 983      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
