@@ -21,8 +21,8 @@ Rush                           | 3    | 4485
 The Gaslight Anthem            | 4    | 4290     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
-Motorpsycho                    | 9    | 2647     
-Bruce Springsteen              | 10   | 2575     
+Motorpsycho                    | 9    | 2648     
+Bruce Springsteen              | 10   | 2582     
 Manic Street Preachers         | 11   | 2543     
 Frank Turner                   | 12   | 2396     
 Chris Cornell                  | 14   | 2233     
@@ -33,7 +33,7 @@ AC/DC                          | 22   | 1802
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1435     
 Mark Lanegan                   | 28   | 1418     
-Spidergawd                     | 29   | 1371     
+Spidergawd                     | 29   | 1377     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 77   | 503
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 94   | 378      
-Kaizers Orchestra              | 96   | 371      
+Kaizers Orchestra              | 97   | 371      
 deLillos                       | 99   | 353      
 
 ## Active top 100 artists not seen live (28)
@@ -98,7 +98,7 @@ Thåström                 | 85   | 435
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
 The Hotelier             | 93   | 379      
-System of a Down         | 95   | 376      
+System of a Down         | 96   | 376      
 Dave Hause               | 98   | 356      
 
 ## Inactive top 100 artists not seen live (20)
@@ -123,5 +123,5 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 97   | 366      
+The Band             | 95   | 377      
 Blind Melon          | 100  | 345      
