@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2648     
 Bruce Springsteen              | 10   | 2582     
-Manic Street Preachers         | 11   | 2543     
+Manic Street Preachers         | 11   | 2544     
 Frank Turner                   | 12   | 2396     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
@@ -33,7 +33,7 @@ AC/DC                          | 22   | 1802
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1435     
 Mark Lanegan                   | 28   | 1418     
-Spidergawd                     | 29   | 1377     
+Spidergawd                     | 29   | 1407     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
@@ -84,12 +84,12 @@ Touché Amoré             | 41   | 954
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 759      
-The Black Crowes         | 53   | 755      
+The Black Crowes         | 53   | 757      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 61   | 651      
 Afghan Whigs             | 64   | 644      
 Neil Young               | 65   | 639      
-Dinosaur Jr.             | 78   | 485      
+Dinosaur Jr.             | 78   | 486      
 Rage Against the Machine | 79   | 482      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
