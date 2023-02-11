@@ -32,8 +32,8 @@ johndoe                        | 19   | 1971
 AC/DC                          | 22   | 1802     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1435     
-Mark Lanegan                   | 28   | 1418     
-Spidergawd                     | 29   | 1407     
+Spidergawd                     | 28   | 1419     
+Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
 Chuck Ragan                    | 34   | 1144     
@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 824
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 764      
+Pappasaft                      | 50   | 765      
 Devin Townsend                 | 52   | 759      
 Thulsa Doom                    | 54   | 740      
 Tool                           | 55   | 739      
@@ -64,7 +64,7 @@ Dropkick Murphys               | 73   | 550
 The Good The Bad and The Zugly | 77   | 503      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
-Jason Isbell and The 400 Unit  | 94   | 378      
+Jason Isbell and The 400 Unit  | 95   | 378      
 Kaizers Orchestra              | 97   | 371      
 deLillos                       | 99   | 353      
 
@@ -74,8 +74,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2222     
-Bob Mould                | 16   | 2220     
-Propagandhi              | 20   | 1920     
+Bob Mould                | 16   | 2221     
+Propagandhi              | 20   | 1928     
 Ryan Adams               | 21   | 1846     
 Guided by Voices         | 23   | 1762     
 The Menzingers           | 25   | 1520     
@@ -97,7 +97,7 @@ Faith No More            | 84   | 436
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
-The Hotelier             | 93   | 379      
+The Hotelier             | 94   | 379      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 356      
 
@@ -123,5 +123,5 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 95   | 377      
+The Band             | 93   | 380      
 Blind Melon          | 100  | 345      
