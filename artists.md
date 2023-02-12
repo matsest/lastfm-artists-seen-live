@@ -32,7 +32,7 @@ johndoe                        | 19   | 1971
 AC/DC                          | 22   | 1802     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1435     
-Spidergawd                     | 28   | 1419     
+Spidergawd                     | 28   | 1426     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2222     
 Bob Mould                | 16   | 2221     
 Propagandhi              | 20   | 1928     
-Ryan Adams               | 21   | 1846     
+Ryan Adams               | 21   | 1847     
 Guided by Voices         | 23   | 1762     
 The Menzingers           | 25   | 1520     
 Weezer                   | 27   | 1433     
@@ -93,7 +93,7 @@ Dinosaur Jr.             | 78   | 486
 Rage Against the Machine | 79   | 482      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
-Faith No More            | 84   | 436      
+Faith No More            | 84   | 437      
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 397      
 Ulver                    | 91   | 396      
