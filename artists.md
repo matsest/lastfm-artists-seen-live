@@ -31,8 +31,8 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1802     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 26   | 1435     
-Spidergawd                     | 28   | 1426     
+The Smashing Pumpkins          | 26   | 1478     
+Spidergawd                     | 28   | 1428     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2222     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1928     
+Propagandhi              | 20   | 1929     
 Ryan Adams               | 21   | 1847     
 Guided by Voices         | 23   | 1762     
 The Menzingers           | 25   | 1520     
