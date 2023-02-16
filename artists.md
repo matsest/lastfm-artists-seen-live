@@ -32,7 +32,7 @@ johndoe                        | 19   | 1971
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1479     
-Spidergawd                     | 28   | 1437     
+Spidergawd                     | 28   | 1439     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1225     
@@ -47,16 +47,16 @@ Thin Lizzy                     | 45   | 824
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 785      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 765      
+Pappasaft                      | 50   | 766      
 Devin Townsend                 | 52   | 759      
-Thulsa Doom                    | 54   | 740      
+Thulsa Doom                    | 54   | 741      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 659      
 The Posies                     | 60   | 656      
 Jason Isbell                   | 62   | 647      
 Japandroids                    | 63   | 645      
 Devin Townsend Project         | 66   | 604      
-Clutch                         | 68   | 585      
+Clutch                         | 68   | 586      
 Blood Command                  | 69   | 579      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
@@ -79,7 +79,7 @@ Propagandhi              | 20   | 1929
 Ryan Adams               | 21   | 1847     
 Guided by Voices         | 23   | 1762     
 The Menzingers           | 25   | 1520     
-Weezer                   | 27   | 1450     
+Weezer                   | 27   | 1454     
 Touché Amoré             | 41   | 954      
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
