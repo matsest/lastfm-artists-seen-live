@@ -39,8 +39,8 @@ Kvelertak                      | 31   | 1225
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 38   | 992      
-Stein Torleif Bjella           | 39   | 989      
+Hellbillies                    | 39   | 992      
+Stein Torleif Bjella           | 40   | 989      
 Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 824      
@@ -77,10 +77,10 @@ The Who                  | 15   | 2222
 Bob Mould                | 16   | 2221     
 Propagandhi              | 20   | 1929     
 Ryan Adams               | 21   | 1847     
-Guided by Voices         | 23   | 1762     
+Guided by Voices         | 23   | 1765     
 The Menzingers           | 25   | 1520     
-Weezer                   | 27   | 1454     
-Touché Amoré             | 41   | 954      
+Weezer                   | 27   | 1464     
+Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 845      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 759      
@@ -110,7 +110,7 @@ Hüsker Dü            | 8    | 2852
 Sugar                | 32   | 1202     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 40   | 985      
+Fugazi               | 41   | 985      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 67   | 596      
