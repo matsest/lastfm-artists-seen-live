@@ -31,11 +31,11 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 26   | 1479     
-Spidergawd                     | 28   | 1439     
+The Smashing Pumpkins          | 27   | 1479     
+Spidergawd                     | 28   | 1443     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1225     
+Kvelertak                      | 31   | 1226     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -45,19 +45,19 @@ Anti-Lam Front                 | 42   | 931
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 824      
 Brian Fallon                   | 46   | 796      
-The Tallest Man on Earth       | 47   | 785      
+The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 766      
+Pappasaft                      | 50   | 767      
 Devin Townsend                 | 52   | 759      
 Thulsa Doom                    | 54   | 741      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 659      
 The Posies                     | 60   | 656      
 Jason Isbell                   | 62   | 647      
-Japandroids                    | 63   | 645      
+Japandroids                    | 63   | 646      
 Devin Townsend Project         | 66   | 604      
-Clutch                         | 68   | 586      
-Blood Command                  | 69   | 579      
+Clutch                         | 68   | 588      
+Blood Command                  | 69   | 580      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -73,15 +73,15 @@ deLillos                       | 99   | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2222     
+The Who                  | 15   | 2223     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1929     
-Ryan Adams               | 21   | 1847     
+Propagandhi              | 20   | 1931     
+Ryan Adams               | 21   | 1849     
 Guided by Voices         | 23   | 1765     
-The Menzingers           | 25   | 1520     
-Weezer                   | 27   | 1464     
+The Menzingers           | 25   | 1522     
+Weezer                   | 26   | 1500     
 Touché Amoré             | 38   | 1004     
-The Hold Steady          | 43   | 845      
+The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
 Bob Dylan                | 51   | 759      
 The Black Crowes         | 53   | 757      
@@ -95,7 +95,7 @@ The War on Drugs         | 80   | 472
 Yes                      | 82   | 466      
 Faith No More            | 84   | 437      
 Thåström                 | 85   | 435      
-Dawes                    | 90   | 397      
+Dawes                    | 90   | 398      
 Ulver                    | 91   | 396      
 The Hotelier             | 94   | 379      
 System of a Down         | 96   | 376      
