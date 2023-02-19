@@ -31,8 +31,8 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1479     
-Spidergawd                     | 28   | 1443     
+The Smashing Pumpkins          | 27   | 1486     
+Spidergawd                     | 28   | 1444     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1226     
@@ -47,17 +47,17 @@ Thin Lizzy                     | 45   | 824
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 767      
+Pappasaft                      | 50   | 769      
 Devin Townsend                 | 52   | 759      
-Thulsa Doom                    | 54   | 741      
+Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 659      
+Ghost                          | 59   | 660      
 The Posies                     | 60   | 656      
-Jason Isbell                   | 62   | 647      
-Japandroids                    | 63   | 646      
+Japandroids                    | 62   | 648      
+Jason Isbell                   | 63   | 647      
 Devin Townsend Project         | 66   | 604      
-Clutch                         | 68   | 588      
-Blood Command                  | 69   | 580      
+Clutch                         | 68   | 589      
+Blood Command                  | 69   | 581      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -75,11 +75,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2223     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1931     
+Propagandhi              | 20   | 1934     
 Ryan Adams               | 21   | 1849     
 Guided by Voices         | 23   | 1765     
-The Menzingers           | 25   | 1522     
-Weezer                   | 26   | 1500     
+The Menzingers           | 25   | 1525     
+Weezer                   | 26   | 1503     
 Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
@@ -97,7 +97,7 @@ Faith No More            | 84   | 437
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 398      
 Ulver                    | 91   | 396      
-The Hotelier             | 94   | 379      
+The Hotelier             | 94   | 380      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 356      
 
