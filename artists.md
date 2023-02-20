@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 824
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 769      
+Pappasaft                      | 50   | 771      
 Devin Townsend                 | 52   | 759      
 Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
@@ -79,7 +79,7 @@ Propagandhi              | 20   | 1934
 Ryan Adams               | 21   | 1849     
 Guided by Voices         | 23   | 1765     
 The Menzingers           | 25   | 1525     
-Weezer                   | 26   | 1503     
+Weezer                   | 26   | 1504     
 Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
