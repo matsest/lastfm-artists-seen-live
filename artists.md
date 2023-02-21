@@ -31,7 +31,7 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1971     
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1486     
+The Smashing Pumpkins          | 26   | 1510     
 Spidergawd                     | 28   | 1444     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 824
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 771      
+Pappasaft                      | 50   | 772      
 Devin Townsend                 | 52   | 759      
 Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
@@ -78,8 +78,8 @@ Bob Mould                | 16   | 2221
 Propagandhi              | 20   | 1934     
 Ryan Adams               | 21   | 1849     
 Guided by Voices         | 23   | 1765     
-The Menzingers           | 25   | 1525     
-Weezer                   | 26   | 1504     
+The Menzingers           | 25   | 1526     
+Weezer                   | 27   | 1505     
 Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
@@ -89,7 +89,7 @@ Eddie Vedder             | 58   | 686
 Hot Water Music          | 61   | 651      
 Afghan Whigs             | 64   | 644      
 Neil Young               | 65   | 639      
-Dinosaur Jr.             | 78   | 486      
+Dinosaur Jr.             | 78   | 487      
 Rage Against the Machine | 79   | 482      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
@@ -107,7 +107,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3036     
 Hüsker Dü            | 8    | 2852     
-Sugar                | 32   | 1202     
+Sugar                | 32   | 1203     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 985      
