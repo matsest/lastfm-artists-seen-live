@@ -28,7 +28,7 @@ Frank Turner                   | 12   | 2396
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2071     
-johndoe                        | 19   | 1971     
+johndoe                        | 19   | 1972     
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1510     
@@ -52,7 +52,7 @@ Devin Townsend                 | 52   | 759
 Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 660      
-The Posies                     | 60   | 656      
+The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 647      
 Devin Townsend Project         | 66   | 604      
@@ -76,10 +76,10 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2223     
 Bob Mould                | 16   | 2221     
 Propagandhi              | 20   | 1934     
-Ryan Adams               | 21   | 1849     
+Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1765     
 The Menzingers           | 25   | 1526     
-Weezer                   | 27   | 1505     
+Weezer                   | 27   | 1507     
 Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
