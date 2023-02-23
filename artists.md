@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 331
+- Number of artists seen live in total: 332
 
 - Number of fetched top artists: 100 (Active: 72 Inactive: 28)
 
@@ -21,18 +21,18 @@ Rush                           | 3    | 4485
 The Gaslight Anthem            | 4    | 4290     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
-Motorpsycho                    | 9    | 2648     
+Motorpsycho                    | 9    | 2649     
 Bruce Springsteen              | 10   | 2582     
-Manic Street Preachers         | 11   | 2544     
+Manic Street Preachers         | 11   | 2545     
 Frank Turner                   | 12   | 2396     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2071     
-johndoe                        | 19   | 1972     
+johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1803     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1510     
-Spidergawd                     | 28   | 1444     
+Spidergawd                     | 28   | 1445     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1226     
@@ -56,7 +56,7 @@ The Posies                     | 60   | 657
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 647      
 Devin Townsend Project         | 66   | 604      
-Clutch                         | 68   | 589      
+Clutch                         | 68   | 590      
 Blood Command                  | 69   | 581      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
@@ -73,13 +73,13 @@ deLillos                       | 99   | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2223     
+The Who                  | 15   | 2224     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1934     
+Propagandhi              | 20   | 1939     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1765     
-The Menzingers           | 25   | 1526     
-Weezer                   | 27   | 1507     
+The Menzingers           | 25   | 1527     
+Weezer                   | 27   | 1508     
 Touché Amoré             | 38   | 1004     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
