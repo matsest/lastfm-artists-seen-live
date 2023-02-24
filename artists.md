@@ -17,22 +17,22 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6016     
-Rush                           | 3    | 4485     
+Rush                           | 3    | 4486     
 The Gaslight Anthem            | 4    | 4290     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2649     
 Bruce Springsteen              | 10   | 2582     
 Manic Street Preachers         | 11   | 2545     
-Frank Turner                   | 12   | 2396     
+Frank Turner                   | 12   | 2397     
 Chris Cornell                  | 14   | 2233     
 Raga Rockers                   | 17   | 2074     
 The National                   | 18   | 2071     
 johndoe                        | 19   | 1973     
-AC/DC                          | 22   | 1803     
+AC/DC                          | 22   | 1804     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 26   | 1510     
-Spidergawd                     | 28   | 1445     
+Spidergawd                     | 28   | 1448     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1226     
@@ -43,21 +43,21 @@ Hellbillies                    | 39   | 992
 Stein Torleif Bjella           | 40   | 989      
 Anti-Lam Front                 | 42   | 931      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 824      
+Thin Lizzy                     | 45   | 825      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 772      
-Devin Townsend                 | 52   | 759      
+Pappasaft                      | 50   | 775      
+Devin Townsend                 | 51   | 760      
 Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 660      
+Ghost                          | 59   | 661      
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 647      
-Devin Townsend Project         | 66   | 604      
-Clutch                         | 68   | 590      
-Blood Command                  | 69   | 581      
+Devin Townsend Project         | 66   | 605      
+Clutch                         | 68   | 592      
+Blood Command                  | 69   | 582      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -75,19 +75,19 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2224     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1939     
+Propagandhi              | 20   | 1941     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1765     
-The Menzingers           | 25   | 1527     
-Weezer                   | 27   | 1508     
-Touché Amoré             | 38   | 1004     
+The Menzingers           | 25   | 1529     
+Weezer                   | 27   | 1510     
+Touché Amoré             | 38   | 1005     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
-Bob Dylan                | 51   | 759      
-The Black Crowes         | 53   | 757      
+Bob Dylan                | 52   | 759      
+The Black Crowes         | 53   | 758      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 61   | 651      
-Afghan Whigs             | 64   | 644      
+Afghan Whigs             | 64   | 645      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 487      
 Rage Against the Machine | 79   | 482      
@@ -123,5 +123,5 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 381      
+The Band             | 93   | 382      
 Blind Melon          | 100  | 345      
