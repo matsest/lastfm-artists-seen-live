@@ -5,13 +5,13 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 332
 
-- Number of fetched top artists: 100 (Active: 72 Inactive: 28)
+- Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
-- Number of top artists seen live: 52 (Active: 44 Inactive: 8)
+- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
 
-- Number of top artists not seen live: 48 (Active: 28 Inactive: 20)
+- Number of top artists not seen live: 47 (Active: 28 Inactive: 19)
 
-## Top 100 artists seen live (52)
+## Top 100 artists seen live (53)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -31,7 +31,7 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1804     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 26   | 1510     
+The Smashing Pumpkins          | 27   | 1510     
 Spidergawd                     | 28   | 1448     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 35   | 1104
 Justin Townes Earle            | 37   | 1018     
 Hellbillies                    | 39   | 992      
 Stein Torleif Bjella           | 40   | 989      
-Anti-Lam Front                 | 42   | 931      
+Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 825      
 Brian Fallon                   | 46   | 796      
@@ -57,7 +57,7 @@ Japandroids                    | 62   | 648
 Jason Isbell                   | 63   | 647      
 Devin Townsend Project         | 66   | 605      
 Clutch                         | 68   | 592      
-Blood Command                  | 69   | 582      
+Blood Command                  | 69   | 587      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -67,6 +67,7 @@ Gojira                         | 92   | 389
 Jason Isbell and The 400 Unit  | 95   | 378      
 Kaizers Orchestra              | 97   | 371      
 deLillos                       | 99   | 353      
+Lastkaj 14                     | 100  | 353      
 
 ## Active top 100 artists not seen live (28)
 
@@ -79,7 +80,7 @@ Propagandhi              | 20   | 1941
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1765     
 The Menzingers           | 25   | 1529     
-Weezer                   | 27   | 1510     
+Weezer                   | 26   | 1520     
 Touché Amoré             | 38   | 1005     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
@@ -101,7 +102,7 @@ The Hotelier             | 94   | 380
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 356      
 
-## Inactive top 100 artists not seen live (20)
+## Inactive top 100 artists not seen live (19)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
@@ -124,4 +125,3 @@ The Twilight Singers | 86   | 429
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
 The Band             | 93   | 382      
-Blind Melon          | 100  | 345      
