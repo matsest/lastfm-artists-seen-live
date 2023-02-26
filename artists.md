@@ -31,7 +31,7 @@ The National                   | 18   | 2071
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1804     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1510     
+The Smashing Pumpkins          | 27   | 1511     
 Spidergawd                     | 28   | 1448     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -55,9 +55,9 @@ Ghost                          | 59   | 661
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 647      
-Devin Townsend Project         | 66   | 605      
-Clutch                         | 68   | 592      
-Blood Command                  | 69   | 587      
+Blood Command                  | 66   | 615      
+Devin Townsend Project         | 67   | 605      
+Clutch                         | 69   | 592      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 985      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
-Foo Fighters         | 67   | 596      
+Foo Fighters         | 68   | 597      
 Big Star             | 71   | 561      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
