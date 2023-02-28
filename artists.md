@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 332
+- Number of artists seen live in total: 334
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -85,10 +85,10 @@ Touché Amoré             | 38   | 1005
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
 Bob Dylan                | 52   | 759      
-The Black Crowes         | 53   | 758      
+The Black Crowes         | 53   | 759      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 61   | 651      
-Afghan Whigs             | 64   | 645      
+Afghan Whigs             | 64   | 646      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 487      
 Rage Against the Machine | 79   | 482      
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3036     
 Hüsker Dü            | 8    | 2852     
-Sugar                | 32   | 1203     
+Sugar                | 32   | 1204     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 985      
