@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1511
 Spidergawd                     | 28   | 1448     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1226     
+Kvelertak                      | 31   | 1227     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -55,13 +55,13 @@ Ghost                          | 59   | 661
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 647      
-Blood Command                  | 66   | 615      
+Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 69   | 592      
+Clutch                         | 69   | 593      
 Spielbergs                     | 70   | 577      
 Kylesa                         | 72   | 553      
 Dropkick Murphys               | 73   | 550      
-The Good The Bad and The Zugly | 77   | 503      
+The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 95   | 378      
@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2224     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1941     
+Propagandhi              | 20   | 1943     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1765     
 The Menzingers           | 25   | 1529     
-Weezer                   | 26   | 1520     
+Weezer                   | 26   | 1521     
 Touché Amoré             | 38   | 1005     
 The Hold Steady          | 43   | 847      
 Melvins                  | 48   | 780      
@@ -106,7 +106,7 @@ Dave Hause               | 98   | 356
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3036     
+The Replacements     | 5    | 3039     
 Hüsker Dü            | 8    | 2852     
 Sugar                | 32   | 1204     
 The Horrible Crowes  | 33   | 1176     
