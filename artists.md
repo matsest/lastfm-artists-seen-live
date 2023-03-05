@@ -58,8 +58,8 @@ Jason Isbell                   | 64   | 647
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 69   | 593      
-Spielbergs                     | 70   | 577      
-Dropkick Murphys               | 71   | 571      
+Dropkick Murphys               | 70   | 592      
+Spielbergs                     | 71   | 577      
 Kylesa                         | 73   | 553      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
