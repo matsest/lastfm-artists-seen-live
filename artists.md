@@ -58,7 +58,7 @@ Jason Isbell                   | 64   | 647
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 69   | 593      
-Dropkick Murphys               | 70   | 592      
+Dropkick Murphys               | 70   | 593      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 73   | 553      
 The Good The Bad and The Zugly | 77   | 504      
@@ -79,8 +79,8 @@ Bob Mould                | 16   | 2221
 Propagandhi              | 20   | 1944     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1768     
-The Menzingers           | 25   | 1529     
-Weezer                   | 26   | 1524     
+Weezer                   | 25   | 1530     
+The Menzingers           | 26   | 1529     
 Touché Amoré             | 38   | 1005     
 The Hold Steady          | 43   | 848      
 Melvins                  | 48   | 780      
