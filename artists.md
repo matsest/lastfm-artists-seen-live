@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2226     
 Bob Mould                | 16   | 2221     
-Propagandhi              | 20   | 1944     
+Propagandhi              | 20   | 1953     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1768     
-Weezer                   | 25   | 1530     
-The Menzingers           | 26   | 1529     
+The Menzingers           | 25   | 1530     
+Weezer                   | 26   | 1530     
 Touché Amoré             | 38   | 1005     
 The Hold Steady          | 43   | 848      
 Melvins                  | 48   | 780      
