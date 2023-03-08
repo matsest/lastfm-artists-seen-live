@@ -26,8 +26,8 @@ Bruce Springsteen              | 10   | 2582
 Manic Street Preachers         | 11   | 2545     
 Frank Turner                   | 12   | 2397     
 Chris Cornell                  | 14   | 2233     
-Raga Rockers                   | 17   | 2074     
-The National                   | 18   | 2072     
+The National                   | 17   | 2079     
+Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1804     
 Mastodon                       | 24   | 1752     
@@ -79,9 +79,9 @@ Bob Mould                | 16   | 2221
 Propagandhi              | 20   | 1953     
 Ryan Adams               | 21   | 1856     
 Guided by Voices         | 23   | 1768     
-The Menzingers           | 25   | 1530     
-Weezer                   | 26   | 1530     
-Touché Amoré             | 38   | 1005     
+The Menzingers           | 25   | 1531     
+Weezer                   | 26   | 1531     
+Touché Amoré             | 38   | 1006     
 The Hold Steady          | 43   | 848      
 Melvins                  | 48   | 780      
 Bob Dylan                | 52   | 759      
@@ -98,7 +98,7 @@ Faith No More            | 84   | 437
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 398      
 Ulver                    | 91   | 396      
-The Hotelier             | 94   | 380      
+The Hotelier             | 94   | 381      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 357      
 
