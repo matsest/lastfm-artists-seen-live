@@ -22,16 +22,16 @@ The Gaslight Anthem            | 4    | 4290
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2650     
-Bruce Springsteen              | 10   | 2582     
+Bruce Springsteen              | 10   | 2583     
 Manic Street Preachers         | 11   | 2545     
-Frank Turner                   | 12   | 2397     
+Frank Turner                   | 12   | 2398     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2079     
+The National                   | 17   | 2083     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1804     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1513     
+The Smashing Pumpkins          | 27   | 1516     
 Spidergawd                     | 28   | 1448     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -43,22 +43,22 @@ Hellbillies                    | 39   | 992
 Stein Torleif Bjella           | 40   | 991      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 825      
+Thin Lizzy                     | 45   | 826      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
 Sweden                         | 49   | 777      
 Pappasaft                      | 50   | 775      
-Devin Townsend                 | 51   | 760      
+Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 742      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 661      
+Ghost                          | 59   | 664      
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 64   | 647      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 69   | 593      
-Dropkick Murphys               | 70   | 593      
+Dropkick Murphys               | 69   | 596      
+Clutch                         | 70   | 593      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 73   | 553      
 The Good The Bad and The Zugly | 77   | 504      
@@ -74,17 +74,17 @@ Lastkaj 14                     | 100  | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2226     
-Bob Mould                | 16   | 2221     
+The Who                  | 15   | 2227     
+Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1953     
-Ryan Adams               | 21   | 1856     
+Ryan Adams               | 21   | 1859     
 Guided by Voices         | 23   | 1768     
 The Menzingers           | 25   | 1531     
 Weezer                   | 26   | 1531     
 Touché Amoré             | 38   | 1006     
-The Hold Steady          | 43   | 848      
+The Hold Steady          | 43   | 849      
 Melvins                  | 48   | 780      
-Bob Dylan                | 52   | 759      
+Bob Dylan                | 51   | 761      
 The Black Crowes         | 53   | 759      
 Eddie Vedder             | 58   | 686      
 Hot Water Music          | 61   | 651      
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 382      
+The Band             | 93   | 384      
