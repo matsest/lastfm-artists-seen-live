@@ -29,9 +29,9 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2088     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
-AC/DC                          | 22   | 1804     
+AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1516     
+The Smashing Pumpkins          | 27   | 1517     
 Spidergawd                     | 28   | 1450     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -57,7 +57,7 @@ Japandroids                    | 62   | 648
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
-Dropkick Murphys               | 69   | 596      
+Dropkick Murphys               | 68   | 597      
 Clutch                         | 70   | 593      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 73   | 553      
@@ -77,7 +77,7 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2227     
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1953     
-Ryan Adams               | 21   | 1861     
+Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1769     
 The Menzingers           | 25   | 1531     
 Weezer                   | 26   | 1531     
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 489
 Rage Against the Machine | 79   | 482      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
-Faith No More            | 84   | 437      
+Faith No More            | 84   | 438      
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 987      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
-Foo Fighters         | 68   | 597      
+Foo Fighters         | 69   | 597      
 Big Star             | 72   | 561      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 384      
+The Band             | 93   | 385      
