@@ -51,7 +51,7 @@ Pappasaft                      | 50   | 776
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 746      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 664      
+Ghost                          | 59   | 665      
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 648      
 Jason Isbell                   | 63   | 648      
@@ -91,7 +91,7 @@ Hot Water Music          | 61   | 651
 Afghan Whigs             | 64   | 647      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 489      
-Rage Against the Machine | 79   | 482      
+Rage Against the Machine | 79   | 483      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
 Faith No More            | 84   | 438      
