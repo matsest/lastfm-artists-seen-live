@@ -26,12 +26,12 @@ Bruce Springsteen              | 10   | 2583
 Manic Street Preachers         | 11   | 2545     
 Frank Turner                   | 12   | 2398     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2088     
+The National                   | 17   | 2091     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1517     
+The Smashing Pumpkins          | 27   | 1518     
 Spidergawd                     | 28   | 1450     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -53,14 +53,14 @@ Thulsa Doom                    | 54   | 746
 Tool                           | 55   | 739      
 Ghost                          | 59   | 665      
 The Posies                     | 60   | 657      
-Japandroids                    | 62   | 648      
+Japandroids                    | 62   | 649      
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
 Dropkick Murphys               | 68   | 597      
 Clutch                         | 70   | 593      
 Spielbergs                     | 71   | 577      
-Kylesa                         | 73   | 553      
+Kylesa                         | 73   | 555      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
@@ -78,15 +78,15 @@ The Who                  | 15   | 2227
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1953     
 Ryan Adams               | 21   | 1862     
-Guided by Voices         | 23   | 1769     
-The Menzingers           | 25   | 1531     
-Weezer                   | 26   | 1531     
+Guided by Voices         | 23   | 1770     
+The Menzingers           | 25   | 1532     
+Weezer                   | 26   | 1532     
 Touché Amoré             | 38   | 1006     
-The Hold Steady          | 43   | 852      
+The Hold Steady          | 43   | 854      
 Melvins                  | 48   | 780      
-Bob Dylan                | 51   | 761      
+Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 759      
-Eddie Vedder             | 58   | 686      
+Eddie Vedder             | 58   | 687      
 Hot Water Music          | 61   | 651      
 Afghan Whigs             | 64   | 647      
 Neil Young               | 65   | 639      
@@ -107,7 +107,7 @@ Dave Hause               | 98   | 357
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3040     
-Hüsker Dü            | 8    | 2854     
+Hüsker Dü            | 8    | 2855     
 Sugar                | 32   | 1206     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
@@ -118,10 +118,10 @@ Foo Fighters         | 69   | 597
 Big Star             | 72   | 561      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
-The Beatles          | 76   | 504      
+The Beatles          | 76   | 505      
 Pink Floyd           | 81   | 467      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 86   | 429      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 385      
+The Band             | 93   | 386      
