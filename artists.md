@@ -60,7 +60,7 @@ Devin Townsend Project         | 67   | 605
 Dropkick Murphys               | 68   | 597      
 Clutch                         | 70   | 593      
 Spielbergs                     | 71   | 577      
-Kylesa                         | 73   | 555      
+Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
@@ -83,7 +83,7 @@ The Menzingers           | 25   | 1532
 Weezer                   | 26   | 1532     
 Touché Amoré             | 38   | 1006     
 The Hold Steady          | 43   | 854      
-Melvins                  | 48   | 780      
+Melvins                  | 48   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 759      
 Eddie Vedder             | 58   | 687      
@@ -115,7 +115,7 @@ Fugazi               | 41   | 987
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 69   | 597      
-Big Star             | 72   | 561      
+Big Star             | 73   | 561      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 505      
