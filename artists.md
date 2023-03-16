@@ -90,7 +90,7 @@ Eddie Vedder             | 58   | 687
 Hot Water Music          | 61   | 651      
 Afghan Whigs             | 64   | 647      
 Neil Young               | 65   | 639      
-Dinosaur Jr.             | 78   | 489      
+Dinosaur Jr.             | 78   | 490      
 Rage Against the Machine | 79   | 483      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
