@@ -51,14 +51,14 @@ Pappasaft                      | 50   | 776
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 746      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 665      
+Ghost                          | 59   | 666      
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 649      
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
 Dropkick Murphys               | 68   | 597      
-Clutch                         | 70   | 593      
+Clutch                         | 70   | 594      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -78,11 +78,11 @@ The Who                  | 15   | 2227
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1953     
 Ryan Adams               | 21   | 1862     
-Guided by Voices         | 23   | 1770     
+Guided by Voices         | 23   | 1771     
 The Menzingers           | 25   | 1532     
 Weezer                   | 26   | 1532     
 Touché Amoré             | 38   | 1006     
-The Hold Steady          | 43   | 854      
+The Hold Steady          | 43   | 855      
 Melvins                  | 48   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 759      
