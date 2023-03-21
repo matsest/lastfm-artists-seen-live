@@ -78,11 +78,11 @@ The Who                  | 15   | 2227
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1953     
 Ryan Adams               | 21   | 1862     
-Guided by Voices         | 23   | 1771     
-The Menzingers           | 25   | 1532     
-Weezer                   | 26   | 1532     
+Guided by Voices         | 23   | 1772     
+Weezer                   | 25   | 1533     
+The Menzingers           | 26   | 1532     
 Touché Amoré             | 38   | 1006     
-The Hold Steady          | 43   | 855      
+The Hold Steady          | 43   | 856      
 Melvins                  | 48   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 759      
