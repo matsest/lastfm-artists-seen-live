@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2971
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2660     
 Bruce Springsteen              | 10   | 2583     
-Manic Street Preachers         | 11   | 2545     
+Manic Street Preachers         | 11   | 2546     
 Frank Turner                   | 12   | 2398     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2091     
@@ -58,7 +58,7 @@ Jason Isbell                   | 63   | 648
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
 Dropkick Murphys               | 68   | 597      
-Clutch                         | 70   | 594      
+Clutch                         | 70   | 596      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -76,12 +76,12 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2227     
 Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1953     
+Propagandhi              | 20   | 1954     
 Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1772     
-The Menzingers           | 25   | 1535     
+The Menzingers           | 25   | 1536     
 Weezer                   | 26   | 1533     
-Touché Amoré             | 38   | 1008     
+Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 856      
 Melvins                  | 48   | 781      
 Bob Dylan                | 51   | 762      
@@ -98,9 +98,9 @@ Faith No More            | 84   | 438
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
-The Hotelier             | 94   | 383      
+The Hotelier             | 94   | 384      
 System of a Down         | 96   | 376      
-Dave Hause               | 98   | 357      
+Dave Hause               | 98   | 358      
 
 ## Inactive top 100 artists not seen live (19)
 
