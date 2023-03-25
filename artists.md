@@ -32,7 +32,7 @@ johndoe                        | 19   | 1973
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1518     
-Spidergawd                     | 28   | 1450     
+Spidergawd                     | 28   | 1451     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1227     
@@ -46,8 +46,8 @@ Oslo Ess                       | 44   | 834
 Thin Lizzy                     | 45   | 826      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
-Sweden                         | 49   | 777      
-Pappasaft                      | 50   | 776      
+Pappasaft                      | 49   | 778      
+Sweden                         | 50   | 777      
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 746      
 Tool                           | 55   | 739      
@@ -80,7 +80,7 @@ Propagandhi              | 20   | 1954
 Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1536     
-Weezer                   | 26   | 1533     
+Weezer                   | 26   | 1534     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 856      
 Melvins                  | 48   | 781      
@@ -107,11 +107,11 @@ Dave Hause               | 98   | 358
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3040     
-Hüsker Dü            | 8    | 2855     
+Hüsker Dü            | 8    | 2871     
 Sugar                | 32   | 1206     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 987      
+Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 69   | 597      
