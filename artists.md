@@ -32,7 +32,7 @@ johndoe                        | 19   | 1973
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1518     
-Spidergawd                     | 28   | 1451     
+Spidergawd                     | 28   | 1452     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1227     
@@ -46,10 +46,10 @@ Oslo Ess                       | 44   | 834
 Thin Lizzy                     | 45   | 826      
 Brian Fallon                   | 46   | 796      
 The Tallest Man on Earth       | 47   | 786      
-Pappasaft                      | 49   | 778      
+Pappasaft                      | 48   | 785      
 Sweden                         | 50   | 777      
 Devin Townsend                 | 52   | 760      
-Thulsa Doom                    | 54   | 746      
+Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 666      
 The Posies                     | 60   | 657      
@@ -57,8 +57,8 @@ Japandroids                    | 62   | 649
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
-Dropkick Murphys               | 68   | 597      
-Clutch                         | 70   | 596      
+Clutch                         | 68   | 597      
+Dropkick Murphys               | 69   | 597      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -76,14 +76,14 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2227     
 Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1954     
+Propagandhi              | 20   | 1956     
 Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1772     
-The Menzingers           | 25   | 1536     
-Weezer                   | 26   | 1534     
+The Menzingers           | 25   | 1537     
+Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 856      
-Melvins                  | 48   | 781      
+Melvins                  | 49   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 759      
 Eddie Vedder             | 58   | 687      
@@ -98,7 +98,7 @@ Faith No More            | 84   | 438
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
-The Hotelier             | 94   | 384      
+The Hotelier             | 94   | 385      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 358      
 
@@ -107,14 +107,14 @@ Dave Hause               | 98   | 358
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3040     
-Hüsker Dü            | 8    | 2871     
+Hüsker Dü            | 8    | 2872     
 Sugar                | 32   | 1206     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
-Foo Fighters         | 69   | 597      
+Foo Fighters         | 70   | 597      
 Big Star             | 73   | 561      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
