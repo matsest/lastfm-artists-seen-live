@@ -57,7 +57,7 @@ Japandroids                    | 62   | 649
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 616      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 68   | 597      
+Clutch                         | 68   | 598      
 Dropkick Murphys               | 69   | 597      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 72   | 572      
@@ -74,9 +74,9 @@ Lastkaj 14                     | 100  | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2227     
+The Who                  | 15   | 2229     
 Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1956     
+Propagandhi              | 20   | 1960     
 Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1537     
@@ -106,7 +106,7 @@ Dave Hause               | 98   | 358
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3040     
+The Replacements     | 5    | 3041     
 Hüsker Dü            | 8    | 2872     
 Sugar                | 32   | 1206     
 The Horrible Crowes  | 33   | 1176     
