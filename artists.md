@@ -21,7 +21,7 @@ Rush                           | 3    | 4487
 The Gaslight Anthem            | 4    | 4291     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
-Motorpsycho                    | 9    | 2660     
+Motorpsycho                    | 9    | 2662     
 Bruce Springsteen              | 10   | 2583     
 Manic Street Preachers         | 11   | 2546     
 Frank Turner                   | 12   | 2398     
@@ -32,21 +32,21 @@ johndoe                        | 19   | 1973
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1518     
-Spidergawd                     | 28   | 1452     
+Spidergawd                     | 28   | 1453     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1227     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 39   | 992      
-Stein Torleif Bjella           | 40   | 991      
+Hellbillies                    | 39   | 993      
+Stein Torleif Bjella           | 40   | 992      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 826      
 Brian Fallon                   | 46   | 796      
-The Tallest Man on Earth       | 47   | 786      
-Pappasaft                      | 48   | 785      
+Pappasaft                      | 47   | 789      
+The Tallest Man on Earth       | 48   | 786      
 Sweden                         | 50   | 777      
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 747      
@@ -55,7 +55,7 @@ Ghost                          | 59   | 666
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 649      
 Jason Isbell                   | 63   | 648      
-Blood Command                  | 66   | 616      
+Blood Command                  | 66   | 619      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 598      
 Dropkick Murphys               | 69   | 597      
@@ -85,7 +85,7 @@ Touché Amoré             | 38   | 1012
 The Hold Steady          | 43   | 856      
 Melvins                  | 49   | 781      
 Bob Dylan                | 51   | 762      
-The Black Crowes         | 53   | 759      
+The Black Crowes         | 53   | 760      
 Eddie Vedder             | 58   | 687      
 Hot Water Music          | 61   | 651      
 Afghan Whigs             | 64   | 647      
