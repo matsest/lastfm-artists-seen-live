@@ -24,15 +24,15 @@ DumDum Boys                    | 7    | 2893
 Motorpsycho                    | 9    | 2662     
 Bruce Springsteen              | 10   | 2583     
 Manic Street Preachers         | 11   | 2546     
-Frank Turner                   | 12   | 2398     
+Frank Turner                   | 12   | 2399     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2091     
+The National                   | 17   | 2092     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1518     
-Spidergawd                     | 28   | 1453     
+Spidergawd                     | 28   | 1454     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1227     
@@ -57,7 +57,7 @@ Japandroids                    | 62   | 649
 Jason Isbell                   | 63   | 648      
 Blood Command                  | 66   | 619      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 68   | 598      
+Clutch                         | 68   | 599      
 Dropkick Murphys               | 69   | 597      
 Spielbergs                     | 71   | 577      
 Kylesa                         | 72   | 572      
@@ -74,12 +74,12 @@ Lastkaj 14                     | 100  | 353
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2229     
+The Who                  | 15   | 2231     
 Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1960     
+Propagandhi              | 20   | 1961     
 Ryan Adams               | 21   | 1862     
 Guided by Voices         | 23   | 1772     
-The Menzingers           | 25   | 1537     
+The Menzingers           | 25   | 1538     
 Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 856      
