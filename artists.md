@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2074
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1518     
+The Smashing Pumpkins          | 27   | 1519     
 Spidergawd                     | 28   | 1454     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 826
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 789      
 The Tallest Man on Earth       | 48   | 786      
-Sweden                         | 50   | 777      
+Sweden                         | 50   | 778      
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
@@ -59,15 +59,15 @@ Blood Command                  | 66   | 619
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 599      
 Dropkick Murphys               | 69   | 597      
-Spielbergs                     | 71   | 577      
+Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 95   | 378      
 Kaizers Orchestra              | 97   | 371      
-deLillos                       | 99   | 353      
-Lastkaj 14                     | 100  | 353      
+Lastkaj 14                     | 99   | 354      
+deLillos                       | 100  | 353      
 
 ## Active top 100 artists not seen live (28)
 
@@ -77,12 +77,12 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2231     
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1961     
-Ryan Adams               | 21   | 1862     
+Ryan Adams               | 21   | 1863     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1538     
 Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
-The Hold Steady          | 43   | 856      
+The Hold Steady          | 43   | 875      
 Melvins                  | 49   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 760      
