@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2583
 Manic Street Preachers         | 11   | 2546     
 Frank Turner                   | 12   | 2399     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2092     
+The National                   | 17   | 2097     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
@@ -54,7 +54,7 @@ Tool                           | 55   | 739
 Ghost                          | 59   | 666      
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 649      
-Jason Isbell                   | 63   | 648      
+Jason Isbell                   | 63   | 649      
 Blood Command                  | 66   | 619      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 599      
@@ -77,12 +77,12 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2231     
 Bob Mould                | 16   | 2222     
 Propagandhi              | 20   | 1961     
-Ryan Adams               | 21   | 1863     
+Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1538     
 Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
-The Hold Steady          | 43   | 875      
+The Hold Steady          | 43   | 880      
 Melvins                  | 49   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 760      
