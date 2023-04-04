@@ -21,12 +21,12 @@ Rush                           | 3    | 4487
 The Gaslight Anthem            | 4    | 4291     
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
-Motorpsycho                    | 9    | 2662     
+Motorpsycho                    | 9    | 2663     
 Bruce Springsteen              | 10   | 2583     
-Manic Street Preachers         | 11   | 2546     
+Manic Street Preachers         | 11   | 2549     
 Frank Turner                   | 12   | 2399     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2097     
+The National                   | 17   | 2098     
 Raga Rockers                   | 18   | 2074     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
@@ -46,8 +46,8 @@ Oslo Ess                       | 44   | 834
 Thin Lizzy                     | 45   | 826      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 789      
-The Tallest Man on Earth       | 48   | 786      
-Sweden                         | 50   | 778      
+The Tallest Man on Earth       | 48   | 787      
+Sweden                         | 50   | 780      
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
@@ -58,7 +58,7 @@ Jason Isbell                   | 63   | 649
 Blood Command                  | 66   | 619      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 599      
-Dropkick Murphys               | 69   | 597      
+Dropkick Murphys               | 69   | 598      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -66,8 +66,8 @@ Opeth                          | 88   | 409
 Gojira                         | 92   | 389      
 Jason Isbell and The 400 Unit  | 95   | 378      
 Kaizers Orchestra              | 97   | 371      
-Lastkaj 14                     | 99   | 354      
-deLillos                       | 100  | 353      
+deLillos                       | 99   | 354      
+Lastkaj 14                     | 100  | 354      
 
 ## Active top 100 artists not seen live (28)
 
@@ -82,13 +82,13 @@ Guided by Voices         | 23   | 1772
 The Menzingers           | 25   | 1538     
 Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
-The Hold Steady          | 43   | 880      
+The Hold Steady          | 43   | 890      
 Melvins                  | 49   | 781      
 Bob Dylan                | 51   | 762      
 The Black Crowes         | 53   | 760      
 Eddie Vedder             | 58   | 687      
 Hot Water Music          | 61   | 651      
-Afghan Whigs             | 64   | 647      
+Afghan Whigs             | 64   | 648      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 490      
 Rage Against the Machine | 79   | 483      
@@ -115,13 +115,13 @@ Fugazi               | 41   | 988
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 597      
-Big Star             | 73   | 561      
+Big Star             | 73   | 562      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
 The Beatles          | 76   | 505      
 Pink Floyd           | 81   | 467      
 Black Sabbath        | 83   | 464      
-The Twilight Singers | 86   | 429      
+The Twilight Singers | 86   | 430      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
 The Band             | 93   | 386      
