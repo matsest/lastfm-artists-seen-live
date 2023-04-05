@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4291
 Against Me!                    | 6    | 2971     
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2663     
-Bruce Springsteen              | 10   | 2583     
+Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2549     
 Frank Turner                   | 12   | 2399     
 Chris Cornell                  | 14   | 2233     
@@ -43,7 +43,7 @@ Hellbillies                    | 39   | 993
 Stein Torleif Bjella           | 40   | 992      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 826      
+Thin Lizzy                     | 45   | 827      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 789      
 The Tallest Man on Earth       | 48   | 787      
@@ -84,7 +84,7 @@ Weezer                   | 26   | 1536
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 890      
 Melvins                  | 49   | 781      
-Bob Dylan                | 51   | 762      
+Bob Dylan                | 51   | 765      
 The Black Crowes         | 53   | 760      
 Eddie Vedder             | 58   | 687      
 Hot Water Music          | 61   | 651      
@@ -114,14 +114,14 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 716      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 597      
+Foo Fighters         | 70   | 598      
 Big Star             | 73   | 562      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
-The Beatles          | 76   | 505      
-Pink Floyd           | 81   | 467      
+The Beatles          | 76   | 508      
+Pink Floyd           | 81   | 469      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 86   | 430      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 386      
+The Band             | 93   | 387      
