@@ -18,24 +18,24 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6016     
 Rush                           | 3    | 4487     
-The Gaslight Anthem            | 4    | 4291     
-Against Me!                    | 6    | 2971     
+The Gaslight Anthem            | 4    | 4292     
+Against Me!                    | 6    | 2972     
 DumDum Boys                    | 7    | 2893     
-Motorpsycho                    | 9    | 2676     
+Motorpsycho                    | 9    | 2677     
 Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2549     
 Frank Turner                   | 12   | 2399     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2098     
-Raga Rockers                   | 18   | 2074     
+Raga Rockers                   | 18   | 2075     
 johndoe                        | 19   | 1973     
 AC/DC                          | 22   | 1805     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1519     
-Spidergawd                     | 28   | 1454     
+Spidergawd                     | 28   | 1457     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1227     
+Kvelertak                      | 31   | 1229     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -55,10 +55,10 @@ Ghost                          | 59   | 666
 The Posies                     | 60   | 657      
 Japandroids                    | 62   | 649      
 Jason Isbell                   | 63   | 649      
-Blood Command                  | 66   | 619      
+Blood Command                  | 66   | 620      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 68   | 599      
-Dropkick Murphys               | 69   | 598      
+Dropkick Murphys               | 68   | 600      
+Clutch                         | 69   | 599      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2231     
 Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1961     
+Propagandhi              | 20   | 1968     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1538     
