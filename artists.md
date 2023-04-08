@@ -23,8 +23,8 @@ Against Me!                    | 6    | 2972
 DumDum Boys                    | 7    | 2893     
 Motorpsycho                    | 9    | 2677     
 Bruce Springsteen              | 10   | 2585     
-Manic Street Preachers         | 11   | 2549     
-Frank Turner                   | 12   | 2399     
+Manic Street Preachers         | 11   | 2550     
+Frank Turner                   | 12   | 2400     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2098     
 Raga Rockers                   | 18   | 2075     
@@ -45,9 +45,9 @@ Anti-Lam Front                 | 42   | 932
 Oslo Ess                       | 44   | 834      
 Thin Lizzy                     | 45   | 827      
 Brian Fallon                   | 46   | 796      
-Pappasaft                      | 47   | 789      
+Pappasaft                      | 47   | 790      
 The Tallest Man on Earth       | 48   | 787      
-Sweden                         | 50   | 780      
+Sweden                         | 49   | 782      
 Devin Townsend                 | 52   | 760      
 Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
@@ -57,8 +57,8 @@ Japandroids                    | 62   | 649
 Jason Isbell                   | 63   | 649      
 Blood Command                  | 66   | 620      
 Devin Townsend Project         | 67   | 605      
-Dropkick Murphys               | 68   | 600      
-Clutch                         | 69   | 599      
+Clutch                         | 68   | 600      
+Dropkick Murphys               | 69   | 600      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -75,15 +75,15 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2231     
-Bob Mould                | 16   | 2222     
-Propagandhi              | 20   | 1968     
+Bob Mould                | 16   | 2223     
+Propagandhi              | 20   | 1972     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1538     
 Weezer                   | 26   | 1536     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 890      
-Melvins                  | 49   | 781      
+Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 53   | 760      
 Eddie Vedder             | 58   | 687      
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 430      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 387      
+The Band             | 93   | 388      
