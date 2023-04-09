@@ -20,10 +20,10 @@ Pearl Jam                      | 2    | 6016
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4292     
 Against Me!                    | 6    | 2972     
-DumDum Boys                    | 7    | 2893     
+DumDum Boys                    | 7    | 2894     
 Motorpsycho                    | 9    | 2677     
 Bruce Springsteen              | 10   | 2585     
-Manic Street Preachers         | 11   | 2550     
+Manic Street Preachers         | 11   | 2551     
 Frank Turner                   | 12   | 2400     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2098     
@@ -43,7 +43,7 @@ Hellbillies                    | 39   | 993
 Stein Torleif Bjella           | 40   | 992      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 834      
-Thin Lizzy                     | 45   | 827      
+Thin Lizzy                     | 45   | 829      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 790      
 The Tallest Man on Earth       | 48   | 787      
@@ -74,13 +74,13 @@ Lastkaj 14                     | 100  | 354
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2374     
-The Who                  | 15   | 2231     
+The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 20   | 1972     
+Propagandhi              | 20   | 1973     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1772     
 The Menzingers           | 25   | 1538     
-Weezer                   | 26   | 1536     
+Weezer                   | 26   | 1538     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 890      
 Melvins                  | 50   | 781      
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 490
 Rage Against the Machine | 79   | 483      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
-Faith No More            | 84   | 438      
+Faith No More            | 84   | 439      
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
@@ -118,7 +118,7 @@ Foo Fighters         | 70   | 598
 Big Star             | 73   | 562      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 529      
-The Beatles          | 76   | 508      
+The Beatles          | 76   | 510      
 Pink Floyd           | 81   | 469      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 86   | 430      
