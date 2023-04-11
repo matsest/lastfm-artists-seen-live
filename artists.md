@@ -63,8 +63,8 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
-Gojira                         | 92   | 389      
-Jason Isbell and The 400 Unit  | 95   | 378      
+Jason Isbell and The 400 Unit  | 92   | 391      
+Gojira                         | 93   | 389      
 Kaizers Orchestra              | 97   | 371      
 deLillos                       | 99   | 354      
 Lastkaj 14                     | 100  | 354      
@@ -98,7 +98,7 @@ Faith No More            | 84   | 439
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
-The Hotelier             | 94   | 385      
+The Hotelier             | 95   | 385      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 358      
 
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 430      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 93   | 388      
+The Band             | 94   | 388      
