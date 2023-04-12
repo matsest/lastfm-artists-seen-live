@@ -29,13 +29,13 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2098     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 19   | 1973     
-AC/DC                          | 22   | 1805     
+AC/DC                          | 22   | 1806     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1519     
 Spidergawd                     | 28   | 1457     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1229     
+Kvelertak                      | 31   | 1240     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -52,9 +52,9 @@ Devin Townsend                 | 52   | 760
 Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 666      
-The Posies                     | 60   | 657      
-Japandroids                    | 62   | 649      
-Jason Isbell                   | 63   | 649      
+Jason Isbell                   | 60   | 658      
+The Posies                     | 61   | 657      
+Japandroids                    | 63   | 649      
 Blood Command                  | 66   | 620      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 600      
@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
 Opeth                          | 88   | 409      
-Jason Isbell and The 400 Unit  | 92   | 391      
+Jason Isbell and The 400 Unit  | 92   | 392      
 Gojira                         | 93   | 389      
 Kaizers Orchestra              | 97   | 371      
 deLillos                       | 99   | 354      
@@ -87,7 +87,7 @@ Melvins                  | 50   | 781
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 53   | 760      
 Eddie Vedder             | 58   | 687      
-Hot Water Music          | 61   | 651      
+Hot Water Music          | 62   | 651      
 Afghan Whigs             | 64   | 648      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 490      
