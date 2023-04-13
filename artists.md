@@ -23,19 +23,19 @@ Against Me!                    | 6    | 2972
 DumDum Boys                    | 7    | 2894     
 Motorpsycho                    | 9    | 2677     
 Bruce Springsteen              | 10   | 2585     
-Manic Street Preachers         | 11   | 2551     
+Manic Street Preachers         | 11   | 2553     
 Frank Turner                   | 12   | 2400     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2098     
 Raga Rockers                   | 18   | 2075     
-johndoe                        | 19   | 1973     
-AC/DC                          | 22   | 1806     
+johndoe                        | 20   | 1973     
+AC/DC                          | 22   | 1816     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1519     
-Spidergawd                     | 28   | 1457     
+The Smashing Pumpkins          | 27   | 1521     
+Spidergawd                     | 28   | 1464     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1240     
+Kvelertak                      | 31   | 1242     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -48,13 +48,13 @@ Brian Fallon                   | 46   | 796
 Pappasaft                      | 47   | 790      
 The Tallest Man on Earth       | 48   | 787      
 Sweden                         | 49   | 782      
-Devin Townsend                 | 52   | 760      
+Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 747      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 666      
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
-Japandroids                    | 63   | 649      
+Japandroids                    | 64   | 649      
 Blood Command                  | 66   | 620      
 Devin Townsend Project         | 67   | 605      
 Clutch                         | 68   | 600      
@@ -76,25 +76,25 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 20   | 1973     
+Propagandhi              | 19   | 1975     
 Ryan Adams               | 21   | 1866     
-Guided by Voices         | 23   | 1772     
-The Menzingers           | 25   | 1538     
-Weezer                   | 26   | 1538     
+Guided by Voices         | 23   | 1774     
+Weezer                   | 25   | 1540     
+The Menzingers           | 26   | 1538     
 Touché Amoré             | 38   | 1012     
 The Hold Steady          | 43   | 890      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
-The Black Crowes         | 53   | 760      
+The Black Crowes         | 52   | 761      
 Eddie Vedder             | 58   | 687      
 Hot Water Music          | 62   | 651      
-Afghan Whigs             | 64   | 648      
+Afghan Whigs             | 63   | 649      
 Neil Young               | 65   | 639      
-Dinosaur Jr.             | 78   | 490      
+Dinosaur Jr.             | 78   | 491      
 Rage Against the Machine | 79   | 483      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
-Faith No More            | 84   | 439      
+Faith No More            | 84   | 440      
 Thåström                 | 85   | 435      
 Dawes                    | 90   | 399      
 Ulver                    | 91   | 396      
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
 Hüsker Dü            | 8    | 2872     
-Sugar                | 32   | 1206     
+Sugar                | 32   | 1207     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 988      
