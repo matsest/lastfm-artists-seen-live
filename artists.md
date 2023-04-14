@@ -29,13 +29,13 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2098     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1973     
-AC/DC                          | 22   | 1816     
+AC/DC                          | 22   | 1820     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1521     
-Spidergawd                     | 28   | 1464     
+Spidergawd                     | 28   | 1465     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1242     
+Kvelertak                      | 31   | 1243     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -57,8 +57,8 @@ The Posies                     | 61   | 657
 Japandroids                    | 64   | 649      
 Blood Command                  | 66   | 620      
 Devin Townsend Project         | 67   | 605      
-Clutch                         | 68   | 600      
-Dropkick Murphys               | 69   | 600      
+Dropkick Murphys               | 68   | 601      
+Clutch                         | 69   | 600      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 1975     
+Propagandhi              | 19   | 1978     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
