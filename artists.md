@@ -21,9 +21,9 @@ Rush                           | 3    | 4487
 The Gaslight Anthem            | 4    | 4292     
 Against Me!                    | 6    | 2972     
 DumDum Boys                    | 7    | 2894     
-Motorpsycho                    | 9    | 2677     
+Motorpsycho                    | 9    | 2679     
 Bruce Springsteen              | 10   | 2585     
-Manic Street Preachers         | 11   | 2553     
+Manic Street Preachers         | 11   | 2554     
 Frank Turner                   | 12   | 2400     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2098     
@@ -32,10 +32,10 @@ johndoe                        | 20   | 1973
 AC/DC                          | 22   | 1820     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1521     
-Spidergawd                     | 28   | 1465     
+Spidergawd                     | 28   | 1467     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1243     
+Kvelertak                      | 31   | 1245     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -49,14 +49,14 @@ Pappasaft                      | 47   | 790
 The Tallest Man on Earth       | 48   | 787      
 Sweden                         | 49   | 782      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 747      
+Thulsa Doom                    | 54   | 749      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 666      
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 64   | 649      
-Blood Command                  | 66   | 620      
-Devin Townsend Project         | 67   | 605      
+Blood Command                  | 66   | 621      
+Devin Townsend Project         | 67   | 606      
 Dropkick Murphys               | 68   | 601      
 Clutch                         | 69   | 600      
 Spielbergs                     | 71   | 580      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 1978     
+Propagandhi              | 19   | 1985     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
@@ -85,7 +85,7 @@ Touché Amoré             | 38   | 1012
 The Hold Steady          | 43   | 890      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
-The Black Crowes         | 52   | 761      
+The Black Crowes         | 52   | 762      
 Eddie Vedder             | 58   | 687      
 Hot Water Music          | 62   | 651      
 Afghan Whigs             | 63   | 649      
