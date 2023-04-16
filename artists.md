@@ -16,26 +16,26 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
-Pearl Jam                      | 2    | 6016     
+Pearl Jam                      | 2    | 6017     
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4292     
 Against Me!                    | 6    | 2972     
 DumDum Boys                    | 7    | 2894     
 Motorpsycho                    | 9    | 2679     
 Bruce Springsteen              | 10   | 2585     
-Manic Street Preachers         | 11   | 2554     
+Manic Street Preachers         | 11   | 2555     
 Frank Turner                   | 12   | 2400     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2098     
+The National                   | 17   | 2099     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1973     
 AC/DC                          | 22   | 1820     
 Mastodon                       | 24   | 1752     
-The Smashing Pumpkins          | 27   | 1521     
+The Smashing Pumpkins          | 27   | 1522     
 Spidergawd                     | 28   | 1467     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1245     
+Kvelertak                      | 31   | 1247     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -66,8 +66,8 @@ Opeth                          | 88   | 409
 Jason Isbell and The 400 Unit  | 92   | 392      
 Gojira                         | 93   | 389      
 Kaizers Orchestra              | 97   | 371      
-deLillos                       | 99   | 354      
-Lastkaj 14                     | 100  | 354      
+Lastkaj 14                     | 99   | 355      
+deLillos                       | 100  | 354      
 
 ## Active top 100 artists not seen live (28)
 
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 1985     
+Propagandhi              | 19   | 1991     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 86   | 430      
 Marillion            | 87   | 418      
 Jokke med Tourettes  | 89   | 408      
-The Band             | 94   | 388      
+The Band             | 94   | 389      
