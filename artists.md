@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1522
 Spidergawd                     | 28   | 1467     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1247     
+Kvelertak                      | 31   | 1260     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 1991     
+Propagandhi              | 19   | 1997     
 Ryan Adams               | 21   | 1866     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
