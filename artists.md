@@ -32,7 +32,7 @@ johndoe                        | 20   | 1973
 AC/DC                          | 22   | 1820     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1522     
-Spidergawd                     | 28   | 1467     
+Spidergawd                     | 28   | 1471     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1261     
@@ -77,7 +77,7 @@ Alice in Chains          | 13   | 2374
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
 Propagandhi              | 19   | 1998     
-Ryan Adams               | 21   | 1866     
+Ryan Adams               | 21   | 1869     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
 The Menzingers           | 26   | 1538     
