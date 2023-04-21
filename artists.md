@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6017
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4297     
 Against Me!                    | 6    | 2972     
-DumDum Boys                    | 7    | 2894     
+DumDum Boys                    | 7    | 2937     
 Motorpsycho                    | 9    | 2680     
 Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2557     
@@ -82,7 +82,7 @@ Guided by Voices         | 23   | 1774
 Weezer                   | 25   | 1540     
 The Menzingers           | 26   | 1538     
 Touché Amoré             | 38   | 1012     
-The Hold Steady          | 43   | 890      
+The Hold Steady          | 43   | 892      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 52   | 762      
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 718      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 598      
+Foo Fighters         | 70   | 599      
 Big Star             | 73   | 562      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
