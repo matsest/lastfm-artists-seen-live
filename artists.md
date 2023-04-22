@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6017
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4297     
 Against Me!                    | 6    | 2972     
-DumDum Boys                    | 7    | 2937     
+DumDum Boys                    | 7    | 2938     
 Motorpsycho                    | 9    | 2680     
 Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2557     
@@ -39,7 +39,7 @@ Kvelertak                      | 31   | 1261
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 39   | 1004     
+Hellbillies                    | 38   | 1012     
 Stein Torleif Bjella           | 40   | 992      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
@@ -55,7 +55,7 @@ Ghost                          | 59   | 666
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 650      
-Blood Command                  | 66   | 621      
+Blood Command                  | 66   | 622      
 Devin Townsend Project         | 67   | 606      
 Dropkick Murphys               | 68   | 601      
 Clutch                         | 69   | 600      
@@ -81,7 +81,7 @@ Ryan Adams               | 21   | 1869
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1540     
 The Menzingers           | 26   | 1538     
-Touché Amoré             | 38   | 1012     
+Touché Amoré             | 39   | 1012     
 The Hold Steady          | 43   | 892      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
