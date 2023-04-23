@@ -45,7 +45,7 @@ Anti-Lam Front                 | 42   | 932
 Oslo Ess                       | 44   | 835      
 Thin Lizzy                     | 45   | 829      
 Brian Fallon                   | 46   | 796      
-Pappasaft                      | 47   | 790      
+Pappasaft                      | 47   | 794      
 The Tallest Man on Earth       | 48   | 788      
 Sweden                         | 49   | 784      
 Devin Townsend                 | 53   | 760      
