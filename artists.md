@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6017
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2972     
-DumDum Boys                    | 7    | 2939     
+DumDum Boys                    | 7    | 2942     
 Motorpsycho                    | 9    | 2683     
 Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2557     
@@ -35,11 +35,11 @@ The Smashing Pumpkins          | 27   | 1522
 Spidergawd                     | 28   | 1471     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1261     
+Kvelertak                      | 31   | 1262     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 38   | 1012     
+Hellbillies                    | 38   | 1015     
 Stein Torleif Bjella           | 40   | 992      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
@@ -67,7 +67,7 @@ Jason Isbell and The 400 Unit  | 92   | 395
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
 Lastkaj 14                     | 99   | 358      
-deLillos                       | 100  | 356      
+deLillos                       | 100  | 357      
 
 ## Active top 100 artists not seen live (28)
 
@@ -76,10 +76,10 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 1998     
+Propagandhi              | 19   | 2000     
 Ryan Adams               | 21   | 1869     
 Guided by Voices         | 23   | 1774     
-Weezer                   | 25   | 1540     
+Weezer                   | 25   | 1542     
 The Menzingers           | 26   | 1538     
 Touché Amoré             | 39   | 1012     
 The Hold Steady          | 43   | 893      
@@ -112,9 +112,9 @@ Sugar                | 32   | 1208
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 988      
-Jokke & Valentinerne | 56   | 718      
+Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 599      
+Foo Fighters         | 70   | 600      
 Big Star             | 73   | 563      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
