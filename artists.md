@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2099     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1833     
+AC/DC                          | 22   | 1836     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1522     
 Spidergawd                     | 28   | 1471     
@@ -45,7 +45,7 @@ Anti-Lam Front                 | 42   | 932
 Oslo Ess                       | 44   | 835      
 Thin Lizzy                     | 45   | 829      
 Brian Fallon                   | 46   | 796      
-Pappasaft                      | 47   | 794      
+Pappasaft                      | 47   | 795      
 The Tallest Man on Earth       | 48   | 789      
 Sweden                         | 49   | 784      
 Devin Townsend                 | 53   | 760      
@@ -58,7 +58,7 @@ Japandroids                    | 63   | 651
 Blood Command                  | 66   | 622      
 Devin Townsend Project         | 67   | 606      
 Dropkick Murphys               | 68   | 601      
-Clutch                         | 69   | 600      
+Clutch                         | 70   | 600      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2374     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2000     
+Propagandhi              | 19   | 2010     
 Ryan Adams               | 21   | 1869     
 Guided by Voices         | 23   | 1774     
 Weezer                   | 25   | 1542     
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 600      
+Foo Fighters         | 69   | 601      
 Big Star             | 73   | 563      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
