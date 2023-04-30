@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6017
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2972     
-DumDum Boys                    | 7    | 2942     
+DumDum Boys                    | 7    | 2943     
 Motorpsycho                    | 9    | 2683     
 Bruce Springsteen              | 10   | 2585     
 Manic Street Preachers         | 11   | 2557     
@@ -29,18 +29,18 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2099     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1836     
+AC/DC                          | 22   | 1838     
 Mastodon                       | 24   | 1752     
 The Smashing Pumpkins          | 27   | 1522     
-Spidergawd                     | 28   | 1471     
+Spidergawd                     | 28   | 1474     
 Mark Lanegan                   | 29   | 1418     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1262     
+Kvelertak                      | 31   | 1263     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
 Hellbillies                    | 38   | 1015     
-Stein Torleif Bjella           | 40   | 992      
+Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
 Thin Lizzy                     | 45   | 829      
@@ -55,7 +55,7 @@ Ghost                          | 59   | 669
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
-Blood Command                  | 66   | 622      
+Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
 Dropkick Murphys               | 68   | 601      
 Clutch                         | 70   | 600      
@@ -73,12 +73,12 @@ deLillos                       | 100  | 357
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-Alice in Chains          | 13   | 2374     
+Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2232     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2010     
+Propagandhi              | 19   | 2011     
 Ryan Adams               | 21   | 1869     
-Guided by Voices         | 23   | 1774     
+Guided by Voices         | 23   | 1775     
 Weezer                   | 25   | 1542     
 The Menzingers           | 26   | 1538     
 Touché Amoré             | 39   | 1012     
@@ -91,7 +91,7 @@ Hot Water Music          | 62   | 651
 Afghan Whigs             | 64   | 649      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 491      
-Rage Against the Machine | 79   | 483      
+Rage Against the Machine | 79   | 484      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
 Faith No More            | 84   | 440      
