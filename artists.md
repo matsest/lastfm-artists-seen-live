@@ -22,15 +22,15 @@ The Gaslight Anthem            | 4    | 4298
 Against Me!                    | 6    | 2972     
 DumDum Boys                    | 7    | 2943     
 Motorpsycho                    | 9    | 2683     
-Bruce Springsteen              | 10   | 2585     
+Bruce Springsteen              | 10   | 2586     
 Manic Street Preachers         | 11   | 2557     
 Frank Turner                   | 12   | 2402     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2099     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1838     
-Mastodon                       | 24   | 1752     
+AC/DC                          | 22   | 1841     
+Mastodon                       | 24   | 1753     
 The Smashing Pumpkins          | 27   | 1522     
 Spidergawd                     | 28   | 1474     
 Mark Lanegan                   | 29   | 1418     
@@ -57,8 +57,8 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Dropkick Murphys               | 68   | 601      
-Clutch                         | 70   | 600      
+Clutch                         | 68   | 601      
+Dropkick Murphys               | 69   | 601      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
@@ -74,7 +74,7 @@ deLillos                       | 100  | 357
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 15   | 2232     
+The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
 Propagandhi              | 19   | 2011     
 Ryan Adams               | 21   | 1869     
@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 988      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
-Foo Fighters         | 69   | 601      
+Foo Fighters         | 70   | 601      
 Big Star             | 73   | 563      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
