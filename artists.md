@@ -19,21 +19,21 @@ Soundgarden                    | 1    | 6105
 Pearl Jam                      | 2    | 6017     
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
-Against Me!                    | 6    | 2972     
+Against Me!                    | 6    | 2974     
 DumDum Boys                    | 7    | 2943     
-Motorpsycho                    | 9    | 2683     
+Motorpsycho                    | 9    | 2687     
 Bruce Springsteen              | 10   | 2586     
-Manic Street Preachers         | 11   | 2557     
-Frank Turner                   | 12   | 2402     
+Manic Street Preachers         | 11   | 2558     
+Frank Turner                   | 12   | 2404     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2099     
+The National                   | 17   | 2100     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1841     
-Mastodon                       | 24   | 1753     
+Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1522     
-Spidergawd                     | 28   | 1474     
-Mark Lanegan                   | 29   | 1418     
+Spidergawd                     | 28   | 1475     
+Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1263     
 Chuck Ragan                    | 34   | 1144     
@@ -46,10 +46,10 @@ Oslo Ess                       | 44   | 835
 Thin Lizzy                     | 45   | 829      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 795      
-The Tallest Man on Earth       | 48   | 789      
+The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 49   | 784      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 750      
+Thulsa Doom                    | 54   | 752      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 669      
 Jason Isbell                   | 60   | 658      
@@ -57,17 +57,17 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Clutch                         | 68   | 601      
+Clutch                         | 68   | 602      
 Dropkick Murphys               | 69   | 601      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 77   | 504      
-Opeth                          | 89   | 409      
+Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
-Lastkaj 14                     | 99   | 358      
-deLillos                       | 100  | 357      
+deLillos                       | 99   | 358      
+Lastkaj 14                     | 100  | 358      
 
 ## Active top 100 artists not seen live (28)
 
@@ -77,11 +77,11 @@ Alice in Chains          | 13   | 2375
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
 Propagandhi              | 19   | 2011     
-Ryan Adams               | 21   | 1869     
+Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1775     
 Weezer                   | 25   | 1542     
 The Menzingers           | 26   | 1538     
-Touché Amoré             | 39   | 1012     
+Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 893      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
@@ -96,9 +96,9 @@ The War on Drugs         | 80   | 472
 Yes                      | 82   | 466      
 Faith No More            | 84   | 440      
 Thåström                 | 85   | 436      
-Dawes                    | 90   | 399      
+Dawes                    | 87   | 419      
 Ulver                    | 91   | 396      
-The Hotelier             | 95   | 385      
+The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
 Dave Hause               | 98   | 358      
 
@@ -115,13 +115,13 @@ Fugazi               | 41   | 988
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 601      
-Big Star             | 73   | 563      
+Big Star             | 73   | 564      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 76   | 510      
 Pink Floyd           | 81   | 469      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 86   | 430      
-Marillion            | 87   | 418      
-Jokke med Tourettes  | 88   | 409      
+Marillion            | 88   | 418      
+Jokke med Tourettes  | 89   | 409      
 The Band             | 94   | 389      
