@@ -20,8 +20,8 @@ Pearl Jam                      | 2    | 6017
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2974     
-DumDum Boys                    | 7    | 2943     
-Motorpsycho                    | 9    | 2687     
+DumDum Boys                    | 7    | 2944     
+Motorpsycho                    | 9    | 2688     
 Bruce Springsteen              | 10   | 2586     
 Manic Street Preachers         | 11   | 2558     
 Frank Turner                   | 12   | 2404     
@@ -35,11 +35,11 @@ The Smashing Pumpkins          | 27   | 1522
 Spidergawd                     | 28   | 1475     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1263     
+Kvelertak                      | 31   | 1264     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 38   | 1015     
+Hellbillies                    | 38   | 1016     
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
@@ -96,7 +96,7 @@ The War on Drugs         | 80   | 472
 Yes                      | 82   | 466      
 Faith No More            | 84   | 440      
 Thåström                 | 85   | 436      
-Dawes                    | 87   | 419      
+Dawes                    | 86   | 435      
 Ulver                    | 91   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
@@ -121,7 +121,7 @@ Paul Westerberg      | 75   | 530
 The Beatles          | 76   | 510      
 Pink Floyd           | 81   | 469      
 Black Sabbath        | 83   | 464      
-The Twilight Singers | 86   | 430      
+The Twilight Singers | 87   | 430      
 Marillion            | 88   | 418      
 Jokke med Tourettes  | 89   | 409      
 The Band             | 94   | 389      
