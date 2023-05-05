@@ -29,10 +29,10 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2100     
 Raga Rockers                   | 18   | 2075     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1841     
+AC/DC                          | 22   | 1842     
 Mastodon                       | 24   | 1754     
-The Smashing Pumpkins          | 27   | 1522     
-Spidergawd                     | 28   | 1475     
+The Smashing Pumpkins          | 27   | 1524     
+Spidergawd                     | 28   | 1477     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1264     
@@ -43,7 +43,7 @@ Hellbillies                    | 38   | 1016
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
-Thin Lizzy                     | 45   | 829      
+Thin Lizzy                     | 45   | 830      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 795      
 The Tallest Man on Earth       | 48   | 790      
@@ -57,7 +57,7 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Clutch                         | 68   | 602      
+Clutch                         | 68   | 603      
 Dropkick Murphys               | 69   | 601      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
@@ -79,13 +79,13 @@ Bob Mould                | 16   | 2223
 Propagandhi              | 19   | 2011     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1775     
-Weezer                   | 25   | 1542     
+Weezer                   | 25   | 1543     
 The Menzingers           | 26   | 1538     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 893      
 Melvins                  | 50   | 781      
 Bob Dylan                | 51   | 765      
-The Black Crowes         | 52   | 762      
+The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
 Afghan Whigs             | 64   | 649      
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 484      
 The War on Drugs         | 80   | 472      
 Yes                      | 82   | 466      
-Faith No More            | 84   | 440      
+Faith No More            | 84   | 441      
 Thåström                 | 85   | 436      
 Dawes                    | 86   | 435      
 Ulver                    | 91   | 396      
