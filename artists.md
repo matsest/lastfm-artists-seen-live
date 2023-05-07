@@ -21,7 +21,7 @@ Rush                           | 3    | 4487
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2974     
 DumDum Boys                    | 7    | 2944     
-Motorpsycho                    | 9    | 2698     
+Motorpsycho                    | 9    | 2699     
 Bruce Springsteen              | 10   | 2587     
 Manic Street Preachers         | 11   | 2558     
 Frank Turner                   | 12   | 2404     
@@ -58,10 +58,10 @@ Japandroids                    | 63   | 651
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
 Clutch                         | 68   | 603      
-Dropkick Murphys               | 69   | 601      
+Dropkick Murphys               | 69   | 602      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 77   | 504      
+The Good The Bad and The Zugly | 76   | 512      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2011     
+Propagandhi              | 19   | 2013     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1775     
 Weezer                   | 25   | 1543     
-The Menzingers           | 26   | 1538     
+The Menzingers           | 26   | 1539     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 893      
 Melvins                  | 50   | 781      
@@ -107,18 +107,18 @@ Dave Hause               | 98   | 358
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2874     
+Hüsker Dü            | 8    | 2876     
 Sugar                | 32   | 1208     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 988      
+Fugazi               | 41   | 989      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 601      
 Big Star             | 73   | 564      
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
-The Beatles          | 76   | 510      
+The Beatles          | 77   | 510      
 Pink Floyd           | 81   | 469      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 87   | 430      
