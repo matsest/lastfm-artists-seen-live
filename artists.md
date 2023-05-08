@@ -24,7 +24,7 @@ DumDum Boys                    | 7    | 2944
 Motorpsycho                    | 9    | 2699     
 Bruce Springsteen              | 10   | 2587     
 Manic Street Preachers         | 11   | 2558     
-Frank Turner                   | 12   | 2404     
+Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2100     
 Raga Rockers                   | 18   | 2077     
@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1524
 Spidergawd                     | 28   | 1484     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1265     
+Kvelertak                      | 31   | 1266     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Justin Townes Earle            | 37   | 1018     
@@ -58,10 +58,10 @@ Japandroids                    | 63   | 651
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
 Clutch                         | 68   | 603      
-Dropkick Murphys               | 69   | 602      
+Dropkick Murphys               | 69   | 603      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 512      
+The Good The Bad and The Zugly | 76   | 514      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2013     
+Propagandhi              | 19   | 2016     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1775     
 Weezer                   | 25   | 1543     
-The Menzingers           | 26   | 1539     
+The Menzingers           | 26   | 1541     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 893      
 Melvins                  | 50   | 781      
@@ -88,7 +88,7 @@ Bob Dylan                | 51   | 765
 The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
-Afghan Whigs             | 64   | 649      
+Afghan Whigs             | 64   | 650      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 491      
 Rage Against the Machine | 79   | 484      
