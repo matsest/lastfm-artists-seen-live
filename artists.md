@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4298
 Against Me!                    | 6    | 2974     
 DumDum Boys                    | 7    | 2944     
 Motorpsycho                    | 9    | 2699     
-Bruce Springsteen              | 10   | 2587     
+Bruce Springsteen              | 10   | 2588     
 Manic Street Preachers         | 11   | 2558     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
@@ -92,8 +92,8 @@ Afghan Whigs             | 64   | 650
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 491      
 Rage Against the Machine | 79   | 484      
-The War on Drugs         | 80   | 472      
-Yes                      | 82   | 466      
+Yes                      | 80   | 480      
+The War on Drugs         | 81   | 472      
 Faith No More            | 84   | 441      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
@@ -119,7 +119,7 @@ Big Star             | 73   | 564
 Temple of the Dog    | 74   | 550      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 510      
-Pink Floyd           | 81   | 469      
+Pink Floyd           | 82   | 469      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 87   | 430      
 Marillion            | 88   | 418      
