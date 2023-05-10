@@ -21,9 +21,9 @@ Rush                           | 3    | 4487
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2974     
 DumDum Boys                    | 7    | 2944     
-Motorpsycho                    | 9    | 2699     
+Motorpsycho                    | 9    | 2701     
 Bruce Springsteen              | 10   | 2588     
-Manic Street Preachers         | 11   | 2558     
+Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2100     
@@ -31,8 +31,8 @@ Raga Rockers                   | 18   | 2077
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1842     
 Mastodon                       | 24   | 1754     
-The Smashing Pumpkins          | 27   | 1524     
-Spidergawd                     | 28   | 1484     
+The Smashing Pumpkins          | 27   | 1526     
+Spidergawd                     | 28   | 1493     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
@@ -57,8 +57,8 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Clutch                         | 68   | 603      
-Dropkick Murphys               | 69   | 603      
+Dropkick Murphys               | 68   | 604      
+Clutch                         | 69   | 603      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 514      
@@ -76,10 +76,10 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2016     
+Propagandhi              | 19   | 2017     
 Ryan Adams               | 21   | 1870     
-Guided by Voices         | 23   | 1775     
-Weezer                   | 25   | 1543     
+Guided by Voices         | 23   | 1777     
+Weezer                   | 25   | 1545     
 The Menzingers           | 26   | 1541     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 893      
@@ -91,7 +91,7 @@ Hot Water Music          | 62   | 651
 Afghan Whigs             | 64   | 650      
 Neil Young               | 65   | 639      
 Dinosaur Jr.             | 78   | 491      
-Rage Against the Machine | 79   | 484      
+Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 472      
 Faith No More            | 84   | 441      
@@ -108,10 +108,10 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
 Hüsker Dü            | 8    | 2876     
-Sugar                | 32   | 1208     
+Sugar                | 32   | 1209     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 989      
+Fugazi               | 41   | 990      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 601      
