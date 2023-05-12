@@ -19,20 +19,20 @@ Soundgarden                    | 1    | 6105
 Pearl Jam                      | 2    | 6017     
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
-Against Me!                    | 6    | 2974     
+Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2944     
 Motorpsycho                    | 9    | 2701     
 Bruce Springsteen              | 10   | 2588     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
-The National                   | 17   | 2101     
+The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2077     
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1842     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1513     
+Spidergawd                     | 28   | 1514     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2017     
+Propagandhi              | 19   | 2018     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1545     
