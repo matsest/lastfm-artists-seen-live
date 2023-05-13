@@ -29,10 +29,10 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2077     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1842     
+AC/DC                          | 22   | 1851     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1514     
+Spidergawd                     | 28   | 1521     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
