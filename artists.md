@@ -32,7 +32,7 @@ johndoe                        | 20   | 1975
 AC/DC                          | 22   | 1851     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1521     
+Spidergawd                     | 28   | 1522     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
