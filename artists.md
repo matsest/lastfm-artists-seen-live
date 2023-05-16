@@ -29,7 +29,7 @@ Chris Cornell                  | 14   | 2233
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2077     
 johndoe                        | 20   | 1975     
-AC/DC                          | 22   | 1851     
+AC/DC                          | 22   | 1852     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
 Spidergawd                     | 28   | 1522     
@@ -45,7 +45,7 @@ Anti-Lam Front                 | 42   | 932
 Oslo Ess                       | 44   | 835      
 Thin Lizzy                     | 45   | 830      
 Brian Fallon                   | 46   | 796      
-Pappasaft                      | 47   | 795      
+Pappasaft                      | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 49   | 784      
 Devin Townsend                 | 53   | 760      
@@ -80,7 +80,7 @@ Propagandhi              | 19   | 2018
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1545     
-The Menzingers           | 26   | 1541     
+The Menzingers           | 26   | 1542     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 894      
 Melvins                  | 50   | 781      
@@ -107,11 +107,11 @@ Dave Hause               | 98   | 358
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2876     
+Hüsker Dü            | 8    | 2877     
 Sugar                | 32   | 1209     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 990      
+Fugazi               | 41   | 991      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 601      
