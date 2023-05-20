@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 830
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
-Sweden                         | 49   | 784      
+Sweden                         | 50   | 784      
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 752      
 Tool                           | 55   | 739      
@@ -83,7 +83,7 @@ Weezer                   | 25   | 1545
 The Menzingers           | 26   | 1542     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 894      
-Melvins                  | 50   | 781      
+Melvins                  | 49   | 786      
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
