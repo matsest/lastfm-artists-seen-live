@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
-Pearl Jam                      | 2    | 6017     
+Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
@@ -27,12 +27,12 @@ Manic Street Preachers         | 11   | 2560
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
 The National                   | 17   | 2102     
-Raga Rockers                   | 18   | 2077     
+Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1852     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1522     
+Spidergawd                     | 28   | 1523     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
@@ -43,7 +43,7 @@ Hellbillies                    | 38   | 1016
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
-Thin Lizzy                     | 45   | 830      
+Thin Lizzy                     | 45   | 831      
 Brian Fallon                   | 46   | 796      
 Pappasaft                      | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
@@ -61,7 +61,7 @@ Dropkick Murphys               | 68   | 604
 Clutch                         | 69   | 603      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 514      
+The Good The Bad and The Zugly | 76   | 515      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -79,7 +79,7 @@ Bob Mould                | 16   | 2223
 Propagandhi              | 19   | 2018     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
-Weezer                   | 25   | 1545     
+Weezer                   | 25   | 1546     
 The Menzingers           | 26   | 1542     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 894      
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 472      
-Faith No More            | 84   | 441      
+Faith No More            | 84   | 442      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
 Ulver                    | 91   | 396      
@@ -114,9 +114,9 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 991      
 Jokke & Valentinerne | 56   | 720      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 601      
+Foo Fighters         | 70   | 603      
 Big Star             | 73   | 564      
-Temple of the Dog    | 74   | 550      
+Temple of the Dog    | 74   | 551      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 510      
 Pink Floyd           | 82   | 469      
