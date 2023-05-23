@@ -32,7 +32,7 @@ johndoe                        | 20   | 1975
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1523     
+Spidergawd                     | 28   | 1524     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
@@ -44,8 +44,8 @@ Stein Torleif Bjella           | 40   | 993
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 835      
 Thin Lizzy                     | 45   | 831      
-Brian Fallon                   | 46   | 796      
-Pappasaft                      | 47   | 796      
+Pappasaft                      | 46   | 797      
+Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 784      
 Devin Townsend                 | 53   | 760      
@@ -57,11 +57,11 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Dropkick Murphys               | 68   | 604      
-Clutch                         | 69   | 603      
+Clutch                         | 68   | 604      
+Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 515      
+The Good The Bad and The Zugly | 76   | 517      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2018     
+Propagandhi              | 19   | 2019     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1546     
-The Menzingers           | 26   | 1542     
+The Menzingers           | 26   | 1543     
 Touché Amoré             | 39   | 1013     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 786      
