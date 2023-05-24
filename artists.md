@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6018
 Rush                           | 3    | 4487     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
-DumDum Boys                    | 7    | 2944     
+DumDum Boys                    | 7    | 2948     
 Motorpsycho                    | 9    | 2701     
 Bruce Springsteen              | 10   | 2588     
 Manic Street Preachers         | 11   | 2560     
@@ -32,17 +32,17 @@ johndoe                        | 20   | 1975
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
 The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1524     
+Spidergawd                     | 28   | 1525     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
-Justin Townes Earle            | 37   | 1018     
-Hellbillies                    | 38   | 1016     
+Hellbillies                    | 37   | 1019     
+Justin Townes Earle            | 38   | 1018     
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 932      
-Oslo Ess                       | 44   | 835      
+Oslo Ess                       | 44   | 836      
 Thin Lizzy                     | 45   | 831      
 Pappasaft                      | 46   | 797      
 Brian Fallon                   | 47   | 796      
@@ -57,7 +57,7 @@ The Posies                     | 61   | 657
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
 Devin Townsend Project         | 67   | 606      
-Clutch                         | 68   | 604      
+Clutch                         | 68   | 605      
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
@@ -66,7 +66,7 @@ Opeth                          | 90   | 409
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
-deLillos                       | 99   | 358      
+deLillos                       | 98   | 361      
 Lastkaj 14                     | 100  | 358      
 
 ## Active top 100 artists not seen live (28)
@@ -76,12 +76,12 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2019     
+Propagandhi              | 19   | 2020     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
-Weezer                   | 25   | 1546     
+Weezer                   | 25   | 1547     
 The Menzingers           | 26   | 1543     
-Touché Amoré             | 39   | 1013     
+Touché Amoré             | 39   | 1017     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 786      
 Bob Dylan                | 51   | 765      
@@ -100,7 +100,7 @@ Thåström                 | 86   | 436
 Ulver                    | 91   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
-Dave Hause               | 98   | 358      
+Dave Hause               | 99   | 358      
 
 ## Inactive top 100 artists not seen live (19)
 
@@ -112,7 +112,7 @@ Sugar                | 32   | 1209
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 991      
-Jokke & Valentinerne | 56   | 720      
+Jokke & Valentinerne | 56   | 724      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 603      
 Big Star             | 73   | 564      
