@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 993
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 836      
 Thin Lizzy                     | 45   | 831      
-Pappasaft                      | 46   | 797      
+Pappasaft                      | 46   | 798      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 784      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2020     
+Propagandhi              | 19   | 2023     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1547     
@@ -107,12 +107,12 @@ Dave Hause               | 99   | 358
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2877     
+Hüsker Dü            | 8    | 2878     
 Sugar                | 32   | 1209     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
-Fugazi               | 41   | 991      
-Jokke & Valentinerne | 56   | 724      
+Fugazi               | 41   | 992      
+Jokke & Valentinerne | 56   | 725      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 603      
 Big Star             | 73   | 564      
