@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 993
 Anti-Lam Front                 | 42   | 932      
 Oslo Ess                       | 44   | 836      
 Thin Lizzy                     | 45   | 831      
-Pappasaft                      | 46   | 798      
+Pappasaft                      | 46   | 799      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 784      
@@ -76,7 +76,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 15   | 2233     
 Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2023     
+Propagandhi              | 19   | 2024     
 Ryan Adams               | 21   | 1870     
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1547     
