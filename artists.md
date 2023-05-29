@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6018     
-Rush                           | 3    | 4487     
+Rush                           | 3    | 4488     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2948     
@@ -31,20 +31,20 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
-The Smashing Pumpkins          | 27   | 1526     
-Spidergawd                     | 28   | 1525     
+Spidergawd                     | 27   | 1526     
+The Smashing Pumpkins          | 28   | 1526     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
-Hellbillies                    | 37   | 1019     
-Justin Townes Earle            | 38   | 1018     
+Hellbillies                    | 38   | 1019     
+Justin Townes Earle            | 39   | 1018     
 Stein Torleif Bjella           | 40   | 993      
-Anti-Lam Front                 | 42   | 932      
+Anti-Lam Front                 | 42   | 941      
 Oslo Ess                       | 44   | 836      
 Thin Lizzy                     | 45   | 831      
-Pappasaft                      | 46   | 799      
+Pappasaft                      | 46   | 804      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 784      
@@ -61,7 +61,7 @@ Clutch                         | 68   | 605
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 517      
+The Good The Bad and The Zugly | 76   | 520      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -81,7 +81,7 @@ Ryan Adams               | 21   | 1870
 Guided by Voices         | 23   | 1777     
 Weezer                   | 25   | 1547     
 The Menzingers           | 26   | 1543     
-Touché Amoré             | 39   | 1017     
+Touché Amoré             | 37   | 1032     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 786      
 Bob Dylan                | 51   | 765      
