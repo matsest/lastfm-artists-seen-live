@@ -114,7 +114,7 @@ Genesis              | 36   | 1066
 Fugazi               | 41   | 992      
 Jokke & Valentinerne | 56   | 725      
 Audioslave           | 57   | 690      
-Foo Fighters         | 70   | 603      
+Foo Fighters         | 70   | 604      
 Big Star             | 73   | 564      
 Temple of the Dog    | 74   | 551      
 Paul Westerberg      | 75   | 530      
