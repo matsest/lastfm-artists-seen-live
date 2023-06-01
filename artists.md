@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4298
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2948     
 Motorpsycho                    | 9    | 2701     
-Bruce Springsteen              | 10   | 2588     
+Bruce Springsteen              | 10   | 2607     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 14   | 2233     
@@ -43,7 +43,7 @@ Justin Townes Earle            | 39   | 1018
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 941      
 Oslo Ess                       | 44   | 836      
-Thin Lizzy                     | 45   | 831      
+Thin Lizzy                     | 45   | 832      
 Pappasaft                      | 46   | 804      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
