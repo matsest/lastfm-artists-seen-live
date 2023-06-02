@@ -21,7 +21,7 @@ Rush                           | 3    | 4488
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2948     
-Motorpsycho                    | 9    | 2701     
+Motorpsycho                    | 9    | 2719     
 Bruce Springsteen              | 10   | 2607     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 1975     
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
-Spidergawd                     | 27   | 1526     
+Spidergawd                     | 27   | 1531     
 The Smashing Pumpkins          | 28   | 1526     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
@@ -56,12 +56,12 @@ Jason Isbell                   | 60   | 658
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 623      
-Devin Townsend Project         | 67   | 606      
-Clutch                         | 68   | 605      
+Clutch                         | 67   | 606      
+Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 520      
+The Good The Bad and The Zugly | 76   | 521      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 92   | 395      
 Gojira                         | 93   | 392      
@@ -78,7 +78,7 @@ The Who                  | 15   | 2233
 Bob Mould                | 16   | 2223     
 Propagandhi              | 19   | 2024     
 Ryan Adams               | 21   | 1870     
-Guided by Voices         | 23   | 1777     
+Guided by Voices         | 23   | 1787     
 Weezer                   | 25   | 1547     
 The Menzingers           | 26   | 1543     
 Touché Amoré             | 37   | 1032     
