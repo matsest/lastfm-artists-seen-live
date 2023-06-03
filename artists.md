@@ -21,11 +21,11 @@ Rush                           | 3    | 4488
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2948     
-Motorpsycho                    | 9    | 2719     
+Motorpsycho                    | 9    | 2721     
 Bruce Springsteen              | 10   | 2607     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
-Chris Cornell                  | 14   | 2233     
+Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 1975     
@@ -43,7 +43,7 @@ Justin Townes Earle            | 39   | 1018
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 941      
 Oslo Ess                       | 44   | 836      
-Thin Lizzy                     | 45   | 832      
+Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 804      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
@@ -74,7 +74,7 @@ Lastkaj 14                     | 100  | 358
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 15   | 2233     
+The Who                  | 14   | 2234     
 Bob Mould                | 16   | 2223     
 Propagandhi              | 19   | 2024     
 Ryan Adams               | 21   | 1870     
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 472      
-Faith No More            | 84   | 442      
+Faith No More            | 84   | 443      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
 Ulver                    | 91   | 396      
