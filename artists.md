@@ -21,7 +21,7 @@ Rush                           | 3    | 4488
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2948     
-Motorpsycho                    | 9    | 2721     
+Motorpsycho                    | 9    | 2722     
 Bruce Springsteen              | 10   | 2607     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
@@ -32,7 +32,7 @@ johndoe                        | 20   | 1975
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
 Spidergawd                     | 27   | 1531     
-The Smashing Pumpkins          | 28   | 1526     
+The Smashing Pumpkins          | 28   | 1531     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
 Kvelertak                      | 31   | 1266     
@@ -75,15 +75,15 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2234     
-Bob Mould                | 16   | 2223     
-Propagandhi              | 19   | 2024     
+Bob Mould                | 16   | 2224     
+Propagandhi              | 19   | 2027     
 Ryan Adams               | 21   | 1870     
-Guided by Voices         | 23   | 1787     
-Weezer                   | 25   | 1547     
+Guided by Voices         | 23   | 1789     
+Weezer                   | 25   | 1549     
 The Menzingers           | 26   | 1543     
-Touché Amoré             | 37   | 1032     
+Touché Amoré             | 37   | 1036     
 The Hold Steady          | 43   | 894      
-Melvins                  | 49   | 786      
+Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
@@ -108,11 +108,11 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
 Hüsker Dü            | 8    | 2878     
-Sugar                | 32   | 1209     
+Sugar                | 32   | 1211     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 36   | 1066     
 Fugazi               | 41   | 992      
-Jokke & Valentinerne | 56   | 725      
+Jokke & Valentinerne | 56   | 726      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 604      
 Big Star             | 73   | 564      
