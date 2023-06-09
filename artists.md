@@ -28,7 +28,7 @@ Frank Turner                   | 12   | 2405
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
-johndoe                        | 20   | 1975     
+johndoe                        | 20   | 2004     
 AC/DC                          | 22   | 1853     
 Mastodon                       | 24   | 1754     
 Spidergawd                     | 27   | 1531     
@@ -42,7 +42,7 @@ Hellbillies                    | 38   | 1019
 Justin Townes Earle            | 39   | 1018     
 Stein Torleif Bjella           | 40   | 993      
 Anti-Lam Front                 | 42   | 941      
-Oslo Ess                       | 44   | 836      
+Oslo Ess                       | 44   | 837      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 804      
 Brian Fallon                   | 47   | 796      
@@ -81,7 +81,7 @@ Ryan Adams               | 21   | 1870
 Guided by Voices         | 23   | 1789     
 Weezer                   | 25   | 1549     
 The Menzingers           | 26   | 1543     
-Touché Amoré             | 37   | 1059     
+Touché Amoré             | 37   | 1060     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
