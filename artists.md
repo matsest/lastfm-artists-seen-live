@@ -28,8 +28,8 @@ Frank Turner                   | 12   | 2405
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
-johndoe                        | 20   | 2004     
-AC/DC                          | 22   | 1853     
+johndoe                        | 20   | 2005     
+AC/DC                          | 21   | 1875     
 Mastodon                       | 24   | 1754     
 Spidergawd                     | 27   | 1531     
 The Smashing Pumpkins          | 28   | 1531     
@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 521      
 Opeth                          | 90   | 409      
-Jason Isbell and The 400 Unit  | 92   | 395      
+Jason Isbell and The 400 Unit  | 91   | 408      
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
 deLillos                       | 98   | 361      
@@ -77,7 +77,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2234     
 Bob Mould                | 16   | 2224     
 Propagandhi              | 19   | 2027     
-Ryan Adams               | 21   | 1870     
+Ryan Adams               | 22   | 1870     
 Guided by Voices         | 23   | 1789     
 Weezer                   | 25   | 1549     
 The Menzingers           | 26   | 1543     
@@ -97,7 +97,7 @@ The War on Drugs         | 81   | 472
 Faith No More            | 84   | 443      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
-Ulver                    | 91   | 396      
+Ulver                    | 92   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
 Dave Hause               | 99   | 358      
