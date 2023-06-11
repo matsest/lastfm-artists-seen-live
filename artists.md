@@ -29,7 +29,7 @@ Chris Cornell                  | 15   | 2233
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
-AC/DC                          | 21   | 1875     
+AC/DC                          | 21   | 1881     
 Mastodon                       | 24   | 1754     
 Spidergawd                     | 27   | 1531     
 The Smashing Pumpkins          | 28   | 1531     
@@ -40,7 +40,7 @@ Chuck Ragan                    | 34   | 1144
 Biffy Clyro                    | 35   | 1104     
 Hellbillies                    | 38   | 1019     
 Justin Townes Earle            | 39   | 1018     
-Stein Torleif Bjella           | 40   | 993      
+Stein Torleif Bjella           | 40   | 994      
 Anti-Lam Front                 | 42   | 941      
 Oslo Ess                       | 44   | 837      
 Thin Lizzy                     | 45   | 835      
@@ -76,9 +76,9 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2234     
 Bob Mould                | 16   | 2224     
-Propagandhi              | 19   | 2027     
+Propagandhi              | 19   | 2044     
 Ryan Adams               | 22   | 1870     
-Guided by Voices         | 23   | 1789     
+Guided by Voices         | 23   | 1791     
 Weezer                   | 25   | 1549     
 The Menzingers           | 26   | 1543     
 Touché Amoré             | 37   | 1060     
