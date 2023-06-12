@@ -20,7 +20,7 @@ Pearl Jam                      | 2    | 6018
 Rush                           | 3    | 4488     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
-DumDum Boys                    | 7    | 2948     
+DumDum Boys                    | 7    | 2949     
 Motorpsycho                    | 9    | 2722     
 Bruce Springsteen              | 10   | 2607     
 Manic Street Preachers         | 11   | 2560     
@@ -42,12 +42,12 @@ Hellbillies                    | 38   | 1019
 Justin Townes Earle            | 39   | 1018     
 Stein Torleif Bjella           | 40   | 994      
 Anti-Lam Front                 | 42   | 941      
-Oslo Ess                       | 44   | 837      
+Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 804      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
-Sweden                         | 50   | 784      
+Sweden                         | 50   | 785      
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 752      
 Tool                           | 55   | 739      
