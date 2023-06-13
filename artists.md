@@ -41,10 +41,10 @@ Biffy Clyro                    | 35   | 1104
 Hellbillies                    | 38   | 1019     
 Justin Townes Earle            | 39   | 1018     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 941      
+Anti-Lam Front                 | 42   | 943      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
-Pappasaft                      | 46   | 804      
+Pappasaft                      | 46   | 806      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 785      
@@ -61,7 +61,7 @@ Devin Townsend Project         | 68   | 606
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 521      
+The Good The Bad and The Zugly | 76   | 523      
 Opeth                          | 90   | 409      
 Jason Isbell and The 400 Unit  | 91   | 408      
 Gojira                         | 93   | 392      
