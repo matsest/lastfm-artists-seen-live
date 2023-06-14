@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
 Opeth                          | 90   | 409      
-Jason Isbell and The 400 Unit  | 91   | 408      
+Jason Isbell and the 400 Unit  | 91   | 408      
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
 deLillos                       | 98   | 361      
