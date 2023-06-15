@@ -17,12 +17,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6018     
-Rush                           | 3    | 4488     
+Rush                           | 3    | 4489     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
-DumDum Boys                    | 7    | 2949     
+DumDum Boys                    | 7    | 2950     
 Motorpsycho                    | 9    | 2722     
-Bruce Springsteen              | 10   | 2607     
+Bruce Springsteen              | 10   | 2629     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
@@ -31,11 +31,11 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1881     
 Mastodon                       | 24   | 1754     
-Spidergawd                     | 27   | 1531     
-The Smashing Pumpkins          | 28   | 1531     
+Spidergawd                     | 27   | 1539     
+The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1266     
+Kvelertak                      | 31   | 1267     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Hellbillies                    | 38   | 1019     
@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 994
 Anti-Lam Front                 | 42   | 943      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
-Pappasaft                      | 46   | 806      
+Pappasaft                      | 46   | 809      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 785      
@@ -62,8 +62,8 @@ Dropkick Murphys               | 69   | 604
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
-Opeth                          | 90   | 409      
-Jason Isbell and the 400 Unit  | 91   | 408      
+Jason Isbell and the 400 Unit  | 87   | 434      
+Opeth                          | 91   | 409      
 Gojira                         | 93   | 392      
 Kaizers Orchestra              | 97   | 373      
 deLillos                       | 98   | 361      
@@ -76,11 +76,11 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2234     
 Bob Mould                | 16   | 2224     
-Propagandhi              | 19   | 2044     
+Propagandhi              | 19   | 2045     
 Ryan Adams               | 22   | 1870     
 Guided by Voices         | 23   | 1791     
 Weezer                   | 25   | 1549     
-The Menzingers           | 26   | 1543     
+The Menzingers           | 26   | 1544     
 Touché Amoré             | 37   | 1060     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 787      
@@ -121,7 +121,7 @@ Paul Westerberg      | 75   | 530
 The Beatles          | 77   | 510      
 Pink Floyd           | 82   | 469      
 Black Sabbath        | 83   | 464      
-The Twilight Singers | 87   | 430      
-Marillion            | 88   | 418      
-Jokke med Tourettes  | 89   | 409      
+The Twilight Singers | 88   | 430      
+Marillion            | 89   | 418      
+Jokke med Tourettes  | 90   | 409      
 The Band             | 94   | 389      
