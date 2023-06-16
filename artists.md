@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6105     
 Pearl Jam                      | 2    | 6018     
-Rush                           | 3    | 4489     
+Rush                           | 3    | 4494     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2950     
@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1881     
 Mastodon                       | 24   | 1754     
-Spidergawd                     | 27   | 1539     
+Spidergawd                     | 27   | 1542     
 The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
