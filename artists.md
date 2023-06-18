@@ -21,7 +21,7 @@ Rush                           | 3    | 4495
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2951     
-Motorpsycho                    | 9    | 2742     
+Motorpsycho                    | 9    | 2749     
 Bruce Springsteen              | 10   | 2629     
 Manic Street Preachers         | 11   | 2560     
 Frank Turner                   | 12   | 2405     
@@ -35,7 +35,7 @@ Spidergawd                     | 26   | 1544
 The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1273     
-Kvelertak                      | 31   | 1269     
+Kvelertak                      | 31   | 1270     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Hellbillies                    | 38   | 1020     
