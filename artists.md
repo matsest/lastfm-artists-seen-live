@@ -81,7 +81,7 @@ Ryan Adams               | 22   | 1870
 Guided by Voices         | 23   | 1791     
 Weezer                   | 25   | 1549     
 The Menzingers           | 27   | 1544     
-Touché Amoré             | 37   | 1061     
+Touché Amoré             | 36   | 1096     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
@@ -110,7 +110,7 @@ The Replacements     | 5    | 3041
 Hüsker Dü            | 8    | 2878     
 Sugar                | 32   | 1211     
 The Horrible Crowes  | 33   | 1176     
-Genesis              | 36   | 1066     
+Genesis              | 37   | 1066     
 Fugazi               | 41   | 992      
 Jokke & Valentinerne | 56   | 726      
 Audioslave           | 57   | 690      
