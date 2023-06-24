@@ -22,15 +22,15 @@ The Gaslight Anthem            | 4    | 4298
 Against Me!                    | 6    | 2975     
 DumDum Boys                    | 7    | 2952     
 Motorpsycho                    | 9    | 2750     
-Bruce Springsteen              | 10   | 2658     
-Manic Street Preachers         | 11   | 2560     
+Bruce Springsteen              | 10   | 2659     
+Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
-AC/DC                          | 21   | 1881     
-Mastodon                       | 24   | 1754     
+AC/DC                          | 21   | 1890     
+Mastodon                       | 24   | 1755     
 Spidergawd                     | 26   | 1544     
 The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
@@ -39,7 +39,7 @@ Kvelertak                      | 31   | 1272
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 35   | 1104     
 Hellbillies                    | 38   | 1020     
-Justin Townes Earle            | 39   | 1018     
+Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
 Anti-Lam Front                 | 42   | 943      
 Oslo Ess                       | 44   | 838      
@@ -47,7 +47,7 @@ Thin Lizzy                     | 45   | 835
 Pappasaft                      | 46   | 810      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
-Sweden                         | 50   | 785      
+Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 752      
 Tool                           | 55   | 739      
@@ -64,9 +64,9 @@ Kylesa                         | 72   | 572
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 87   | 434      
 Opeth                          | 91   | 409      
-Gojira                         | 93   | 392      
+Gojira                         | 92   | 396      
 Kaizers Orchestra              | 97   | 374      
-deLillos                       | 98   | 361      
+deLillos                       | 98   | 363      
 Lastkaj 14                     | 100  | 358      
 
 ## Active top 100 artists not seen live (28)
@@ -97,7 +97,7 @@ The War on Drugs         | 81   | 472
 Faith No More            | 84   | 443      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
-Ulver                    | 92   | 396      
+Ulver                    | 93   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
 Dave Hause               | 99   | 358      
