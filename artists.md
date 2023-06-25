@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 349
+- Number of artists seen live in total: 354
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -20,8 +20,8 @@ Pearl Jam                      | 2    | 6018
 Rush                           | 3    | 4496     
 The Gaslight Anthem            | 4    | 4298     
 Against Me!                    | 6    | 2975     
-DumDum Boys                    | 7    | 2952     
-Motorpsycho                    | 9    | 2750     
+DumDum Boys                    | 7    | 2972     
+Motorpsycho                    | 9    | 2762     
 Bruce Springsteen              | 10   | 2659     
 Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
@@ -31,13 +31,13 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1890     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 26   | 1544     
+Spidergawd                     | 27   | 1544     
 The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1276     
 Kvelertak                      | 31   | 1272     
 Chuck Ragan                    | 34   | 1144     
-Biffy Clyro                    | 35   | 1104     
+Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
@@ -79,9 +79,9 @@ Bob Mould                | 16   | 2224
 Propagandhi              | 19   | 2045     
 Ryan Adams               | 22   | 1870     
 Guided by Voices         | 23   | 1791     
-Weezer                   | 25   | 1549     
-The Menzingers           | 27   | 1544     
-Touché Amoré             | 36   | 1096     
+The Menzingers           | 25   | 1550     
+Weezer                   | 26   | 1549     
+Touché Amoré             | 35   | 1112     
 The Hold Steady          | 43   | 894      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
