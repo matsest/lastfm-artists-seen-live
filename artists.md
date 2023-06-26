@@ -19,8 +19,8 @@ Soundgarden                    | 1    | 6105
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4496     
 The Gaslight Anthem            | 4    | 4298     
-Against Me!                    | 6    | 2975     
-DumDum Boys                    | 7    | 2972     
+DumDum Boys                    | 6    | 2976     
+Against Me!                    | 7    | 2975     
 Motorpsycho                    | 9    | 2762     
 Bruce Springsteen              | 10   | 2659     
 Manic Street Preachers         | 11   | 2583     
@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 994
 Anti-Lam Front                 | 42   | 943      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
-Pappasaft                      | 46   | 810      
+Pappasaft                      | 46   | 812      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
@@ -94,7 +94,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 472      
-Faith No More            | 84   | 443      
+Faith No More            | 84   | 444      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
 Ulver                    | 93   | 396      
