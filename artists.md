@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4298
 DumDum Boys                    | 6    | 2976     
 Against Me!                    | 7    | 2975     
 Motorpsycho                    | 9    | 2762     
-Bruce Springsteen              | 10   | 2659     
+Bruce Springsteen              | 10   | 2677     
 Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 994
 Anti-Lam Front                 | 42   | 943      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
-Pappasaft                      | 46   | 812      
+Pappasaft                      | 46   | 824      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
@@ -66,8 +66,8 @@ Jason Isbell and the 400 Unit  | 87   | 434
 Opeth                          | 91   | 409      
 Gojira                         | 92   | 396      
 Kaizers Orchestra              | 97   | 374      
-deLillos                       | 98   | 363      
-Lastkaj 14                     | 100  | 358      
+Swans                          | 98   | 366      
+deLillos                       | 99   | 363      
 
 ## Active top 100 artists not seen live (28)
 
@@ -100,7 +100,7 @@ Thåström                 | 86   | 436
 Ulver                    | 93   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
-Dave Hause               | 99   | 358      
+Dave Hause               | 100  | 358      
 
 ## Inactive top 100 artists not seen live (19)
 
