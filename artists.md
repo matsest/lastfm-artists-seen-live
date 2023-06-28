@@ -7,11 +7,11 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
-- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
+- Number of top artists seen live: 54 (Active: 46 Inactive: 8)
 
-- Number of top artists not seen live: 47 (Active: 28 Inactive: 19)
+- Number of top artists not seen live: 46 (Active: 27 Inactive: 19)
 
-## Top 100 artists seen live (53)
+## Top 100 artists seen live (54)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -19,9 +19,9 @@ Soundgarden                    | 1    | 6105
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4496     
 The Gaslight Anthem            | 4    | 4298     
-DumDum Boys                    | 6    | 2976     
+DumDum Boys                    | 6    | 2977     
 Against Me!                    | 7    | 2975     
-Motorpsycho                    | 9    | 2762     
+Motorpsycho                    | 9    | 2763     
 Bruce Springsteen              | 10   | 2677     
 Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
@@ -34,8 +34,8 @@ Mastodon                       | 24   | 1755
 Spidergawd                     | 27   | 1544     
 The Smashing Pumpkins          | 28   | 1533     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1276     
-Kvelertak                      | 31   | 1272     
+Baroness                       | 30   | 1277     
+Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 38   | 1020     
@@ -68,8 +68,9 @@ Gojira                         | 92   | 396
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
+Lastkaj 14                     | 100  | 359      
 
-## Active top 100 artists not seen live (28)
+## Active top 100 artists not seen live (27)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -100,7 +101,6 @@ Thåström                 | 86   | 436
 Ulver                    | 93   | 396      
 The Hotelier             | 95   | 386      
 System of a Down         | 96   | 376      
-Dave Hause               | 100  | 358      
 
 ## Inactive top 100 artists not seen live (19)
 
