@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4298
 DumDum Boys                    | 6    | 2977     
 Against Me!                    | 7    | 2975     
 Motorpsycho                    | 9    | 2763     
-Bruce Springsteen              | 10   | 2677     
+Bruce Springsteen              | 10   | 2692     
 Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
@@ -64,7 +64,7 @@ Kylesa                         | 72   | 572
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 87   | 434      
 Opeth                          | 91   | 409      
-Gojira                         | 92   | 396      
+Gojira                         | 93   | 396      
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
@@ -98,8 +98,8 @@ The War on Drugs         | 81   | 472
 Faith No More            | 84   | 444      
 Dawes                    | 85   | 437      
 Thåström                 | 86   | 436      
-Ulver                    | 93   | 396      
-The Hotelier             | 95   | 386      
+The Hotelier             | 92   | 401      
+Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
 
 ## Inactive top 100 artists not seen live (19)
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 464
 The Twilight Singers | 88   | 430      
 Marillion            | 89   | 418      
 Jokke med Tourettes  | 90   | 409      
-The Band             | 94   | 389      
+The Band             | 95   | 389      
