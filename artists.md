@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6105     
+Soundgarden                    | 1    | 6106     
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4496     
 The Gaslight Anthem            | 4    | 4298     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 943      
+Anti-Lam Front                 | 42   | 944      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 824      
@@ -55,7 +55,7 @@ Ghost                          | 59   | 670
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
-Blood Command                  | 66   | 623      
+Blood Command                  | 66   | 624      
 Clutch                         | 67   | 606      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 604      
@@ -79,7 +79,7 @@ The Who                  | 14   | 2234
 Bob Mould                | 16   | 2224     
 Propagandhi              | 19   | 2045     
 Ryan Adams               | 22   | 1870     
-Guided by Voices         | 23   | 1791     
+Guided by Voices         | 23   | 1792     
 The Menzingers           | 25   | 1550     
 Weezer                   | 26   | 1549     
 Touché Amoré             | 35   | 1112     
