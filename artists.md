@@ -22,14 +22,14 @@ The Gaslight Anthem            | 4    | 4298
 DumDum Boys                    | 6    | 2977     
 Against Me!                    | 7    | 2975     
 Motorpsycho                    | 9    | 2763     
-Bruce Springsteen              | 10   | 2697     
+Bruce Springsteen              | 10   | 2732     
 Manic Street Preachers         | 11   | 2583     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2102     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
-AC/DC                          | 21   | 1890     
+AC/DC                          | 21   | 1899     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1544     
 The Smashing Pumpkins          | 28   | 1533     
