@@ -62,7 +62,7 @@ Dropkick Murphys               | 69   | 604
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
-Jason Isbell and the 400 Unit  | 87   | 434      
+Jason Isbell and the 400 Unit  | 86   | 437      
 Opeth                          | 91   | 409      
 Gojira                         | 93   | 396      
 Kaizers Orchestra              | 97   | 374      
@@ -97,7 +97,7 @@ Yes                      | 80   | 480
 The War on Drugs         | 81   | 472      
 Faith No More            | 84   | 444      
 Dawes                    | 85   | 437      
-Thåström                 | 86   | 436      
+Thåström                 | 87   | 436      
 The Hotelier             | 92   | 401      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
