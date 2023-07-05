@@ -64,7 +64,7 @@ Kylesa                         | 72   | 572
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 86   | 437      
 Opeth                          | 91   | 409      
-Gojira                         | 93   | 396      
+Gojira                         | 93   | 400      
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
