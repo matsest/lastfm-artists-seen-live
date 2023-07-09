@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 944      
+Anti-Lam Front                 | 42   | 945      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 824      
@@ -77,7 +77,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2234     
 Bob Mould                | 16   | 2224     
-Propagandhi              | 19   | 2045     
+Propagandhi              | 19   | 2047     
 Ryan Adams               | 22   | 1870     
 Guided by Voices         | 23   | 1792     
 The Menzingers           | 25   | 1550     
