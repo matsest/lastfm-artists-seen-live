@@ -51,12 +51,12 @@ Sweden                         | 50   | 786
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 752      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 670      
+Ghost                          | 59   | 672      
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 624      
-Clutch                         | 67   | 606      
+Clutch                         | 67   | 607      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
@@ -64,7 +64,7 @@ Kylesa                         | 72   | 572
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 86   | 437      
 Opeth                          | 91   | 409      
-Gojira                         | 93   | 400      
+Gojira                         | 92   | 403      
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
@@ -98,7 +98,7 @@ The War on Drugs         | 81   | 472
 Faith No More            | 84   | 444      
 Dawes                    | 85   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 92   | 401      
+The Hotelier             | 93   | 401      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
 
