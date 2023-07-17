@@ -63,8 +63,8 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 86   | 437      
-Opeth                          | 91   | 409      
-Gojira                         | 92   | 403      
+Gojira                         | 89   | 419      
+Opeth                          | 92   | 409      
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
@@ -122,6 +122,6 @@ The Beatles          | 77   | 510
 Pink Floyd           | 82   | 470      
 Black Sabbath        | 83   | 464      
 The Twilight Singers | 88   | 430      
-Marillion            | 89   | 418      
-Jokke med Tourettes  | 90   | 409      
+Marillion            | 90   | 418      
+Jokke med Tourettes  | 91   | 409      
 The Band             | 95   | 389      
