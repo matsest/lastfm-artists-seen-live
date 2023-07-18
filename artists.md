@@ -19,8 +19,8 @@ Soundgarden                    | 1    | 6106
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4496     
 The Gaslight Anthem            | 4    | 4298     
-DumDum Boys                    | 6    | 2977     
-Against Me!                    | 7    | 2975     
+Against Me!                    | 6    | 2986     
+DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2764     
 Bruce Springsteen              | 10   | 2732     
 Manic Street Preachers         | 11   | 2583     
@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 86   | 437      
-Gojira                         | 89   | 419      
+Gojira                         | 89   | 421      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 97   | 374      
 Swans                          | 98   | 366      
