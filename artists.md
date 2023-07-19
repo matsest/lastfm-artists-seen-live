@@ -83,7 +83,7 @@ Guided by Voices         | 23   | 1792
 The Menzingers           | 25   | 1550     
 Weezer                   | 26   | 1549     
 Touché Amoré             | 35   | 1112     
-The Hold Steady          | 43   | 894      
+The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
 The Black Crowes         | 52   | 763      
