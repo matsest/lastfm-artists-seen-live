@@ -80,7 +80,7 @@ Bob Mould                | 16   | 2224
 Propagandhi              | 19   | 2047     
 Ryan Adams               | 22   | 1870     
 Guided by Voices         | 23   | 1792     
-The Menzingers           | 25   | 1550     
+The Menzingers           | 25   | 1551     
 Weezer                   | 26   | 1549     
 Touché Amoré             | 35   | 1112     
 The Hold Steady          | 43   | 895      
