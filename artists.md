@@ -18,21 +18,21 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6106     
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4496     
-The Gaslight Anthem            | 4    | 4345     
+The Gaslight Anthem            | 4    | 4347     
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2764     
 Bruce Springsteen              | 10   | 2732     
-Manic Street Preachers         | 11   | 2583     
+Manic Street Preachers         | 11   | 2584     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2102     
+The National                   | 17   | 2103     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1899     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1544     
-The Smashing Pumpkins          | 28   | 1533     
+The Smashing Pumpkins          | 28   | 1536     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1279     
 Kvelertak                      | 31   | 1273     
@@ -76,13 +76,13 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2240     
-Bob Mould                | 16   | 2224     
+Bob Mould                | 16   | 2225     
 Propagandhi              | 19   | 2047     
 Ryan Adams               | 22   | 1870     
-Guided by Voices         | 23   | 1792     
-The Menzingers           | 25   | 1551     
-Weezer                   | 26   | 1549     
-Touché Amoré             | 35   | 1112     
+Guided by Voices         | 23   | 1795     
+The Menzingers           | 25   | 1553     
+Weezer                   | 26   | 1551     
+Touché Amoré             | 35   | 1113     
 The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 765      
@@ -107,8 +107,8 @@ System of a Down         | 96   | 376
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2878     
-Sugar                | 32   | 1211     
+Hüsker Dü            | 8    | 2879     
+Sugar                | 32   | 1212     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 37   | 1066     
 Fugazi               | 41   | 992      
