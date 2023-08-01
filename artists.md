@@ -17,22 +17,22 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6106     
 Pearl Jam                      | 2    | 6018     
-Rush                           | 3    | 4496     
-The Gaslight Anthem            | 4    | 4347     
+Rush                           | 3    | 4506     
+The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2764     
 Bruce Springsteen              | 10   | 2732     
-Manic Street Preachers         | 11   | 2584     
+Manic Street Preachers         | 11   | 2585     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2103     
+The National                   | 17   | 2104     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1899     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 27   | 1544     
-The Smashing Pumpkins          | 28   | 1536     
+Spidergawd                     | 27   | 1545     
+The Smashing Pumpkins          | 28   | 1539     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1279     
 Kvelertak                      | 31   | 1273     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 946      
+Anti-Lam Front                 | 42   | 947      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 824      
@@ -56,7 +56,7 @@ Jason Isbell                   | 60   | 658
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 624      
-Clutch                         | 67   | 608      
+Clutch                         | 67   | 609      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
@@ -75,13 +75,13 @@ Lastkaj 14                     | 100  | 359
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2241     
-Bob Mould                | 16   | 2225     
+The Who                  | 14   | 2248     
+Bob Mould                | 16   | 2226     
 Propagandhi              | 19   | 2047     
 Ryan Adams               | 22   | 1870     
-Guided by Voices         | 23   | 1795     
-The Menzingers           | 25   | 1553     
-Weezer                   | 26   | 1551     
+Guided by Voices         | 23   | 1797     
+The Menzingers           | 25   | 1555     
+Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
 The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
@@ -107,8 +107,8 @@ System of a Down         | 96   | 376
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2879     
-Sugar                | 32   | 1212     
+Hüsker Dü            | 8    | 2880     
+Sugar                | 32   | 1213     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 37   | 1066     
 Fugazi               | 41   | 992      
