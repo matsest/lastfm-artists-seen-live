@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6106     
 Pearl Jam                      | 2    | 6018     
-Rush                           | 3    | 4506     
+Rush                           | 3    | 4508     
 The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
@@ -29,7 +29,7 @@ Chris Cornell                  | 15   | 2233
 The National                   | 17   | 2104     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
-AC/DC                          | 21   | 1961     
+AC/DC                          | 21   | 1963     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
 The Smashing Pumpkins          | 28   | 1541     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 947      
+Anti-Lam Front                 | 42   | 948      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 824      
@@ -56,7 +56,7 @@ Jason Isbell                   | 60   | 658
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 624      
-Clutch                         | 67   | 609      
+Clutch                         | 67   | 610      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 604      
 Spielbergs                     | 71   | 580      
@@ -76,10 +76,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2248     
-Bob Mould                | 16   | 2226     
-Propagandhi              | 19   | 2047     
+Bob Mould                | 16   | 2227     
+Propagandhi              | 19   | 2048     
 Ryan Adams               | 22   | 1870     
-Guided by Voices         | 23   | 1797     
+Guided by Voices         | 23   | 1811     
 The Menzingers           | 25   | 1555     
 Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
@@ -106,8 +106,8 @@ System of a Down         | 96   | 376
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3041     
-Hüsker Dü            | 8    | 2880     
+The Replacements     | 5    | 3042     
+Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1213     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 37   | 1066     
