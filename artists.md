@@ -95,7 +95,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 472      
-Faith No More            | 84   | 444      
+Faith No More            | 84   | 452      
 Dawes                    | 85   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 401      
