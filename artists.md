@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 354
+- Number of artists seen live in total: 355
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2986
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2764     
 Bruce Springsteen              | 10   | 2732     
-Manic Street Preachers         | 11   | 2585     
+Manic Street Preachers         | 11   | 2587     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2104     
@@ -44,7 +44,7 @@ Stein Torleif Bjella           | 40   | 994
 Anti-Lam Front                 | 42   | 948      
 Oslo Ess                       | 44   | 838      
 Thin Lizzy                     | 45   | 835      
-Pappasaft                      | 46   | 824      
+Pappasaft                      | 46   | 825      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
@@ -58,7 +58,7 @@ Japandroids                    | 63   | 651
 Blood Command                  | 66   | 624      
 Clutch                         | 67   | 610      
 Devin Townsend Project         | 68   | 606      
-Dropkick Murphys               | 69   | 604      
+Dropkick Murphys               | 69   | 605      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
@@ -77,10 +77,10 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2248     
 Bob Mould                | 16   | 2227     
-Propagandhi              | 19   | 2048     
-Ryan Adams               | 22   | 1870     
+Propagandhi              | 19   | 2051     
+Ryan Adams               | 22   | 1871     
 Guided by Voices         | 23   | 1811     
-The Menzingers           | 25   | 1555     
+The Menzingers           | 25   | 1556     
 Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
 The Hold Steady          | 43   | 895      
@@ -108,10 +108,10 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3042     
 Hüsker Dü            | 8    | 2881     
-Sugar                | 32   | 1213     
+Sugar                | 32   | 1214     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 37   | 1066     
-Fugazi               | 41   | 992      
+Fugazi               | 41   | 993      
 Jokke & Valentinerne | 56   | 726      
 Audioslave           | 57   | 690      
 Foo Fighters         | 70   | 604      
