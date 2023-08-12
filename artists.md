@@ -79,7 +79,7 @@ The Who                  | 14   | 2248
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2051     
 Ryan Adams               | 22   | 1871     
-Guided by Voices         | 23   | 1811     
+Guided by Voices         | 23   | 1812     
 The Menzingers           | 25   | 1556     
 Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3042     
 Hüsker Dü            | 8    | 2881     
-Sugar                | 32   | 1214     
+Sugar                | 32   | 1215     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 37   | 1066     
 Fugazi               | 41   | 993      
