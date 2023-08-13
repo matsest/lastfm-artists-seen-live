@@ -22,17 +22,17 @@ The Gaslight Anthem            | 4    | 4354
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2764     
-Bruce Springsteen              | 10   | 2732     
+Bruce Springsteen              | 10   | 2735     
 Manic Street Preachers         | 11   | 2587     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2104     
+The National                   | 17   | 2105     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2005     
 AC/DC                          | 21   | 1965     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
-The Smashing Pumpkins          | 28   | 1541     
+The Smashing Pumpkins          | 28   | 1542     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1279     
 Kvelertak                      | 31   | 1273     
@@ -58,7 +58,7 @@ Japandroids                    | 63   | 651
 Blood Command                  | 66   | 624      
 Clutch                         | 67   | 610      
 Devin Townsend Project         | 68   | 606      
-Dropkick Murphys               | 69   | 605      
+Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
@@ -78,14 +78,14 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2248     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2051     
-Ryan Adams               | 22   | 1871     
+Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1812     
 The Menzingers           | 25   | 1556     
 Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
 The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
-Bob Dylan                | 51   | 765      
+Bob Dylan                | 51   | 766      
 The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
