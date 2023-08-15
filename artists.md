@@ -28,7 +28,7 @@ Frank Turner                   | 12   | 2405
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2106     
 Raga Rockers                   | 18   | 2078     
-johndoe                        | 20   | 2005     
+johndoe                        | 20   | 2006     
 AC/DC                          | 21   | 1966     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
@@ -42,7 +42,7 @@ Hellbillies                    | 38   | 1020
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
 Anti-Lam Front                 | 42   | 948      
-Oslo Ess                       | 44   | 838      
+Oslo Ess                       | 44   | 839      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 825      
 Brian Fallon                   | 47   | 796      
@@ -80,7 +80,7 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 19   | 2051     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1813     
-The Menzingers           | 25   | 1556     
+The Menzingers           | 25   | 1557     
 Weezer                   | 26   | 1553     
 Touché Amoré             | 35   | 1113     
 The Hold Steady          | 43   | 895      
@@ -94,7 +94,7 @@ Neil Young               | 65   | 639
 Dinosaur Jr.             | 78   | 491      
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
-The War on Drugs         | 81   | 472      
+The War on Drugs         | 81   | 473      
 Faith No More            | 84   | 452      
 Dawes                    | 85   | 437      
 Thåström                 | 87   | 436      
