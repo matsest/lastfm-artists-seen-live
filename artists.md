@@ -21,12 +21,12 @@ Rush                           | 3    | 4521
 The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
-Motorpsycho                    | 9    | 2764     
-Bruce Springsteen              | 10   | 2735     
-Manic Street Preachers         | 11   | 2587     
+Motorpsycho                    | 9    | 2765     
+Bruce Springsteen              | 10   | 2736     
+Manic Street Preachers         | 11   | 2601     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2106     
+The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2006     
 AC/DC                          | 21   | 1966     
@@ -34,14 +34,14 @@ Mastodon                       | 24   | 1755
 Spidergawd                     | 27   | 1545     
 The Smashing Pumpkins          | 28   | 1542     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1279     
+Baroness                       | 30   | 1281     
 Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 38   | 1020     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 994      
-Anti-Lam Front                 | 42   | 948      
+Anti-Lam Front                 | 42   | 949      
 Oslo Ess                       | 44   | 839      
 Thin Lizzy                     | 45   | 835      
 Pappasaft                      | 46   | 825      
