@@ -15,35 +15,35 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6106     
+Soundgarden                    | 1    | 6107     
 Pearl Jam                      | 2    | 6018     
 Rush                           | 3    | 4521     
 The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2986     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2765     
-Bruce Springsteen              | 10   | 2736     
-Manic Street Preachers         | 11   | 2601     
+Bruce Springsteen              | 10   | 2737     
+Manic Street Preachers         | 11   | 2603     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2006     
-AC/DC                          | 21   | 1966     
+AC/DC                          | 21   | 1968     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
-The Smashing Pumpkins          | 28   | 1542     
+The Smashing Pumpkins          | 28   | 1544     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1281     
+Baroness                       | 30   | 1282     
 Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
-Hellbillies                    | 38   | 1020     
+Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
-Stein Torleif Bjella           | 40   | 994      
+Stein Torleif Bjella           | 40   | 996      
 Anti-Lam Front                 | 42   | 949      
-Oslo Ess                       | 44   | 839      
-Thin Lizzy                     | 45   | 835      
+Oslo Ess                       | 44   | 840      
+Thin Lizzy                     | 45   | 836      
 Pappasaft                      | 46   | 825      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
@@ -56,7 +56,7 @@ Jason Isbell                   | 60   | 658
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 624      
-Clutch                         | 67   | 610      
+Clutch                         | 67   | 611      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 580      
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 76   | 523
 Jason Isbell and the 400 Unit  | 86   | 437      
 Gojira                         | 89   | 421      
 Opeth                          | 92   | 409      
-Kaizers Orchestra              | 97   | 374      
+Kaizers Orchestra              | 97   | 375      
 Swans                          | 98   | 366      
 deLillos                       | 99   | 363      
 Lastkaj 14                     | 100  | 359      
@@ -75,7 +75,7 @@ Lastkaj 14                     | 100  | 359
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2248     
+The Who                  | 14   | 2251     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2051     
 Ryan Adams               | 22   | 1873     
@@ -95,7 +95,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 473      
-Faith No More            | 84   | 452      
+Faith No More            | 84   | 453      
 Dawes                    | 85   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 401      
@@ -108,9 +108,9 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3042     
 Hüsker Dü            | 8    | 2881     
-Sugar                | 32   | 1215     
+Sugar                | 32   | 1216     
 The Horrible Crowes  | 33   | 1176     
-Genesis              | 37   | 1066     
+Genesis              | 38   | 1066     
 Fugazi               | 41   | 993      
 Jokke & Valentinerne | 56   | 726      
 Audioslave           | 57   | 690      
@@ -119,8 +119,8 @@ Big Star             | 73   | 564
 Temple of the Dog    | 74   | 551      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 510      
-Pink Floyd           | 82   | 470      
-Black Sabbath        | 83   | 464      
+Pink Floyd           | 82   | 471      
+Black Sabbath        | 83   | 465      
 The Twilight Singers | 88   | 430      
 Marillion            | 90   | 418      
 Jokke med Tourettes  | 91   | 409      
