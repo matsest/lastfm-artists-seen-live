@@ -23,25 +23,25 @@ Against Me!                    | 6    | 2986
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2765     
 Bruce Springsteen              | 10   | 2737     
-Manic Street Preachers         | 11   | 2603     
+Manic Street Preachers         | 11   | 2604     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2006     
-AC/DC                          | 21   | 1968     
+AC/DC                          | 21   | 1992     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
 The Smashing Pumpkins          | 28   | 1544     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1282     
+Baroness                       | 30   | 1283     
 Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 996      
-Anti-Lam Front                 | 42   | 949      
+Anti-Lam Front                 | 42   | 950      
 Oslo Ess                       | 44   | 840      
 Thin Lizzy                     | 45   | 836      
 Pappasaft                      | 46   | 825      
