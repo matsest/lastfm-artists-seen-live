@@ -15,8 +15,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6107     
-Pearl Jam                      | 2    | 6018     
+Soundgarden                    | 1    | 6108     
+Pearl Jam                      | 2    | 6020     
 Rush                           | 3    | 4521     
 The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2986     
@@ -29,10 +29,10 @@ Chris Cornell                  | 15   | 2233
 The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2006     
-AC/DC                          | 21   | 1992     
+AC/DC                          | 21   | 1993     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 27   | 1545     
-The Smashing Pumpkins          | 28   | 1544     
+The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1283     
 Kvelertak                      | 31   | 1273     
@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 580
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 523      
 Jason Isbell and the 400 Unit  | 86   | 437      
-Gojira                         | 89   | 421      
+Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 97   | 375      
 Swans                          | 98   | 366      
