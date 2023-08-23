@@ -80,9 +80,9 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 19   | 2051     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1813     
-The Menzingers           | 25   | 1557     
+The Menzingers           | 25   | 1558     
 Weezer                   | 26   | 1553     
-Touché Amoré             | 35   | 1113     
+Touché Amoré             | 35   | 1114     
 The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
 Bob Dylan                | 51   | 766      
@@ -98,7 +98,7 @@ The War on Drugs         | 81   | 473
 Faith No More            | 84   | 453      
 Dawes                    | 85   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 93   | 401      
+The Hotelier             | 93   | 402      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
 
