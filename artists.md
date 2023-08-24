@@ -34,13 +34,13 @@ Mastodon                       | 24   | 1755
 Spidergawd                     | 27   | 1545     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1283     
+Baroness                       | 30   | 1284     
 Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
-Stein Torleif Bjella           | 40   | 996      
+Stein Torleif Bjella           | 40   | 998      
 Anti-Lam Front                 | 42   | 950      
 Oslo Ess                       | 44   | 840      
 Thin Lizzy                     | 45   | 836      
@@ -56,7 +56,7 @@ Jason Isbell                   | 60   | 658
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 624      
-Clutch                         | 67   | 611      
+Clutch                         | 67   | 612      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 580      
@@ -77,7 +77,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2251     
 Bob Mould                | 16   | 2227     
-Propagandhi              | 19   | 2051     
+Propagandhi              | 19   | 2052     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1813     
 The Menzingers           | 25   | 1558     
