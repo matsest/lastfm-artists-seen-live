@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 johndoe                        | 20   | 2006     
 AC/DC                          | 21   | 2002     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 27   | 1550     
+Spidergawd                     | 25   | 1558     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1285     
@@ -80,8 +80,8 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 19   | 2066     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1815     
-The Menzingers           | 25   | 1558     
-Weezer                   | 26   | 1554     
+The Menzingers           | 26   | 1558     
+Weezer                   | 27   | 1554     
 Touché Amoré             | 35   | 1114     
 The Hold Steady          | 43   | 895      
 Melvins                  | 49   | 787      
