@@ -29,19 +29,19 @@ Chris Cornell                  | 15   | 2233
 The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
 johndoe                        | 20   | 2006     
-AC/DC                          | 21   | 2002     
+AC/DC                          | 21   | 2003     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1558     
+Spidergawd                     | 25   | 1559     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
-Baroness                       | 30   | 1285     
+Baroness                       | 30   | 1286     
 Kvelertak                      | 31   | 1273     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 1000     
-Anti-Lam Front                 | 42   | 952      
+Anti-Lam Front                 | 42   | 953      
 Oslo Ess                       | 44   | 840      
 Thin Lizzy                     | 45   | 836      
 Pappasaft                      | 46   | 825      
@@ -49,19 +49,19 @@ Brian Fallon                   | 47   | 796
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 752      
+Thulsa Doom                    | 54   | 754      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 672      
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
-Blood Command                  | 66   | 624      
+Blood Command                  | 66   | 625      
 Clutch                         | 67   | 612      
 Devin Townsend Project         | 68   | 606      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 580      
 Kylesa                         | 72   | 572      
-The Good The Bad and The Zugly | 76   | 524      
+The Good The Bad and The Zugly | 76   | 525      
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
@@ -79,12 +79,12 @@ The Who                  | 14   | 2251
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2066     
 Ryan Adams               | 22   | 1873     
-Guided by Voices         | 23   | 1815     
+Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1558     
-Weezer                   | 27   | 1554     
+Weezer                   | 27   | 1555     
 Touché Amoré             | 35   | 1114     
 The Hold Steady          | 43   | 895      
-Melvins                  | 49   | 787      
+Melvins                  | 49   | 788      
 Bob Dylan                | 51   | 766      
 The Black Crowes         | 52   | 763      
 Eddie Vedder             | 58   | 688      
@@ -95,7 +95,7 @@ Dinosaur Jr.             | 78   | 491
 Rage Against the Machine | 79   | 485      
 Yes                      | 80   | 480      
 The War on Drugs         | 81   | 473      
-Faith No More            | 84   | 453      
+Faith No More            | 84   | 454      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 402      
