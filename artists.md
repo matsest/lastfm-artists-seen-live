@@ -17,21 +17,21 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6110     
 Pearl Jam                      | 2    | 6020     
-Rush                           | 3    | 4523     
+Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4354     
 Against Me!                    | 6    | 2987     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2766     
-Bruce Springsteen              | 10   | 2739     
+Bruce Springsteen              | 10   | 2740     
 Manic Street Preachers         | 11   | 2604     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2107     
 Raga Rockers                   | 18   | 2078     
-AC/DC                          | 20   | 2010     
+AC/DC                          | 20   | 2013     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1559     
+Spidergawd                     | 25   | 1562     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1286     
@@ -59,7 +59,7 @@ Blood Command                  | 66   | 626
 Clutch                         | 67   | 613      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
-Spielbergs                     | 71   | 580      
+Spielbergs                     | 71   | 583      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 525      
 Jason Isbell and the 400 Unit  | 85   | 440      
