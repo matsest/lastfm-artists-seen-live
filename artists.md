@@ -18,7 +18,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6110     
 Pearl Jam                      | 2    | 6020     
 Rush                           | 3    | 4524     
-The Gaslight Anthem            | 4    | 4354     
+The Gaslight Anthem            | 4    | 4359     
 Against Me!                    | 6    | 2987     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2766     
@@ -35,7 +35,7 @@ Spidergawd                     | 25   | 1562
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Baroness                       | 30   | 1286     
-Kvelertak                      | 31   | 1276     
+Kvelertak                      | 31   | 1277     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
@@ -59,7 +59,7 @@ Blood Command                  | 66   | 626
 Clutch                         | 67   | 613      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
-Spielbergs                     | 71   | 583      
+Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 572      
 The Good The Bad and The Zugly | 76   | 525      
 Jason Isbell and the 400 Unit  | 85   | 440      
