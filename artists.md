@@ -18,8 +18,8 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6110     
 Pearl Jam                      | 2    | 6020     
 Rush                           | 3    | 4524     
-The Gaslight Anthem            | 4    | 4359     
-Against Me!                    | 6    | 2987     
+The Gaslight Anthem            | 4    | 4360     
+Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2766     
 Bruce Springsteen              | 10   | 2740     
@@ -79,9 +79,9 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 19   | 2073     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1816     
-The Menzingers           | 26   | 1558     
+The Menzingers           | 26   | 1559     
 Weezer                   | 27   | 1556     
-Touché Amoré             | 35   | 1114     
+Touché Amoré             | 35   | 1115     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
 Bob Dylan                | 51   | 766      
@@ -97,7 +97,7 @@ The War on Drugs         | 81   | 473
 Faith No More            | 84   | 455      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 93   | 402      
+The Hotelier             | 93   | 403      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
 The Bouncing Souls       | 99   | 365      
