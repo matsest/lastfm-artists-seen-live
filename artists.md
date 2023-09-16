@@ -31,11 +31,11 @@ Raga Rockers                   | 18   | 2078
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1563     
+Spidergawd                     | 25   | 1567     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
-Kvelertak                      | 30   | 1310     
-Baroness                       | 31   | 1303     
+Baroness                       | 30   | 1313     
+Kvelertak                      | 31   | 1310     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
@@ -49,14 +49,14 @@ Brian Fallon                   | 47   | 796
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 754      
+Thulsa Doom                    | 54   | 755      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 672      
 Jason Isbell                   | 60   | 658      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 626      
-Clutch                         | 67   | 613      
+Clutch                         | 67   | 619      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
