@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 356
+- Number of artists seen live in total: 357
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -49,7 +49,7 @@ Brian Fallon                   | 47   | 796
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 755      
+Thulsa Doom                    | 54   | 756      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 672      
 Jason Isbell                   | 60   | 658      
