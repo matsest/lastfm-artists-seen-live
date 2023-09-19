@@ -81,7 +81,7 @@ Ryan Adams               | 22   | 1873
 Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1559     
 Weezer                   | 27   | 1556     
-Touché Amoré             | 35   | 1115     
+Touché Amoré             | 35   | 1116     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
 Bob Dylan                | 51   | 766      
