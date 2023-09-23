@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 26   | 1567     
+Spidergawd                     | 25   | 1578     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Kvelertak                      | 30   | 1320     
@@ -79,7 +79,7 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 19   | 2073     
 Ryan Adams               | 22   | 1873     
 Guided by Voices         | 23   | 1816     
-The Menzingers           | 25   | 1570     
+The Menzingers           | 26   | 1570     
 Weezer                   | 27   | 1556     
 Touché Amoré             | 35   | 1116     
 The Hold Steady          | 43   | 897      
@@ -106,9 +106,9 @@ The Bouncing Souls       | 99   | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3042     
+The Replacements     | 5    | 3085     
 Hüsker Dü            | 8    | 2881     
-Sugar                | 32   | 1249     
+Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 38   | 1066     
 Fugazi               | 41   | 993      
