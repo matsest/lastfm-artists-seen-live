@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1578     
+Spidergawd                     | 25   | 1580     
 The Smashing Pumpkins          | 28   | 1545     
 Mark Lanegan                   | 29   | 1419     
 Kvelertak                      | 30   | 1320     
@@ -43,7 +43,7 @@ Justin Townes Earle            | 39   | 1019
 Stein Torleif Bjella           | 40   | 1000     
 Anti-Lam Front                 | 42   | 953      
 Oslo Ess                       | 44   | 841      
-Thin Lizzy                     | 45   | 836      
+Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 825      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
@@ -85,7 +85,7 @@ Touché Amoré             | 35   | 1116
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
 Bob Dylan                | 51   | 766      
-The Black Crowes         | 52   | 763      
+The Black Crowes         | 52   | 764      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
 Afghan Whigs             | 64   | 650      
