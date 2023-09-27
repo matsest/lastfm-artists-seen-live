@@ -90,9 +90,9 @@ Eddie Vedder             | 58   | 688
 Hot Water Music          | 62   | 651      
 Afghan Whigs             | 64   | 650      
 Neil Young               | 65   | 639      
-Dinosaur Jr.             | 78   | 491      
-Rage Against the Machine | 79   | 486      
-Yes                      | 80   | 481      
+Yes                      | 78   | 496      
+Dinosaur Jr.             | 79   | 491      
+Rage Against the Machine | 80   | 486      
 The War on Drugs         | 81   | 473      
 Faith No More            | 84   | 455      
 Dawes                    | 86   | 437      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 99   | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3085     
+The Replacements     | 5    | 3119     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
