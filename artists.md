@@ -42,9 +42,9 @@ Hellbillies                    | 37   | 1068
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 1000     
 Anti-Lam Front                 | 42   | 953      
-Oslo Ess                       | 44   | 841      
+Oslo Ess                       | 44   | 852      
 Thin Lizzy                     | 45   | 838      
-Pappasaft                      | 46   | 825      
+Pappasaft                      | 46   | 837      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 48   | 790      
 Sweden                         | 50   | 786      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 99   | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3119     
+The Replacements     | 5    | 3121     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
