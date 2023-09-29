@@ -60,7 +60,7 @@ Clutch                         | 67   | 619
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
-Kylesa                         | 72   | 572      
+Kylesa                         | 72   | 583      
 The Good The Bad and The Zugly | 76   | 525      
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
@@ -81,11 +81,11 @@ Ryan Adams               | 22   | 1873
 Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1570     
 Weezer                   | 27   | 1556     
-Touché Amoré             | 35   | 1116     
+Touché Amoré             | 35   | 1132     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
-Bob Dylan                | 51   | 766      
-The Black Crowes         | 52   | 764      
+The Black Crowes         | 51   | 773      
+Bob Dylan                | 52   | 766      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
 Afghan Whigs             | 64   | 650      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 99   | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3121     
+The Replacements     | 5    | 3135     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
