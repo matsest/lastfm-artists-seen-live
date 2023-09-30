@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 1000     
-Anti-Lam Front                 | 42   | 953      
+Anti-Lam Front                 | 42   | 967      
 Oslo Ess                       | 44   | 852      
 Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 837      
@@ -81,7 +81,7 @@ Ryan Adams               | 22   | 1873
 Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1570     
 Weezer                   | 27   | 1556     
-Touché Amoré             | 35   | 1132     
+Touché Amoré             | 35   | 1133     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
 The Black Crowes         | 51   | 773      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 99   | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3135     
+The Replacements     | 5    | 3148     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
