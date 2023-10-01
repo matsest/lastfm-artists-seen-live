@@ -21,7 +21,7 @@ Rush                           | 3    | 4524
 The Gaslight Anthem            | 4    | 4360     
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2977     
-Motorpsycho                    | 9    | 2766     
+Motorpsycho                    | 9    | 2767     
 Bruce Springsteen              | 10   | 2741     
 Manic Street Preachers         | 11   | 2604     
 Frank Turner                   | 12   | 2405     
@@ -42,7 +42,7 @@ Hellbillies                    | 37   | 1068
 Justin Townes Earle            | 39   | 1019     
 Stein Torleif Bjella           | 40   | 1000     
 Anti-Lam Front                 | 42   | 967      
-Oslo Ess                       | 44   | 852      
+Oslo Ess                       | 44   | 856      
 Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 837      
 Brian Fallon                   | 47   | 796      
@@ -77,7 +77,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2251     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2073     
-Ryan Adams               | 22   | 1873     
+Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1570     
 Weezer                   | 27   | 1556     
