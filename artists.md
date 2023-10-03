@@ -7,11 +7,11 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
-- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
+- Number of top artists seen live: 52 (Active: 44 Inactive: 8)
 
-- Number of top artists not seen live: 47 (Active: 28 Inactive: 19)
+- Number of top artists not seen live: 48 (Active: 29 Inactive: 19)
 
-## Top 100 artists seen live (53)
+## Top 100 artists seen live (52)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -40,9 +40,9 @@ Chuck Ragan                    | 34   | 1144
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
 Justin Townes Earle            | 39   | 1019     
-Stein Torleif Bjella           | 40   | 1000     
+Stein Torleif Bjella           | 40   | 1013     
 Anti-Lam Front                 | 42   | 967      
-Oslo Ess                       | 44   | 856      
+Oslo Ess                       | 44   | 861      
 Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 837      
 Brian Fallon                   | 47   | 796      
@@ -66,10 +66,9 @@ Jason Isbell and the 400 Unit  | 85   | 440
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 97   | 375      
-Swans                          | 98   | 366      
-deLillos                       | 100  | 363      
+Swans                          | 99   | 366      
 
-## Active top 100 artists not seen live (28)
+## Active top 100 artists not seen live (29)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -100,7 +99,8 @@ Thåström                 | 87   | 436
 The Hotelier             | 93   | 403      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
-The Bouncing Souls       | 99   | 365      
+Richard Thompson         | 98   | 373      
+The Bouncing Souls       | 100  | 365      
 
 ## Inactive top 100 artists not seen live (19)
 
