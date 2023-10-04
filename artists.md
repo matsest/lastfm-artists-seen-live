@@ -18,7 +18,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6110     
 Pearl Jam                      | 2    | 6020     
 Rush                           | 3    | 4524     
-The Gaslight Anthem            | 4    | 4360     
+The Gaslight Anthem            | 4    | 4364     
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2767     
@@ -39,8 +39,8 @@ Baroness                       | 31   | 1313
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1068     
-Justin Townes Earle            | 39   | 1019     
-Stein Torleif Bjella           | 40   | 1013     
+Stein Torleif Bjella           | 39   | 1020     
+Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 42   | 967      
 Oslo Ess                       | 44   | 861      
 Thin Lizzy                     | 45   | 838      
@@ -52,7 +52,7 @@ Devin Townsend                 | 53   | 760
 Thulsa Doom                    | 54   | 756      
 Tool                           | 55   | 739      
 Ghost                          | 59   | 672      
-Jason Isbell                   | 60   | 658      
+Jason Isbell                   | 60   | 670      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 626      
@@ -80,7 +80,7 @@ Ryan Adams               | 22   | 1874
 Guided by Voices         | 23   | 1816     
 The Menzingers           | 26   | 1570     
 Weezer                   | 27   | 1556     
-Touché Amoré             | 35   | 1133     
+Touché Amoré             | 35   | 1134     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 788      
 The Black Crowes         | 51   | 773      
@@ -99,7 +99,7 @@ Thåström                 | 87   | 436
 The Hotelier             | 93   | 403      
 Ulver                    | 94   | 396      
 System of a Down         | 96   | 376      
-Richard Thompson         | 98   | 373      
+Richard Thompson         | 98   | 374      
 The Bouncing Souls       | 100  | 365      
 
 ## Inactive top 100 artists not seen live (19)
