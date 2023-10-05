@@ -21,24 +21,24 @@ Rush                           | 3    | 4524
 The Gaslight Anthem            | 4    | 4364     
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2977     
-Motorpsycho                    | 9    | 2767     
+Motorpsycho                    | 9    | 2768     
 Bruce Springsteen              | 10   | 2741     
 Manic Street Preachers         | 11   | 2604     
 Frank Turner                   | 12   | 2405     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2109     
+The National                   | 17   | 2110     
 Raga Rockers                   | 18   | 2078     
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 25   | 1580     
-The Smashing Pumpkins          | 28   | 1545     
-Mark Lanegan                   | 29   | 1419     
+The Smashing Pumpkins          | 28   | 1546     
+Mark Lanegan                   | 29   | 1473     
 Kvelertak                      | 30   | 1320     
 Baroness                       | 31   | 1313     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
-Hellbillies                    | 37   | 1068     
+Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1020     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 42   | 967      
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 76   | 525
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
-Kaizers Orchestra              | 97   | 375      
+Kaizers Orchestra              | 98   | 375      
 Swans                          | 99   | 366      
 
 ## Active top 100 artists not seen live (29)
@@ -98,15 +98,15 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
 Ulver                    | 94   | 396      
-System of a Down         | 96   | 376      
-Richard Thompson         | 98   | 374      
+Richard Thompson         | 96   | 376      
+System of a Down         | 97   | 376      
 The Bouncing Souls       | 100  | 365      
 
 ## Inactive top 100 artists not seen live (19)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3148     
+The Replacements     | 5    | 3149     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
