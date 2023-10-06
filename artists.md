@@ -23,8 +23,8 @@ Against Me!                    | 6    | 2988
 DumDum Boys                    | 7    | 2977     
 Motorpsycho                    | 9    | 2768     
 Bruce Springsteen              | 10   | 2741     
-Manic Street Preachers         | 11   | 2604     
-Frank Turner                   | 12   | 2405     
+Manic Street Preachers         | 11   | 2605     
+Frank Turner                   | 12   | 2406     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
 Raga Rockers                   | 18   | 2078     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1020     
 Justin Townes Earle            | 40   | 1019     
-Anti-Lam Front                 | 42   | 967      
+Anti-Lam Front                 | 42   | 979      
 Oslo Ess                       | 44   | 861      
 Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 837      
@@ -55,7 +55,7 @@ Ghost                          | 59   | 672
 Jason Isbell                   | 60   | 670      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
-Blood Command                  | 66   | 626      
+Blood Command                  | 66   | 633      
 Clutch                         | 67   | 619      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 100  | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3149     
+The Replacements     | 5    | 3150     
 Hüsker Dü            | 8    | 2881     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
