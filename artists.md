@@ -31,8 +31,8 @@ Raga Rockers                   | 18   | 2078
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1580     
-The Smashing Pumpkins          | 28   | 1546     
+Spidergawd                     | 25   | 1597     
+The Smashing Pumpkins          | 28   | 1547     
 Mark Lanegan                   | 29   | 1473     
 Kvelertak                      | 30   | 1320     
 Baroness                       | 31   | 1313     
@@ -106,8 +106,8 @@ The Bouncing Souls       | 100  | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3150     
-Hüsker Dü            | 8    | 2881     
+The Replacements     | 5    | 3199     
+Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 38   | 1066     
