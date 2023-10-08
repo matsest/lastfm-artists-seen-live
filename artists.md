@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2078
 AC/DC                          | 20   | 2027     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1597     
+Spidergawd                     | 25   | 1598     
 The Smashing Pumpkins          | 28   | 1547     
 Mark Lanegan                   | 29   | 1473     
 Kvelertak                      | 30   | 1320     
@@ -41,7 +41,7 @@ Biffy Clyro                    | 36   | 1104
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1020     
 Justin Townes Earle            | 40   | 1019     
-Anti-Lam Front                 | 42   | 979      
+Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
 Thin Lizzy                     | 45   | 838      
 Pappasaft                      | 46   | 837      
@@ -51,8 +51,8 @@ Sweden                         | 50   | 786
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 756      
 Tool                           | 55   | 739      
-Ghost                          | 59   | 672      
-Jason Isbell                   | 60   | 670      
+Jason Isbell                   | 59   | 683      
+Ghost                          | 60   | 672      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 633      
@@ -106,12 +106,12 @@ The Bouncing Souls       | 100  | 365
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3199     
+The Replacements     | 5    | 3208     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1250     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 38   | 1066     
-Fugazi               | 41   | 993      
+Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 726      
 Audioslave           | 57   | 691      
 Foo Fighters         | 70   | 604      
