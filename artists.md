@@ -20,26 +20,26 @@ Pearl Jam                      | 2    | 6020
 Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4364     
 Against Me!                    | 6    | 2988     
-DumDum Boys                    | 7    | 2977     
-Motorpsycho                    | 9    | 2768     
+DumDum Boys                    | 7    | 2978     
+Motorpsycho                    | 9    | 2769     
 Bruce Springsteen              | 10   | 2741     
-Manic Street Preachers         | 11   | 2605     
+Manic Street Preachers         | 11   | 2607     
 Frank Turner                   | 12   | 2406     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
 Raga Rockers                   | 18   | 2078     
-AC/DC                          | 20   | 2034     
+AC/DC                          | 20   | 2058     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1598     
-The Smashing Pumpkins          | 28   | 1547     
+Spidergawd                     | 25   | 1601     
+The Smashing Pumpkins          | 28   | 1549     
 Mark Lanegan                   | 29   | 1473     
 Kvelertak                      | 30   | 1320     
 Baroness                       | 31   | 1313     
 Chuck Ragan                    | 34   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1020     
+Stein Torleif Bjella           | 39   | 1029     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
@@ -77,13 +77,13 @@ The Who                  | 14   | 2251
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2073     
 Ryan Adams               | 22   | 1874     
-Guided by Voices         | 23   | 1816     
+Guided by Voices         | 23   | 1817     
 The Menzingers           | 26   | 1570     
-Weezer                   | 27   | 1556     
+Weezer                   | 27   | 1557     
 Touché Amoré             | 35   | 1134     
 The Hold Steady          | 43   | 897      
-Melvins                  | 49   | 788      
-The Black Crowes         | 51   | 773      
+Melvins                  | 49   | 789      
+The Black Crowes         | 51   | 774      
 Bob Dylan                | 52   | 766      
 Eddie Vedder             | 58   | 688      
 Hot Water Music          | 62   | 651      
@@ -100,15 +100,15 @@ The Hotelier             | 93   | 403
 Ulver                    | 94   | 396      
 Richard Thompson         | 96   | 376      
 System of a Down         | 97   | 376      
-The Bouncing Souls       | 100  | 365      
+The Bouncing Souls       | 100  | 366      
 
 ## Inactive top 100 artists not seen live (19)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3208     
+The Replacements     | 5    | 3209     
 Hüsker Dü            | 8    | 2888     
-Sugar                | 32   | 1250     
+Sugar                | 32   | 1252     
 The Horrible Crowes  | 33   | 1176     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
