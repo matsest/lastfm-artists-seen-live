@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6110     
-Pearl Jam                      | 2    | 6020     
+Pearl Jam                      | 2    | 6022     
 Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4364     
 Against Me!                    | 6    | 2988     
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 76   | 525
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
-Kaizers Orchestra              | 98   | 375      
+Kaizers Orchestra              | 96   | 387      
 Swans                          | 99   | 366      
 
 ## Active top 100 artists not seen live (29)
@@ -77,7 +77,7 @@ The Who                  | 14   | 2251
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2073     
 Ryan Adams               | 22   | 1874     
-Guided by Voices         | 23   | 1817     
+Guided by Voices         | 23   | 1824     
 The Menzingers           | 26   | 1573     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 34   | 1163     
@@ -98,8 +98,8 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
 Ulver                    | 94   | 396      
-Richard Thompson         | 96   | 376      
-System of a Down         | 97   | 376      
+Richard Thompson         | 97   | 376      
+System of a Down         | 98   | 376      
 The Bouncing Souls       | 100  | 366      
 
 ## Inactive top 100 artists not seen live (19)
