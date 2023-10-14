@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 76   | 525
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
-Kaizers Orchestra              | 96   | 387      
+Kaizers Orchestra              | 94   | 400      
 Swans                          | 99   | 366      
 
 ## Active top 100 artists not seen live (29)
@@ -77,8 +77,8 @@ The Who                  | 14   | 2251
 Bob Mould                | 16   | 2227     
 Propagandhi              | 19   | 2073     
 Ryan Adams               | 22   | 1874     
-Guided by Voices         | 23   | 1824     
-The Menzingers           | 26   | 1573     
+Guided by Voices         | 23   | 1826     
+The Menzingers           | 26   | 1574     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 34   | 1163     
 The Hold Steady          | 43   | 897      
@@ -97,7 +97,7 @@ Faith No More            | 84   | 455
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
-Ulver                    | 94   | 396      
+Ulver                    | 95   | 396      
 Richard Thompson         | 97   | 376      
 System of a Down         | 98   | 376      
 The Bouncing Souls       | 100  | 366      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 100  | 366
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3209     
+The Replacements     | 5    | 3216     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
 The Horrible Crowes  | 33   | 1176     
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 466
 The Twilight Singers | 88   | 430      
 Marillion            | 90   | 418      
 Jokke med Tourettes  | 91   | 409      
-The Band             | 95   | 389      
+The Band             | 96   | 389      
