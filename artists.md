@@ -27,8 +27,8 @@ Manic Street Preachers         | 11   | 2607
 Frank Turner                   | 12   | 2406     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
-Raga Rockers                   | 18   | 2078     
-AC/DC                          | 20   | 2058     
+AC/DC                          | 18   | 2099     
+Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 25   | 1601     
@@ -75,7 +75,7 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2251     
 Bob Mould                | 16   | 2227     
-Propagandhi              | 19   | 2073     
+Propagandhi              | 20   | 2073     
 Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1826     
 The Menzingers           | 26   | 1574     
