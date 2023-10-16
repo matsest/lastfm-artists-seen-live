@@ -32,7 +32,7 @@ Raga Rockers                   | 19   | 2078
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 25   | 1601     
-The Smashing Pumpkins          | 28   | 1549     
+The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1473     
 Kvelertak                      | 30   | 1321     
 Baroness                       | 31   | 1313     
@@ -66,7 +66,7 @@ Jason Isbell and the 400 Unit  | 85   | 440
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 94   | 400      
-Swans                          | 99   | 366      
+Swans                          | 100  | 366      
 
 ## Active top 100 artists not seen live (29)
 
@@ -75,9 +75,9 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2251     
 Bob Mould                | 16   | 2227     
-Propagandhi              | 20   | 2073     
+Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1874     
-Guided by Voices         | 23   | 1826     
+Guided by Voices         | 23   | 1827     
 The Menzingers           | 26   | 1574     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 34   | 1163     
@@ -98,9 +98,9 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
 Ulver                    | 95   | 396      
-Richard Thompson         | 97   | 376      
+Richard Thompson         | 97   | 377      
 System of a Down         | 98   | 376      
-The Bouncing Souls       | 100  | 366      
+The Bouncing Souls       | 99   | 368      
 
 ## Inactive top 100 artists not seen live (19)
 
