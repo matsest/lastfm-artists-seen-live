@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 357
+- Number of artists seen live in total: 358
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -33,7 +33,7 @@ johndoe                        | 21   | 2007
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 25   | 1601     
 The Smashing Pumpkins          | 28   | 1552     
-Mark Lanegan                   | 29   | 1473     
+Mark Lanegan                   | 29   | 1476     
 Kvelertak                      | 30   | 1321     
 Baroness                       | 31   | 1313     
 Chuck Ragan                    | 35   | 1144     
@@ -78,7 +78,7 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1827     
-The Menzingers           | 26   | 1574     
+The Menzingers           | 26   | 1590     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 34   | 1163     
 The Hold Steady          | 43   | 897      
