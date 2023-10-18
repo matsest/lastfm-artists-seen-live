@@ -31,7 +31,7 @@ AC/DC                          | 18   | 2099
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1601     
+Spidergawd                     | 26   | 1601     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1476     
 Kvelertak                      | 30   | 1321     
@@ -39,7 +39,7 @@ Baroness                       | 31   | 1313
 Chuck Ragan                    | 35   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1031     
+Stein Torleif Bjella           | 39   | 1036     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
@@ -66,7 +66,7 @@ Jason Isbell and the 400 Unit  | 85   | 440
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 94   | 400      
-Swans                          | 100  | 366      
+Swans                          | 97   | 385      
 
 ## Active top 100 artists not seen live (29)
 
@@ -78,7 +78,7 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1827     
-The Menzingers           | 26   | 1590     
+The Menzingers           | 25   | 1603     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 34   | 1163     
 The Hold Steady          | 43   | 897      
@@ -98,9 +98,9 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
 Ulver                    | 95   | 396      
-Richard Thompson         | 97   | 377      
-System of a Down         | 98   | 376      
-The Bouncing Souls       | 99   | 368      
+Richard Thompson         | 98   | 377      
+System of a Down         | 99   | 376      
+The Bouncing Souls       | 100  | 368      
 
 ## Inactive top 100 artists not seen live (19)
 
