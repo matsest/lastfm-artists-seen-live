@@ -23,7 +23,7 @@ Against Me!                    | 6    | 2988
 DumDum Boys                    | 7    | 2978     
 Motorpsycho                    | 9    | 2769     
 Bruce Springsteen              | 10   | 2741     
-Manic Street Preachers         | 11   | 2607     
+Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2406     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
@@ -66,7 +66,7 @@ Jason Isbell and the 400 Unit  | 85   | 440
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
 Kaizers Orchestra              | 94   | 400      
-Swans                          | 97   | 385      
+Swans                          | 95   | 396      
 
 ## Active top 100 artists not seen live (29)
 
@@ -80,7 +80,7 @@ Ryan Adams               | 22   | 1874
 Guided by Voices         | 23   | 1827     
 The Menzingers           | 25   | 1603     
 Weezer                   | 27   | 1557     
-Touché Amoré             | 34   | 1163     
+Touché Amoré             | 33   | 1186     
 The Hold Steady          | 43   | 897      
 Melvins                  | 49   | 789      
 The Black Crowes         | 51   | 774      
@@ -97,7 +97,7 @@ Faith No More            | 84   | 455
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 93   | 403      
-Ulver                    | 95   | 396      
+Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 377      
 System of a Down         | 99   | 376      
 The Bouncing Souls       | 100  | 368      
@@ -109,7 +109,7 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3216     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
-The Horrible Crowes  | 33   | 1176     
+The Horrible Crowes  | 34   | 1176     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 726      
@@ -124,4 +124,4 @@ Black Sabbath        | 83   | 466
 The Twilight Singers | 88   | 430      
 Marillion            | 90   | 418      
 Jokke med Tourettes  | 91   | 409      
-The Band             | 96   | 389      
+The Band             | 97   | 389      
