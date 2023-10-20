@@ -34,8 +34,8 @@ Mastodon                       | 24   | 1755
 Spidergawd                     | 26   | 1601     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1476     
-Kvelertak                      | 30   | 1321     
-Baroness                       | 31   | 1313     
+Baroness                       | 30   | 1321     
+Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
@@ -65,8 +65,8 @@ The Good The Bad and The Zugly | 76   | 525
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
-Kaizers Orchestra              | 94   | 400      
-Swans                          | 95   | 396      
+Swans                          | 93   | 403      
+Kaizers Orchestra              | 95   | 400      
 
 ## Active top 100 artists not seen live (29)
 
@@ -96,7 +96,7 @@ The War on Drugs         | 81   | 473
 Faith No More            | 84   | 455      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 93   | 403      
+The Hotelier             | 94   | 403      
 Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 377      
 System of a Down         | 99   | 376      
