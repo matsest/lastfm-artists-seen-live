@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 358
+- Number of artists seen live in total: 359
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -65,7 +65,7 @@ The Good The Bad and The Zugly | 76   | 525
 Jason Isbell and the 400 Unit  | 85   | 440      
 Gojira                         | 89   | 422      
 Opeth                          | 92   | 409      
-Swans                          | 93   | 403      
+Swans                          | 93   | 404      
 Kaizers Orchestra              | 95   | 400      
 
 ## Active top 100 artists not seen live (29)
@@ -78,7 +78,7 @@ Bob Mould                | 16   | 2227
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1827     
-The Menzingers           | 25   | 1603     
+The Menzingers           | 25   | 1605     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 33   | 1186     
 The Hold Steady          | 43   | 897      
