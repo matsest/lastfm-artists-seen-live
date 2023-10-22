@@ -73,12 +73,12 @@ Kaizers Orchestra              | 95   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2251     
+The Who                  | 14   | 2252     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1874     
 Guided by Voices         | 23   | 1827     
-The Menzingers           | 25   | 1605     
+The Menzingers           | 25   | 1606     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 33   | 1186     
 The Hold Steady          | 43   | 897      
@@ -106,7 +106,7 @@ The Bouncing Souls       | 100  | 368
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3216     
+The Replacements     | 5    | 3237     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
 The Horrible Crowes  | 34   | 1176     
