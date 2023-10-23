@@ -33,7 +33,7 @@ johndoe                        | 21   | 2007
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 26   | 1601     
 The Smashing Pumpkins          | 28   | 1552     
-Mark Lanegan                   | 29   | 1476     
+Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
 Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1144     
@@ -51,7 +51,7 @@ Sweden                         | 50   | 786
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 756      
 Tool                           | 55   | 739      
-Jason Isbell                   | 59   | 683      
+Jason Isbell                   | 59   | 685      
 Ghost                          | 60   | 672      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2252     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
-Ryan Adams               | 22   | 1874     
+Ryan Adams               | 22   | 1876     
 Guided by Voices         | 23   | 1827     
 The Menzingers           | 25   | 1606     
 Weezer                   | 27   | 1557     
@@ -98,7 +98,7 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 94   | 403      
 Ulver                    | 96   | 396      
-Richard Thompson         | 98   | 377      
+Richard Thompson         | 98   | 379      
 System of a Down         | 99   | 376      
 The Bouncing Souls       | 100  | 368      
 
@@ -106,7 +106,7 @@ The Bouncing Souls       | 100  | 368
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3237     
+The Replacements     | 5    | 3238     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
 The Horrible Crowes  | 34   | 1176     
