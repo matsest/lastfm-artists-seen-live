@@ -24,7 +24,7 @@ DumDum Boys                    | 7    | 2978
 Motorpsycho                    | 9    | 2769     
 Bruce Springsteen              | 10   | 2741     
 Manic Street Preachers         | 11   | 2608     
-Frank Turner                   | 12   | 2406     
+Frank Turner                   | 12   | 2421     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
 AC/DC                          | 18   | 2099     
@@ -106,7 +106,7 @@ The Bouncing Souls       | 100  | 368
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3238     
+The Replacements     | 5    | 3241     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
 The Horrible Crowes  | 34   | 1176     
