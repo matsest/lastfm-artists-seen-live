@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 359
+- Number of artists seen live in total: 360
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -27,11 +27,11 @@ Manic Street Preachers         | 11   | 2608
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
-AC/DC                          | 18   | 2099     
+AC/DC                          | 18   | 2100     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 26   | 1602     
+Spidergawd                     | 25   | 1619     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
@@ -46,13 +46,13 @@ Oslo Ess                       | 44   | 861
 Pappasaft                      | 45   | 838      
 Thin Lizzy                     | 46   | 838      
 Brian Fallon                   | 47   | 796      
-The Tallest Man on Earth       | 48   | 790      
+The Tallest Man on Earth       | 49   | 790      
 Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
 Thulsa Doom                    | 54   | 756      
 Tool                           | 55   | 739      
 Jason Isbell                   | 59   | 685      
-Ghost                          | 60   | 672      
+Ghost                          | 60   | 673      
 The Posies                     | 61   | 657      
 Japandroids                    | 63   | 651      
 Blood Command                  | 66   | 633      
@@ -73,16 +73,16 @@ Kaizers Orchestra              | 95   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2252     
+The Who                  | 14   | 2253     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1876     
 Guided by Voices         | 23   | 1827     
-The Menzingers           | 25   | 1606     
+The Menzingers           | 26   | 1606     
 Weezer                   | 27   | 1557     
 Touché Amoré             | 33   | 1186     
 The Hold Steady          | 43   | 897      
-Melvins                  | 49   | 789      
+Melvins                  | 48   | 790      
 The Black Crowes         | 51   | 774      
 Bob Dylan                | 52   | 766      
 Eddie Vedder             | 58   | 688      
@@ -120,7 +120,7 @@ Temple of the Dog    | 74   | 551
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 512      
 Pink Floyd           | 82   | 471      
-Black Sabbath        | 83   | 466      
+Black Sabbath        | 83   | 467      
 The Twilight Singers | 88   | 430      
 Marillion            | 90   | 418      
 Jokke med Tourettes  | 91   | 409      
