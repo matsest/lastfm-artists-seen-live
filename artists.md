@@ -27,7 +27,7 @@ Manic Street Preachers         | 11   | 2608
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
 The National                   | 17   | 2110     
-AC/DC                          | 18   | 2100     
+AC/DC                          | 18   | 2101     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
@@ -53,8 +53,8 @@ Thulsa Doom                    | 54   | 756
 Tool                           | 55   | 739      
 Jason Isbell                   | 59   | 685      
 Ghost                          | 60   | 673      
-The Posies                     | 61   | 657      
-Japandroids                    | 63   | 651      
+The Posies                     | 62   | 657      
+Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 619      
 Devin Townsend Project         | 68   | 608      
@@ -86,8 +86,8 @@ Melvins                  | 48   | 790
 The Black Crowes         | 51   | 774      
 Bob Dylan                | 52   | 766      
 Eddie Vedder             | 58   | 688      
-Hot Water Music          | 62   | 651      
-Afghan Whigs             | 64   | 650      
+Afghan Whigs             | 61   | 672      
+Hot Water Music          | 63   | 651      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 496      
 Dinosaur Jr.             | 79   | 491      
@@ -121,7 +121,7 @@ Paul Westerberg      | 75   | 530
 The Beatles          | 77   | 512      
 Pink Floyd           | 82   | 471      
 Black Sabbath        | 83   | 467      
-The Twilight Singers | 88   | 430      
+The Twilight Singers | 88   | 431      
 Marillion            | 90   | 418      
 Jokke med Tourettes  | 91   | 409      
 The Band             | 97   | 389      
