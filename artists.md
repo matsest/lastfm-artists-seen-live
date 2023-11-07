@@ -26,8 +26,8 @@ Bruce Springsteen              | 10   | 2741
 Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
-The National                   | 17   | 2110     
-AC/DC                          | 18   | 2101     
+AC/DC                          | 17   | 2115     
+The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
@@ -39,7 +39,7 @@ Kvelertak                      | 31   | 1321
 Chuck Ragan                    | 35   | 1144     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1036     
+Stein Torleif Bjella           | 39   | 1046     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
@@ -63,9 +63,9 @@ Spielbergs                     | 71   | 592
 Kylesa                         | 72   | 583      
 The Good The Bad and The Zugly | 76   | 525      
 Jason Isbell and the 400 Unit  | 85   | 440      
-Gojira                         | 89   | 422      
-Opeth                          | 92   | 409      
-Swans                          | 93   | 404      
+Gojira                         | 90   | 422      
+Opeth                          | 93   | 409      
+Swans                          | 94   | 404      
 Kaizers Orchestra              | 95   | 400      
 
 ## Active top 100 artists not seen live (29)
@@ -80,7 +80,7 @@ Ryan Adams               | 22   | 1876
 Guided by Voices         | 23   | 1827     
 The Menzingers           | 26   | 1619     
 Weezer                   | 27   | 1557     
-Touché Amoré             | 33   | 1186     
+Touché Amoré             | 33   | 1194     
 The Hold Steady          | 43   | 897      
 Melvins                  | 48   | 790      
 The Black Crowes         | 51   | 774      
@@ -96,7 +96,7 @@ The War on Drugs         | 81   | 473
 Faith No More            | 84   | 455      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 94   | 403      
+The Hotelier             | 89   | 425      
 Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 379      
 System of a Down         | 99   | 376      
@@ -121,7 +121,7 @@ Paul Westerberg      | 75   | 530
 The Beatles          | 77   | 512      
 Pink Floyd           | 82   | 471      
 Black Sabbath        | 83   | 467      
-The Twilight Singers | 88   | 431      
-Marillion            | 90   | 418      
-Jokke med Tourettes  | 91   | 409      
+The Twilight Singers | 88   | 433      
+Marillion            | 91   | 418      
+Jokke med Tourettes  | 92   | 409      
 The Band             | 97   | 389      
