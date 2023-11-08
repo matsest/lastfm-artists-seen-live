@@ -22,7 +22,7 @@ The Gaslight Anthem            | 4    | 4384
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2978     
 Motorpsycho                    | 9    | 2774     
-Bruce Springsteen              | 10   | 2741     
+Bruce Springsteen              | 10   | 2758     
 Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
@@ -31,7 +31,7 @@ The National                   | 18   | 2110
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1619     
+Spidergawd                     | 25   | 1623     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
@@ -49,8 +49,8 @@ Brian Fallon                   | 47   | 796
 The Tallest Man on Earth       | 49   | 790      
 Sweden                         | 50   | 786      
 Devin Townsend                 | 53   | 760      
-Thulsa Doom                    | 54   | 756      
-Tool                           | 55   | 739      
+Tool                           | 54   | 760      
+Thulsa Doom                    | 55   | 756      
 Jason Isbell                   | 59   | 685      
 Ghost                          | 60   | 673      
 The Posies                     | 62   | 657      
@@ -62,7 +62,7 @@ Dropkick Murphys               | 69   | 606
 Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 583      
 The Good The Bad and The Zugly | 76   | 525      
-Jason Isbell and the 400 Unit  | 85   | 440      
+Jason Isbell and the 400 Unit  | 84   | 458      
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 409      
 Swans                          | 94   | 404      
@@ -93,7 +93,7 @@ Yes                      | 78   | 496
 Dinosaur Jr.             | 79   | 491      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 81   | 473      
-Faith No More            | 84   | 455      
+Faith No More            | 85   | 455      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
 The Hotelier             | 89   | 425      
