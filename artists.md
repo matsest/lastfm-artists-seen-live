@@ -26,12 +26,12 @@ Bruce Springsteen              | 10   | 2758
 Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2115     
+AC/DC                          | 17   | 2122     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1623     
+Spidergawd                     | 25   | 1624     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
@@ -43,13 +43,13 @@ Stein Torleif Bjella           | 39   | 1046
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
-Pappasaft                      | 45   | 838      
+Pappasaft                      | 45   | 853      
 Thin Lizzy                     | 46   | 838      
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 49   | 790      
 Sweden                         | 50   | 786      
-Devin Townsend                 | 53   | 760      
-Tool                           | 54   | 760      
+Tool                           | 53   | 761      
+Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 756      
 Jason Isbell                   | 59   | 685      
 Ghost                          | 60   | 673      
