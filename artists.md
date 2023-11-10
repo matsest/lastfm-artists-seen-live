@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2758
 Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2122     
+AC/DC                          | 17   | 2123     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
@@ -48,7 +48,7 @@ Thin Lizzy                     | 46   | 838
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 49   | 790      
 Sweden                         | 50   | 786      
-Tool                           | 53   | 761      
+Tool                           | 52   | 774      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 756      
 Jason Isbell                   | 59   | 685      
@@ -84,7 +84,7 @@ Touché Amoré             | 33   | 1194
 The Hold Steady          | 43   | 897      
 Melvins                  | 48   | 790      
 The Black Crowes         | 51   | 774      
-Bob Dylan                | 52   | 766      
+Bob Dylan                | 53   | 766      
 Eddie Vedder             | 58   | 688      
 Afghan Whigs             | 61   | 672      
 Hot Water Music          | 63   | 651      
