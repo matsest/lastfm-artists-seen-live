@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 379
+- Number of artists seen live in total: 382
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -26,12 +26,12 @@ Bruce Springsteen              | 10   | 2758
 Manic Street Preachers         | 11   | 2608     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2123     
+AC/DC                          | 17   | 2124     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1624     
+Spidergawd                     | 25   | 1653     
 The Smashing Pumpkins          | 28   | 1552     
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
@@ -48,7 +48,7 @@ Thin Lizzy                     | 46   | 838
 Brian Fallon                   | 47   | 796      
 The Tallest Man on Earth       | 49   | 790      
 Sweden                         | 50   | 786      
-Tool                           | 52   | 774      
+Tool                           | 51   | 775      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 756      
 Jason Isbell                   | 59   | 685      
@@ -83,7 +83,7 @@ Weezer                   | 27   | 1557
 Touché Amoré             | 33   | 1194     
 The Hold Steady          | 43   | 897      
 Melvins                  | 48   | 790      
-The Black Crowes         | 51   | 774      
+The Black Crowes         | 52   | 774      
 Bob Dylan                | 53   | 766      
 Eddie Vedder             | 58   | 688      
 Afghan Whigs             | 61   | 672      
