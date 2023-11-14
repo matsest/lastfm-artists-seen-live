@@ -22,17 +22,17 @@ The Gaslight Anthem            | 4    | 4384
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2978     
 Motorpsycho                    | 9    | 2774     
-Bruce Springsteen              | 10   | 2758     
-Manic Street Preachers         | 11   | 2608     
+Bruce Springsteen              | 10   | 2759     
+Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2468     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2124     
+AC/DC                          | 17   | 2127     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
 Mastodon                       | 24   | 1755     
 Spidergawd                     | 25   | 1664     
-The Smashing Pumpkins          | 28   | 1552     
+The Smashing Pumpkins          | 28   | 1554     
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
 Kvelertak                      | 31   | 1321     
@@ -61,7 +61,7 @@ Devin Townsend Project         | 68   | 608
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 583      
-The Good The Bad and The Zugly | 76   | 525      
+The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 84   | 458      
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 409      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 95   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2253     
+The Who                  | 14   | 2254     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1876     
