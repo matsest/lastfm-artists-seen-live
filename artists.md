@@ -3,7 +3,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 382
+- Number of artists seen live in total: 383
 
 - Number of fetched top artists: 100 (Active: 73 Inactive: 27)
 
@@ -24,7 +24,7 @@ DumDum Boys                    | 7    | 2978
 Motorpsycho                    | 9    | 2774     
 Bruce Springsteen              | 10   | 2759     
 Manic Street Preachers         | 11   | 2609     
-Frank Turner                   | 12   | 2468     
+Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
 AC/DC                          | 17   | 2143     
 The National                   | 18   | 2110     
@@ -36,7 +36,7 @@ The Smashing Pumpkins          | 27   | 1562
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
 Kvelertak                      | 31   | 1321     
-Chuck Ragan                    | 35   | 1144     
+Chuck Ragan                    | 35   | 1145     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1046     
@@ -77,7 +77,7 @@ The Who                  | 14   | 2254
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1876     
-Guided by Voices         | 23   | 1827     
+Guided by Voices         | 23   | 1828     
 The Menzingers           | 26   | 1619     
 Weezer                   | 28   | 1557     
 Touché Amoré             | 33   | 1194     
