@@ -64,7 +64,7 @@ Kylesa                         | 72   | 583
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 84   | 458      
 Gojira                         | 90   | 422      
-Opeth                          | 93   | 409      
+Opeth                          | 92   | 410      
 Swans                          | 94   | 404      
 Kaizers Orchestra              | 95   | 400      
 
@@ -123,5 +123,5 @@ Pink Floyd           | 82   | 471
 Black Sabbath        | 83   | 467      
 The Twilight Singers | 88   | 433      
 Marillion            | 91   | 418      
-Jokke med Tourettes  | 92   | 409      
+Jokke med Tourettes  | 93   | 409      
 The Band             | 97   | 389      
