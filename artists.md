@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2759
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2143     
+AC/DC                          | 17   | 2166     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
@@ -36,7 +36,7 @@ The Smashing Pumpkins          | 27   | 1562
 Mark Lanegan                   | 29   | 1477     
 Baroness                       | 30   | 1321     
 Kvelertak                      | 31   | 1321     
-Chuck Ragan                    | 35   | 1145     
+Chuck Ragan                    | 35   | 1165     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1046     
