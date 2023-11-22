@@ -22,11 +22,11 @@ The Gaslight Anthem            | 4    | 4384
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2978     
 Motorpsycho                    | 9    | 2774     
-Bruce Springsteen              | 10   | 2759     
+Bruce Springsteen              | 10   | 2760     
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2166     
+AC/DC                          | 17   | 2176     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
 johndoe                        | 21   | 2007     
@@ -48,7 +48,7 @@ Thin Lizzy                     | 46   | 838
 Brian Fallon                   | 47   | 796      
 Sweden                         | 48   | 794      
 The Tallest Man on Earth       | 50   | 790      
-Tool                           | 51   | 775      
+Tool                           | 51   | 776      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 756      
 Jason Isbell                   | 59   | 685      
