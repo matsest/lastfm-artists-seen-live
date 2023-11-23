@@ -20,26 +20,26 @@ Pearl Jam                      | 2    | 6022
 Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4384     
 Against Me!                    | 6    | 2988     
-DumDum Boys                    | 7    | 2978     
+DumDum Boys                    | 7    | 2979     
 Motorpsycho                    | 9    | 2774     
 Bruce Springsteen              | 10   | 2760     
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2176     
+AC/DC                          | 17   | 2182     
 The National                   | 18   | 2110     
 Raga Rockers                   | 19   | 2078     
-johndoe                        | 21   | 2007     
-Mastodon                       | 24   | 1755     
-Spidergawd                     | 25   | 1670     
+johndoe                        | 21   | 2009     
+Mastodon                       | 24   | 1756     
+Spidergawd                     | 25   | 1671     
 The Smashing Pumpkins          | 27   | 1562     
 Mark Lanegan                   | 29   | 1477     
-Baroness                       | 30   | 1321     
+Baroness                       | 30   | 1325     
 Kvelertak                      | 31   | 1321     
-Chuck Ragan                    | 35   | 1165     
+Chuck Ragan                    | 35   | 1166     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1046     
+Stein Torleif Bjella           | 39   | 1047     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
@@ -48,9 +48,9 @@ Thin Lizzy                     | 46   | 838
 Brian Fallon                   | 47   | 796      
 Sweden                         | 48   | 794      
 The Tallest Man on Earth       | 50   | 790      
-Tool                           | 51   | 776      
+Tool                           | 51   | 780      
 Devin Townsend                 | 54   | 760      
-Thulsa Doom                    | 55   | 756      
+Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 59   | 685      
 Ghost                          | 60   | 673      
 The Posies                     | 62   | 657      
@@ -112,7 +112,7 @@ Sugar                | 32   | 1252
 The Horrible Crowes  | 34   | 1176     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
-Jokke & Valentinerne | 56   | 726      
+Jokke & Valentinerne | 56   | 727      
 Audioslave           | 57   | 691      
 Foo Fighters         | 70   | 604      
 Big Star             | 73   | 564      
