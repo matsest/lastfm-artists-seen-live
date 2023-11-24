@@ -18,7 +18,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6110     
 Pearl Jam                      | 2    | 6022     
 Rush                           | 3    | 4524     
-The Gaslight Anthem            | 4    | 4384     
+The Gaslight Anthem            | 4    | 4394     
 Against Me!                    | 6    | 2988     
 DumDum Boys                    | 7    | 2979     
 Motorpsycho                    | 9    | 2774     
@@ -27,14 +27,14 @@ Manic Street Preachers         | 11   | 2609
 Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
 AC/DC                          | 17   | 2182     
-The National                   | 18   | 2110     
-Raga Rockers                   | 19   | 2078     
+Raga Rockers                   | 18   | 2122     
+The National                   | 19   | 2110     
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1671     
 The Smashing Pumpkins          | 27   | 1562     
 Mark Lanegan                   | 29   | 1477     
-Baroness                       | 30   | 1325     
+Baroness                       | 30   | 1326     
 Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1166     
 Biffy Clyro                    | 36   | 1104     
@@ -60,7 +60,7 @@ Clutch                         | 67   | 619
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
-Kylesa                         | 72   | 583      
+Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 84   | 458      
 Gojira                         | 90   | 422      
@@ -118,7 +118,7 @@ Foo Fighters         | 70   | 604
 Big Star             | 73   | 564      
 Temple of the Dog    | 74   | 551      
 Paul Westerberg      | 75   | 530      
-The Beatles          | 77   | 512      
+The Beatles          | 77   | 513      
 Pink Floyd           | 82   | 471      
 Black Sabbath        | 83   | 467      
 The Twilight Singers | 88   | 433      
