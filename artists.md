@@ -27,7 +27,7 @@ Manic Street Preachers         | 11   | 2609
 Frank Turner                   | 12   | 2480     
 Chris Cornell                  | 15   | 2233     
 AC/DC                          | 17   | 2182     
-Raga Rockers                   | 18   | 2122     
+Raga Rockers                   | 18   | 2147     
 The National                   | 19   | 2110     
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
@@ -46,7 +46,7 @@ Oslo Ess                       | 44   | 861
 Pappasaft                      | 45   | 853      
 Thin Lizzy                     | 46   | 838      
 Brian Fallon                   | 47   | 796      
-Sweden                         | 48   | 794      
+Sweden                         | 48   | 795      
 The Tallest Man on Earth       | 50   | 790      
 Tool                           | 51   | 780      
 Devin Townsend                 | 54   | 760      
@@ -77,7 +77,7 @@ The Who                  | 14   | 2254
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2074     
 Ryan Adams               | 22   | 1876     
-Guided by Voices         | 23   | 1828     
+Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1619     
 Weezer                   | 28   | 1557     
 Touché Amoré             | 33   | 1194     
