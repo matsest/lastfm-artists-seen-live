@@ -34,7 +34,7 @@ Mastodon                       | 24   | 1756
 Spidergawd                     | 25   | 1671     
 The Smashing Pumpkins          | 27   | 1562     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1326     
+Baroness                       | 30   | 1340     
 Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1170     
 Biffy Clyro                    | 36   | 1104     
@@ -45,10 +45,10 @@ Anti-Lam Front                 | 41   | 997
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 853      
 Thin Lizzy                     | 46   | 838      
-Brian Fallon                   | 47   | 796      
-Sweden                         | 48   | 795      
-The Tallest Man on Earth       | 50   | 790      
-Tool                           | 51   | 780      
+Tool                           | 47   | 833      
+Brian Fallon                   | 48   | 796      
+Sweden                         | 49   | 795      
+The Tallest Man on Earth       | 51   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 59   | 685      
@@ -82,7 +82,7 @@ The Menzingers           | 26   | 1625
 Weezer                   | 28   | 1557     
 Touché Amoré             | 33   | 1200     
 The Hold Steady          | 43   | 897      
-Melvins                  | 49   | 790      
+Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 774      
 Bob Dylan                | 53   | 767      
 Eddie Vedder             | 58   | 688      
