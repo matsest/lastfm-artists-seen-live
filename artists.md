@@ -34,7 +34,7 @@ Mastodon                       | 24   | 1756
 Spidergawd                     | 25   | 1671     
 The Smashing Pumpkins          | 27   | 1562     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1340     
+Baroness                       | 30   | 1350     
 Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1170     
 Biffy Clyro                    | 36   | 1104     
@@ -56,13 +56,13 @@ Ghost                          | 60   | 673
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 619      
+Clutch                         | 67   | 620      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 84   | 460      
+Jason Isbell and the 400 Unit  | 83   | 468      
 Gojira                         | 90   | 422      
 Opeth                          | 92   | 410      
 Swans                          | 94   | 404      
@@ -120,7 +120,7 @@ Temple of the Dog    | 74   | 551
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 513      
 Pink Floyd           | 82   | 471      
-Black Sabbath        | 83   | 467      
+Black Sabbath        | 84   | 467      
 The Twilight Singers | 88   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 93   | 409      
