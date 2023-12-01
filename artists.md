@@ -15,8 +15,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6110     
-Pearl Jam                      | 2    | 6022     
+Soundgarden                    | 1    | 6111     
+Pearl Jam                      | 2    | 6024     
 Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4399     
 Against Me!                    | 6    | 2989     
@@ -32,9 +32,9 @@ The National                   | 19   | 2111
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1671     
-The Smashing Pumpkins          | 27   | 1562     
+The Smashing Pumpkins          | 27   | 1563     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1350     
+Baroness                       | 30   | 1351     
 Kvelertak                      | 31   | 1321     
 Chuck Ragan                    | 35   | 1170     
 Biffy Clyro                    | 36   | 1104     
@@ -56,13 +56,13 @@ Ghost                          | 60   | 673
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 620      
+Clutch                         | 67   | 621      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 606      
 Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 83   | 468      
+Jason Isbell and the 400 Unit  | 83   | 470      
 Gojira                         | 90   | 422      
 Opeth                          | 92   | 410      
 Swans                          | 94   | 404      
@@ -75,12 +75,12 @@ Name                     | Rank | PlayCount
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2254     
 Bob Mould                | 16   | 2227     
-Propagandhi              | 20   | 2074     
+Propagandhi              | 20   | 2076     
 Ryan Adams               | 22   | 1877     
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1625     
 Weezer                   | 28   | 1557     
-Touché Amoré             | 33   | 1200     
+Touché Amoré             | 33   | 1201     
 The Hold Steady          | 43   | 897      
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 774      
@@ -96,17 +96,17 @@ The War on Drugs         | 81   | 473
 Faith No More            | 85   | 455      
 Dawes                    | 86   | 437      
 Thåström                 | 87   | 436      
-The Hotelier             | 89   | 431      
+The Hotelier             | 89   | 432      
 Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 383      
 System of a Down         | 99   | 376      
-The Bouncing Souls       | 100  | 368      
+The Bouncing Souls       | 100  | 369      
 
 ## Inactive top 100 artists not seen live (19)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3241     
+The Replacements     | 5    | 3242     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
 The Horrible Crowes  | 34   | 1176     
