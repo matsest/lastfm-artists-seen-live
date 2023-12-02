@@ -52,7 +52,7 @@ The Tallest Man on Earth       | 51   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 59   | 685      
-Ghost                          | 60   | 673      
+Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
@@ -86,7 +86,7 @@ Melvins                  | 50   | 790
 The Black Crowes         | 52   | 774      
 Bob Dylan                | 53   | 767      
 Eddie Vedder             | 58   | 688      
-Afghan Whigs             | 61   | 672      
+Afghan Whigs             | 60   | 673      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 496      
