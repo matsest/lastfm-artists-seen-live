@@ -22,9 +22,9 @@ The Gaslight Anthem            | 4    | 4399
 Against Me!                    | 6    | 2989     
 DumDum Boys                    | 7    | 2979     
 Motorpsycho                    | 9    | 2775     
-Bruce Springsteen              | 10   | 2762     
+Bruce Springsteen              | 10   | 2763     
 Manic Street Preachers         | 11   | 2609     
-Frank Turner                   | 12   | 2485     
+Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2233     
 AC/DC                          | 17   | 2185     
 Raga Rockers                   | 18   | 2147     
@@ -32,14 +32,14 @@ The National                   | 19   | 2111
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1671     
-The Smashing Pumpkins          | 27   | 1563     
+The Smashing Pumpkins          | 27   | 1564     
 Mark Lanegan                   | 29   | 1478     
 Baroness                       | 30   | 1351     
 Kvelertak                      | 31   | 1321     
-Chuck Ragan                    | 35   | 1170     
+Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1048     
+Stein Torleif Bjella           | 39   | 1050     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 997      
 Oslo Ess                       | 44   | 861      
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2254     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2076     
-Ryan Adams               | 22   | 1877     
+Ryan Adams               | 22   | 1878     
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1625     
 Weezer                   | 28   | 1557     
@@ -84,9 +84,9 @@ Touché Amoré             | 33   | 1201
 The Hold Steady          | 43   | 897      
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 774      
-Bob Dylan                | 53   | 767      
+Bob Dylan                | 53   | 769      
 Eddie Vedder             | 58   | 688      
-Afghan Whigs             | 60   | 673      
+Afghan Whigs             | 60   | 674      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 496      
@@ -98,7 +98,7 @@ Dawes                    | 86   | 437
 Thåström                 | 87   | 436      
 The Hotelier             | 89   | 432      
 Ulver                    | 96   | 396      
-Richard Thompson         | 98   | 383      
+Richard Thompson         | 98   | 386      
 System of a Down         | 99   | 376      
 The Bouncing Souls       | 100  | 369      
 
