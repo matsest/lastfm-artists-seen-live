@@ -32,10 +32,10 @@ The National                   | 19   | 2111
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1672     
-The Smashing Pumpkins          | 27   | 1564     
+The Smashing Pumpkins          | 27   | 1565     
 Mark Lanegan                   | 29   | 1478     
 Baroness                       | 30   | 1351     
-Kvelertak                      | 31   | 1321     
+Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1104     
 Hellbillies                    | 37   | 1069     
@@ -89,8 +89,8 @@ Eddie Vedder             | 58   | 688
 Afghan Whigs             | 60   | 674      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
-Yes                      | 78   | 496      
-Dinosaur Jr.             | 79   | 491      
+Yes                      | 78   | 497      
+Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 81   | 473      
 Faith No More            | 85   | 455      
@@ -118,7 +118,7 @@ Foo Fighters         | 70   | 604
 Big Star             | 73   | 564      
 Temple of the Dog    | 74   | 551      
 Paul Westerberg      | 75   | 530      
-The Beatles          | 77   | 513      
+The Beatles          | 77   | 514      
 Pink Floyd           | 83   | 471      
 Black Sabbath        | 84   | 467      
 The Twilight Singers | 89   | 433      
