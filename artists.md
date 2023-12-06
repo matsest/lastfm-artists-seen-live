@@ -19,8 +19,8 @@ Soundgarden                    | 1    | 6111
 Pearl Jam                      | 2    | 6024     
 Rush                           | 3    | 4524     
 The Gaslight Anthem            | 4    | 4399     
-Against Me!                    | 6    | 2989     
-DumDum Boys                    | 7    | 2979     
+DumDum Boys                    | 6    | 3000     
+Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
 Bruce Springsteen              | 10   | 2763     
 Manic Street Preachers         | 11   | 2609     
@@ -80,7 +80,7 @@ Ryan Adams               | 22   | 1879
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1626     
 Weezer                   | 28   | 1559     
-Touché Amoré             | 33   | 1201     
+Touché Amoré             | 33   | 1203     
 The Hold Steady          | 43   | 897      
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 774      
@@ -94,9 +94,9 @@ Dinosaur Jr.             | 79   | 492
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 81   | 473      
 Faith No More            | 85   | 455      
-Dawes                    | 86   | 437      
-Thåström                 | 87   | 436      
-The Hotelier             | 88   | 433      
+The Hotelier             | 86   | 443      
+Dawes                    | 87   | 437      
+Thåström                 | 88   | 436      
 Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 388      
 System of a Down         | 99   | 376      
