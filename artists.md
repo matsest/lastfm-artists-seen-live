@@ -26,9 +26,9 @@ Bruce Springsteen              | 10   | 2763
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2233     
-AC/DC                          | 17   | 2190     
+AC/DC                          | 17   | 2199     
 Raga Rockers                   | 18   | 2147     
-The National                   | 19   | 2123     
+The National                   | 19   | 2126     
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1673     
