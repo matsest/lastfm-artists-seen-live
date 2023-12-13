@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
-Pearl Jam                      | 2    | 6024     
+Pearl Jam                      | 2    | 6029     
 Rush                           | 3    | 4525     
 The Gaslight Anthem            | 4    | 4399     
 DumDum Boys                    | 6    | 3000     
@@ -25,9 +25,9 @@ Motorpsycho                    | 9    | 2775
 Bruce Springsteen              | 10   | 2765     
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2487     
-Chris Cornell                  | 15   | 2233     
+Chris Cornell                  | 15   | 2234     
 AC/DC                          | 17   | 2199     
-Raga Rockers                   | 18   | 2147     
+Raga Rockers                   | 18   | 2150     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
@@ -37,7 +37,7 @@ Mark Lanegan                   | 29   | 1478
 Baroness                       | 30   | 1351     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
-Biffy Clyro                    | 36   | 1104     
+Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1053     
 Justin Townes Earle            | 40   | 1019     
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2254     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 22   | 1879     
+Ryan Adams               | 22   | 1881     
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1626     
 Weezer                   | 28   | 1559     
@@ -109,14 +109,14 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3243     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
-The Horrible Crowes  | 34   | 1176     
+The Horrible Crowes  | 34   | 1178     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 727      
 Audioslave           | 57   | 691      
-Foo Fighters         | 70   | 604      
+Foo Fighters         | 70   | 605      
 Big Star             | 73   | 564      
-Temple of the Dog    | 74   | 551      
+Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 514      
 Pink Floyd           | 83   | 471      
