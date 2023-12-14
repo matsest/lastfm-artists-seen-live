@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
 Pearl Jam                      | 2    | 6029     
-Rush                           | 3    | 4525     
+Rush                           | 3    | 4526     
 The Gaslight Anthem            | 4    | 4399     
 DumDum Boys                    | 6    | 3000     
 Against Me!                    | 7    | 2989     
@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2765
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2199     
+AC/DC                          | 17   | 2204     
 Raga Rockers                   | 18   | 2150     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2009     
@@ -94,13 +94,13 @@ Dinosaur Jr.             | 79   | 492
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 81   | 473      
 Faith No More            | 85   | 455      
-The Hotelier             | 86   | 443      
-Dawes                    | 87   | 437      
+Dawes                    | 86   | 446      
+The Hotelier             | 87   | 443      
 Thåström                 | 88   | 436      
 Ulver                    | 96   | 396      
 Richard Thompson         | 98   | 388      
-System of a Down         | 99   | 376      
-The Bouncing Souls       | 100  | 369      
+Warren Zevon             | 99   | 386      
+System of a Down         | 100  | 376      
 
 ## Inactive top 100 artists not seen live (19)
 
@@ -109,7 +109,7 @@ Name                 | Rank | PlayCount
 The Replacements     | 5    | 3243     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1252     
-The Horrible Crowes  | 34   | 1178     
+The Horrible Crowes  | 34   | 1179     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 727      
