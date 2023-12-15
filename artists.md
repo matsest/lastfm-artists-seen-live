@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2765
 Manic Street Preachers         | 11   | 2609     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2204     
+AC/DC                          | 17   | 2205     
 Raga Rockers                   | 18   | 2150     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2009     
@@ -51,7 +51,7 @@ Sweden                         | 49   | 795
 The Tallest Man on Earth       | 51   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 59   | 685      
+Jason Isbell                   | 60   | 685      
 Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -86,7 +86,7 @@ Melvins                  | 50   | 790
 The Black Crowes         | 52   | 775      
 Bob Dylan                | 53   | 769      
 Eddie Vedder             | 58   | 689      
-Afghan Whigs             | 60   | 674      
+Afghan Whigs             | 59   | 685      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 497      
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3243     
 Hüsker Dü            | 8    | 2888     
-Sugar                | 32   | 1252     
+Sugar                | 32   | 1260     
 The Horrible Crowes  | 34   | 1179     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
