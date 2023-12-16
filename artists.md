@@ -23,7 +23,7 @@ DumDum Boys                    | 6    | 3000
 Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
 Bruce Springsteen              | 10   | 2765     
-Manic Street Preachers         | 11   | 2609     
+Manic Street Preachers         | 11   | 2612     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
 AC/DC                          | 17   | 2205     
@@ -31,7 +31,7 @@ Raga Rockers                   | 18   | 2150
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2009     
 Mastodon                       | 24   | 1756     
-Spidergawd                     | 25   | 1673     
+Spidergawd                     | 25   | 1679     
 The Smashing Pumpkins          | 27   | 1566     
 Mark Lanegan                   | 29   | 1478     
 Baroness                       | 30   | 1351     
@@ -44,7 +44,7 @@ Justin Townes Earle            | 40   | 1019
 Anti-Lam Front                 | 41   | 1003     
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 854      
-Thin Lizzy                     | 46   | 838      
+Thin Lizzy                     | 46   | 839      
 Tool                           | 47   | 833      
 Brian Fallon                   | 48   | 796      
 Sweden                         | 49   | 795      
@@ -79,14 +79,14 @@ Propagandhi              | 20   | 2077
 Ryan Adams               | 22   | 1881     
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1626     
-Weezer                   | 28   | 1559     
+Weezer                   | 28   | 1565     
 Touché Amoré             | 33   | 1203     
 The Hold Steady          | 43   | 897      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 775      
-Bob Dylan                | 53   | 769      
+Bob Dylan                | 52   | 775      
+The Black Crowes         | 53   | 775      
 Eddie Vedder             | 58   | 689      
-Afghan Whigs             | 59   | 685      
+Afghan Whigs             | 59   | 686      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 497      
@@ -98,7 +98,7 @@ Dawes                    | 86   | 446
 The Hotelier             | 87   | 443      
 Thåström                 | 88   | 436      
 Ulver                    | 96   | 396      
-Richard Thompson         | 98   | 388      
+Richard Thompson         | 97   | 391      
 Warren Zevon             | 99   | 386      
 System of a Down         | 100  | 376      
 
@@ -108,7 +108,7 @@ Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
 The Replacements     | 5    | 3243     
 Hüsker Dü            | 8    | 2888     
-Sugar                | 32   | 1260     
+Sugar                | 32   | 1261     
 The Horrible Crowes  | 34   | 1179     
 Genesis              | 38   | 1066     
 Fugazi               | 42   | 993      
@@ -124,4 +124,4 @@ Black Sabbath        | 84   | 467
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 93   | 409      
-The Band             | 97   | 389      
+The Band             | 98   | 389      
