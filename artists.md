@@ -17,19 +17,19 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
 Pearl Jam                      | 2    | 6029     
-Rush                           | 3    | 4526     
+Rush                           | 3    | 4527     
 The Gaslight Anthem            | 4    | 4399     
-DumDum Boys                    | 6    | 3000     
+DumDum Boys                    | 6    | 3003     
 Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
-Bruce Springsteen              | 10   | 2765     
+Bruce Springsteen              | 10   | 2768     
 Manic Street Preachers         | 11   | 2612     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
 AC/DC                          | 17   | 2205     
-Raga Rockers                   | 18   | 2150     
+Raga Rockers                   | 18   | 2152     
 The National                   | 19   | 2126     
-johndoe                        | 21   | 2009     
+johndoe                        | 21   | 2011     
 Mastodon                       | 24   | 1756     
 Spidergawd                     | 25   | 1679     
 The Smashing Pumpkins          | 27   | 1566     
@@ -39,7 +39,7 @@ Kvelertak                      | 31   | 1322
 Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1053     
+Stein Torleif Bjella           | 39   | 1055     
 Justin Townes Earle            | 40   | 1019     
 Anti-Lam Front                 | 41   | 1003     
 Oslo Ess                       | 44   | 861      
@@ -81,9 +81,9 @@ Guided by Voices         | 23   | 1831
 The Menzingers           | 26   | 1626     
 Weezer                   | 28   | 1565     
 Touché Amoré             | 33   | 1203     
-The Hold Steady          | 43   | 897      
+The Hold Steady          | 43   | 898      
 Melvins                  | 50   | 790      
-Bob Dylan                | 52   | 775      
+Bob Dylan                | 52   | 777      
 The Black Crowes         | 53   | 775      
 Eddie Vedder             | 58   | 689      
 Afghan Whigs             | 59   | 686      
@@ -97,9 +97,9 @@ Faith No More            | 85   | 455
 Dawes                    | 86   | 446      
 The Hotelier             | 87   | 443      
 Thåström                 | 88   | 436      
-Ulver                    | 96   | 396      
-Richard Thompson         | 97   | 391      
-Warren Zevon             | 99   | 386      
+Richard Thompson         | 96   | 396      
+Ulver                    | 97   | 396      
+Warren Zevon             | 98   | 393      
 System of a Down         | 100  | 376      
 
 ## Inactive top 100 artists not seen live (19)
@@ -124,4 +124,4 @@ Black Sabbath        | 84   | 467
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 93   | 409      
-The Band             | 98   | 389      
+The Band             | 99   | 389      
