@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2769
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2206     
+AC/DC                          | 17   | 2207     
 Raga Rockers                   | 18   | 2153     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2011     
@@ -46,7 +46,7 @@ Oslo Ess                       | 44   | 861
 Pappasaft                      | 45   | 854      
 Thin Lizzy                     | 46   | 839      
 Tool                           | 47   | 833      
-Brian Fallon                   | 48   | 796      
+Brian Fallon                   | 48   | 818      
 Sweden                         | 49   | 795      
 The Tallest Man on Earth       | 51   | 790      
 Devin Townsend                 | 54   | 760      
