@@ -19,7 +19,7 @@ Soundgarden                    | 1    | 6111
 Pearl Jam                      | 2    | 6030     
 Rush                           | 3    | 4527     
 The Gaslight Anthem            | 4    | 4400     
-DumDum Boys                    | 6    | 3004     
+DumDum Boys                    | 6    | 3006     
 Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
 Bruce Springsteen              | 10   | 2769     
@@ -27,14 +27,14 @@ Manic Street Preachers         | 11   | 2613
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
 AC/DC                          | 17   | 2207     
-Raga Rockers                   | 18   | 2153     
+Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2011     
-Mastodon                       | 24   | 1756     
-Spidergawd                     | 25   | 1679     
+Mastodon                       | 24   | 1757     
+Spidergawd                     | 25   | 1681     
 The Smashing Pumpkins          | 27   | 1567     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1351     
+Baroness                       | 30   | 1354     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1105     
@@ -80,7 +80,7 @@ Ryan Adams               | 22   | 1881
 Guided by Voices         | 23   | 1831     
 The Menzingers           | 26   | 1626     
 Weezer                   | 28   | 1565     
-Touché Amoré             | 33   | 1203     
+Touché Amoré             | 33   | 1207     
 The Hold Steady          | 43   | 899      
 Melvins                  | 50   | 790      
 Bob Dylan                | 52   | 779      
