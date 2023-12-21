@@ -34,7 +34,7 @@ Mastodon                       | 24   | 1757
 Spidergawd                     | 25   | 1681     
 The Smashing Pumpkins          | 27   | 1567     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1354     
+Baroness                       | 30   | 1357     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1105     
