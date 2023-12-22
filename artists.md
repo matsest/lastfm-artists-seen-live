@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2769
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2207     
+AC/DC                          | 17   | 2209     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2011     
@@ -44,7 +44,7 @@ Justin Townes Earle            | 40   | 1019
 Anti-Lam Front                 | 41   | 1003     
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 854      
-Thin Lizzy                     | 46   | 839      
+Thin Lizzy                     | 46   | 841      
 Tool                           | 47   | 833      
 Brian Fallon                   | 48   | 818      
 Sweden                         | 49   | 795      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 95   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2254     
+The Who                  | 14   | 2255     
 Bob Mould                | 16   | 2227     
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 22   | 1881     
