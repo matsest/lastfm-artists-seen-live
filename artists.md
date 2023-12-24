@@ -16,10 +16,10 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
-Pearl Jam                      | 2    | 6030     
+Pearl Jam                      | 2    | 6031     
 Rush                           | 3    | 4527     
 The Gaslight Anthem            | 4    | 4400     
-DumDum Boys                    | 6    | 3006     
+DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
 Bruce Springsteen              | 10   | 2769     
@@ -32,7 +32,7 @@ The National                   | 19   | 2126
 johndoe                        | 21   | 2011     
 Mastodon                       | 24   | 1757     
 Spidergawd                     | 25   | 1681     
-The Smashing Pumpkins          | 27   | 1567     
+The Smashing Pumpkins          | 27   | 1568     
 Mark Lanegan                   | 29   | 1478     
 Baroness                       | 30   | 1357     
 Kvelertak                      | 31   | 1322     
@@ -106,7 +106,7 @@ System of a Down         | 100  | 376
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3243     
+The Replacements     | 5    | 3250     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1261     
 The Horrible Crowes  | 34   | 1179     
@@ -115,7 +115,7 @@ Fugazi               | 42   | 993
 Jokke & Valentinerne | 56   | 727      
 Audioslave           | 57   | 691      
 Foo Fighters         | 70   | 605      
-Big Star             | 73   | 565      
+Big Star             | 73   | 566      
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 514      
@@ -124,4 +124,4 @@ Black Sabbath        | 84   | 467
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 93   | 409      
-The Band             | 99   | 390      
+The Band             | 99   | 391      
