@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2769
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2209     
+AC/DC                          | 17   | 2220     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2011     
@@ -58,7 +58,7 @@ Japandroids                    | 64   | 651
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 621      
 Devin Townsend Project         | 68   | 608      
-Dropkick Murphys               | 69   | 607      
+Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 592      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
