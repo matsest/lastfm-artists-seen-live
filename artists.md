@@ -26,7 +26,7 @@ Bruce Springsteen              | 10   | 2769
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
 Chris Cornell                  | 15   | 2234     
-AC/DC                          | 17   | 2220     
+AC/DC                          | 16   | 2232     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2126     
 johndoe                        | 21   | 2011     
@@ -74,7 +74,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
 The Who                  | 14   | 2255     
-Bob Mould                | 16   | 2227     
+Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 22   | 1881     
 Guided by Voices         | 23   | 1831     
