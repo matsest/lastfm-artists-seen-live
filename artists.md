@@ -77,7 +77,7 @@ The Who                  | 14   | 2255
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 22   | 1881     
-Guided by Voices         | 23   | 1832     
+Guided by Voices         | 23   | 1833     
 The Menzingers           | 26   | 1626     
 Weezer                   | 28   | 1565     
 Touché Amoré             | 33   | 1207     
