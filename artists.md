@@ -22,10 +22,10 @@ The Gaslight Anthem            | 4    | 4401
 DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2989     
 Motorpsycho                    | 9    | 2775     
-Bruce Springsteen              | 10   | 2773     
+Bruce Springsteen              | 10   | 2774     
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
-AC/DC                          | 15   | 2254     
+AC/DC                          | 15   | 2255     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2126     
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 14   | 2256     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 22   | 1881     
+Ryan Adams               | 22   | 1962     
 Guided by Voices         | 23   | 1833     
 The Menzingers           | 26   | 1627     
 Weezer                   | 28   | 1565     
