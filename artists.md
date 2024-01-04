@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
-Pearl Jam                      | 2    | 6031     
+Pearl Jam                      | 2    | 6033     
 Rush                           | 3    | 4530     
 The Gaslight Anthem            | 4    | 4401     
 DumDum Boys                    | 6    | 3007     
@@ -25,7 +25,7 @@ Motorpsycho                    | 9    | 2775
 Bruce Springsteen              | 10   | 2774     
 Manic Street Preachers         | 11   | 2613     
 Frank Turner                   | 12   | 2487     
-AC/DC                          | 15   | 2255     
+AC/DC                          | 14   | 2260     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2127     
@@ -73,12 +73,12 @@ Kaizers Orchestra              | 96   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2375     
-The Who                  | 14   | 2256     
+The Who                  | 15   | 2256     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 22   | 1966     
 Guided by Voices         | 23   | 1833     
-The Menzingers           | 26   | 1627     
+The Menzingers           | 26   | 1628     
 Weezer                   | 28   | 1565     
 Touché Amoré             | 33   | 1208     
 The Hold Steady          | 43   | 900      
@@ -93,9 +93,9 @@ Yes                      | 78   | 498
 Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 82   | 473      
-Faith No More            | 85   | 455      
-Dawes                    | 86   | 447      
-The Hotelier             | 87   | 444      
+The Hotelier             | 85   | 458      
+Faith No More            | 86   | 455      
+Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
 Warren Zevon             | 94   | 405      
 Richard Thompson         | 97   | 400      
