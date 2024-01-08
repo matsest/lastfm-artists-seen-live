@@ -25,11 +25,11 @@ Motorpsycho                    | 9    | 2775
 Bruce Springsteen              | 10   | 2774     
 Manic Street Preachers         | 11   | 2614     
 Frank Turner                   | 12   | 2487     
-AC/DC                          | 14   | 2273     
+AC/DC                          | 14   | 2279     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2155     
 The National                   | 19   | 2131     
-johndoe                        | 21   | 2011     
+johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
 Spidergawd                     | 25   | 1683     
 The Smashing Pumpkins          | 27   | 1568     
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2375
 The Who                  | 15   | 2256     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 22   | 1969     
+Ryan Adams               | 21   | 2029     
 Guided by Voices         | 23   | 1833     
 The Menzingers           | 26   | 1630     
 Weezer                   | 28   | 1566     
