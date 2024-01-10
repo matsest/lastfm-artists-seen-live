@@ -28,10 +28,10 @@ Frank Turner                   | 12   | 2487
 AC/DC                          | 14   | 2279     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2215     
-The National                   | 19   | 2131     
+The National                   | 19   | 2134     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1683     
+Spidergawd                     | 25   | 1691     
 The Smashing Pumpkins          | 27   | 1568     
 Mark Lanegan                   | 29   | 1478     
 Baroness                       | 30   | 1357     
@@ -72,20 +72,20 @@ Kaizers Orchestra              | 96   | 400
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-Alice in Chains          | 13   | 2375     
+Alice in Chains          | 13   | 2376     
 The Who                  | 15   | 2256     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2030     
+Ryan Adams               | 21   | 2031     
 Guided by Voices         | 23   | 1833     
 The Menzingers           | 26   | 1630     
 Weezer                   | 28   | 1566     
-Touché Amoré             | 33   | 1208     
+Touché Amoré             | 33   | 1210     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
 Bob Dylan                | 52   | 779      
 The Black Crowes         | 53   | 775      
-Afghan Whigs             | 57   | 693      
+Afghan Whigs             | 57   | 694      
 Eddie Vedder             | 59   | 689      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
@@ -93,7 +93,7 @@ Yes                      | 78   | 498
 Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 82   | 473      
-The Hotelier             | 85   | 462      
+The Hotelier             | 85   | 465      
 Faith No More            | 86   | 455      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
@@ -106,7 +106,7 @@ System of a Down         | 100  | 376
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3259     
+The Replacements     | 5    | 3260     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1263     
 The Horrible Crowes  | 34   | 1179     
@@ -114,7 +114,7 @@ Genesis              | 38   | 1067
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 727      
 Audioslave           | 58   | 691      
-Foo Fighters         | 70   | 605      
+Foo Fighters         | 70   | 606      
 Big Star             | 73   | 566      
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
