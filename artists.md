@@ -59,7 +59,7 @@ Blood Command                  | 66   | 633
 Clutch                         | 67   | 621      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
-Spielbergs                     | 71   | 592      
+Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 81   | 478      
