@@ -5,11 +5,11 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 386
 
-- Number of fetched top artists: 100 (Active: 73 Inactive: 27)
+- Number of fetched top artists: 100 (Active: 72 Inactive: 28)
 
 - Number of top artists seen live: 52 (Active: 44 Inactive: 8)
 
-- Number of top artists not seen live: 48 (Active: 29 Inactive: 19)
+- Number of top artists not seen live: 48 (Active: 28 Inactive: 20)
 
 ## Top 100 artists seen live (52)
 
@@ -17,15 +17,15 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6111     
 Pearl Jam                      | 2    | 6033     
-Rush                           | 3    | 4554     
+Rush                           | 3    | 4556     
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2989     
-Motorpsycho                    | 9    | 2775     
-Bruce Springsteen              | 10   | 2774     
+Bruce Springsteen              | 9    | 2775     
+Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2488     
-AC/DC                          | 14   | 2294     
+AC/DC                          | 14   | 2303     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
 The National                   | 19   | 2134     
@@ -34,17 +34,17 @@ Mastodon                       | 24   | 1757
 Spidergawd                     | 25   | 1693     
 The Smashing Pumpkins          | 27   | 1568     
 Mark Lanegan                   | 29   | 1478     
-Baroness                       | 30   | 1357     
+Baroness                       | 30   | 1358     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1055     
+Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1024     
-Anti-Lam Front                 | 41   | 1003     
+Anti-Lam Front                 | 41   | 1004     
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 854      
-Thin Lizzy                     | 46   | 847      
+Thin Lizzy                     | 46   | 852      
 Tool                           | 47   | 833      
 Brian Fallon                   | 48   | 818      
 Sweden                         | 49   | 795      
@@ -64,11 +64,11 @@ Kylesa                         | 72   | 584
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 81   | 480      
 Gojira                         | 90   | 422      
-Opeth                          | 92   | 410      
+Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
 Kaizers Orchestra              | 96   | 400      
 
-## Active top 100 artists not seen live (29)
+## Active top 100 artists not seen live (28)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -83,8 +83,8 @@ Weezer                   | 28   | 1567
 Touché Amoré             | 33   | 1210     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-Bob Dylan                | 52   | 779      
-The Black Crowes         | 53   | 778      
+The Black Crowes         | 52   | 781      
+Bob Dylan                | 53   | 779      
 Afghan Whigs             | 57   | 695      
 Eddie Vedder             | 60   | 690      
 Hot Water Music          | 63   | 652      
@@ -92,17 +92,16 @@ Neil Young               | 65   | 639
 Yes                      | 78   | 498      
 Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
-The War on Drugs         | 82   | 473      
+The War on Drugs         | 83   | 473      
 The Hotelier             | 85   | 468      
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
-Warren Zevon             | 94   | 405      
+Warren Zevon             | 92   | 411      
 Richard Thompson         | 97   | 400      
 Ulver                    | 98   | 396      
-System of a Down         | 100  | 376      
 
-## Inactive top 100 artists not seen live (19)
+## Inactive top 100 artists not seen live (20)
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
@@ -119,9 +118,10 @@ Big Star             | 73   | 566
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 514      
-Pink Floyd           | 83   | 472      
+Pink Floyd           | 82   | 473      
 Black Sabbath        | 84   | 468      
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
-Jokke med Tourettes  | 93   | 409      
+Jokke med Tourettes  | 94   | 409      
 The Band             | 99   | 391      
+Screaming Trees      | 100  | 381      
