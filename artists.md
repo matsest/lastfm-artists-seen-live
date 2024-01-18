@@ -21,7 +21,7 @@ Rush                           | 3    | 4556
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2989     
-Bruce Springsteen              | 9    | 2775     
+Bruce Springsteen              | 9    | 2776     
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2488     
@@ -33,7 +33,7 @@ johndoe                        | 22   | 2011
 Mastodon                       | 24   | 1757     
 Spidergawd                     | 25   | 1693     
 The Smashing Pumpkins          | 27   | 1568     
-Mark Lanegan                   | 29   | 1478     
+Mark Lanegan                   | 29   | 1496     
 Baroness                       | 30   | 1358     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
@@ -83,7 +83,7 @@ Weezer                   | 28   | 1567
 Touché Amoré             | 33   | 1210     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 781      
+The Black Crowes         | 52   | 782      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 57   | 695      
 Eddie Vedder             | 60   | 690      
@@ -93,7 +93,7 @@ Yes                      | 78   | 498
 Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 83   | 473      
-The Hotelier             | 85   | 468      
+The Hotelier             | 84   | 469      
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
@@ -119,7 +119,7 @@ Temple of the Dog    | 74   | 553
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 514      
 Pink Floyd           | 82   | 473      
-Black Sabbath        | 84   | 468      
+Black Sabbath        | 85   | 468      
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 94   | 409      
