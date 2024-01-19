@@ -28,12 +28,12 @@ Frank Turner                   | 12   | 2488
 AC/DC                          | 14   | 2303     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
-The National                   | 19   | 2134     
+The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
 Spidergawd                     | 25   | 1693     
 The Smashing Pumpkins          | 27   | 1568     
-Mark Lanegan                   | 29   | 1496     
+Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
 Kvelertak                      | 31   | 1322     
 Chuck Ragan                    | 35   | 1173     
@@ -76,11 +76,11 @@ Alice in Chains          | 13   | 2376
 The Who                  | 15   | 2257     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2039     
+Ryan Adams               | 21   | 2040     
 Guided by Voices         | 23   | 1834     
 The Menzingers           | 26   | 1631     
 Weezer                   | 28   | 1567     
-Touché Amoré             | 33   | 1210     
+Touché Amoré             | 33   | 1211     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 782      
@@ -105,7 +105,7 @@ Ulver                    | 98   | 396
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3263     
+The Replacements     | 5    | 3287     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1266     
 The Horrible Crowes  | 34   | 1179     
