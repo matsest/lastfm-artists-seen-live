@@ -78,9 +78,9 @@ Bob Mould                | 17   | 2227
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 21   | 2040     
 Guided by Voices         | 23   | 1834     
-The Menzingers           | 26   | 1631     
+The Menzingers           | 26   | 1632     
 Weezer                   | 28   | 1567     
-Touché Amoré             | 33   | 1211     
+Touché Amoré             | 33   | 1212     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 782      
@@ -105,7 +105,7 @@ Ulver                    | 98   | 396
 
 Name                 | Rank | PlayCount
 -------------------- | ---- | ---------
-The Replacements     | 5    | 3287     
+The Replacements     | 5    | 3288     
 Hüsker Dü            | 8    | 2888     
 Sugar                | 32   | 1266     
 The Horrible Crowes  | 34   | 1179     
