@@ -25,7 +25,7 @@ Bruce Springsteen              | 9    | 2776
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2488     
-AC/DC                          | 14   | 2308     
+AC/DC                          | 14   | 2309     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
 The National                   | 19   | 2145     
@@ -44,7 +44,7 @@ Justin Townes Earle            | 40   | 1024
 Anti-Lam Front                 | 41   | 1004     
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 854      
-Thin Lizzy                     | 46   | 852      
+Thin Lizzy                     | 46   | 854      
 Tool                           | 47   | 833      
 Brian Fallon                   | 48   | 818      
 Sweden                         | 49   | 795      
