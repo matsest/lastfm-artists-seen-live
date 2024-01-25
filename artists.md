@@ -21,7 +21,7 @@ Rush                           | 3    | 4556
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2989     
-Bruce Springsteen              | 9    | 2779     
+Bruce Springsteen              | 9    | 2780     
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2488     
@@ -40,7 +40,7 @@ Chuck Ragan                    | 35   | 1174
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1024     
+Justin Townes Earle            | 40   | 1025     
 Anti-Lam Front                 | 41   | 1004     
 Oslo Ess                       | 44   | 861      
 Pappasaft                      | 45   | 854      
@@ -51,7 +51,7 @@ Sweden                         | 49   | 795
 The Tallest Man on Earth       | 51   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 59   | 691      
+Jason Isbell                   | 57   | 696      
 Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -85,7 +85,7 @@ The Hold Steady          | 43   | 900
 Melvins                  | 50   | 790      
 The Black Crowes         | 52   | 783      
 Bob Dylan                | 53   | 779      
-Afghan Whigs             | 57   | 695      
+Afghan Whigs             | 58   | 695      
 Eddie Vedder             | 60   | 690      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
@@ -112,7 +112,7 @@ The Horrible Crowes  | 34   | 1179
 Genesis              | 38   | 1067     
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 729      
-Audioslave           | 58   | 691      
+Audioslave           | 59   | 691      
 Foo Fighters         | 70   | 606      
 Big Star             | 73   | 566      
 Temple of the Dog    | 74   | 553      
