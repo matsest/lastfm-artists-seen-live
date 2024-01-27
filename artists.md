@@ -24,8 +24,8 @@ Against Me!                    | 7    | 2989
 Bruce Springsteen              | 9    | 2780     
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2488     
-AC/DC                          | 14   | 2309     
+Frank Turner                   | 12   | 2490     
+AC/DC                          | 14   | 2325     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
 The National                   | 19   | 2145     
