@@ -24,7 +24,7 @@ Against Me!                    | 7    | 2989
 Bruce Springsteen              | 9    | 2780     
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2490     
+Frank Turner                   | 12   | 2491     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
@@ -62,7 +62,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 81   | 480      
+Jason Isbell and the 400 Unit  | 81   | 481      
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
@@ -76,7 +76,7 @@ Alice in Chains          | 13   | 2376
 The Who                  | 15   | 2257     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2040     
+Ryan Adams               | 21   | 2048     
 Guided by Voices         | 23   | 1834     
 The Menzingers           | 26   | 1632     
 Weezer                   | 28   | 1567     
