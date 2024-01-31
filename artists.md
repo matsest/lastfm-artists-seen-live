@@ -24,19 +24,19 @@ Against Me!                    | 7    | 2989
 Bruce Springsteen              | 9    | 2780     
 Motorpsycho                    | 10   | 2775     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2491     
+Frank Turner                   | 12   | 2492     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2218     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1693     
+Spidergawd                     | 25   | 1698     
 The Smashing Pumpkins          | 27   | 1568     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
 Kvelertak                      | 31   | 1322     
-Chuck Ragan                    | 35   | 1174     
+Chuck Ragan                    | 35   | 1175     
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
@@ -76,14 +76,14 @@ Alice in Chains          | 13   | 2376
 The Who                  | 15   | 2257     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2048     
+Ryan Adams               | 21   | 2049     
 Guided by Voices         | 23   | 1834     
 The Menzingers           | 26   | 1632     
 Weezer                   | 28   | 1567     
 Touché Amoré             | 33   | 1212     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 783      
+The Black Crowes         | 52   | 784      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 58   | 695      
 Eddie Vedder             | 60   | 690      
@@ -93,7 +93,7 @@ Yes                      | 78   | 498
 Dinosaur Jr.             | 79   | 492      
 Rage Against the Machine | 80   | 486      
 The War on Drugs         | 83   | 473      
-The Hotelier             | 84   | 470      
+The Hotelier             | 84   | 471      
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
