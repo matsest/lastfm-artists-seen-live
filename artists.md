@@ -62,7 +62,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 81   | 481      
+Jason Isbell and the 400 Unit  | 82   | 481      
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
@@ -90,10 +90,10 @@ Eddie Vedder             | 60   | 690
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 498      
-Dinosaur Jr.             | 79   | 492      
-Rage Against the Machine | 80   | 486      
-The War on Drugs         | 83   | 473      
-The Hotelier             | 84   | 471      
+The Hotelier             | 79   | 495      
+Dinosaur Jr.             | 80   | 492      
+Rage Against the Machine | 81   | 486      
+The War on Drugs         | 84   | 473      
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
@@ -118,7 +118,7 @@ Big Star             | 73   | 566
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 514      
-Pink Floyd           | 82   | 473      
+Pink Floyd           | 83   | 473      
 Black Sabbath        | 85   | 468      
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
