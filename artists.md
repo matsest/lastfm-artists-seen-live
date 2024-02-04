@@ -20,9 +20,9 @@ Pearl Jam                      | 2    | 6033
 Rush                           | 3    | 4584     
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3007     
-Against Me!                    | 7    | 2989     
+Against Me!                    | 7    | 2990     
 Bruce Springsteen              | 9    | 2780     
-Motorpsycho                    | 10   | 2775     
+Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2494     
 AC/DC                          | 14   | 2337     
@@ -40,9 +40,9 @@ Chuck Ragan                    | 35   | 1175
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1025     
+Justin Townes Earle            | 40   | 1026     
 Anti-Lam Front                 | 41   | 1004     
-Thin Lizzy                     | 44   | 868      
+Thin Lizzy                     | 44   | 869      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 833      
@@ -51,7 +51,7 @@ Sweden                         | 49   | 795
 The Tallest Man on Earth       | 51   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 696      
+Jason Isbell                   | 57   | 698      
 Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -62,7 +62,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 82   | 481      
+Jason Isbell and the 400 Unit  | 82   | 483      
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
@@ -76,14 +76,14 @@ Alice in Chains          | 13   | 2376
 The Who                  | 15   | 2257     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2049     
+Ryan Adams               | 21   | 2054     
 Guided by Voices         | 23   | 1834     
 The Menzingers           | 26   | 1632     
 Weezer                   | 28   | 1567     
 Touché Amoré             | 33   | 1212     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 784      
+The Black Crowes         | 52   | 785      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 58   | 695      
 Eddie Vedder             | 60   | 690      
@@ -91,7 +91,7 @@ Hot Water Music          | 63   | 652
 Neil Young               | 65   | 639      
 Yes                      | 78   | 498      
 The Hotelier             | 79   | 495      
-Dinosaur Jr.             | 80   | 492      
+Dinosaur Jr.             | 80   | 493      
 Rage Against the Machine | 81   | 486      
 The War on Drugs         | 84   | 473      
 Faith No More            | 86   | 457      
@@ -124,4 +124,4 @@ The Twilight Singers | 89   | 433
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 94   | 409      
 The Band             | 99   | 391      
-Screaming Trees      | 100  | 381      
+Screaming Trees      | 100  | 382      
