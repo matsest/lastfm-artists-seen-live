@@ -117,7 +117,7 @@ Foo Fighters         | 70   | 606
 Big Star             | 73   | 566      
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
-The Beatles          | 77   | 514      
+The Beatles          | 77   | 523      
 Pink Floyd           | 83   | 473      
 Black Sabbath        | 85   | 468      
 The Twilight Singers | 89   | 433      
