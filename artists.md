@@ -21,7 +21,7 @@ Rush                           | 3    | 4584
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3007     
 Against Me!                    | 7    | 2990     
-Bruce Springsteen              | 9    | 2780     
+Bruce Springsteen              | 9    | 2781     
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2496     
@@ -66,7 +66,7 @@ Jason Isbell and the 400 Unit  | 82   | 483
 Gojira                         | 90   | 422      
 Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
-Kaizers Orchestra              | 96   | 400      
+Kaizers Orchestra              | 97   | 400      
 
 ## Active top 100 artists not seen live (28)
 
@@ -83,7 +83,7 @@ Weezer                   | 28   | 1567
 Touché Amoré             | 33   | 1212     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 785      
+The Black Crowes         | 52   | 788      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 58   | 695      
 Eddie Vedder             | 60   | 690      
@@ -97,8 +97,8 @@ The War on Drugs         | 84   | 473
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
-Warren Zevon             | 92   | 411      
-Richard Thompson         | 97   | 400      
+Warren Zevon             | 92   | 412      
+Richard Thompson         | 96   | 401      
 Ulver                    | 98   | 396      
 
 ## Inactive top 100 artists not seen live (20)
