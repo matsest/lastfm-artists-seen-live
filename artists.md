@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6111     
+Soundgarden                    | 1    | 6112     
 Pearl Jam                      | 2    | 6033     
 Rush                           | 3    | 4584     
 The Gaslight Anthem            | 4    | 4403     
@@ -24,7 +24,7 @@ Against Me!                    | 7    | 2990
 Bruce Springsteen              | 9    | 2781     
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2496     
+Frank Turner                   | 12   | 2497     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2225     
@@ -63,7 +63,7 @@ Spielbergs                     | 71   | 603
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 82   | 483      
-Gojira                         | 90   | 428      
+Gojira                         | 90   | 429      
 Opeth                          | 93   | 410      
 Swans                          | 95   | 404      
 Kaizers Orchestra              | 97   | 400      
@@ -123,5 +123,5 @@ Black Sabbath        | 85   | 468
 The Twilight Singers | 89   | 433      
 Marillion            | 91   | 418      
 Jokke med Tourettes  | 94   | 409      
-The Band             | 99   | 391      
+The Band             | 99   | 394      
 Screaming Trees      | 100  | 382      
