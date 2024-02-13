@@ -27,7 +27,7 @@ Manic Street Preachers         | 11   | 2615
 Frank Turner                   | 12   | 2497     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
-Raga Rockers                   | 18   | 2225     
+Raga Rockers                   | 18   | 2226     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
@@ -64,9 +64,9 @@ Kylesa                         | 72   | 584
 The Good The Bad and The Zugly | 76   | 526      
 Jason Isbell and the 400 Unit  | 82   | 483      
 Gojira                         | 90   | 429      
-Opeth                          | 93   | 410      
-Swans                          | 95   | 404      
-Kaizers Orchestra              | 97   | 400      
+Opeth                          | 94   | 410      
+Swans                          | 96   | 404      
+Kaizers Orchestra              | 98   | 400      
 
 ## Active top 100 artists not seen live (28)
 
@@ -97,9 +97,9 @@ The War on Drugs         | 84   | 473
 Faith No More            | 86   | 457      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
-Warren Zevon             | 92   | 412      
-Richard Thompson         | 96   | 401      
-Ulver                    | 98   | 396      
+Warren Zevon             | 93   | 412      
+Richard Thompson         | 97   | 401      
+Ulver                    | 99   | 396      
 
 ## Inactive top 100 artists not seen live (20)
 
@@ -121,7 +121,7 @@ The Beatles          | 77   | 523
 Pink Floyd           | 83   | 473      
 Black Sabbath        | 85   | 468      
 The Twilight Singers | 89   | 433      
-Marillion            | 91   | 418      
-Jokke med Tourettes  | 94   | 409      
-The Band             | 99   | 394      
+The Band             | 91   | 422      
+Marillion            | 92   | 418      
+Jokke med Tourettes  | 95   | 409      
 Screaming Trees      | 100  | 382      
