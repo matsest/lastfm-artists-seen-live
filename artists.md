@@ -16,10 +16,10 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6112     
-Pearl Jam                      | 2    | 6033     
+Pearl Jam                      | 2    | 6070     
 Rush                           | 3    | 4584     
 The Gaslight Anthem            | 4    | 4403     
-DumDum Boys                    | 6    | 3007     
+DumDum Boys                    | 6    | 3008     
 Against Me!                    | 7    | 2990     
 Bruce Springsteen              | 9    | 2781     
 Motorpsycho                    | 10   | 2776     
@@ -27,7 +27,7 @@ Manic Street Preachers         | 11   | 2615
 Frank Turner                   | 12   | 2497     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
-Raga Rockers                   | 18   | 2226     
+Raga Rockers                   | 18   | 2227     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 98   | 400
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 Alice in Chains          | 13   | 2376     
-The Who                  | 15   | 2257     
+The Who                  | 15   | 2258     
 Bob Mould                | 17   | 2227     
 Propagandhi              | 20   | 2077     
 Ryan Adams               | 21   | 2054     
@@ -86,7 +86,7 @@ Melvins                  | 50   | 790
 The Black Crowes         | 52   | 788      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 58   | 695      
-Eddie Vedder             | 60   | 690      
+Eddie Vedder             | 59   | 692      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 498      
@@ -94,7 +94,7 @@ The Hotelier             | 79   | 495
 Dinosaur Jr.             | 80   | 493      
 Rage Against the Machine | 81   | 486      
 The War on Drugs         | 84   | 473      
-Faith No More            | 86   | 457      
+Faith No More            | 86   | 458      
 Dawes                    | 87   | 447      
 Thåström                 | 88   | 436      
 Warren Zevon             | 93   | 412      
@@ -112,13 +112,13 @@ The Horrible Crowes  | 34   | 1179
 Genesis              | 38   | 1067     
 Fugazi               | 42   | 993      
 Jokke & Valentinerne | 56   | 729      
-Audioslave           | 59   | 691      
+Audioslave           | 60   | 691      
 Foo Fighters         | 70   | 606      
 Big Star             | 73   | 566      
 Temple of the Dog    | 74   | 553      
 Paul Westerberg      | 75   | 530      
 The Beatles          | 77   | 523      
-Pink Floyd           | 83   | 473      
+Pink Floyd           | 83   | 474      
 Black Sabbath        | 85   | 468      
 The Twilight Singers | 89   | 433      
 The Band             | 91   | 422      
