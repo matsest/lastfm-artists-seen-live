@@ -1,15 +1,14 @@
-## Stats 
-
+## Seen Live Stats
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 386
 
-- Number of fetched top artists: 100 (Active: 72 Inactive: 28)
+- Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
 - Number of top artists seen live: 52 (Active: 44 Inactive: 8)
 
-- Number of top artists not seen live: 48 (Active: 28 Inactive: 20)
+- Number of top artists not seen live: 48 (Active: 25 Inactive: 23)
 
 ## Top 100 artists seen live (52)
 
@@ -41,14 +40,14 @@ Biffy Clyro                    | 36   | 1105
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1026     
-Anti-Lam Front                 | 41   | 1004     
+Anti-Lam Front                 | 41   | 1005     
 Thin Lizzy                     | 44   | 869      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 833      
 Brian Fallon                   | 48   | 818      
-Sweden                         | 49   | 795      
-The Tallest Man on Earth       | 51   | 790      
+Sweden                         | 50   | 795      
+The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 698      
@@ -68,60 +67,60 @@ Opeth                          | 94   | 410
 Swans                          | 96   | 404      
 Kaizers Orchestra              | 98   | 400      
 
-## Active top 100 artists not seen live (28)
+## Active top 100 artists not seen live (25)
+
+Name             | Rank | PlayCount
+---------------- | ---- | ---------
+Alice in Chains  | 13   | 2376     
+Bob Mould        | 17   | 2227     
+Propagandhi      | 20   | 2077     
+Ryan Adams       | 21   | 2054     
+Guided by Voices | 23   | 1834     
+The Menzingers   | 26   | 1632     
+Weezer           | 28   | 1567     
+Touché Amoré     | 33   | 1212     
+The Hold Steady  | 43   | 900      
+The Black Crowes | 49   | 804      
+Melvins          | 51   | 790      
+Bob Dylan        | 53   | 779      
+Afghan Whigs     | 58   | 695      
+Eddie Vedder     | 59   | 692      
+Hot Water Music  | 63   | 652      
+Neil Young       | 65   | 639      
+Yes              | 78   | 498      
+The Hotelier     | 79   | 497      
+Dinosaur Jr.     | 80   | 493      
+The War on Drugs | 84   | 473      
+Faith No More    | 86   | 458      
+Dawes            | 87   | 447      
+Thåström         | 88   | 436      
+Richard Thompson | 97   | 401      
+Ulver            | 99   | 396      
+
+## Inactive top 100 artists not seen live (23)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-Alice in Chains          | 13   | 2376     
+The Replacements         | 5    | 3290     
+Hüsker Dü                | 8    | 2888     
 The Who                  | 15   | 2258     
-Bob Mould                | 17   | 2227     
-Propagandhi              | 20   | 2077     
-Ryan Adams               | 21   | 2054     
-Guided by Voices         | 23   | 1834     
-The Menzingers           | 26   | 1632     
-Weezer                   | 28   | 1567     
-Touché Amoré             | 33   | 1212     
-The Hold Steady          | 43   | 900      
-Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 789      
-Bob Dylan                | 53   | 779      
-Afghan Whigs             | 58   | 695      
-Eddie Vedder             | 59   | 692      
-Hot Water Music          | 63   | 652      
-Neil Young               | 65   | 639      
-Yes                      | 78   | 498      
-The Hotelier             | 79   | 496      
-Dinosaur Jr.             | 80   | 493      
+Sugar                    | 32   | 1268     
+The Horrible Crowes      | 34   | 1179     
+Genesis                  | 38   | 1067     
+Fugazi                   | 42   | 993      
+Jokke & Valentinerne     | 56   | 729      
+Audioslave               | 60   | 691      
+Foo Fighters             | 70   | 606      
+Big Star                 | 73   | 566      
+Temple of the Dog        | 74   | 553      
+Paul Westerberg          | 75   | 530      
+The Beatles              | 77   | 523      
 Rage Against the Machine | 81   | 486      
-The War on Drugs         | 84   | 473      
-Faith No More            | 86   | 458      
-Dawes                    | 87   | 447      
-Thåström                 | 88   | 436      
+Pink Floyd               | 83   | 474      
+Black Sabbath            | 85   | 468      
+The Twilight Singers     | 89   | 433      
+The Band                 | 91   | 422      
+Marillion                | 92   | 418      
 Warren Zevon             | 93   | 412      
-Richard Thompson         | 97   | 401      
-Ulver                    | 99   | 396      
-
-## Inactive top 100 artists not seen live (20)
-
-Name                 | Rank | PlayCount
--------------------- | ---- | ---------
-The Replacements     | 5    | 3290     
-Hüsker Dü            | 8    | 2888     
-Sugar                | 32   | 1268     
-The Horrible Crowes  | 34   | 1179     
-Genesis              | 38   | 1067     
-Fugazi               | 42   | 993      
-Jokke & Valentinerne | 56   | 729      
-Audioslave           | 60   | 691      
-Foo Fighters         | 70   | 606      
-Big Star             | 73   | 566      
-Temple of the Dog    | 74   | 553      
-Paul Westerberg      | 75   | 530      
-The Beatles          | 77   | 523      
-Pink Floyd           | 83   | 474      
-Black Sabbath        | 85   | 468      
-The Twilight Singers | 89   | 433      
-The Band             | 91   | 422      
-Marillion            | 92   | 418      
-Jokke med Tourettes  | 95   | 409      
-Screaming Trees      | 100  | 382      
+Jokke med Tourettes      | 95   | 409      
+Screaming Trees          | 100  | 382      
