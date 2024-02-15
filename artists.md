@@ -16,7 +16,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6112     
-Pearl Jam                      | 2    | 6070     
+Pearl Jam                      | 2    | 6071     
 Rush                           | 3    | 4584     
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3008     
@@ -24,7 +24,7 @@ Against Me!                    | 7    | 2990
 Bruce Springsteen              | 9    | 2781     
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2497     
+Frank Turner                   | 12   | 2498     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
 Raga Rockers                   | 18   | 2227     
@@ -32,7 +32,7 @@ The National                   | 19   | 2145
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
 Spidergawd                     | 25   | 1698     
-The Smashing Pumpkins          | 27   | 1568     
+The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
 Kvelertak                      | 31   | 1322     
@@ -83,14 +83,14 @@ Weezer                   | 28   | 1567
 Touché Amoré             | 33   | 1212     
 The Hold Steady          | 43   | 900      
 Melvins                  | 50   | 790      
-The Black Crowes         | 52   | 788      
+The Black Crowes         | 52   | 789      
 Bob Dylan                | 53   | 779      
 Afghan Whigs             | 58   | 695      
 Eddie Vedder             | 59   | 692      
 Hot Water Music          | 63   | 652      
 Neil Young               | 65   | 639      
 Yes                      | 78   | 498      
-The Hotelier             | 79   | 495      
+The Hotelier             | 79   | 496      
 Dinosaur Jr.             | 80   | 493      
 Rage Against the Machine | 81   | 486      
 The War on Drugs         | 84   | 473      
