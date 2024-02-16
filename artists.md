@@ -30,7 +30,7 @@ Raga Rockers                   | 18   | 2227
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1698     
+Spidergawd                     | 25   | 1716     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -45,7 +45,7 @@ Thin Lizzy                     | 44   | 869
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 833      
-Brian Fallon                   | 48   | 818      
+Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 795      
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1632
 Weezer           | 28   | 1567     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 900      
-The Black Crowes | 49   | 804      
+The Black Crowes | 48   | 824      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 779      
 Afghan Whigs     | 58   | 695      
