@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6112     
-Pearl Jam                      | 2    | 6072     
+Pearl Jam                      | 2    | 6079     
 Rush                           | 3    | 4584     
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3008     
@@ -30,7 +30,7 @@ Raga Rockers                   | 18   | 2227
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1736     
+Spidergawd                     | 25   | 1737     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -61,7 +61,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 82   | 483      
+Jason Isbell and the 400 Unit  | 82   | 485      
 Gojira                         | 90   | 429      
 Opeth                          | 94   | 410      
 Swans                          | 96   | 404      
