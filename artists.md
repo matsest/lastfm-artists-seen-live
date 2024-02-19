@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 386
+- Number of artists seen live in total: 387
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -16,11 +16,11 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6112     
 Pearl Jam                      | 2    | 6079     
-Rush                           | 3    | 4584     
+Rush                           | 3    | 4587     
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3008     
 Against Me!                    | 7    | 2990     
-Bruce Springsteen              | 9    | 2781     
+Bruce Springsteen              | 9    | 2782     
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2498     
@@ -30,7 +30,7 @@ Raga Rockers                   | 18   | 2227
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2011     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1737     
+Spidergawd                     | 25   | 1752     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -39,7 +39,7 @@ Chuck Ragan                    | 35   | 1175
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1026     
+Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
 Thin Lizzy                     | 44   | 869      
 Oslo Ess                       | 45   | 861      
@@ -50,7 +50,7 @@ Sweden                         | 50   | 795
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 698      
+Jason Isbell                   | 57   | 700      
 Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -61,7 +61,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 82   | 485      
+Jason Isbell and the 400 Unit  | 81   | 486      
 Gojira                         | 90   | 429      
 Opeth                          | 94   | 410      
 Swans                          | 96   | 404      
@@ -74,13 +74,13 @@ Name             | Rank | PlayCount
 Alice in Chains  | 13   | 2376     
 Bob Mould        | 17   | 2227     
 Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2054     
+Ryan Adams       | 21   | 2057     
 Guided by Voices | 23   | 1834     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1567     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 900      
-The Black Crowes | 48   | 825      
+The Black Crowes | 48   | 829      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 779      
 Afghan Whigs     | 58   | 695      
@@ -115,12 +115,12 @@ Big Star                 | 73   | 566
 Temple of the Dog        | 74   | 553      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 523      
-Rage Against the Machine | 81   | 486      
+Rage Against the Machine | 82   | 486      
 Pink Floyd               | 83   | 474      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
-The Band                 | 91   | 422      
+The Band                 | 91   | 428      
 Marillion                | 92   | 418      
-Warren Zevon             | 93   | 412      
+Warren Zevon             | 93   | 413      
 Jokke med Tourettes      | 95   | 409      
 Screaming Trees          | 100  | 382      
