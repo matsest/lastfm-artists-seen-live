@@ -26,11 +26,11 @@ Manic Street Preachers         | 11   | 2615
 Frank Turner                   | 12   | 2498     
 AC/DC                          | 14   | 2337     
 Chris Cornell                  | 16   | 2234     
-Raga Rockers                   | 18   | 2227     
+Raga Rockers                   | 17   | 2231     
 The National                   | 19   | 2145     
-johndoe                        | 22   | 2011     
+johndoe                        | 22   | 2013     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1752     
+Spidergawd                     | 25   | 1754     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 795
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 700      
+Jason Isbell                   | 57   | 701      
 Ghost                          | 61   | 673      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -60,8 +60,8 @@ Devin Townsend Project         | 68   | 608
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
-The Good The Bad and The Zugly | 76   | 526      
-Jason Isbell and the 400 Unit  | 81   | 486      
+The Good The Bad and The Zugly | 76   | 528      
+Jason Isbell and the 400 Unit  | 81   | 487      
 Gojira                         | 90   | 429      
 Opeth                          | 94   | 410      
 Swans                          | 96   | 404      
@@ -72,9 +72,9 @@ Kaizers Orchestra              | 98   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 13   | 2376     
-Bob Mould        | 17   | 2227     
+Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2057     
+Ryan Adams       | 21   | 2059     
 Guided by Voices | 23   | 1834     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1567     
@@ -108,7 +108,7 @@ Sugar                    | 32   | 1268
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 729      
+Jokke & Valentinerne     | 56   | 730      
 Audioslave               | 60   | 691      
 Foo Fighters             | 70   | 606      
 Big Star                 | 73   | 566      
@@ -119,7 +119,7 @@ Rage Against the Machine | 82   | 486
 Pink Floyd               | 83   | 474      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
-The Band                 | 91   | 428      
+The Band                 | 91   | 429      
 Marillion                | 92   | 418      
 Warren Zevon             | 93   | 413      
 Jokke med Tourettes      | 95   | 409      
