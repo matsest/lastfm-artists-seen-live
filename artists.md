@@ -25,8 +25,8 @@ Motorpsycho                    | 10   | 2776
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2498     
 AC/DC                          | 14   | 2338     
-Chris Cornell                  | 16   | 2234     
-Raga Rockers                   | 17   | 2231     
+Raga Rockers                   | 16   | 2241     
+Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2013     
 Mastodon                       | 24   | 1757     
