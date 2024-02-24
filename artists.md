@@ -23,14 +23,14 @@ Against Me!                    | 7    | 2990
 Bruce Springsteen              | 9    | 2782     
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
-Frank Turner                   | 12   | 2498     
+Frank Turner                   | 12   | 2500     
 AC/DC                          | 14   | 2338     
 Raga Rockers                   | 16   | 2241     
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2013     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1755     
+Spidergawd                     | 25   | 1756     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
