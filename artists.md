@@ -24,13 +24,13 @@ Bruce Springsteen              | 9    | 2782
 Motorpsycho                    | 10   | 2776     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2500     
-AC/DC                          | 14   | 2338     
-Raga Rockers                   | 16   | 2241     
+AC/DC                          | 14   | 2344     
+Raga Rockers                   | 16   | 2245     
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2145     
 johndoe                        | 22   | 2013     
 Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1756     
+Spidergawd                     | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1569     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1632
 Weezer           | 28   | 1567     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 900      
-The Black Crowes | 48   | 829      
+The Black Crowes | 48   | 830      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 779      
 Afghan Whigs     | 58   | 695      
@@ -93,7 +93,7 @@ Dinosaur Jr.     | 80   | 493
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 458      
 Dawes            | 87   | 447      
-Thåström         | 88   | 436      
+Thåström         | 88   | 437      
 Richard Thompson | 97   | 401      
 Ulver            | 99   | 396      
 
