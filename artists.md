@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 869      
+Thin Lizzy                     | 44   | 870      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 833      
@@ -104,11 +104,11 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3290     
 Hüsker Dü                | 8    | 2888     
 The Who                  | 15   | 2258     
-Sugar                    | 32   | 1268     
+Sugar                    | 32   | 1269     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 730      
+Jokke & Valentinerne     | 56   | 731      
 Audioslave               | 60   | 691      
 Foo Fighters             | 70   | 606      
 Big Star                 | 73   | 566      
