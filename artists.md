@@ -20,8 +20,8 @@ Rush                           | 3    | 4587
 The Gaslight Anthem            | 4    | 4403     
 DumDum Boys                    | 6    | 3008     
 Against Me!                    | 7    | 2990     
-Bruce Springsteen              | 9    | 2782     
-Motorpsycho                    | 10   | 2776     
+Motorpsycho                    | 9    | 2791     
+Bruce Springsteen              | 10   | 2782     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2500     
 AC/DC                          | 14   | 2344     
@@ -41,10 +41,10 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 870      
+Thin Lizzy                     | 44   | 871      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
-Tool                           | 47   | 833      
+Tool                           | 47   | 841      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 795      
 The Tallest Man on Earth       | 52   | 790      
@@ -87,8 +87,8 @@ Afghan Whigs     | 58   | 695
 Eddie Vedder     | 59   | 692      
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
-Yes              | 78   | 498      
-The Hotelier     | 79   | 497      
+The Hotelier     | 78   | 506      
+Yes              | 79   | 498      
 Dinosaur Jr.     | 80   | 493      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 458      
