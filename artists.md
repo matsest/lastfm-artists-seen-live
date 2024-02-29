@@ -20,7 +20,7 @@ Rush                           | 3    | 4587
 The Gaslight Anthem            | 4    | 4415     
 DumDum Boys                    | 6    | 3008     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2824     
+Motorpsycho                    | 9    | 2826     
 Bruce Springsteen              | 10   | 2782     
 Manic Street Preachers         | 11   | 2615     
 Frank Turner                   | 12   | 2500     
@@ -101,7 +101,7 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3290     
+The Replacements         | 5    | 3303     
 Hüsker Dü                | 8    | 2888     
 The Who                  | 15   | 2258     
 Sugar                    | 32   | 1269     
