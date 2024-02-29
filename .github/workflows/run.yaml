@@ -22,8 +22,9 @@ jobs:
       - name: Run script
         env:
           API_KEY: ${{ secrets.API_KEY }}
+          LASTFM_USERNAME: ${{ vars.LASTFM_USERNAME }}
         shell: pwsh
-        run: ./src/main.ps1 | Out-File artists.md
+        run: ./src/main.ps1 -LastFmUserName "$env:LASTFM_USERNAME" | Out-File artists.md
 
       - name: Push file
         run: |

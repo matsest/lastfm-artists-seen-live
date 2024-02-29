@@ -1,8 +1,8 @@
 [CmdletBinding()]
 param (
-    [Parameter(HelpMessage = "Last.fm username")]
+    [Parameter(Mandatory, HelpMessage = "Last.fm username")]
     [string]
-    $LastFmUserName = "matsest",
+    $LastFmUserName,
     [Parameter(HelpMessage = "Number of most listened to artists to fetch from Last.fm")]
     [string]
     $NumberOfArtists = "100",
