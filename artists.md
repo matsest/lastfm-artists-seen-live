@@ -22,9 +22,9 @@ DumDum Boys                    | 6    | 3008
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2826     
 Bruce Springsteen              | 10   | 2782     
-Manic Street Preachers         | 11   | 2615     
+Manic Street Preachers         | 11   | 2616     
 Frank Turner                   | 12   | 2500     
-AC/DC                          | 14   | 2344     
+AC/DC                          | 14   | 2345     
 Raga Rockers                   | 16   | 2245     
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2145     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 871      
+Thin Lizzy                     | 44   | 872      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 841      
@@ -55,7 +55,7 @@ Ghost                          | 61   | 673
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 621      
+Clutch                         | 67   | 622      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
@@ -75,7 +75,7 @@ Alice in Chains  | 13   | 2376
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2059     
-Guided by Voices | 23   | 1834     
+Guided by Voices | 23   | 1835     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1567     
 Touché Amoré     | 33   | 1212     
@@ -88,7 +88,7 @@ Eddie Vedder     | 59   | 692
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
-Yes              | 79   | 498      
+Yes              | 79   | 499      
 Dinosaur Jr.     | 80   | 493      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 458      
@@ -101,10 +101,10 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3303     
+The Replacements         | 5    | 3305     
 Hüsker Dü                | 8    | 2888     
-The Who                  | 15   | 2258     
-Sugar                    | 32   | 1269     
+The Who                  | 15   | 2259     
+Sugar                    | 32   | 1270     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
@@ -116,7 +116,7 @@ Temple of the Dog        | 74   | 553
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 523      
 Rage Against the Machine | 82   | 486      
-Pink Floyd               | 83   | 474      
+Pink Floyd               | 83   | 475      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 429      
