@@ -14,34 +14,34 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6112     
-Pearl Jam                      | 2    | 6079     
-Rush                           | 3    | 4587     
-The Gaslight Anthem            | 4    | 4415     
-DumDum Boys                    | 6    | 3008     
+Soundgarden                    | 1    | 6113     
+Pearl Jam                      | 2    | 6080     
+Rush                           | 3    | 4588     
+The Gaslight Anthem            | 4    | 4416     
+DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2826     
-Bruce Springsteen              | 10   | 2782     
-Manic Street Preachers         | 11   | 2616     
-Frank Turner                   | 12   | 2500     
+Motorpsycho                    | 9    | 2827     
+Bruce Springsteen              | 10   | 2783     
+Manic Street Preachers         | 11   | 2618     
+Frank Turner                   | 12   | 2501     
 AC/DC                          | 14   | 2345     
-Raga Rockers                   | 16   | 2245     
+Raga Rockers                   | 16   | 2246     
 Chris Cornell                  | 17   | 2234     
-The National                   | 19   | 2145     
-johndoe                        | 22   | 2013     
-Mastodon                       | 24   | 1757     
-Spidergawd                     | 25   | 1757     
-The Smashing Pumpkins          | 27   | 1569     
+The National                   | 19   | 2146     
+johndoe                        | 22   | 2014     
+Spidergawd                     | 24   | 1758     
+Mastodon                       | 25   | 1757     
+The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
-Kvelertak                      | 31   | 1322     
+Kvelertak                      | 31   | 1324     
 Chuck Ragan                    | 35   | 1175     
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 872      
+Thin Lizzy                     | 44   | 875      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 841      
@@ -51,16 +51,16 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 701      
-Ghost                          | 61   | 673      
+Ghost                          | 61   | 674      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 622      
+Clutch                         | 67   | 623      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
-The Good The Bad and The Zugly | 76   | 528      
+The Good The Bad and The Zugly | 76   | 529      
 Jason Isbell and the 400 Unit  | 81   | 487      
 Gojira                         | 90   | 429      
 Opeth                          | 94   | 410      
@@ -71,24 +71,24 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 13   | 2376     
+Alice in Chains  | 13   | 2378     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2059     
-Guided by Voices | 23   | 1835     
+Guided by Voices | 23   | 1838     
 The Menzingers   | 26   | 1632     
-Weezer           | 28   | 1567     
+Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
-The Hold Steady  | 43   | 900      
-The Black Crowes | 48   | 830      
+The Hold Steady  | 43   | 901      
+The Black Crowes | 48   | 832      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 779      
 Afghan Whigs     | 58   | 695      
-Eddie Vedder     | 59   | 692      
+Eddie Vedder     | 60   | 692      
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
-Yes              | 79   | 499      
+Yes              | 79   | 501      
 Dinosaur Jr.     | 80   | 493      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 458      
@@ -101,26 +101,26 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3305     
+The Replacements         | 5    | 3307     
 Hüsker Dü                | 8    | 2888     
 The Who                  | 15   | 2259     
 Sugar                    | 32   | 1270     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 731      
-Audioslave               | 60   | 691      
+Jokke & Valentinerne     | 56   | 732      
+Audioslave               | 59   | 692      
 Foo Fighters             | 70   | 606      
 Big Star                 | 73   | 566      
 Temple of the Dog        | 74   | 553      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 523      
 Rage Against the Machine | 82   | 486      
-Pink Floyd               | 83   | 475      
+Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 429      
 Marillion                | 92   | 418      
 Warren Zevon             | 93   | 413      
 Jokke med Tourettes      | 95   | 409      
-Screaming Trees          | 100  | 382      
+Screaming Trees          | 100  | 383      
