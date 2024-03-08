@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 387
+- Number of artists seen live in total: 388
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -17,14 +17,14 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6113     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4588     
-The Gaslight Anthem            | 4    | 4416     
+The Gaslight Anthem            | 4    | 4458     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2838     
+Motorpsycho                    | 9    | 2839     
 Bruce Springsteen              | 10   | 2783     
 Manic Street Preachers         | 11   | 2618     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 14   | 2372     
+AC/DC                          | 14   | 2373     
 Raga Rockers                   | 16   | 2246     
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2146     
