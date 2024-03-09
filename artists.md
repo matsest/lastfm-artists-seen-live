@@ -17,12 +17,12 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6113     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4588     
-The Gaslight Anthem            | 4    | 4458     
+The Gaslight Anthem            | 4    | 4461     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2839     
-Bruce Springsteen              | 10   | 2783     
-Manic Street Preachers         | 11   | 2618     
+Bruce Springsteen              | 10   | 2784     
+Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
 AC/DC                          | 14   | 2373     
 Raga Rockers                   | 16   | 2246     
@@ -75,7 +75,7 @@ Alice in Chains  | 13   | 2378
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2059     
-Guided by Voices | 23   | 1838     
+Guided by Voices | 23   | 1840     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
@@ -89,9 +89,9 @@ Hot Water Music  | 63   | 652
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
 Yes              | 79   | 501      
-Dinosaur Jr.     | 80   | 493      
+Dinosaur Jr.     | 80   | 495      
 The War on Drugs | 84   | 473      
-Faith No More    | 86   | 458      
+Faith No More    | 86   | 459      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
 Richard Thompson | 97   | 401      
@@ -103,19 +103,19 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3307     
 Hüsker Dü                | 8    | 2888     
-The Who                  | 15   | 2259     
+The Who                  | 15   | 2261     
 Sugar                    | 32   | 1270     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 732      
+Jokke & Valentinerne     | 56   | 734      
 Audioslave               | 59   | 692      
 Foo Fighters             | 70   | 606      
 Big Star                 | 73   | 566      
 Temple of the Dog        | 74   | 553      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 523      
-Rage Against the Machine | 82   | 486      
+Rage Against the Machine | 82   | 487      
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
