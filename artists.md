@@ -14,10 +14,10 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6113     
+Soundgarden                    | 1    | 6114     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4588     
-The Gaslight Anthem            | 4    | 4461     
+The Gaslight Anthem            | 4    | 4462     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2839     
@@ -29,7 +29,7 @@ Raga Rockers                   | 16   | 2246
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2146     
 johndoe                        | 22   | 2014     
-Spidergawd                     | 24   | 1758     
+Spidergawd                     | 24   | 1764     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
