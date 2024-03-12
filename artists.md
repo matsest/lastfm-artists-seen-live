@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6114     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4594     
-The Gaslight Anthem            | 4    | 4462     
+The Gaslight Anthem            | 4    | 4468     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2839     
@@ -46,7 +46,7 @@ Oslo Ess                       | 45   | 861
 Pappasaft                      | 46   | 854      
 Tool                           | 47   | 843      
 Brian Fallon                   | 49   | 818      
-Sweden                         | 50   | 795      
+Sweden                         | 50   | 806      
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1632
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 48   | 839      
+The Black Crowes | 48   | 840      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 695      
