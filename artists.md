@@ -24,7 +24,7 @@ Motorpsycho                    | 9    | 2839
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 14   | 2373     
+AC/DC                          | 13   | 2383     
 Raga Rockers                   | 16   | 2246     
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2146     
@@ -44,7 +44,7 @@ Anti-Lam Front                 | 41   | 1005
 Thin Lizzy                     | 44   | 876      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
-Tool                           | 47   | 843      
+Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 806      
 The Tallest Man on Earth       | 52   | 790      
@@ -71,7 +71,7 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 13   | 2378     
+Alice in Chains  | 14   | 2378     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2066     
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1632
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 48   | 840      
+The Black Crowes | 47   | 851      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 695      
