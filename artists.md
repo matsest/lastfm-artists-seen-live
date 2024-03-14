@@ -17,10 +17,10 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6114     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4594     
-The Gaslight Anthem            | 4    | 4468     
+The Gaslight Anthem            | 4    | 4476     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2839     
+Motorpsycho                    | 9    | 2840     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
@@ -64,7 +64,7 @@ The Good The Bad and The Zugly | 76   | 529
 Jason Isbell and the 400 Unit  | 81   | 489      
 Gojira                         | 91   | 429      
 Opeth                          | 94   | 410      
-Swans                          | 96   | 404      
+Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
 
 ## Active top 100 artists not seen live (25)
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1632
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 47   | 851      
+The Black Crowes | 47   | 852      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 695      
@@ -94,7 +94,7 @@ The War on Drugs | 84   | 473
 Faith No More    | 86   | 459      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
-Richard Thompson | 97   | 401      
+Richard Thompson | 96   | 405      
 Ulver            | 99   | 396      
 
 ## Inactive top 100 artists not seen live (23)
