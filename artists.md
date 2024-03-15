@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6114     
 Pearl Jam                      | 2    | 6080     
-Rush                           | 3    | 4594     
+Rush                           | 3    | 4597     
 The Gaslight Anthem            | 4    | 4476     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
@@ -94,7 +94,7 @@ The War on Drugs | 84   | 473
 Faith No More    | 86   | 459      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
-Richard Thompson | 96   | 405      
+Richard Thompson | 96   | 406      
 Ulver            | 99   | 396      
 
 ## Inactive top 100 artists not seen live (23)
