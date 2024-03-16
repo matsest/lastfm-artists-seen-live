@@ -14,10 +14,10 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6114     
+Soundgarden                    | 1    | 6115     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4597     
-The Gaslight Anthem            | 4    | 4476     
+The Gaslight Anthem            | 4    | 4477     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2840     
@@ -29,7 +29,7 @@ Raga Rockers                   | 16   | 2246
 Chris Cornell                  | 17   | 2234     
 The National                   | 19   | 2146     
 johndoe                        | 22   | 2014     
-Spidergawd                     | 24   | 1765     
+Spidergawd                     | 24   | 1766     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 876      
+Thin Lizzy                     | 44   | 877      
 Oslo Ess                       | 45   | 861      
 Pappasaft                      | 46   | 854      
 Tool                           | 48   | 843      
@@ -75,7 +75,7 @@ Alice in Chains  | 14   | 2378
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2066     
-Guided by Voices | 23   | 1840     
+Guided by Voices | 23   | 1841     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
@@ -88,10 +88,10 @@ Eddie Vedder     | 60   | 692
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
-Yes              | 79   | 501      
+Yes              | 79   | 502      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
-Faith No More    | 86   | 459      
+Faith No More    | 86   | 460      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
 Richard Thompson | 96   | 406      
@@ -115,7 +115,7 @@ Big Star                 | 73   | 566
 Temple of the Dog        | 74   | 553      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 526      
-Rage Against the Machine | 82   | 487      
+Rage Against the Machine | 82   | 488      
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
