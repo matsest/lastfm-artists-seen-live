@@ -110,11 +110,11 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 56   | 734      
 Audioslave               | 59   | 692      
-Foo Fighters             | 70   | 606      
+Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
 Temple of the Dog        | 74   | 553      
 Paul Westerberg          | 75   | 530      
-The Beatles              | 77   | 526      
+The Beatles              | 77   | 527      
 Rage Against the Machine | 82   | 488      
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
