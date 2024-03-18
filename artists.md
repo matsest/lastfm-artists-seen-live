@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 388
+- Number of artists seen live in total: 390
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -20,7 +20,7 @@ Rush                           | 3    | 4597
 The Gaslight Anthem            | 4    | 4477     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2840     
+Motorpsycho                    | 9    | 2858     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
