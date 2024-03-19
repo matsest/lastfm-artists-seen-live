@@ -14,21 +14,21 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6115     
+Soundgarden                    | 1    | 6119     
 Pearl Jam                      | 2    | 6080     
 Rush                           | 3    | 4597     
 The Gaslight Anthem            | 4    | 4477     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2858     
+Motorpsycho                    | 9    | 2860     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
 AC/DC                          | 13   | 2383     
 Raga Rockers                   | 16   | 2246     
-Chris Cornell                  | 17   | 2234     
-The National                   | 19   | 2146     
-johndoe                        | 22   | 2014     
+Chris Cornell                  | 17   | 2238     
+The National                   | 19   | 2149     
+johndoe                        | 22   | 2015     
 Spidergawd                     | 24   | 1766     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
@@ -42,15 +42,15 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
 Thin Lizzy                     | 44   | 877      
-Oslo Ess                       | 45   | 861      
-Pappasaft                      | 46   | 854      
+Oslo Ess                       | 46   | 861      
+Pappasaft                      | 47   | 854      
 Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 806      
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 701      
+Jason Isbell                   | 57   | 702      
 Ghost                          | 61   | 674      
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 651      
@@ -61,7 +61,7 @@ Dropkick Murphys               | 69   | 608
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
 The Good The Bad and The Zugly | 76   | 529      
-Jason Isbell and the 400 Unit  | 81   | 489      
+Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 91   | 429      
 Opeth                          | 94   | 410      
 Swans                          | 97   | 404      
@@ -71,19 +71,19 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2378     
+Alice in Chains  | 14   | 2379     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2066     
+Ryan Adams       | 21   | 2069     
 Guided by Voices | 23   | 1841     
 The Menzingers   | 26   | 1632     
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 47   | 852      
+The Black Crowes | 45   | 868      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
-Afghan Whigs     | 58   | 695      
+Afghan Whigs     | 58   | 696      
 Eddie Vedder     | 60   | 692      
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
