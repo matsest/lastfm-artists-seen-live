@@ -26,7 +26,7 @@ Manic Street Preachers         | 11   | 2619
 Frank Turner                   | 12   | 2501     
 AC/DC                          | 13   | 2383     
 Raga Rockers                   | 16   | 2246     
-Chris Cornell                  | 17   | 2238     
+Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2015     
 Spidergawd                     | 24   | 1766     
@@ -50,10 +50,10 @@ Sweden                         | 50   | 806
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 702      
+Jason Isbell                   | 57   | 703      
 Ghost                          | 61   | 674      
 The Posies                     | 62   | 657      
-Japandroids                    | 64   | 651      
+Japandroids                    | 64   | 652      
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 623      
 Devin Townsend Project         | 68   | 608      
@@ -71,12 +71,12 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2379     
+Alice in Chains  | 14   | 2380     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2069     
 Guided by Voices | 23   | 1841     
-The Menzingers   | 26   | 1632     
+The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1212     
 The Hold Steady  | 43   | 902      
@@ -112,7 +112,7 @@ Jokke & Valentinerne     | 56   | 734
 Audioslave               | 59   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
-Temple of the Dog        | 74   | 553      
+Temple of the Dog        | 74   | 555      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 527      
 Rage Against the Machine | 82   | 488      
