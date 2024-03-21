@@ -14,8 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6119     
-Pearl Jam                      | 2    | 6080     
+Pearl Jam                      | 1    | 6122     
+Soundgarden                    | 2    | 6119     
 Rush                           | 3    | 4597     
 The Gaslight Anthem            | 4    | 4477     
 DumDum Boys                    | 6    | 3010     
@@ -78,13 +78,13 @@ Ryan Adams       | 21   | 2069
 Guided by Voices | 23   | 1841     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1569     
-Touché Amoré     | 33   | 1212     
+Touché Amoré     | 33   | 1236     
 The Hold Steady  | 43   | 902      
 The Black Crowes | 45   | 868      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
-Eddie Vedder     | 60   | 692      
+Eddie Vedder     | 59   | 693      
 Hot Water Music  | 63   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
@@ -109,7 +109,7 @@ The Horrible Crowes      | 34   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 56   | 734      
-Audioslave               | 59   | 692      
+Audioslave               | 60   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
 Temple of the Dog        | 74   | 555      
