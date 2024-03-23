@@ -14,17 +14,17 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6122     
+Pearl Jam                      | 1    | 6129     
 Soundgarden                    | 2    | 6119     
 Rush                           | 3    | 4597     
-The Gaslight Anthem            | 4    | 4478     
+The Gaslight Anthem            | 4    | 4481     
 DumDum Boys                    | 6    | 3010     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2860     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 13   | 2398     
+AC/DC                          | 13   | 2399     
 Raga Rockers                   | 16   | 2246     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1634
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1236     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 45   | 868      
+The Black Crowes | 45   | 876      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
