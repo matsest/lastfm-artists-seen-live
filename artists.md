@@ -14,7 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6129     
+Pearl Jam                      | 1    | 6130     
 Soundgarden                    | 2    | 6119     
 Rush                           | 3    | 4597     
 The Gaslight Anthem            | 4    | 4481     
@@ -25,11 +25,11 @@ Bruce Springsteen              | 10   | 2784
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
 AC/DC                          | 13   | 2399     
-Raga Rockers                   | 16   | 2246     
+Raga Rockers                   | 16   | 2247     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2015     
-Spidergawd                     | 24   | 1766     
+Spidergawd                     | 24   | 1767     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -55,7 +55,7 @@ Ghost                          | 61   | 674
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 652      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 623      
+Clutch                         | 67   | 624      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
@@ -71,11 +71,11 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2380     
+Alice in Chains  | 14   | 2382     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2069     
-Guided by Voices | 23   | 1841     
+Guided by Voices | 23   | 1842     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1236     
