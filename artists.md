@@ -28,7 +28,7 @@ AC/DC                          | 13   | 2399
 Raga Rockers                   | 16   | 2248     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
-johndoe                        | 22   | 2015     
+johndoe                        | 22   | 2026     
 Spidergawd                     | 24   | 1767     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
@@ -112,7 +112,7 @@ Jokke & Valentinerne     | 56   | 734
 Audioslave               | 60   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
-Temple of the Dog        | 74   | 555      
+Temple of the Dog        | 74   | 556      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 527      
 Rage Against the Machine | 82   | 488      
