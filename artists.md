@@ -15,26 +15,26 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6130     
-Soundgarden                    | 2    | 6119     
+Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4597     
 The Gaslight Anthem            | 4    | 4481     
-DumDum Boys                    | 6    | 3010     
+DumDum Boys                    | 6    | 3029     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2860     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
 AC/DC                          | 13   | 2399     
-Raga Rockers                   | 16   | 2248     
+Raga Rockers                   | 16   | 2250     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2026     
-Spidergawd                     | 24   | 1767     
+Spidergawd                     | 24   | 1769     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
-Kvelertak                      | 31   | 1324     
+Kvelertak                      | 31   | 1326     
 Chuck Ragan                    | 35   | 1175     
 Biffy Clyro                    | 36   | 1105     
 Hellbillies                    | 37   | 1069     
@@ -60,9 +60,9 @@ Devin Townsend Project         | 68   | 608
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
 Kylesa                         | 72   | 584      
-The Good The Bad and The Zugly | 76   | 529      
+The Good The Bad and The Zugly | 76   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
-Gojira                         | 91   | 429      
+Gojira                         | 90   | 431      
 Opeth                          | 94   | 410      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
@@ -108,7 +108,7 @@ Sugar                    | 32   | 1270
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 734      
+Jokke & Valentinerne     | 56   | 735      
 Audioslave               | 60   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
@@ -119,7 +119,7 @@ Rage Against the Machine | 82   | 488
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
-The Band                 | 90   | 430      
+The Band                 | 91   | 430      
 Marillion                | 92   | 418      
 Warren Zevon             | 93   | 413      
 Jokke med Tourettes      | 95   | 409      
