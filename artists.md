@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 390
+- Number of artists seen live in total: 393
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -16,19 +16,19 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6130     
 Soundgarden                    | 2    | 6120     
-Rush                           | 3    | 4597     
+Rush                           | 3    | 4598     
 The Gaslight Anthem            | 4    | 4481     
-DumDum Boys                    | 6    | 3029     
+DumDum Boys                    | 6    | 3031     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 9    | 2860     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 13   | 2399     
-Raga Rockers                   | 16   | 2250     
+AC/DC                          | 13   | 2401     
+Raga Rockers                   | 16   | 2254     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
-johndoe                        | 22   | 2026     
+johndoe                        | 22   | 2029     
 Spidergawd                     | 24   | 1769     
 Mastodon                       | 25   | 1757     
 The Smashing Pumpkins          | 27   | 1570     
@@ -41,9 +41,9 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
-Thin Lizzy                     | 44   | 877      
-Oslo Ess                       | 46   | 861      
-Pappasaft                      | 47   | 854      
+Pappasaft                      | 44   | 884      
+Thin Lizzy                     | 46   | 877      
+Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 806      
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1634
 Weezer           | 28   | 1569     
 Touché Amoré     | 33   | 1236     
 The Hold Steady  | 43   | 902      
-The Black Crowes | 45   | 876      
+The Black Crowes | 45   | 880      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
@@ -108,7 +108,7 @@ Sugar                    | 32   | 1270
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 735      
+Jokke & Valentinerne     | 56   | 738      
 Audioslave               | 60   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
