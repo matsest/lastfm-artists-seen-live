@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 393
+- Number of artists seen live in total: 398
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -24,8 +24,8 @@ Motorpsycho                    | 9    | 2861
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 13   | 2401     
-Raga Rockers                   | 16   | 2257     
+AC/DC                          | 13   | 2402     
+Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2030     
