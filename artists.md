@@ -17,10 +17,10 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6130     
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
-The Gaslight Anthem            | 4    | 4485     
+The Gaslight Anthem            | 4    | 4486     
 DumDum Boys                    | 6    | 3034     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 9    | 2861     
+Motorpsycho                    | 8    | 2890     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
@@ -102,7 +102,7 @@ Ulver            | 99   | 396
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3307     
-Hüsker Dü                | 8    | 2888     
+Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2261     
 Sugar                    | 32   | 1270     
 The Horrible Crowes      | 34   | 1179     
