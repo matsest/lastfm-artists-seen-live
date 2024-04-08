@@ -30,7 +30,7 @@ Chris Cornell                  | 17   | 2239
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2030     
 Spidergawd                     | 24   | 1773     
-Mastodon                       | 25   | 1757     
+Mastodon                       | 25   | 1758     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
