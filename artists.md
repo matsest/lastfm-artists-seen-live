@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6130
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
 The Gaslight Anthem            | 4    | 4486     
-DumDum Boys                    | 6    | 3034     
+DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2906     
 Bruce Springsteen              | 10   | 2784     
@@ -34,7 +34,7 @@ Mastodon                       | 25   | 1759
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
-Kvelertak                      | 31   | 1326     
+Kvelertak                      | 31   | 1327     
 Chuck Ragan                    | 35   | 1175     
 Biffy Clyro                    | 36   | 1113     
 Hellbillies                    | 37   | 1069     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1005     
 Pappasaft                      | 44   | 885      
-Thin Lizzy                     | 46   | 877      
+Thin Lizzy                     | 46   | 878      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
@@ -55,7 +55,7 @@ Ghost                          | 61   | 674
 The Posies                     | 62   | 657      
 Japandroids                    | 64   | 652      
 Blood Command                  | 66   | 633      
-Clutch                         | 67   | 624      
+Clutch                         | 67   | 626      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
@@ -77,9 +77,9 @@ Propagandhi      | 20   | 2077
 Ryan Adams       | 21   | 2069     
 Guided by Voices | 23   | 1842     
 The Menzingers   | 26   | 1634     
-Weezer           | 28   | 1569     
+Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1236     
-The Hold Steady  | 43   | 902      
+The Hold Steady  | 43   | 903      
 The Black Crowes | 45   | 880      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
