@@ -17,18 +17,18 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6130     
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
-The Gaslight Anthem            | 4    | 4486     
+The Gaslight Anthem            | 4    | 4488     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2906     
+Motorpsycho                    | 8    | 2907     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2501     
-AC/DC                          | 13   | 2414     
+AC/DC                          | 13   | 2415     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
-johndoe                        | 22   | 2030     
+johndoe                        | 22   | 2031     
 Spidergawd                     | 24   | 1773     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
@@ -74,7 +74,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2382     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2069     
+Ryan Adams       | 21   | 2072     
 Guided by Voices | 23   | 1842     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
