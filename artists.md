@@ -52,8 +52,8 @@ Devin Townsend                 | 54   | 760
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
 Ghost                          | 61   | 674      
-The Posies                     | 62   | 657      
-Japandroids                    | 64   | 652      
+Japandroids                    | 62   | 660      
+The Posies                     | 63   | 657      
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 626      
 Devin Townsend Project         | 68   | 608      
@@ -85,7 +85,7 @@ Melvins          | 51   | 790
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
 Eddie Vedder     | 59   | 693      
-Hot Water Music  | 63   | 652      
+Hot Water Music  | 64   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
 Yes              | 79   | 502      
