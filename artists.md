@@ -14,13 +14,13 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6130     
+Pearl Jam                      | 1    | 6133     
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
 The Gaslight Anthem            | 4    | 4488     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2907     
+Motorpsycho                    | 8    | 2925     
 Bruce Springsteen              | 10   | 2784     
 Manic Street Preachers         | 11   | 2619     
 Frank Turner                   | 12   | 2502     
@@ -52,7 +52,7 @@ Devin Townsend                 | 54   | 760
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
 Ghost                          | 61   | 674      
-Japandroids                    | 62   | 660      
+Japandroids                    | 62   | 667      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 626      
