@@ -51,8 +51,8 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
-Ghost                          | 61   | 674      
-Japandroids                    | 62   | 667      
+Japandroids                    | 61   | 677      
+Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 633      
 Clutch                         | 67   | 626      
