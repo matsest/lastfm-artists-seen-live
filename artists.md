@@ -22,14 +22,14 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2925     
 Bruce Springsteen              | 10   | 2784     
-Manic Street Preachers         | 11   | 2619     
-Frank Turner                   | 12   | 2502     
-AC/DC                          | 13   | 2415     
+Manic Street Preachers         | 11   | 2620     
+Frank Turner                   | 12   | 2503     
+AC/DC                          | 13   | 2425     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2031     
-Spidergawd                     | 24   | 1774     
+Spidergawd                     | 24   | 1775     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -51,7 +51,7 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
-Japandroids                    | 61   | 677      
+Japandroids                    | 61   | 678      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 633      
@@ -71,16 +71,16 @@ Kaizers Orchestra              | 98   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2382     
+Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2227     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2072     
-Guided by Voices | 23   | 1842     
+Guided by Voices | 23   | 1843     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1236     
 The Hold Steady  | 43   | 903      
-The Black Crowes | 45   | 880      
+The Black Crowes | 45   | 881      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
@@ -88,7 +88,7 @@ Eddie Vedder     | 59   | 693
 Hot Water Music  | 64   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
-Yes              | 79   | 502      
+Yes              | 79   | 503      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
