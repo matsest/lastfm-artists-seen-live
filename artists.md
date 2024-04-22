@@ -21,15 +21,15 @@ The Gaslight Anthem            | 4    | 4488
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2925     
-Bruce Springsteen              | 10   | 2784     
+Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2503     
-AC/DC                          | 13   | 2425     
+AC/DC                          | 13   | 2426     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2031     
-Spidergawd                     | 24   | 1775     
+Spidergawd                     | 24   | 1776     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -79,8 +79,8 @@ Guided by Voices | 23   | 1843
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1236     
-The Hold Steady  | 43   | 903      
-The Black Crowes | 45   | 881      
+The Hold Steady  | 43   | 904      
+The Black Crowes | 45   | 882      
 Melvins          | 51   | 790      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
@@ -88,13 +88,13 @@ Eddie Vedder     | 59   | 693
 Hot Water Music  | 64   | 652      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
-Yes              | 79   | 503      
+Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
-Richard Thompson | 96   | 406      
+Richard Thompson | 96   | 408      
 Ulver            | 99   | 396      
 
 ## Inactive top 100 artists not seen live (23)
