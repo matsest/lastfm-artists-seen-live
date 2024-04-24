@@ -20,7 +20,7 @@ Rush                           | 3    | 4598
 The Gaslight Anthem            | 4    | 4489     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2933     
+Motorpsycho                    | 8    | 2934     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2503     
@@ -29,7 +29,7 @@ Raga Rockers                   | 16   | 2258
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 22   | 2031     
-Spidergawd                     | 24   | 1776     
+Spidergawd                     | 24   | 1777     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -72,14 +72,14 @@ Kaizers Orchestra              | 98   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Bob Mould        | 18   | 2227     
+Bob Mould        | 18   | 2228     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2072     
 Guided by Voices | 23   | 1843     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1236     
-The Hold Steady  | 43   | 904      
+The Hold Steady  | 43   | 905      
 The Black Crowes | 45   | 882      
 Melvins          | 51   | 795      
 Bob Dylan        | 53   | 780      
