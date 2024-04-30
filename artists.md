@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 398
+- Number of artists seen live in total: 405
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6139     
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
-The Gaslight Anthem            | 4    | 4489     
+The Gaslight Anthem            | 4    | 4490     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2936     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1006     
-Pappasaft                      | 44   | 899      
+Pappasaft                      | 44   | 903      
 Thin Lizzy                     | 46   | 878      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
@@ -78,7 +78,7 @@ Ryan Adams       | 21   | 2072
 Guided by Voices | 23   | 1843     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
-Touché Amoré     | 33   | 1236     
+Touché Amoré     | 33   | 1237     
 The Hold Steady  | 43   | 905      
 The Black Crowes | 45   | 882      
 Melvins          | 51   | 795      
