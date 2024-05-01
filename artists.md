@@ -40,8 +40,8 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
-Anti-Lam Front                 | 41   | 1006     
-Pappasaft                      | 44   | 903      
+Anti-Lam Front                 | 41   | 1014     
+Pappasaft                      | 43   | 927      
 Thin Lizzy                     | 46   | 878      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
@@ -75,11 +75,11 @@ Alice in Chains  | 14   | 2383
 Bob Mould        | 18   | 2228     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2072     
-Guided by Voices | 23   | 1843     
+Guided by Voices | 23   | 1876     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Hold Steady  | 43   | 905      
+The Hold Steady  | 44   | 905      
 The Black Crowes | 45   | 882      
 Melvins          | 51   | 795      
 Bob Dylan        | 53   | 780      
