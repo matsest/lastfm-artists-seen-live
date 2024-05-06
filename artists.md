@@ -28,7 +28,7 @@ AC/DC                          | 13   | 2426
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
-johndoe                        | 22   | 2031     
+johndoe                        | 23   | 2031     
 Spidergawd                     | 24   | 1780     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
@@ -75,7 +75,7 @@ Alice in Chains  | 14   | 2383
 Bob Mould        | 18   | 2228     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2072     
-Guided by Voices | 23   | 2021     
+Guided by Voices | 22   | 2042     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
