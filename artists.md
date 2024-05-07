@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2937
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2426     
+AC/DC                          | 13   | 2427     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
@@ -74,7 +74,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2228     
 Propagandhi      | 20   | 2077     
-Ryan Adams       | 21   | 2072     
+Ryan Adams       | 21   | 2077     
 Guided by Voices | 22   | 2042     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
