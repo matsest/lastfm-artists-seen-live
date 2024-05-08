@@ -24,12 +24,12 @@ Motorpsycho                    | 8    | 2937
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2427     
+AC/DC                          | 13   | 2437     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 23   | 2031     
-Spidergawd                     | 24   | 1780     
+Spidergawd                     | 24   | 1782     
 Mastodon                       | 25   | 1759     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1014     
 Pappasaft                      | 43   | 927      
-Thin Lizzy                     | 46   | 878      
+Thin Lizzy                     | 46   | 879      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
@@ -51,7 +51,7 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
-Japandroids                    | 61   | 683      
+Japandroids                    | 61   | 691      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 633      
