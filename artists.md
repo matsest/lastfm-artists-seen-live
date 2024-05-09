@@ -24,13 +24,13 @@ Motorpsycho                    | 8    | 2937
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2437     
+AC/DC                          | 13   | 2450     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 23   | 2031     
-Spidergawd                     | 24   | 1782     
-Mastodon                       | 25   | 1759     
+Spidergawd                     | 24   | 1786     
+Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1358     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1014     
 Pappasaft                      | 43   | 927      
-Thin Lizzy                     | 46   | 879      
+Thin Lizzy                     | 46   | 880      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
 Brian Fallon                   | 49   | 818      
@@ -81,7 +81,7 @@ Weezer           | 28   | 1570
 Touché Amoré     | 33   | 1237     
 The Hold Steady  | 44   | 905      
 The Black Crowes | 45   | 882      
-Melvins          | 51   | 795      
+Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
 Eddie Vedder     | 59   | 693      
