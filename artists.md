@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 413
+- Number of artists seen live in total: 414
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,7 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6139     
+Pearl Jam                      | 1    | 6140     
 Soundgarden                    | 2    | 6120     
 Rush                           | 3    | 4598     
 The Gaslight Anthem            | 4    | 4490     
@@ -75,12 +75,12 @@ Alice in Chains  | 14   | 2383
 Bob Mould        | 18   | 2228     
 Propagandhi      | 20   | 2077     
 Ryan Adams       | 21   | 2077     
-Guided by Voices | 22   | 2042     
+Guided by Voices | 22   | 2044     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
 The Hold Steady  | 44   | 905      
-The Black Crowes | 45   | 882      
+The Black Crowes | 45   | 892      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
