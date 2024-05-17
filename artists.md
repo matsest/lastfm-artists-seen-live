@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6140     
 Soundgarden                    | 2    | 6120     
-Rush                           | 3    | 4598     
+Rush                           | 3    | 4599     
 The Gaslight Anthem            | 4    | 4490     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
@@ -80,7 +80,7 @@ The Menzingers   | 26   | 1634
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
 The Hold Steady  | 44   | 905      
-The Black Crowes | 45   | 893      
+The Black Crowes | 45   | 894      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
