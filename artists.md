@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 419
+- Number of artists seen live in total: 421
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1014     
-Pappasaft                      | 43   | 927      
+Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 880      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 843      
@@ -79,8 +79,8 @@ Ryan Adams       | 22   | 2077
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Hold Steady  | 44   | 905      
-The Black Crowes | 45   | 894      
+The Black Crowes | 43   | 943      
+The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
