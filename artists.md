@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2456     
+AC/DC                          | 13   | 2457     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
@@ -40,7 +40,7 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1027     
-Anti-Lam Front                 | 41   | 1014     
+Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 880      
 Oslo Ess                       | 47   | 861      
@@ -51,10 +51,10 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
-Japandroids                    | 61   | 691      
+Japandroids                    | 61   | 692      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
-Blood Command                  | 66   | 633      
+Blood Command                  | 66   | 635      
 Clutch                         | 67   | 626      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
@@ -72,8 +72,8 @@ Kaizers Orchestra              | 98   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Bob Mould        | 18   | 2228     
-Guided by Voices | 20   | 2105     
+Bob Mould        | 18   | 2229     
+Guided by Voices | 20   | 2106     
 Propagandhi      | 21   | 2077     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
@@ -85,7 +85,7 @@ Melvins          | 51   | 797
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 58   | 696      
 Eddie Vedder     | 59   | 693      
-Hot Water Music  | 64   | 652      
+Hot Water Music  | 64   | 653      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
 Yes              | 79   | 504      
