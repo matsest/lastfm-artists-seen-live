@@ -74,7 +74,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
 Guided by Voices | 20   | 2106     
-Propagandhi      | 21   | 2077     
+Propagandhi      | 21   | 2087     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
@@ -115,7 +115,7 @@ Big Star                 | 73   | 566
 Temple of the Dog        | 74   | 556      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 527      
-Rage Against the Machine | 82   | 488      
+Rage Against the Machine | 82   | 489      
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 468      
 The Twilight Singers     | 89   | 433      
