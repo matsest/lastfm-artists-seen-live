@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6140     
 Soundgarden                    | 2    | 6120     
-Rush                           | 3    | 4599     
+Rush                           | 3    | 4601     
 The Gaslight Anthem            | 4    | 4490     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
@@ -24,12 +24,12 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2457     
+AC/DC                          | 13   | 2458     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
 johndoe                        | 23   | 2031     
-Spidergawd                     | 24   | 1786     
+Spidergawd                     | 24   | 1787     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -51,7 +51,7 @@ The Tallest Man on Earth       | 52   | 790
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Jason Isbell                   | 57   | 703      
-Japandroids                    | 61   | 692      
+Japandroids                    | 60   | 693      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 635      
@@ -73,7 +73,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 20   | 2113     
+Propagandhi      | 20   | 2132     
 Guided by Voices | 21   | 2106     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
@@ -109,7 +109,7 @@ The Horrible Crowes      | 34   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 56   | 738      
-Audioslave               | 60   | 692      
+Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 73   | 566      
 Temple of the Dog        | 74   | 556      
