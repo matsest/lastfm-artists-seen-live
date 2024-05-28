@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2458     
+AC/DC                          | 13   | 2470     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 19   | 2149     
@@ -59,7 +59,7 @@ Clutch                         | 67   | 626
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
-Kylesa                         | 72   | 584      
+Kylesa                         | 73   | 584      
 The Good The Bad and The Zugly | 76   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
@@ -73,8 +73,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 20   | 2132     
-Guided by Voices | 21   | 2106     
+Guided by Voices | 20   | 2144     
+Propagandhi      | 21   | 2132     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
@@ -101,7 +101,7 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3307     
+The Replacements         | 5    | 3322     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2262     
 Sugar                    | 32   | 1271     
@@ -111,7 +111,7 @@ Fugazi                   | 42   | 993
 Jokke & Valentinerne     | 56   | 738      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
-Big Star                 | 73   | 572      
+Big Star                 | 72   | 586      
 Temple of the Dog        | 74   | 556      
 Paul Westerberg          | 75   | 530      
 The Beatles              | 77   | 527      
