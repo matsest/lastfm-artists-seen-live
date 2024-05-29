@@ -24,12 +24,12 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2470     
+AC/DC                          | 13   | 2472     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
-The National                   | 19   | 2149     
+The National                   | 20   | 2149     
 johndoe                        | 23   | 2031     
-Spidergawd                     | 24   | 1787     
+Spidergawd                     | 24   | 1788     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
@@ -44,14 +44,14 @@ Anti-Lam Front                 | 41   | 1015
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 880      
 Oslo Ess                       | 47   | 861      
-Tool                           | 48   | 843      
+Tool                           | 48   | 844      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 807      
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Jason Isbell                   | 57   | 703      
-Japandroids                    | 60   | 693      
+Japandroids                    | 57   | 706      
+Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
 Blood Command                  | 66   | 635      
@@ -73,18 +73,18 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Guided by Voices | 20   | 2144     
-Propagandhi      | 21   | 2132     
+Propagandhi      | 19   | 2154     
+Guided by Voices | 21   | 2145     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Black Crowes | 43   | 943      
+The Black Crowes | 43   | 945      
 The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
-Afghan Whigs     | 58   | 696      
-Eddie Vedder     | 59   | 693      
+Afghan Whigs     | 59   | 696      
+Eddie Vedder     | 60   | 693      
 Hot Water Music  | 64   | 653      
 Neil Young       | 65   | 639      
 The Hotelier     | 78   | 506      
@@ -101,14 +101,14 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3322     
+The Replacements         | 5    | 3323     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2262     
 Sugar                    | 32   | 1271     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 738      
+Jokke & Valentinerne     | 56   | 739      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
@@ -117,7 +117,7 @@ Paul Westerberg          | 75   | 530
 The Beatles              | 77   | 527      
 Rage Against the Machine | 82   | 489      
 Pink Floyd               | 83   | 476      
-Black Sabbath            | 85   | 468      
+Black Sabbath            | 85   | 470      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
 Marillion                | 92   | 418      
