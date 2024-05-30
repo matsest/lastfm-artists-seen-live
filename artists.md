@@ -73,7 +73,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 19   | 2154     
+Propagandhi      | 19   | 2186     
 Guided by Voices | 21   | 2145     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
@@ -108,7 +108,7 @@ Sugar                    | 32   | 1271
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 739      
+Jokke & Valentinerne     | 56   | 740      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
