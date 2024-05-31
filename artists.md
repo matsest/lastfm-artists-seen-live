@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2472     
+AC/DC                          | 13   | 2476     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 20   | 2149     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1027     
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
-Thin Lizzy                     | 46   | 880      
+Thin Lizzy                     | 46   | 881      
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 844      
 Brian Fallon                   | 49   | 818      
@@ -73,13 +73,13 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 19   | 2186     
+Propagandhi      | 19   | 2192     
 Guided by Voices | 21   | 2145     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Black Crowes | 43   | 945      
+The Black Crowes | 43   | 946      
 The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
@@ -108,7 +108,7 @@ Sugar                    | 32   | 1271
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 740      
+Jokke & Valentinerne     | 56   | 741      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
