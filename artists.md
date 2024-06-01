@@ -4,13 +4,13 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 422
 
-- Number of fetched top artists: 100 (Active: 69 Inactive: 31)
+- Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
-- Number of top artists seen live: 52 (Active: 44 Inactive: 8)
+- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
 
-- Number of top artists not seen live: 48 (Active: 25 Inactive: 23)
+- Number of top artists not seen live: 47 (Active: 25 Inactive: 22)
 
-## Top 100 artists seen live (52)
+## Top 100 artists seen live (53)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -63,9 +63,10 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 76   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Opeth                          | 94   | 410      
+Opeth                          | 95   | 410      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
+Backstreet Girls               | 100  | 384      
 
 ## Active top 100 artists not seen live (25)
 
@@ -73,13 +74,13 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 19   | 2192     
+Propagandhi      | 19   | 2193     
 Guided by Voices | 21   | 2145     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Black Crowes | 43   | 946      
+The Black Crowes | 43   | 947      
 The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
@@ -94,10 +95,10 @@ The War on Drugs | 84   | 473
 Faith No More    | 86   | 460      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
-Richard Thompson | 96   | 408      
+Richard Thompson | 93   | 414      
 Ulver            | 99   | 396      
 
-## Inactive top 100 artists not seen live (23)
+## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -121,6 +122,5 @@ Black Sabbath            | 85   | 470
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
 Marillion                | 92   | 418      
-Warren Zevon             | 93   | 413      
-Jokke med Tourettes      | 95   | 409      
-Screaming Trees          | 100  | 383      
+Warren Zevon             | 94   | 413      
+Jokke med Tourettes      | 96   | 409      
