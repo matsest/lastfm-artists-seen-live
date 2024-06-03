@@ -74,7 +74,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 19   | 2193     
+Propagandhi      | 19   | 2198     
 Guided by Voices | 21   | 2145     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
