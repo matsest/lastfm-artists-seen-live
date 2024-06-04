@@ -24,10 +24,10 @@ Motorpsycho                    | 8    | 2958
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2476     
+AC/DC                          | 13   | 2479     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
-The National                   | 20   | 2149     
+The National                   | 21   | 2149     
 johndoe                        | 23   | 2031     
 Spidergawd                     | 24   | 1788     
 Mastodon                       | 25   | 1760     
@@ -44,7 +44,7 @@ Anti-Lam Front                 | 41   | 1015
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
 Oslo Ess                       | 47   | 861      
-Tool                           | 48   | 844      
+Tool                           | 48   | 845      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 807      
 The Tallest Man on Earth       | 52   | 790      
@@ -66,7 +66,7 @@ Gojira                         | 90   | 431
 Opeth                          | 95   | 410      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
-Backstreet Girls               | 100  | 384      
+Backstreet Girls               | 100  | 385      
 
 ## Active top 100 artists not seen live (25)
 
@@ -74,8 +74,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Propagandhi      | 19   | 2198     
-Guided by Voices | 21   | 2145     
+Propagandhi      | 19   | 2199     
+Guided by Voices | 20   | 2153     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
