@@ -50,7 +50,7 @@ Sweden                         | 50   | 807
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 706      
+Japandroids                    | 57   | 724      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
