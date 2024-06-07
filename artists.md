@@ -50,7 +50,7 @@ Sweden                         | 50   | 807
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 724      
+Japandroids                    | 57   | 725      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
 The Posies                     | 63   | 657      
@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 76   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Opeth                          | 95   | 410      
+Opeth                          | 95   | 411      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
 Backstreet Girls               | 100  | 385      
