@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6140     
-Soundgarden                    | 2    | 6120     
+Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4602     
 The Gaslight Anthem            | 4    | 4490     
 DumDum Boys                    | 6    | 3035     
@@ -53,14 +53,14 @@ Thulsa Doom                    | 55   | 757
 Japandroids                    | 57   | 725      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
-The Posies                     | 63   | 657      
+The Posies                     | 64   | 657      
 Blood Command                  | 66   | 635      
 Clutch                         | 67   | 626      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
 Kylesa                         | 73   | 584      
-The Good The Bad and The Zugly | 76   | 530      
+The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
 Opeth                          | 95   | 411      
@@ -86,16 +86,16 @@ Melvins          | 51   | 797
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 59   | 696      
 Eddie Vedder     | 60   | 693      
-Hot Water Music  | 64   | 653      
+Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 78   | 506      
+The Hotelier     | 75   | 537      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 447      
 Thåström         | 88   | 437      
-Richard Thompson | 93   | 414      
+Richard Thompson | 92   | 426      
 Ulver            | 99   | 396      
 
 ## Inactive top 100 artists not seen live (22)
@@ -114,13 +114,13 @@ Audioslave               | 61   | 692
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
 Temple of the Dog        | 74   | 556      
-Paul Westerberg          | 75   | 530      
-The Beatles              | 77   | 527      
+Paul Westerberg          | 76   | 530      
+The Beatles              | 78   | 527      
 Rage Against the Machine | 82   | 489      
 Pink Floyd               | 83   | 476      
 Black Sabbath            | 85   | 470      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
-Marillion                | 92   | 418      
+Marillion                | 93   | 418      
 Warren Zevon             | 94   | 413      
 Jokke med Tourettes      | 96   | 409      
