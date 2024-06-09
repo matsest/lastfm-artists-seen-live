@@ -50,7 +50,7 @@ Sweden                         | 50   | 807
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 725      
+Japandroids                    | 57   | 726      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
 The Posies                     | 64   | 657      
@@ -74,7 +74,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
 Bob Mould        | 18   | 2229     
-Guided by Voices | 19   | 2221     
+Guided by Voices | 19   | 2222     
 Propagandhi      | 20   | 2199     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
@@ -102,10 +102,10 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3323     
+The Replacements         | 5    | 3324     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2262     
-Sugar                    | 32   | 1271     
+Sugar                    | 32   | 1272     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
