@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6140     
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4602     
-The Gaslight Anthem            | 4    | 4490     
+The Gaslight Anthem            | 4    | 4491     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2958     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 807
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 726      
+Japandroids                    | 57   | 731      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 674      
 The Posies                     | 64   | 657      
@@ -73,14 +73,14 @@ Backstreet Girls               | 100  | 385
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Bob Mould        | 18   | 2229     
-Guided by Voices | 19   | 2222     
+Guided by Voices | 18   | 2231     
+Bob Mould        | 19   | 2230     
 Propagandhi      | 20   | 2199     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1237     
-The Black Crowes | 43   | 947      
+The Black Crowes | 43   | 948      
 The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 75   | 537      
+The Hotelier     | 75   | 539      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
@@ -102,10 +102,10 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3324     
+The Replacements         | 5    | 3326     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2262     
-Sugar                    | 32   | 1272     
+Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
