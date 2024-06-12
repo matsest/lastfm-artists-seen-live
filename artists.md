@@ -23,8 +23,8 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2958     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
-Frank Turner                   | 12   | 2517     
-AC/DC                          | 13   | 2488     
+AC/DC                          | 12   | 2517     
+Frank Turner                   | 13   | 2517     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2149     
@@ -39,7 +39,7 @@ Chuck Ragan                    | 35   | 1175
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1027     
+Justin Townes Earle            | 40   | 1028     
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 75   | 539      
+The Hotelier     | 74   | 561      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
@@ -113,7 +113,7 @@ Jokke & Valentinerne     | 56   | 741
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
-Temple of the Dog        | 74   | 556      
+Temple of the Dog        | 75   | 556      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 527      
 Rage Against the Machine | 82   | 489      
