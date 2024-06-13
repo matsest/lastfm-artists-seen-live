@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2958     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
-AC/DC                          | 12   | 2517     
+AC/DC                          | 12   | 2518     
 Frank Turner                   | 13   | 2517     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 561      
+The Hotelier     | 74   | 564      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 496      
 The War on Drugs | 84   | 473      
