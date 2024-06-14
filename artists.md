@@ -20,7 +20,7 @@ Rush                           | 3    | 4602
 The Gaslight Anthem            | 4    | 4491     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2958     
+Motorpsycho                    | 8    | 2960     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 AC/DC                          | 12   | 2518     
@@ -46,7 +46,7 @@ Thin Lizzy                     | 46   | 881
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 845      
 Brian Fallon                   | 49   | 818      
-Sweden                         | 50   | 807      
+Sweden                         | 50   | 808      
 The Tallest Man on Earth       | 52   | 790      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
@@ -79,8 +79,8 @@ Propagandhi      | 20   | 2199
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
-Touché Amoré     | 33   | 1237     
-The Black Crowes | 43   | 948      
+Touché Amoré     | 33   | 1239     
+The Black Crowes | 43   | 949      
 The Hold Steady  | 45   | 905      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
@@ -88,9 +88,9 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 564      
+The Hotelier     | 74   | 565      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 496      
+Dinosaur Jr.     | 80   | 497      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 447      
