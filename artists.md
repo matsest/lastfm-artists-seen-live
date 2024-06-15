@@ -20,14 +20,14 @@ Rush                           | 3    | 4602
 The Gaslight Anthem            | 4    | 4491     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2960     
+Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
 AC/DC                          | 12   | 2518     
 Frank Turner                   | 13   | 2517     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
-The National                   | 21   | 2149     
+The National                   | 21   | 2150     
 johndoe                        | 23   | 2031     
 Spidergawd                     | 24   | 1788     
 Mastodon                       | 25   | 1760     
@@ -39,7 +39,7 @@ Chuck Ragan                    | 35   | 1175
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1028     
+Justin Townes Earle            | 40   | 1029     
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
@@ -88,14 +88,14 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 565      
+The Hotelier     | 74   | 569      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 497      
+Dinosaur Jr.     | 80   | 498      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
-Dawes            | 87   | 447      
+Dawes            | 87   | 448      
 Thåström         | 88   | 437      
-Richard Thompson | 92   | 426      
+Richard Thompson | 92   | 427      
 Ulver            | 99   | 396      
 
 ## Inactive top 100 artists not seen live (22)
