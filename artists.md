@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
-AC/DC                          | 12   | 2518     
+AC/DC                          | 12   | 2522     
 Frank Turner                   | 13   | 2517     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
@@ -44,7 +44,7 @@ Anti-Lam Front                 | 41   | 1015
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
 Oslo Ess                       | 47   | 861      
-Tool                           | 48   | 845      
+Tool                           | 48   | 846      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 808      
 The Tallest Man on Earth       | 52   | 790      
@@ -66,14 +66,14 @@ Gojira                         | 90   | 431
 Opeth                          | 95   | 411      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
-Backstreet Girls               | 100  | 385      
+Backstreet Girls               | 100  | 387      
 
 ## Active top 100 artists not seen live (25)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2231     
+Guided by Voices | 18   | 2232     
 Bob Mould        | 19   | 2230     
 Propagandhi      | 20   | 2199     
 Ryan Adams       | 22   | 2077     
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 569      
+The Hotelier     | 74   | 570      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 498      
 The War on Drugs | 84   | 473      
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 741      
+Jokke & Valentinerne     | 56   | 742      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
