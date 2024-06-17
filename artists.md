@@ -73,8 +73,8 @@ Backstreet Girls               | 100  | 387
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2232     
-Bob Mould        | 19   | 2230     
+Guided by Voices | 18   | 2234     
+Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2199     
 Ryan Adams       | 22   | 2077     
 The Menzingers   | 26   | 1634     
@@ -90,7 +90,7 @@ Hot Water Music  | 63   | 665
 Neil Young       | 65   | 639      
 The Hotelier     | 74   | 570      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 498      
+Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 448      
@@ -102,14 +102,14 @@ Ulver            | 99   | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3326     
+The Replacements         | 5    | 3329     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 15   | 2262     
 Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 742      
+Jokke & Valentinerne     | 56   | 743      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
