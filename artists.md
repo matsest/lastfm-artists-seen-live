@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2620     
-AC/DC                          | 12   | 2522     
+AC/DC                          | 12   | 2547     
 Frank Turner                   | 13   | 2517     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
@@ -66,7 +66,7 @@ Gojira                         | 90   | 431
 Opeth                          | 95   | 411      
 Swans                          | 97   | 404      
 Kaizers Orchestra              | 98   | 400      
-Backstreet Girls               | 100  | 387      
+Backstreet Girls               | 100  | 390      
 
 ## Active top 100 artists not seen live (25)
 
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 743      
+Jokke & Valentinerne     | 56   | 744      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
