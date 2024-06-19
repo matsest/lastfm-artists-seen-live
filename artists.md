@@ -63,10 +63,10 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Opeth                          | 95   | 411      
-Swans                          | 97   | 404      
-Kaizers Orchestra              | 98   | 400      
-Backstreet Girls               | 100  | 390      
+Backstreet Girls               | 94   | 415      
+Opeth                          | 96   | 411      
+Swans                          | 98   | 404      
+Kaizers Orchestra              | 99   | 400      
 
 ## Active top 100 artists not seen live (25)
 
@@ -96,7 +96,7 @@ Faith No More    | 86   | 460
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Richard Thompson | 92   | 427      
-Ulver            | 99   | 396      
+Ulver            | 100  | 396      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 744      
+Jokke & Valentinerne     | 56   | 745      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
@@ -122,5 +122,5 @@ Black Sabbath            | 85   | 470
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
 Marillion                | 93   | 418      
-Warren Zevon             | 94   | 413      
-Jokke med Tourettes      | 96   | 409      
+Warren Zevon             | 95   | 413      
+Jokke med Tourettes      | 97   | 409      
