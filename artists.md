@@ -22,9 +22,9 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
-Manic Street Preachers         | 11   | 2620     
+Manic Street Preachers         | 11   | 2621     
 AC/DC                          | 12   | 2547     
-Frank Turner                   | 13   | 2517     
+Frank Turner                   | 13   | 2518     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2150     
@@ -46,8 +46,8 @@ Thin Lizzy                     | 46   | 881
 Oslo Ess                       | 47   | 861      
 Tool                           | 48   | 846      
 Brian Fallon                   | 49   | 818      
-Sweden                         | 50   | 808      
-The Tallest Man on Earth       | 52   | 790      
+Sweden                         | 50   | 809      
+The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
 Japandroids                    | 57   | 731      
@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 94   | 415      
+Backstreet Girls               | 94   | 417      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -76,7 +76,7 @@ Alice in Chains  | 14   | 2383
 Guided by Voices | 18   | 2234     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2199     
-Ryan Adams       | 22   | 2077     
+Ryan Adams       | 22   | 2078     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 745      
+Jokke & Valentinerne     | 56   | 746      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
