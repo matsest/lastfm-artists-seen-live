@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2961
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
 AC/DC                          | 12   | 2547     
-Frank Turner                   | 13   | 2518     
+Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2150     
@@ -43,8 +43,8 @@ Justin Townes Earle            | 40   | 1029
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
-Oslo Ess                       | 47   | 861      
-Tool                           | 48   | 846      
+Oslo Ess                       | 47   | 862      
+Tool                           | 48   | 847      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 94   | 417      
+Backstreet Girls               | 93   | 419      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 570      
+The Hotelier     | 74   | 580      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 746      
+Jokke & Valentinerne     | 56   | 747      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
@@ -121,6 +121,6 @@ Pink Floyd               | 83   | 476
 Black Sabbath            | 85   | 470      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
-Marillion                | 93   | 418      
+Marillion                | 94   | 418      
 Warren Zevon             | 95   | 413      
 Jokke med Tourettes      | 97   | 409      
