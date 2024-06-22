@@ -23,12 +23,12 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2547     
+AC/DC                          | 12   | 2557     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2150     
-johndoe                        | 23   | 2031     
+johndoe                        | 23   | 2034     
 Spidergawd                     | 24   | 1788     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
@@ -52,7 +52,7 @@ Devin Townsend                 | 54   | 760
 Thulsa Doom                    | 55   | 757      
 Japandroids                    | 57   | 731      
 Jason Isbell                   | 58   | 703      
-Ghost                          | 62   | 674      
+Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
 Blood Command                  | 66   | 635      
 Clutch                         | 67   | 626      
@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 93   | 419      
+Backstreet Girls               | 93   | 420      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 747      
+Jokke & Valentinerne     | 56   | 748      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
 Big Star                 | 72   | 586      
