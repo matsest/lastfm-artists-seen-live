@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 93   | 420      
+Backstreet Girls               | 93   | 423      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
