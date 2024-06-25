@@ -28,7 +28,7 @@ Frank Turner                   | 13   | 2519
 Raga Rockers                   | 16   | 2258     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2150     
-johndoe                        | 23   | 2034     
+johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1788     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
@@ -39,12 +39,12 @@ Chuck Ragan                    | 35   | 1175
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1029     
+Justin Townes Earle            | 40   | 1030     
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
 Oslo Ess                       | 47   | 862      
-Tool                           | 48   | 847      
+Tool                           | 48   | 859      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
@@ -63,7 +63,7 @@ Kylesa                         | 73   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 93   | 423      
+Backstreet Girls               | 93   | 424      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -73,10 +73,10 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2234     
+Guided by Voices | 18   | 2235     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2199     
-Ryan Adams       | 22   | 2078     
+Ryan Adams       | 22   | 2079     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 639      
-The Hotelier     | 74   | 580      
+The Hotelier     | 74   | 581      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
