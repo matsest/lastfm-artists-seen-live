@@ -25,7 +25,7 @@ Bruce Springsteen              | 10   | 2785
 Manic Street Preachers         | 11   | 2621     
 AC/DC                          | 12   | 2557     
 Frank Turner                   | 13   | 2519     
-Raga Rockers                   | 16   | 2258     
+Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
 The National                   | 21   | 2150     
 johndoe                        | 23   | 2035     
@@ -44,7 +44,7 @@ Anti-Lam Front                 | 41   | 1015
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
 Oslo Ess                       | 47   | 862      
-Tool                           | 48   | 859      
+Tool                           | 48   | 860      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2235     
+Guided by Voices | 18   | 2236     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2199     
 Ryan Adams       | 22   | 2079     
@@ -102,9 +102,9 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3329     
+The Replacements         | 5    | 3330     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 15   | 2262     
+The Who                  | 16   | 2262     
 Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
