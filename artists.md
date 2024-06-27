@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 422
+- Number of artists seen live in total: 429
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2557     
+AC/DC                          | 12   | 2560     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
@@ -80,14 +80,14 @@ Ryan Adams       | 22   | 2079
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
-The Black Crowes | 43   | 949      
-The Hold Steady  | 45   | 905      
+The Black Crowes | 43   | 950      
+The Hold Steady  | 45   | 907      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 59   | 696      
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
-Neil Young       | 65   | 639      
+Neil Young       | 65   | 640      
 The Hotelier     | 74   | 581      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
@@ -104,7 +104,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3330     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 16   | 2262     
+The Who                  | 16   | 2263     
 Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
