@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2560     
+AC/DC                          | 12   | 2566     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
@@ -43,8 +43,8 @@ Justin Townes Earle            | 40   | 1030
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
-Oslo Ess                       | 47   | 862      
-Tool                           | 48   | 860      
+Tool                           | 47   | 867      
+Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
@@ -75,7 +75,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2383     
 Guided by Voices | 18   | 2236     
 Bob Mould        | 19   | 2231     
-Propagandhi      | 20   | 2199     
+Propagandhi      | 20   | 2212     
 Ryan Adams       | 22   | 2079     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
