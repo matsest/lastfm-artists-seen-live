@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 429
+- Number of artists seen live in total: 431
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -43,7 +43,7 @@ Justin Townes Earle            | 40   | 1030
 Anti-Lam Front                 | 41   | 1015     
 Pappasaft                      | 44   | 927      
 Thin Lizzy                     | 46   | 881      
-Tool                           | 47   | 867      
+Tool                           | 47   | 868      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
@@ -75,7 +75,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2383     
 Guided by Voices | 18   | 2236     
 Bob Mould        | 19   | 2231     
-Propagandhi      | 20   | 2212     
+Propagandhi      | 20   | 2213     
 Ryan Adams       | 22   | 2079     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
