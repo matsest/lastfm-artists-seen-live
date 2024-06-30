@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 431
+- Number of artists seen live in total: 438
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2566     
+AC/DC                          | 12   | 2574     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
