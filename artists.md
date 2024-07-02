@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2961     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2577     
+AC/DC                          | 12   | 2578     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
@@ -40,8 +40,8 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1030     
-Anti-Lam Front                 | 41   | 1015     
-Pappasaft                      | 44   | 927      
+Anti-Lam Front                 | 41   | 1016     
+Pappasaft                      | 44   | 928      
 Thin Lizzy                     | 46   | 881      
 Tool                           | 47   | 868      
 Oslo Ess                       | 48   | 862      
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 731      
+Japandroids                    | 57   | 732      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -73,10 +73,10 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2236     
+Guided by Voices | 18   | 2237     
 Bob Mould        | 19   | 2231     
-Propagandhi      | 20   | 2213     
-Ryan Adams       | 22   | 2079     
+Propagandhi      | 20   | 2216     
+Ryan Adams       | 22   | 2081     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 693      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
-The Hotelier     | 74   | 581      
+The Hotelier     | 74   | 582      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3330     
+The Replacements         | 5    | 3332     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 16   | 2263     
 Sugar                    | 32   | 1273     
