@@ -20,7 +20,7 @@ Rush                           | 3    | 4602
 The Gaslight Anthem            | 4    | 4491     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2961     
+Motorpsycho                    | 8    | 2962     
 Bruce Springsteen              | 10   | 2785     
 Manic Street Preachers         | 11   | 2621     
 AC/DC                          | 12   | 2596     
@@ -85,7 +85,7 @@ The Hold Steady  | 45   | 907
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 780      
 Afghan Whigs     | 59   | 696      
-Eddie Vedder     | 60   | 693      
+Eddie Vedder     | 60   | 694      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
 The Hotelier     | 74   | 582      
