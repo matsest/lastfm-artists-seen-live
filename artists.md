@@ -17,7 +17,7 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6140     
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4602     
-The Gaslight Anthem            | 4    | 4491     
+The Gaslight Anthem            | 4    | 4492     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2962     
@@ -59,7 +59,7 @@ Clutch                         | 67   | 626
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
 Spielbergs                     | 71   | 603      
-Kylesa                         | 73   | 584      
+Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2237     
+Guided by Voices | 18   | 2238     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2081     
@@ -88,7 +88,7 @@ Afghan Whigs     | 59   | 696
 Eddie Vedder     | 60   | 694      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
-The Hotelier     | 74   | 582      
+The Hotelier     | 72   | 593      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
@@ -112,7 +112,7 @@ Fugazi                   | 42   | 993
 Jokke & Valentinerne     | 56   | 748      
 Audioslave               | 61   | 692      
 Foo Fighters             | 70   | 607      
-Big Star                 | 72   | 586      
+Big Star                 | 73   | 586      
 Temple of the Dog        | 75   | 556      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 527      
