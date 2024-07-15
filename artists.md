@@ -14,7 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6140     
+Pearl Jam                      | 1    | 6142     
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4602     
 The Gaslight Anthem            | 4    | 4492     
@@ -22,8 +22,8 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2962     
 Bruce Springsteen              | 10   | 2785     
-Manic Street Preachers         | 11   | 2621     
-AC/DC                          | 12   | 2605     
+AC/DC                          | 11   | 2621     
+Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 17   | 2239     
@@ -58,7 +58,7 @@ Blood Command                  | 66   | 635
 Clutch                         | 67   | 626      
 Devin Townsend Project         | 68   | 608      
 Dropkick Murphys               | 69   | 608      
-Spielbergs                     | 71   | 603      
+Spielbergs                     | 72   | 603      
 Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2238     
+Guided by Voices | 18   | 2239     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2081     
@@ -83,12 +83,12 @@ Touché Amoré     | 33   | 1239
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 907      
 Melvins          | 51   | 797      
-Bob Dylan        | 53   | 780      
-Afghan Whigs     | 59   | 696      
-Eddie Vedder     | 60   | 694      
+Bob Dylan        | 53   | 782      
+Eddie Vedder     | 59   | 698      
+Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
-The Hotelier     | 72   | 593      
+The Hotelier     | 70   | 608      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 56   | 748      
 Audioslave               | 61   | 692      
-Foo Fighters             | 70   | 607      
+Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 586      
 Temple of the Dog        | 75   | 556      
 Paul Westerberg          | 76   | 530      
