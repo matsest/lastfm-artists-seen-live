@@ -22,11 +22,11 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2962     
 Bruce Springsteen              | 10   | 2785     
-AC/DC                          | 11   | 2621     
+AC/DC                          | 11   | 2648     
 Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
-Chris Cornell                  | 17   | 2239     
+Chris Cornell                  | 18   | 2239     
 The National                   | 21   | 2150     
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1788     
@@ -73,10 +73,10 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 18   | 2239     
+Guided by Voices | 17   | 2240     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
-Ryan Adams       | 22   | 2081     
+Ryan Adams       | 22   | 2082     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
@@ -84,7 +84,7 @@ The Black Crowes | 43   | 950
 The Hold Steady  | 45   | 907      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 782      
-Eddie Vedder     | 59   | 698      
+Eddie Vedder     | 59   | 699      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
