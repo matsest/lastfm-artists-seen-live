@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2962     
 Bruce Springsteen              | 10   | 2785     
-AC/DC                          | 11   | 2648     
+AC/DC                          | 11   | 2649     
 Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
@@ -33,13 +33,13 @@ Spidergawd                     | 24   | 1788
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1570     
 Mark Lanegan                   | 29   | 1501     
-Baroness                       | 30   | 1358     
-Kvelertak                      | 31   | 1327     
+Baroness                       | 30   | 1359     
+Kvelertak                      | 31   | 1328     
 Chuck Ragan                    | 35   | 1175     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1030     
+Justin Townes Earle            | 40   | 1031     
 Anti-Lam Front                 | 41   | 1016     
 Pappasaft                      | 44   | 928      
 Thin Lizzy                     | 46   | 881      
@@ -55,9 +55,9 @@ Jason Isbell                   | 58   | 703
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
 Blood Command                  | 66   | 635      
-Clutch                         | 67   | 626      
-Devin Townsend Project         | 68   | 608      
-Dropkick Murphys               | 69   | 608      
+Clutch                         | 68   | 626      
+Devin Townsend Project         | 69   | 608      
+Dropkick Murphys               | 70   | 608      
 Spielbergs                     | 72   | 603      
 Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
@@ -88,7 +88,7 @@ Eddie Vedder     | 59   | 699
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
-The Hotelier     | 70   | 608      
+The Hotelier     | 67   | 630      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 499      
 The War on Drugs | 84   | 473      
