@@ -17,10 +17,10 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6142     
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4602     
-The Gaslight Anthem            | 4    | 4492     
+The Gaslight Anthem            | 4    | 4507     
 DumDum Boys                    | 6    | 3035     
 Against Me!                    | 7    | 2990     
-Motorpsycho                    | 8    | 2962     
+Motorpsycho                    | 8    | 2970     
 Bruce Springsteen              | 10   | 2785     
 AC/DC                          | 11   | 2649     
 Manic Street Preachers         | 12   | 2621     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 732      
+Japandroids                    | 57   | 741      
 Jason Isbell                   | 58   | 703      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2240     
+Guided by Voices | 17   | 2244     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2082     
@@ -81,7 +81,7 @@ The Menzingers   | 26   | 1634
 Weezer           | 28   | 1570     
 Touché Amoré     | 33   | 1239     
 The Black Crowes | 43   | 950      
-The Hold Steady  | 45   | 907      
+The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
 Bob Dylan        | 53   | 782      
 Eddie Vedder     | 59   | 699      
@@ -90,7 +90,7 @@ Hot Water Music  | 63   | 665
 Neil Young       | 65   | 640      
 The Hotelier     | 67   | 630      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 499      
+Dinosaur Jr.     | 80   | 500      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 448      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3332     
+The Replacements         | 5    | 3338     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 16   | 2263     
 Sugar                    | 32   | 1273     
@@ -112,7 +112,7 @@ Fugazi                   | 42   | 993
 Jokke & Valentinerne     | 56   | 748      
 Audioslave               | 61   | 692      
 Foo Fighters             | 71   | 607      
-Big Star                 | 73   | 586      
+Big Star                 | 73   | 587      
 Temple of the Dog        | 75   | 556      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 527      
