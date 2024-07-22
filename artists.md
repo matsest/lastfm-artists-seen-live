@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2970     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2695     
+AC/DC                          | 11   | 2709     
 Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
