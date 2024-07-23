@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2970     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2709     
+AC/DC                          | 11   | 2710     
 Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2244     
+Guided by Voices | 17   | 2249     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2083     
@@ -88,7 +88,7 @@ Eddie Vedder     | 59   | 700
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 Neil Young       | 65   | 640      
-The Hotelier     | 67   | 630      
+The Hotelier     | 67   | 631      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 500      
 The War on Drugs | 84   | 473      
