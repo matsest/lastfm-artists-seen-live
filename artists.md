@@ -50,11 +50,11 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 741      
+Japandroids                    | 57   | 742      
 Jason Isbell                   | 58   | 707      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
-Blood Command                  | 66   | 635      
+Blood Command                  | 67   | 635      
 Clutch                         | 68   | 626      
 Devin Townsend Project         | 69   | 608      
 Dropkick Murphys               | 70   | 608      
@@ -73,13 +73,13 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2249     
+Guided by Voices | 17   | 2250     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2083     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1570     
-Touché Amoré     | 33   | 1239     
+Touché Amoré     | 33   | 1240     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
@@ -87,8 +87,8 @@ Bob Dylan        | 53   | 784
 Eddie Vedder     | 59   | 700      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
-Neil Young       | 65   | 640      
-The Hotelier     | 67   | 631      
+The Hotelier     | 65   | 649      
+Neil Young       | 66   | 640      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 500      
 The War on Drugs | 84   | 473      
