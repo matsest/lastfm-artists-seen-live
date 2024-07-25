@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3035
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2970     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2710     
+AC/DC                          | 11   | 2735     
 Manic Street Preachers         | 12   | 2621     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 742      
+Japandroids                    | 57   | 743      
 Jason Isbell                   | 58   | 707      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2250     
+Guided by Voices | 17   | 2251     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2083     
