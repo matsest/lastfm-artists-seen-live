@@ -16,14 +16,14 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6142     
 Soundgarden                    | 2    | 6121     
-Rush                           | 3    | 4603     
+Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3035     
+DumDum Boys                    | 6    | 3036     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2741     
-Manic Street Preachers         | 12   | 2621     
+AC/DC                          | 11   | 2755     
+Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2309     
 Chris Cornell                  | 18   | 2239     
@@ -109,7 +109,7 @@ Sugar                    | 32   | 1273
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 748      
+Jokke & Valentinerne     | 56   | 749      
 Audioslave               | 61   | 692      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
@@ -123,4 +123,4 @@ The Twilight Singers     | 89   | 433
 The Band                 | 91   | 430      
 Marillion                | 94   | 418      
 Warren Zevon             | 95   | 413      
-Jokke med Tourettes      | 97   | 409      
+Jokke med Tourettes      | 97   | 410      
