@@ -18,11 +18,11 @@ Pearl Jam                      | 1    | 6142
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3055     
+DumDum Boys                    | 6    | 3061     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2758     
+AC/DC                          | 11   | 2759     
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2310     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2252     
+Guided by Voices | 17   | 2254     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2084     
