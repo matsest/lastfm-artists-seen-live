@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6142
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3061     
+DumDum Boys                    | 6    | 3062     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2786     
@@ -31,7 +31,7 @@ The National                   | 21   | 2150
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1790     
 Mastodon                       | 25   | 1760     
-The Smashing Pumpkins          | 27   | 1570     
+The Smashing Pumpkins          | 27   | 1594     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 57   | 743      
+Japandroids                    | 56   | 751      
 Jason Isbell                   | 58   | 707      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -102,14 +102,14 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3339     
+The Replacements         | 5    | 3340     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 16   | 2263     
 Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 56   | 749      
+Jokke & Valentinerne     | 57   | 749      
 Audioslave               | 61   | 692      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
