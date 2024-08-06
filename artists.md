@@ -31,7 +31,7 @@ The National                   | 21   | 2150
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1790     
 Mastodon                       | 25   | 1760     
-The Smashing Pumpkins          | 27   | 1594     
+The Smashing Pumpkins          | 27   | 1598     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Devin Townsend                 | 54   | 760      
 Thulsa Doom                    | 55   | 757      
-Japandroids                    | 56   | 751      
+Japandroids                    | 56   | 753      
 Jason Isbell                   | 58   | 707      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2254     
+Guided by Voices | 17   | 2255     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2084     
@@ -104,7 +104,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3340     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 16   | 2263     
+The Who                  | 16   | 2264     
 Sugar                    | 32   | 1273     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
