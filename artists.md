@@ -48,9 +48,9 @@ Oslo Ess                       | 48   | 862
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Devin Townsend                 | 54   | 760      
-Thulsa Doom                    | 55   | 757      
-Japandroids                    | 56   | 753      
+Japandroids                    | 54   | 768      
+Devin Townsend                 | 55   | 760      
+Thulsa Doom                    | 56   | 757      
 Jason Isbell                   | 58   | 707      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
