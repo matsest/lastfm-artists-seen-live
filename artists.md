@@ -18,11 +18,11 @@ Pearl Jam                      | 1    | 6142
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3062     
+DumDum Boys                    | 6    | 3091     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2786     
-AC/DC                          | 11   | 2759     
+AC/DC                          | 11   | 2762     
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2519     
 Raga Rockers                   | 15   | 2310     
@@ -48,7 +48,7 @@ Oslo Ess                       | 48   | 862
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 768      
+Japandroids                    | 54   | 769      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 757      
 Jason Isbell                   | 58   | 707      
