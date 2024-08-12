@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6142
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3091     
+DumDum Boys                    | 6    | 3092     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2786     
@@ -78,8 +78,8 @@ Bob Mould        | 19   | 2231
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2084     
 The Menzingers   | 26   | 1634     
-Weezer           | 28   | 1570     
-Touché Amoré     | 33   | 1240     
+Weezer           | 28   | 1571     
+Touché Amoré     | 33   | 1241     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
@@ -87,7 +87,7 @@ Bob Dylan        | 53   | 784
 Eddie Vedder     | 59   | 700      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
-The Hotelier     | 65   | 649      
+The Hotelier     | 65   | 651      
 Neil Young       | 66   | 640      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 500      
