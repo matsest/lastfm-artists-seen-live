@@ -14,14 +14,14 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6142     
+Pearl Jam                      | 1    | 6143     
 Soundgarden                    | 2    | 6121     
 Rush                           | 3    | 4605     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3092     
+DumDum Boys                    | 6    | 3098     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2786     
+Bruce Springsteen              | 10   | 2805     
 AC/DC                          | 11   | 2762     
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2519     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2255     
+Guided by Voices | 17   | 2256     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2084     
@@ -87,10 +87,10 @@ Bob Dylan        | 53   | 784
 Eddie Vedder     | 59   | 700      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
-The Hotelier     | 65   | 651      
+The Hotelier     | 65   | 652      
 Neil Young       | 66   | 640      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 500      
+Dinosaur Jr.     | 80   | 501      
 The War on Drugs | 84   | 473      
 Faith No More    | 86   | 460      
 Dawes            | 87   | 448      
