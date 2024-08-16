@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6144     
 Soundgarden                    | 2    | 6121     
-Rush                           | 3    | 4605     
+Rush                           | 3    | 4606     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 2990     
@@ -24,7 +24,7 @@ Motorpsycho                    | 8    | 2971
 Bruce Springsteen              | 10   | 2807     
 AC/DC                          | 11   | 2762     
 Manic Street Preachers         | 12   | 2622     
-Frank Turner                   | 13   | 2519     
+Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2310     
 Chris Cornell                  | 18   | 2239     
 The National                   | 21   | 2150     
@@ -48,7 +48,7 @@ Oslo Ess                       | 48   | 862
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 771      
+Japandroids                    | 54   | 772      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 757      
 Jason Isbell                   | 58   | 707      
@@ -63,7 +63,7 @@ Kylesa                         | 74   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 93   | 424      
+Backstreet Girls               | 93   | 425      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -73,13 +73,13 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2383     
-Guided by Voices | 17   | 2258     
+Guided by Voices | 17   | 2259     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2084     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1243     
+Touché Amoré     | 33   | 1244     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
