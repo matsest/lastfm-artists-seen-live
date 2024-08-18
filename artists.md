@@ -21,8 +21,8 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2808     
-AC/DC                          | 11   | 2762     
+Bruce Springsteen              | 10   | 2809     
+AC/DC                          | 11   | 2786     
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2310     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1056
 Justin Townes Earle            | 40   | 1034     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 928      
-Thin Lizzy                     | 46   | 882      
+Thin Lizzy                     | 46   | 884      
 Tool                           | 47   | 871      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
@@ -63,7 +63,7 @@ Kylesa                         | 74   | 584
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
 Gojira                         | 90   | 431      
-Backstreet Girls               | 93   | 425      
+Backstreet Girls               | 93   | 426      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
 Kaizers Orchestra              | 99   | 400      
@@ -76,7 +76,7 @@ Alice in Chains  | 14   | 2385
 Guided by Voices | 17   | 2260     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
-Ryan Adams       | 22   | 2091     
+Ryan Adams       | 22   | 2092     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1245     
@@ -88,7 +88,7 @@ Eddie Vedder     | 59   | 701
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 641      
+Neil Young       | 66   | 642      
 Yes              | 79   | 504      
 Dinosaur Jr.     | 80   | 501      
 The War on Drugs | 85   | 473      
@@ -105,7 +105,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3341     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 16   | 2264     
-Sugar                    | 32   | 1273     
+Sugar                    | 32   | 1274     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
