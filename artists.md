@@ -16,34 +16,34 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
 Soundgarden                    | 2    | 6121     
-Rush                           | 3    | 4607     
+Rush                           | 3    | 4608     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2809     
-AC/DC                          | 11   | 2787     
+Bruce Springsteen              | 10   | 2810     
+AC/DC                          | 11   | 2788     
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2310     
 Chris Cornell                  | 18   | 2239     
 The National                   | 21   | 2150     
 johndoe                        | 23   | 2035     
-Spidergawd                     | 24   | 1790     
+Spidergawd                     | 24   | 1792     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1601     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
-Chuck Ragan                    | 35   | 1177     
+Chuck Ragan                    | 35   | 1178     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1034     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 928      
-Thin Lizzy                     | 46   | 884      
-Tool                           | 47   | 871      
+Thin Lizzy                     | 46   | 885      
+Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
@@ -73,13 +73,13 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 17   | 2260     
+Guided by Voices | 16   | 2283     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2092     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1245     
+Touché Amoré     | 33   | 1246     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
@@ -88,9 +88,9 @@ Eddie Vedder     | 59   | 701
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 642      
+Neil Young       | 66   | 643      
 Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 501      
+Dinosaur Jr.     | 80   | 502      
 The War on Drugs | 85   | 473      
 Faith No More    | 86   | 461      
 Dawes            | 87   | 448      
@@ -102,9 +102,9 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3341     
+The Replacements         | 5    | 3342     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 16   | 2264     
+The Who                  | 17   | 2265     
 Sugar                    | 32   | 1274     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
