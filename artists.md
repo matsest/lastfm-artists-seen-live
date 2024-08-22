@@ -29,7 +29,7 @@ Raga Rockers                   | 16   | 2310
 Chris Cornell                  | 18   | 2239     
 The National                   | 21   | 2150     
 johndoe                        | 23   | 2035     
-Spidergawd                     | 24   | 1792     
+Spidergawd                     | 24   | 1800     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1601     
 Mark Lanegan                   | 29   | 1501     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 15   | 2320     
+Guided by Voices | 15   | 2322     
 Bob Mould        | 19   | 2231     
 Propagandhi      | 20   | 2216     
 Ryan Adams       | 22   | 2092     
