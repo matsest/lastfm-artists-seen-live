@@ -26,7 +26,7 @@ AC/DC                          | 11   | 2788
 Manic Street Preachers         | 12   | 2622     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2310     
-Chris Cornell                  | 18   | 2239     
+Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2150     
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1800     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1034     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 44   | 928      
+Pappasaft                      | 44   | 929      
 Thin Lizzy                     | 46   | 885      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 862      
@@ -73,9 +73,9 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 15   | 2322     
-Bob Mould        | 19   | 2231     
-Propagandhi      | 20   | 2216     
+Guided by Voices | 15   | 2333     
+Propagandhi      | 17   | 2293     
+Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2092     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
@@ -104,7 +104,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3342     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 17   | 2265     
+The Who                  | 18   | 2265     
 Sugar                    | 32   | 1274     
 The Horrible Crowes      | 34   | 1179     
 Genesis                  | 38   | 1067     
