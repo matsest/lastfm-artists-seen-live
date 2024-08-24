@@ -31,7 +31,7 @@ The National                   | 21   | 2150
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1800     
 Mastodon                       | 25   | 1760     
-The Smashing Pumpkins          | 27   | 1601     
+The Smashing Pumpkins          | 27   | 1602     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
@@ -41,14 +41,14 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1056     
 Justin Townes Earle            | 40   | 1034     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 44   | 929      
-Thin Lizzy                     | 46   | 885      
+Pappasaft                      | 44   | 930      
+Thin Lizzy                     | 46   | 886      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 773      
+Japandroids                    | 54   | 774      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 757      
 Jason Isbell                   | 58   | 708      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 15   | 2333     
+Guided by Voices | 15   | 2336     
 Propagandhi      | 17   | 2293     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2092     
@@ -88,9 +88,9 @@ Eddie Vedder     | 59   | 701
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 643      
-Yes              | 79   | 504      
-Dinosaur Jr.     | 80   | 502      
+Neil Young       | 66   | 644      
+Yes              | 79   | 505      
+Dinosaur Jr.     | 80   | 503      
 The War on Drugs | 85   | 473      
 Faith No More    | 86   | 461      
 Dawes            | 87   | 448      
