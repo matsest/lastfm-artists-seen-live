@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
-Soundgarden                    | 2    | 6121     
+Soundgarden                    | 2    | 6122     
 Rush                           | 3    | 4610     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
@@ -27,11 +27,11 @@ Manic Street Preachers         | 12   | 2623
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2310     
 Chris Cornell                  | 19   | 2239     
-The National                   | 21   | 2150     
+The National                   | 21   | 2151     
 johndoe                        | 23   | 2035     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
-The Smashing Pumpkins          | 27   | 1602     
+The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 15   | 2337     
+Guided by Voices | 15   | 2339     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2092     
@@ -83,16 +83,16 @@ Touché Amoré     | 33   | 1246
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
-Bob Dylan        | 53   | 784      
-Eddie Vedder     | 59   | 701      
+Bob Dylan        | 53   | 786      
+Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 644      
+Neil Young       | 66   | 645      
 Yes              | 79   | 505      
 Dinosaur Jr.     | 80   | 503      
-The War on Drugs | 85   | 473      
-Faith No More    | 86   | 461      
+The War on Drugs | 84   | 475      
+Faith No More    | 86   | 462      
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Richard Thompson | 92   | 427      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3344     
+The Replacements         | 5    | 3345     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2266     
 Sugar                    | 32   | 1274     
@@ -115,10 +115,10 @@ Foo Fighters             | 71   | 607
 Big Star                 | 73   | 587      
 Temple of the Dog        | 75   | 556      
 Paul Westerberg          | 76   | 530      
-The Beatles              | 78   | 527      
+The Beatles              | 78   | 528      
 Rage Against the Machine | 82   | 490      
 Pink Floyd               | 83   | 477      
-Black Sabbath            | 84   | 473      
+Black Sabbath            | 85   | 473      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
 Marillion                | 94   | 418      
