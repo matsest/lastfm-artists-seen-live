@@ -48,7 +48,7 @@ Oslo Ess                       | 48   | 862
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 775      
+Japandroids                    | 54   | 776      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 757      
 Jason Isbell                   | 58   | 708      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2385     
-Guided by Voices | 15   | 2339     
+Guided by Voices | 15   | 2340     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2092     
@@ -90,7 +90,7 @@ Hot Water Music  | 63   | 665
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 645      
 Yes              | 79   | 505      
-Dinosaur Jr.     | 80   | 503      
+Dinosaur Jr.     | 80   | 504      
 The War on Drugs | 84   | 475      
 Faith No More    | 86   | 462      
 Dawes            | 87   | 448      
