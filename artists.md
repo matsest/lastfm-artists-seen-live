@@ -16,12 +16,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
 Soundgarden                    | 2    | 6122     
-Rush                           | 3    | 4610     
+Rush                           | 3    | 4613     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2810     
+Bruce Springsteen              | 10   | 2813     
 AC/DC                          | 11   | 2789     
 Manic Street Preachers         | 12   | 2623     
 Frank Turner                   | 13   | 2525     
@@ -39,7 +39,7 @@ Chuck Ragan                    | 35   | 1178
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
-Justin Townes Earle            | 40   | 1034     
+Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 930      
 Thin Lizzy                     | 46   | 889      
@@ -76,7 +76,7 @@ Alice in Chains  | 14   | 2385
 Guided by Voices | 15   | 2340     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
-Ryan Adams       | 22   | 2092     
+Ryan Adams       | 22   | 2094     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1246     
