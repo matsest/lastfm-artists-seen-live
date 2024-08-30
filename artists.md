@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
-Soundgarden                    | 2    | 6122     
+Soundgarden                    | 2    | 6123     
 Rush                           | 3    | 4613     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2813     
 AC/DC                          | 11   | 2789     
-Manic Street Preachers         | 12   | 2623     
+Manic Street Preachers         | 12   | 2624     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2310     
 Chris Cornell                  | 19   | 2239     
@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1604
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
-Chuck Ragan                    | 35   | 1178     
+Chuck Ragan                    | 34   | 1196     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1056     
@@ -50,7 +50,7 @@ Sweden                         | 50   | 809
 The Tallest Man on Earth       | 52   | 791      
 Japandroids                    | 54   | 776      
 Devin Townsend                 | 55   | 760      
-Thulsa Doom                    | 56   | 757      
+Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
@@ -72,14 +72,14 @@ Kaizers Orchestra              | 99   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2385     
+Alice in Chains  | 14   | 2386     
 Guided by Voices | 15   | 2340     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
-Ryan Adams       | 22   | 2094     
+Ryan Adams       | 22   | 2095     
 The Menzingers   | 26   | 1634     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1246     
+Touché Amoré     | 33   | 1247     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
@@ -106,7 +106,7 @@ The Replacements         | 5    | 3345
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2266     
 Sugar                    | 32   | 1274     
-The Horrible Crowes      | 34   | 1179     
+The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 57   | 750      
@@ -118,7 +118,7 @@ Paul Westerberg          | 76   | 530
 The Beatles              | 78   | 528      
 Rage Against the Machine | 82   | 490      
 Pink Floyd               | 83   | 477      
-Black Sabbath            | 85   | 473      
+Black Sabbath            | 85   | 474      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 430      
 Marillion                | 94   | 418      
