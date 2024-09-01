@@ -15,7 +15,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
-Soundgarden                    | 2    | 6123     
+Soundgarden                    | 2    | 6126     
 Rush                           | 3    | 4613     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
@@ -23,7 +23,7 @@ Against Me!                    | 7    | 2990
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2813     
 AC/DC                          | 11   | 2789     
-Manic Street Preachers         | 12   | 2624     
+Manic Street Preachers         | 12   | 2629     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2310     
 Chris Cornell                  | 19   | 2239     
@@ -38,7 +38,7 @@ Kvelertak                      | 31   | 1328
 Chuck Ragan                    | 34   | 1196     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
-Stein Torleif Bjella           | 39   | 1056     
+Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 930      
@@ -62,7 +62,7 @@ Spielbergs                     | 72   | 603
 Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 81   | 490      
-Gojira                         | 90   | 431      
+Gojira                         | 90   | 432      
 Backstreet Girls               | 93   | 426      
 Opeth                          | 96   | 411      
 Swans                          | 98   | 404      
@@ -73,11 +73,11 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2386     
-Guided by Voices | 15   | 2340     
+Guided by Voices | 15   | 2344     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2095     
-The Menzingers   | 26   | 1634     
+The Menzingers   | 26   | 1635     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1247     
 The Black Crowes | 43   | 950      
@@ -113,7 +113,7 @@ Jokke & Valentinerne     | 57   | 750
 Audioslave               | 61   | 692      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
-Temple of the Dog        | 75   | 556      
+Temple of the Dog        | 75   | 559      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 528      
 Rage Against the Machine | 82   | 490      
