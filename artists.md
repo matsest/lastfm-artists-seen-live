@@ -28,7 +28,7 @@ Frank Turner                   | 13   | 2525
 Raga Rockers                   | 16   | 2315     
 Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2151     
-johndoe                        | 23   | 2047     
+johndoe                        | 23   | 2065     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1604     
