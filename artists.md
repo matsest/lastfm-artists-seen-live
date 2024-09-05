@@ -21,7 +21,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 2990     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2813     
+Bruce Springsteen              | 10   | 2817     
 AC/DC                          | 11   | 2795     
 Manic Street Preachers         | 12   | 2629     
 Frank Turner                   | 13   | 2525     
@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1604
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
-Chuck Ragan                    | 34   | 1196     
+Chuck Ragan                    | 34   | 1216     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1057     
@@ -48,7 +48,7 @@ Oslo Ess                       | 48   | 862
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 776      
+Japandroids                    | 54   | 777      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
@@ -73,10 +73,10 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2386     
-Guided by Voices | 15   | 2344     
+Guided by Voices | 15   | 2345     
 Propagandhi      | 17   | 2295     
 Bob Mould        | 20   | 2231     
-Ryan Adams       | 22   | 2095     
+Ryan Adams       | 22   | 2096     
 The Menzingers   | 26   | 1635     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1247     
