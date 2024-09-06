@@ -19,7 +19,7 @@ Soundgarden                    | 2    | 6126
 Rush                           | 3    | 4618     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
-Against Me!                    | 7    | 2990     
+Against Me!                    | 7    | 3000     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2817     
 AC/DC                          | 11   | 2795     
@@ -28,7 +28,7 @@ Frank Turner                   | 13   | 2525
 Raga Rockers                   | 16   | 2315     
 Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2151     
-johndoe                        | 23   | 2065     
+johndoe                        | 23   | 2080     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1604     
@@ -79,7 +79,7 @@ Bob Mould        | 20   | 2231
 Ryan Adams       | 22   | 2096     
 The Menzingers   | 26   | 1635     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1247     
+Touché Amoré     | 33   | 1248     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
