@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 445
+- Number of artists seen live in total: 446
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -15,20 +15,20 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
-Soundgarden                    | 2    | 6126     
+Soundgarden                    | 2    | 6127     
 Rush                           | 3    | 4618     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 3000     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2817     
+Bruce Springsteen              | 10   | 2818     
 AC/DC                          | 11   | 2795     
-Manic Street Preachers         | 12   | 2629     
+Manic Street Preachers         | 12   | 2630     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2315     
 Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2151     
-johndoe                        | 23   | 2080     
+johndoe                        | 23   | 2090     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1604     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 930      
-Thin Lizzy                     | 46   | 889      
+Thin Lizzy                     | 46   | 890      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
@@ -73,8 +73,8 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2386     
-Guided by Voices | 15   | 2345     
-Propagandhi      | 17   | 2295     
+Guided by Voices | 15   | 2347     
+Propagandhi      | 17   | 2300     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 22   | 2096     
 The Menzingers   | 26   | 1635     
@@ -89,8 +89,8 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 645      
-Yes              | 79   | 505      
-Dinosaur Jr.     | 80   | 504      
+Dinosaur Jr.     | 79   | 505      
+Yes              | 80   | 505      
 The War on Drugs | 84   | 475      
 Faith No More    | 86   | 462      
 Dawes            | 87   | 448      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3345     
+The Replacements         | 5    | 3346     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2266     
 Sugar                    | 32   | 1274     
@@ -110,7 +110,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
 Jokke & Valentinerne     | 57   | 750      
-Audioslave               | 61   | 692      
+Audioslave               | 61   | 693      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
 Temple of the Dog        | 75   | 559      
