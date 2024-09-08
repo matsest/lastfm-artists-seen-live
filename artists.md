@@ -28,7 +28,7 @@ Frank Turner                   | 13   | 2525
 Raga Rockers                   | 16   | 2315     
 Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2151     
-johndoe                        | 23   | 2090     
+johndoe                        | 22   | 2130     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1604     
@@ -74,9 +74,9 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2386     
 Guided by Voices | 15   | 2347     
-Propagandhi      | 17   | 2300     
+Propagandhi      | 17   | 2301     
 Bob Mould        | 20   | 2231     
-Ryan Adams       | 22   | 2096     
+Ryan Adams       | 23   | 2096     
 The Menzingers   | 26   | 1635     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1248     
