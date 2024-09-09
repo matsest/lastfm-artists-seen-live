@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 446
+- Number of artists seen live in total: 447
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
