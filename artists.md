@@ -19,16 +19,16 @@ Soundgarden                    | 2    | 6127
 Rush                           | 3    | 4618     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
-Against Me!                    | 7    | 3000     
+Against Me!                    | 7    | 3002     
 Motorpsycho                    | 8    | 2971     
 Bruce Springsteen              | 10   | 2818     
 AC/DC                          | 11   | 2795     
-Manic Street Preachers         | 12   | 2630     
+Manic Street Preachers         | 12   | 2631     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2315     
 Chris Cornell                  | 19   | 2239     
 The National                   | 21   | 2151     
-johndoe                        | 22   | 2130     
+johndoe                        | 22   | 2132     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
 The Smashing Pumpkins          | 27   | 1604     
@@ -73,11 +73,11 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2386     
-Guided by Voices | 15   | 2347     
-Propagandhi      | 17   | 2301     
+Guided by Voices | 15   | 2348     
+Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2096     
-The Menzingers   | 26   | 1635     
+The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1248     
 The Black Crowes | 43   | 950      
@@ -89,7 +89,7 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 645      
-Dinosaur Jr.     | 79   | 505      
+Dinosaur Jr.     | 79   | 506      
 Yes              | 80   | 505      
 The War on Drugs | 84   | 475      
 Faith No More    | 86   | 462      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3346     
+The Replacements         | 5    | 3347     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2266     
 Sugar                    | 32   | 1274     
