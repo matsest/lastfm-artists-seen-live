@@ -21,13 +21,13 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3107     
 Against Me!                    | 7    | 3002     
 Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2824     
+Bruce Springsteen              | 10   | 2827     
 AC/DC                          | 11   | 2795     
-Manic Street Preachers         | 12   | 2631     
+Manic Street Preachers         | 12   | 2632     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2315     
+Raga Rockers                   | 16   | 2316     
 Chris Cornell                  | 19   | 2239     
-johndoe                        | 21   | 2154     
+johndoe                        | 21   | 2156     
 The National                   | 22   | 2151     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1760     
@@ -72,8 +72,8 @@ Kaizers Orchestra              | 99   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2386     
-Guided by Voices | 15   | 2349     
+Alice in Chains  | 14   | 2387     
+Guided by Voices | 15   | 2350     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2101     
