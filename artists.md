@@ -19,18 +19,18 @@ Soundgarden                    | 2    | 6127
 Rush                           | 3    | 4620     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3107     
-Against Me!                    | 7    | 3002     
-Motorpsycho                    | 8    | 2971     
-Bruce Springsteen              | 10   | 2827     
+Against Me!                    | 7    | 3003     
+Motorpsycho                    | 8    | 2992     
+Bruce Springsteen              | 10   | 2828     
 AC/DC                          | 11   | 2795     
 Manic Street Preachers         | 12   | 2632     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2316     
 Chris Cornell                  | 19   | 2239     
 johndoe                        | 21   | 2156     
-The National                   | 22   | 2151     
+The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1760     
+Mastodon                       | 25   | 1763     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1501     
 Baroness                       | 30   | 1359     
@@ -88,10 +88,10 @@ Eddie Vedder     | 59   | 702
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 647      
+Neil Young       | 66   | 648      
 Dinosaur Jr.     | 79   | 506      
 Yes              | 80   | 505      
-The War on Drugs | 84   | 475      
+The War on Drugs | 84   | 477      
 Faith No More    | 86   | 462      
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
