@@ -18,21 +18,21 @@ Pearl Jam                      | 1    | 6145
 Soundgarden                    | 2    | 6127     
 Rush                           | 3    | 4620     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3107     
+DumDum Boys                    | 6    | 3108     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2992     
-Bruce Springsteen              | 10   | 2828     
+Bruce Springsteen              | 10   | 2829     
 AC/DC                          | 11   | 2795     
-Manic Street Preachers         | 12   | 2632     
+Manic Street Preachers         | 12   | 2634     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2316     
+Raga Rockers                   | 16   | 2317     
 Chris Cornell                  | 19   | 2239     
 johndoe                        | 21   | 2156     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1763     
+Mastodon                       | 25   | 1766     
 The Smashing Pumpkins          | 27   | 1604     
-Mark Lanegan                   | 29   | 1501     
+Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1328     
 Chuck Ragan                    | 34   | 1216     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 930      
-Thin Lizzy                     | 46   | 890      
+Thin Lizzy                     | 46   | 891      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 862      
 Brian Fallon                   | 49   | 818      
@@ -72,14 +72,14 @@ Kaizers Orchestra              | 99   | 400
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2387     
-Guided by Voices | 15   | 2350     
+Alice in Chains  | 14   | 2388     
+Guided by Voices | 15   | 2354     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2101     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1248     
+Touché Amoré     | 33   | 1249     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
 Melvins          | 51   | 797      
@@ -92,7 +92,7 @@ Neil Young       | 66   | 648
 Dinosaur Jr.     | 79   | 506      
 Yes              | 80   | 505      
 The War on Drugs | 84   | 477      
-Faith No More    | 86   | 462      
+Faith No More    | 86   | 463      
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Richard Thompson | 92   | 427      
