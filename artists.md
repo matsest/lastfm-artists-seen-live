@@ -16,18 +16,18 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
 Soundgarden                    | 2    | 6127     
-Rush                           | 3    | 4620     
+Rush                           | 3    | 4626     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3108     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2992     
-Bruce Springsteen              | 10   | 2829     
+Bruce Springsteen              | 10   | 2831     
 AC/DC                          | 11   | 2795     
 Manic Street Preachers         | 12   | 2634     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2317     
+Raga Rockers                   | 16   | 2318     
 Chris Cornell                  | 19   | 2239     
-johndoe                        | 21   | 2156     
+johndoe                        | 21   | 2157     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1766     
@@ -41,14 +41,14 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 44   | 930      
+Pappasaft                      | 44   | 937      
 Thin Lizzy                     | 46   | 891      
 Tool                           | 47   | 879      
-Oslo Ess                       | 48   | 862      
+Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
 The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 777      
+Japandroids                    | 54   | 780      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
@@ -76,7 +76,7 @@ Alice in Chains  | 14   | 2388
 Guided by Voices | 15   | 2354     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
-Ryan Adams       | 23   | 2101     
+Ryan Adams       | 23   | 2102     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1249     
@@ -89,7 +89,7 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 648      
-Dinosaur Jr.     | 79   | 506      
+Dinosaur Jr.     | 79   | 508      
 Yes              | 80   | 505      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 463      
@@ -102,7 +102,7 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3347     
+The Replacements         | 5    | 3348     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2267     
 Sugar                    | 32   | 1274     
