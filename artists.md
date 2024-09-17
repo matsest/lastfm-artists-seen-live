@@ -18,23 +18,23 @@ Pearl Jam                      | 1    | 6145
 Soundgarden                    | 2    | 6127     
 Rush                           | 3    | 4626     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3108     
+DumDum Boys                    | 6    | 3109     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2992     
 Bruce Springsteen              | 10   | 2831     
 AC/DC                          | 11   | 2795     
 Manic Street Preachers         | 12   | 2634     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2318     
+Raga Rockers                   | 16   | 2323     
 Chris Cornell                  | 19   | 2239     
-johndoe                        | 21   | 2157     
+johndoe                        | 21   | 2161     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1766     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
-Kvelertak                      | 31   | 1328     
+Kvelertak                      | 31   | 1329     
 Chuck Ragan                    | 34   | 1216     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
