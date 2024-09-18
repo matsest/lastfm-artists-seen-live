@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6145
 Soundgarden                    | 2    | 6127     
 Rush                           | 3    | 4626     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3109     
+DumDum Boys                    | 6    | 3110     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2992     
 Bruce Springsteen              | 10   | 2831     
@@ -27,7 +27,7 @@ Manic Street Preachers         | 12   | 2634
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2323     
 Chris Cornell                  | 19   | 2239     
-johndoe                        | 21   | 2161     
+johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1766     
@@ -47,8 +47,8 @@ Tool                           | 47   | 879
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
-The Tallest Man on Earth       | 52   | 791      
-Japandroids                    | 54   | 780      
+Japandroids                    | 51   | 799      
+The Tallest Man on Earth       | 53   | 791      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
@@ -82,8 +82,8 @@ Weezer           | 28   | 1571
 Touché Amoré     | 33   | 1249     
 The Black Crowes | 43   | 950      
 The Hold Steady  | 45   | 909      
-Melvins          | 51   | 797      
-Bob Dylan        | 53   | 786      
+Melvins          | 52   | 797      
+Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
