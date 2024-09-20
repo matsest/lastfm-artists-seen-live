@@ -20,7 +20,7 @@ Rush                           | 3    | 4626
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3110     
 Against Me!                    | 7    | 3003     
-Motorpsycho                    | 8    | 2992     
+Motorpsycho                    | 8    | 2997     
 Bruce Springsteen              | 10   | 2831     
 AC/DC                          | 11   | 2795     
 Manic Street Preachers         | 12   | 2634     
