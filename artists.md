@@ -18,12 +18,12 @@ Pearl Jam                      | 1    | 6145
 Soundgarden                    | 2    | 6127     
 Rush                           | 3    | 4626     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3110     
+DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
-Motorpsycho                    | 8    | 2997     
-Bruce Springsteen              | 10   | 2831     
-AC/DC                          | 11   | 2795     
-Manic Street Preachers         | 12   | 2634     
+Motorpsycho                    | 8    | 2998     
+Bruce Springsteen              | 10   | 2832     
+AC/DC                          | 11   | 2797     
+Manic Street Preachers         | 12   | 2635     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2323     
 Chris Cornell                  | 19   | 2239     
@@ -42,12 +42,12 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 937      
-Thin Lizzy                     | 46   | 891      
+Thin Lizzy                     | 46   | 894      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
 Sweden                         | 50   | 809      
-Japandroids                    | 51   | 799      
+Japandroids                    | 51   | 805      
 The Tallest Man on Earth       | 53   | 791      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 758      
@@ -55,7 +55,7 @@ Jason Isbell                   | 58   | 708
 Ghost                          | 62   | 675      
 The Posies                     | 64   | 657      
 Blood Command                  | 67   | 635      
-Clutch                         | 68   | 627      
+Clutch                         | 68   | 628      
 Devin Townsend Project         | 69   | 608      
 Dropkick Murphys               | 70   | 608      
 Spielbergs                     | 72   | 603      
@@ -73,14 +73,14 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2388     
-Guided by Voices | 15   | 2354     
+Guided by Voices | 15   | 2355     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2102     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1249     
-The Black Crowes | 43   | 950      
+The Black Crowes | 43   | 951      
 The Hold Steady  | 45   | 909      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
@@ -88,9 +88,9 @@ Eddie Vedder     | 59   | 702
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 648      
-Dinosaur Jr.     | 79   | 508      
-Yes              | 80   | 505      
+Neil Young       | 66   | 649      
+Dinosaur Jr.     | 79   | 509      
+Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 463      
 Dawes            | 87   | 448      
@@ -104,12 +104,12 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3348     
 Hüsker Dü                | 9    | 2888     
-The Who                  | 18   | 2267     
+The Who                  | 18   | 2271     
 Sugar                    | 32   | 1274     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 57   | 750      
+Jokke & Valentinerne     | 57   | 753      
 Audioslave               | 61   | 693      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
@@ -118,7 +118,7 @@ Paul Westerberg          | 76   | 530
 The Beatles              | 78   | 528      
 Rage Against the Machine | 82   | 490      
 Pink Floyd               | 83   | 477      
-Black Sabbath            | 85   | 474      
+Black Sabbath            | 85   | 475      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 431      
 Marillion                | 94   | 418      
