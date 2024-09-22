@@ -16,13 +16,13 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6145     
 Soundgarden                    | 2    | 6127     
-Rush                           | 3    | 4626     
+Rush                           | 3    | 4627     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
 Bruce Springsteen              | 10   | 2832     
-AC/DC                          | 11   | 2797     
+AC/DC                          | 11   | 2800     
 Manic Street Preachers         | 12   | 2635     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2323     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 937      
-Thin Lizzy                     | 46   | 894      
+Thin Lizzy                     | 46   | 895      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2388     
-Guided by Voices | 15   | 2355     
+Guided by Voices | 15   | 2356     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2102     
@@ -92,7 +92,7 @@ Neil Young       | 66   | 649
 Dinosaur Jr.     | 79   | 509      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
-Faith No More    | 86   | 463      
+Faith No More    | 86   | 464      
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Richard Thompson | 92   | 427      
@@ -102,22 +102,22 @@ Ulver            | 100  | 396
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3348     
+The Replacements         | 5    | 3349     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2271     
 Sugar                    | 32   | 1274     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
-Jokke & Valentinerne     | 57   | 753      
+Jokke & Valentinerne     | 57   | 754      
 Audioslave               | 61   | 693      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
 Temple of the Dog        | 75   | 559      
 Paul Westerberg          | 76   | 530      
-The Beatles              | 78   | 528      
+The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 490      
-Pink Floyd               | 83   | 477      
+Pink Floyd               | 83   | 478      
 Black Sabbath            | 85   | 475      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 431      
