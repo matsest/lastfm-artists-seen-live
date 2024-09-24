@@ -21,21 +21,21 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
-Bruce Springsteen              | 10   | 2832     
+Bruce Springsteen              | 10   | 2833     
 AC/DC                          | 11   | 2801     
-Manic Street Preachers         | 12   | 2635     
+Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2323     
 Chris Cornell                  | 19   | 2239     
 johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1766     
+Mastodon                       | 25   | 1767     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1329     
-Chuck Ragan                    | 34   | 1216     
+Chuck Ragan                    | 34   | 1217     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1069     
 Stein Torleif Bjella           | 39   | 1057     
@@ -73,14 +73,14 @@ Kaizers Orchestra              | 99   | 400
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2388     
-Guided by Voices | 15   | 2356     
+Guided by Voices | 15   | 2358     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2231     
 Ryan Adams       | 23   | 2102     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1249     
-The Black Crowes | 43   | 951      
+Touché Amoré     | 33   | 1251     
+The Black Crowes | 43   | 952      
 The Hold Steady  | 45   | 909      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
@@ -89,7 +89,7 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 649      
-Dinosaur Jr.     | 79   | 509      
+Dinosaur Jr.     | 79   | 514      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 464      
