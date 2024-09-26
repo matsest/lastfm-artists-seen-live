@@ -76,7 +76,7 @@ Alice in Chains  | 14   | 2388
 Guided by Voices | 15   | 2358     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 20   | 2232     
-Ryan Adams       | 23   | 2104     
+Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1251     
