@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 447
+- Number of artists seen live in total: 450
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 44   | 937      
+Pappasaft                      | 44   | 938      
 Thin Lizzy                     | 46   | 895      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
