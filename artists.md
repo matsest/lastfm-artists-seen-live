@@ -96,13 +96,13 @@ Faith No More    | 86   | 464
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Richard Thompson | 92   | 427      
-Ulver            | 100  | 396      
+Cloud Nothings   | 100  | 399      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3349     
+The Replacements         | 5    | 3351     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2271     
 Sugar                    | 32   | 1274     
