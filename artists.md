@@ -30,7 +30,7 @@ Chris Cornell                  | 19   | 2239
 johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1768     
+Mastodon                       | 25   | 1769     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
@@ -92,7 +92,7 @@ Neil Young       | 66   | 649
 Dinosaur Jr.     | 79   | 515      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
-Faith No More    | 86   | 464      
+Faith No More    | 86   | 465      
 Dawes            | 87   | 448      
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
