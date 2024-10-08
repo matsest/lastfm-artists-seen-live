@@ -15,22 +15,22 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
-Soundgarden                    | 2    | 6128     
+Soundgarden                    | 2    | 6129     
 Rush                           | 3    | 4629     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
-Bruce Springsteen              | 10   | 2834     
-AC/DC                          | 11   | 2803     
+Bruce Springsteen              | 10   | 2835     
+AC/DC                          | 11   | 2806     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2324     
+Raga Rockers                   | 16   | 2325     
 Chris Cornell                  | 19   | 2239     
 johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1769     
+Mastodon                       | 25   | 1771     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 44   | 938      
-Thin Lizzy                     | 46   | 897      
+Thin Lizzy                     | 45   | 919      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
@@ -81,7 +81,7 @@ The Menzingers   | 26   | 1636
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1251     
 The Black Crowes | 43   | 952      
-The Hold Steady  | 45   | 909      
+The Hold Steady  | 46   | 909      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
@@ -89,7 +89,7 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 649      
-Dinosaur Jr.     | 79   | 515      
+Dinosaur Jr.     | 79   | 516      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 465      
@@ -113,14 +113,14 @@ Jokke & Valentinerne     | 57   | 755
 Audioslave               | 61   | 695      
 Foo Fighters             | 71   | 607      
 Big Star                 | 73   | 587      
-Temple of the Dog        | 75   | 560      
+Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 529      
-Rage Against the Machine | 81   | 491      
+Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 479      
 Black Sabbath            | 85   | 476      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 431      
 Marillion                | 95   | 418      
 Warren Zevon             | 96   | 413      
-Jokke med Tourettes      | 97   | 411      
+Jokke med Tourettes      | 97   | 412      
