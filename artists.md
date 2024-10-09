@@ -41,8 +41,8 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 44   | 938      
-Thin Lizzy                     | 45   | 919      
+Thin Lizzy                     | 43   | 959      
+Pappasaft                      | 45   | 938      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
@@ -80,7 +80,7 @@ Ryan Adams       | 23   | 2105
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1251     
-The Black Crowes | 43   | 952      
+The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 909      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
