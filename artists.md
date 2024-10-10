@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
 Soundgarden                    | 2    | 6129     
-Rush                           | 3    | 4629     
+Rush                           | 3    | 4646     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Thin Lizzy                     | 43   | 959      
+Thin Lizzy                     | 43   | 960      
 Pappasaft                      | 45   | 938      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
