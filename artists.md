@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 450
+- Number of artists seen live in total: 452
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -16,7 +16,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
 Soundgarden                    | 2    | 6129     
-Rush                           | 3    | 4646     
+Rush                           | 3    | 4657     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3111     
 Against Me!                    | 7    | 3003     
