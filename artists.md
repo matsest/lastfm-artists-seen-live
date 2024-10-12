@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6146
 Soundgarden                    | 2    | 6129     
 Rush                           | 3    | 4657     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3111     
+DumDum Boys                    | 6    | 3138     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
 Bruce Springsteen              | 10   | 2835     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Thin Lizzy                     | 43   | 960      
-Pappasaft                      | 45   | 938      
+Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
@@ -66,7 +66,7 @@ Gojira                         | 90   | 432
 Backstreet Girls               | 94   | 426      
 Opeth                          | 98   | 411      
 Swans                          | 99   | 404      
-Kaizers Orchestra              | 100  | 400      
+Kaizers Orchestra              | 100  | 401      
 
 ## Active top 100 artists not seen live (25)
 
@@ -79,7 +79,7 @@ Bob Mould        | 20   | 2232
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1251     
+Touché Amoré     | 33   | 1265     
 The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 909      
 Melvins          | 52   | 797      
@@ -122,5 +122,5 @@ Black Sabbath            | 85   | 476
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 431      
 Marillion                | 95   | 418      
-Warren Zevon             | 96   | 413      
+Warren Zevon             | 96   | 417      
 Jokke med Tourettes      | 97   | 412      
