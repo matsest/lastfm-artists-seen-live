@@ -46,8 +46,8 @@ Pappasaft                      | 45   | 943
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Brian Fallon                   | 49   | 818      
-Sweden                         | 50   | 809      
-Japandroids                    | 51   | 805      
+Japandroids                    | 50   | 809      
+Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 53   | 791      
 Devin Townsend                 | 55   | 760      
 Thulsa Doom                    | 56   | 758      
@@ -73,15 +73,15 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2358     
+Guided by Voices | 15   | 2360     
 Propagandhi      | 17   | 2303     
-Bob Mould        | 20   | 2232     
+Bob Mould        | 20   | 2233     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1265     
 The Black Crowes | 44   | 952      
-The Hold Steady  | 46   | 909      
+The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
@@ -89,7 +89,7 @@ Afghan Whigs     | 60   | 696
 Hot Water Music  | 63   | 665      
 The Hotelier     | 65   | 652      
 Neil Young       | 66   | 649      
-Dinosaur Jr.     | 79   | 516      
+Dinosaur Jr.     | 79   | 519      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 465      
@@ -102,7 +102,7 @@ Richard Thompson | 93   | 427
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3354     
+The Replacements         | 5    | 3356     
 Hüsker Dü                | 9    | 2888     
 The Who                  | 18   | 2273     
 Sugar                    | 32   | 1276     
