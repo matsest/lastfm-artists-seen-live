@@ -18,7 +18,7 @@ Pearl Jam                      | 1    | 6146
 Soundgarden                    | 2    | 6129     
 Rush                           | 3    | 4657     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3138     
+DumDum Boys                    | 6    | 3142     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
 Bruce Springsteen              | 10   | 2835     
@@ -26,7 +26,7 @@ AC/DC                          | 11   | 2806
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2325     
-Chris Cornell                  | 19   | 2239     
+Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
@@ -75,7 +75,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2389     
 Guided by Voices | 15   | 2360     
 Propagandhi      | 17   | 2303     
-Bob Mould        | 20   | 2233     
+Bob Mould        | 19   | 2240     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
@@ -103,9 +103,9 @@ Richard Thompson | 93   | 427
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3356     
-Hüsker Dü                | 9    | 2888     
+Hüsker Dü                | 9    | 2889     
 The Who                  | 18   | 2273     
-Sugar                    | 32   | 1276     
+Sugar                    | 32   | 1277     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
@@ -122,5 +122,5 @@ Black Sabbath            | 85   | 476
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 431      
 Marillion                | 95   | 418      
-Warren Zevon             | 96   | 417      
+Warren Zevon             | 96   | 418      
 Jokke med Tourettes      | 97   | 412      
