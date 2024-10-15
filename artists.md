@@ -16,13 +16,13 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
 Soundgarden                    | 2    | 6129     
-Rush                           | 3    | 4657     
+Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3142     
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
 Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2806     
+AC/DC                          | 11   | 2826     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2325     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1069
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Thin Lizzy                     | 43   | 960      
+Thin Lizzy                     | 43   | 961      
 Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -75,7 +75,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2389     
 Guided by Voices | 15   | 2360     
 Propagandhi      | 17   | 2303     
-Bob Mould        | 19   | 2240     
+Bob Mould        | 19   | 2245     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
@@ -103,9 +103,9 @@ Richard Thompson | 93   | 427
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3356     
-Hüsker Dü                | 9    | 2889     
+Hüsker Dü                | 9    | 2912     
 The Who                  | 18   | 2273     
-Sugar                    | 32   | 1277     
+Sugar                    | 32   | 1287     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 993      
