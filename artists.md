@@ -79,7 +79,7 @@ Bob Mould        | 19   | 2245
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1265     
+Touché Amoré     | 33   | 1283     
 The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
@@ -93,7 +93,7 @@ Dinosaur Jr.     | 79   | 519
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
 Faith No More    | 86   | 465      
-Dawes            | 87   | 448      
+Dawes            | 87   | 457      
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 93   | 427      
@@ -108,7 +108,7 @@ The Who                  | 18   | 2273
 Sugar                    | 32   | 1287     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
-Fugazi                   | 42   | 993      
+Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
 Foo Fighters             | 71   | 607      
