@@ -37,7 +37,7 @@ Baroness                       | 30   | 1359
 Kvelertak                      | 31   | 1329     
 Chuck Ragan                    | 34   | 1217     
 Biffy Clyro                    | 36   | 1114     
-Hellbillies                    | 37   | 1069     
+Hellbillies                    | 37   | 1079     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
