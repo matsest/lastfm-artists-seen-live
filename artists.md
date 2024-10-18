@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3142
 Against Me!                    | 7    | 3003     
 Motorpsycho                    | 8    | 2998     
 Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2826     
+AC/DC                          | 11   | 2827     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2325     
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1079
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Thin Lizzy                     | 43   | 961      
+Thin Lizzy                     | 43   | 962      
 Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -79,7 +79,7 @@ Bob Mould        | 19   | 2245
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 33   | 1283     
+Touché Amoré     | 32   | 1288     
 The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
@@ -105,7 +105,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3356     
 Hüsker Dü                | 9    | 2912     
 The Who                  | 18   | 2273     
-Sugar                    | 32   | 1287     
+Sugar                    | 33   | 1287     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
@@ -120,7 +120,7 @@ Rage Against the Machine | 81   | 492
 Pink Floyd               | 83   | 479      
 Black Sabbath            | 85   | 476      
 The Twilight Singers     | 89   | 433      
-The Band                 | 91   | 431      
+The Band                 | 91   | 432      
 Marillion                | 95   | 418      
 Warren Zevon             | 96   | 418      
 Jokke med Tourettes      | 97   | 412      
