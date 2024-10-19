@@ -45,8 +45,8 @@ Thin Lizzy                     | 43   | 962
 Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
-Brian Fallon                   | 49   | 818      
-Japandroids                    | 50   | 809      
+Japandroids                    | 49   | 828      
+Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 53   | 791      
 Devin Townsend                 | 55   | 760      
@@ -79,7 +79,7 @@ Bob Mould        | 19   | 2245
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 32   | 1288     
+Touché Amoré     | 32   | 1289     
 The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
