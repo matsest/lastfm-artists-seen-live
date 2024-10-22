@@ -45,7 +45,7 @@ Thin Lizzy                     | 43   | 962
 Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
-Japandroids                    | 49   | 828      
+Japandroids                    | 49   | 832      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 53   | 791      
@@ -75,7 +75,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2389     
 Guided by Voices | 15   | 2360     
 Propagandhi      | 17   | 2303     
-Bob Mould        | 19   | 2245     
+Bob Mould        | 19   | 2266     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
@@ -112,7 +112,7 @@ Fugazi                   | 42   | 997
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
 Foo Fighters             | 71   | 607      
-Big Star                 | 73   | 587      
+Big Star                 | 73   | 588      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 529      
