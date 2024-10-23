@@ -45,7 +45,7 @@ Thin Lizzy                     | 43   | 962
 Pappasaft                      | 45   | 943      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
-Japandroids                    | 49   | 832      
+Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 53   | 791      
@@ -53,12 +53,12 @@ Devin Townsend                 | 55   | 760
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
 Ghost                          | 62   | 675      
-The Posies                     | 64   | 657      
+The Posies                     | 64   | 658      
 Blood Command                  | 67   | 635      
 Clutch                         | 68   | 628      
-Devin Townsend Project         | 69   | 608      
-Dropkick Murphys               | 70   | 608      
-Spielbergs                     | 72   | 603      
+Devin Townsend Project         | 70   | 608      
+Dropkick Murphys               | 71   | 608      
+Spielbergs                     | 73   | 603      
 Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 82   | 490      
@@ -73,13 +73,13 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2360     
+Guided by Voices | 15   | 2365     
 Propagandhi      | 17   | 2303     
-Bob Mould        | 19   | 2266     
+Bob Mould        | 18   | 2282     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
-Touché Amoré     | 32   | 1289     
+Touché Amoré     | 33   | 1289     
 The Black Crowes | 44   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
@@ -102,17 +102,17 @@ Richard Thompson | 93   | 427
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3356     
-Hüsker Dü                | 9    | 2912     
-The Who                  | 18   | 2273     
-Sugar                    | 33   | 1287     
+The Replacements         | 5    | 3361     
+Hüsker Dü                | 9    | 2914     
+The Who                  | 19   | 2273     
+Sugar                    | 32   | 1297     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Foo Fighters             | 71   | 607      
-Big Star                 | 73   | 588      
+Big Star                 | 69   | 621      
+Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 529      
