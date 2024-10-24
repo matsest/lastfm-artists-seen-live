@@ -25,7 +25,7 @@ Bruce Springsteen              | 10   | 2835
 AC/DC                          | 11   | 2828     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2325     
+Raga Rockers                   | 16   | 2346     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2162     
 The National                   | 22   | 2154     
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2365     
+Guided by Voices | 15   | 2366     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2282     
 Ryan Adams       | 23   | 2105     
