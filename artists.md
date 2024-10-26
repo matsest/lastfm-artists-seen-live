@@ -25,7 +25,7 @@ Bruce Springsteen              | 10   | 2835
 AC/DC                          | 11   | 2828     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2347     
+Raga Rockers                   | 16   | 2348     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2163     
 The National                   | 22   | 2154     
@@ -35,21 +35,21 @@ The Smashing Pumpkins          | 27   | 1604
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1329     
-Chuck Ragan                    | 34   | 1217     
+Chuck Ragan                    | 34   | 1226     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1079     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Thin Lizzy                     | 43   | 962      
-Pappasaft                      | 45   | 943      
+Pappasaft                      | 44   | 957      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 53   | 791      
-Devin Townsend                 | 55   | 760      
+Devin Townsend                 | 55   | 762      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
 Ghost                          | 62   | 675      
@@ -80,7 +80,7 @@ Ryan Adams       | 23   | 2105
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1571     
 Touché Amoré     | 33   | 1289     
-The Black Crowes | 44   | 952      
+The Black Crowes | 45   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
