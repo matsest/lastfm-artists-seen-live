@@ -41,8 +41,8 @@ Hellbillies                    | 37   | 1079
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Thin Lizzy                     | 43   | 962      
-Pappasaft                      | 44   | 957      
+Pappasaft                      | 43   | 962      
+Thin Lizzy                     | 44   | 962      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
