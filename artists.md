@@ -34,14 +34,14 @@ Mastodon                       | 25   | 1771
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
-Kvelertak                      | 31   | 1329     
+Kvelertak                      | 31   | 1355     
 Chuck Ragan                    | 34   | 1226     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1079     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 43   | 963      
+Pappasaft                      | 43   | 964      
 Thin Lizzy                     | 44   | 962      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -53,9 +53,9 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
 Ghost                          | 62   | 675      
-The Posies                     | 64   | 658      
-Blood Command                  | 67   | 635      
-Clutch                         | 68   | 628      
+The Posies                     | 63   | 667      
+Blood Command                  | 68   | 635      
+Clutch                         | 69   | 628      
 Devin Townsend Project         | 70   | 608      
 Dropkick Murphys               | 71   | 608      
 Spielbergs                     | 73   | 603      
@@ -86,9 +86,9 @@ Melvins          | 52   | 797
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
-Hot Water Music  | 63   | 665      
+Hot Water Music  | 64   | 665      
 The Hotelier     | 65   | 652      
-Neil Young       | 66   | 649      
+Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 519      
 Yes              | 80   | 506      
 The War on Drugs | 84   | 477      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Big Star                 | 69   | 621      
+Big Star                 | 66   | 650      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
