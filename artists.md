@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3142
 Motorpsycho                    | 7    | 3007     
 Against Me!                    | 8    | 3003     
 Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2828     
+AC/DC                          | 11   | 2830     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2348     
@@ -87,7 +87,7 @@ Bob Dylan        | 54   | 786
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
 Hot Water Music  | 64   | 665      
-The Hotelier     | 65   | 652      
+The Hotelier     | 66   | 652      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 519      
 Yes              | 80   | 506      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Big Star                 | 66   | 650      
+Big Star                 | 65   | 663      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
