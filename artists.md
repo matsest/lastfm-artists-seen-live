@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 464
+- Number of artists seen live in total: 465
 
 - Number of fetched top artists: 100 (Active: 70 Inactive: 30)
 
@@ -22,7 +22,7 @@ DumDum Boys                    | 6    | 3142
 Motorpsycho                    | 7    | 3007     
 Against Me!                    | 8    | 3003     
 Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2830     
+AC/DC                          | 11   | 2831     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2348     
@@ -53,7 +53,7 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
 Ghost                          | 62   | 675      
-The Posies                     | 63   | 667      
+The Posies                     | 64   | 667      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
 Devin Townsend Project         | 70   | 608      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2366     
+Guided by Voices | 15   | 2371     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2282     
 Ryan Adams       | 23   | 2105     
@@ -86,7 +86,7 @@ Melvins          | 52   | 797
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
-Hot Water Music  | 64   | 665      
+Hot Water Music  | 65   | 665      
 The Hotelier     | 66   | 652      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 519      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Big Star                 | 65   | 663      
+Big Star                 | 63   | 671      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
@@ -121,6 +121,6 @@ Pink Floyd               | 83   | 479
 Black Sabbath            | 85   | 476      
 The Twilight Singers     | 89   | 433      
 The Band                 | 91   | 432      
-Marillion                | 95   | 418      
-Warren Zevon             | 96   | 418      
+Warren Zevon             | 95   | 420      
+Marillion                | 96   | 418      
 Jokke med Tourettes      | 97   | 412      
