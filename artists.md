@@ -52,8 +52,8 @@ The Tallest Man on Earth       | 53   | 791
 Devin Townsend                 | 55   | 762      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 58   | 708      
-Ghost                          | 62   | 675      
-The Posies                     | 64   | 667      
+Ghost                          | 64   | 675      
+The Posies                     | 65   | 667      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
 Devin Townsend Project         | 70   | 608      
@@ -86,7 +86,7 @@ Melvins          | 52   | 797
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
-Hot Water Music  | 65   | 665      
+Hot Water Music  | 62   | 680      
 The Hotelier     | 66   | 652      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 519      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Big Star                 | 63   | 671      
+Big Star                 | 63   | 675      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
