@@ -86,7 +86,7 @@ Melvins          | 52   | 797
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 59   | 702      
 Afghan Whigs     | 60   | 696      
-Hot Water Music  | 62   | 680      
+Hot Water Music  | 63   | 680      
 The Hotelier     | 66   | 652      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 519      
@@ -111,7 +111,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
 Audioslave               | 61   | 695      
-Big Star                 | 63   | 675      
+Big Star                 | 62   | 688      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
