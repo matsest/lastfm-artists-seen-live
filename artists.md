@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
 Pappasaft                      | 43   | 964      
-Thin Lizzy                     | 44   | 962      
+Thin Lizzy                     | 44   | 963      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
@@ -51,7 +51,7 @@ Sweden                         | 51   | 809
 The Tallest Man on Earth       | 53   | 791      
 Devin Townsend                 | 55   | 762      
 Thulsa Doom                    | 56   | 758      
-Jason Isbell                   | 58   | 708      
+Jason Isbell                   | 59   | 708      
 Ghost                          | 64   | 675      
 The Posies                     | 65   | 667      
 Blood Command                  | 68   | 635      
@@ -73,7 +73,7 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2371     
+Guided by Voices | 15   | 2372     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2282     
 Ryan Adams       | 23   | 2105     
@@ -84,8 +84,8 @@ The Black Crowes | 45   | 952
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
-Eddie Vedder     | 59   | 702      
-Afghan Whigs     | 60   | 696      
+Eddie Vedder     | 60   | 702      
+Afghan Whigs     | 61   | 696      
 Hot Water Music  | 63   | 680      
 The Hotelier     | 66   | 652      
 Neil Young       | 67   | 649      
@@ -102,16 +102,16 @@ Richard Thompson | 93   | 427
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3361     
-Hüsker Dü                | 9    | 2914     
+The Replacements         | 5    | 3363     
+Hüsker Dü                | 9    | 2915     
 The Who                  | 19   | 2273     
 Sugar                    | 32   | 1297     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
-Audioslave               | 61   | 695      
-Big Star                 | 62   | 694      
+Big Star                 | 58   | 708      
+Audioslave               | 62   | 695      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
