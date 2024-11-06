@@ -30,7 +30,7 @@ Chris Cornell                  | 20   | 2239
 johndoe                        | 21   | 2163     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1771     
+Mastodon                       | 25   | 1772     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
@@ -73,12 +73,12 @@ Kaizers Orchestra              | 100  | 401
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2372     
+Guided by Voices | 15   | 2373     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2282     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
-Weezer           | 28   | 1571     
+Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1289     
 The Black Crowes | 45   | 952      
 The Hold Steady  | 46   | 910      
@@ -103,14 +103,14 @@ Richard Thompson | 93   | 427
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3363     
-Hüsker Dü                | 9    | 2915     
+Hüsker Dü                | 9    | 2916     
 The Who                  | 19   | 2273     
 Sugar                    | 32   | 1297     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 708      
+Big Star                 | 58   | 716      
 Audioslave               | 62   | 695      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
