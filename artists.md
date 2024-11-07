@@ -19,10 +19,10 @@ Soundgarden                    | 2    | 6129
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3142     
-Motorpsycho                    | 7    | 3007     
+Motorpsycho                    | 7    | 3008     
 Against Me!                    | 8    | 3003     
 Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2831     
+AC/DC                          | 11   | 2834     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2348     
