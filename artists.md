@@ -19,10 +19,10 @@ Soundgarden                    | 2    | 6129
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3142     
-Motorpsycho                    | 7    | 3008     
+Motorpsycho                    | 7    | 3009     
 Against Me!                    | 8    | 3003     
-Bruce Springsteen              | 10   | 2835     
-AC/DC                          | 11   | 2834     
+AC/DC                          | 10   | 2835     
+Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2636     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2348     
@@ -35,7 +35,7 @@ The Smashing Pumpkins          | 27   | 1604
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1355     
-Chuck Ragan                    | 34   | 1226     
+Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1079     
 Stein Torleif Bjella           | 39   | 1057     
