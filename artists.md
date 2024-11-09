@@ -18,16 +18,16 @@ Pearl Jam                      | 1    | 6146
 Soundgarden                    | 2    | 6129     
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3142     
+DumDum Boys                    | 6    | 3143     
 Motorpsycho                    | 7    | 3009     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 10   | 2835     
 Bruce Springsteen              | 11   | 2835     
-Manic Street Preachers         | 12   | 2636     
+Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2348     
 Chris Cornell                  | 20   | 2239     
-johndoe                        | 21   | 2163     
+johndoe                        | 21   | 2164     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1772     
@@ -41,8 +41,8 @@ Hellbillies                    | 37   | 1079
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1018     
-Pappasaft                      | 43   | 964      
-Thin Lizzy                     | 44   | 963      
+Thin Lizzy                     | 43   | 965      
+Pappasaft                      | 44   | 964      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
@@ -104,13 +104,13 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3363     
 Hüsker Dü                | 9    | 2916     
-The Who                  | 19   | 2273     
+The Who                  | 19   | 2274     
 Sugar                    | 32   | 1297     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 716      
+Big Star                 | 58   | 718      
 Audioslave               | 62   | 695      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
