@@ -19,7 +19,7 @@ Soundgarden                    | 2    | 6129
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3143     
-Motorpsycho                    | 7    | 3009     
+Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 10   | 2835     
 Bruce Springsteen              | 11   | 2835     
@@ -30,7 +30,7 @@ Chris Cornell                  | 20   | 2239
 johndoe                        | 21   | 2164     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1772     
+Mastodon                       | 25   | 1773     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1524     
 Baroness                       | 30   | 1359     
@@ -62,7 +62,7 @@ Spielbergs                     | 73   | 603
 Kylesa                         | 74   | 584      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 82   | 490      
-Gojira                         | 90   | 432      
+Gojira                         | 91   | 432      
 Backstreet Girls               | 94   | 426      
 Opeth                          | 98   | 411      
 Swans                          | 99   | 404      
@@ -110,7 +110,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 997      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 724      
+Big Star                 | 58   | 725      
 Audioslave               | 62   | 695      
 Foo Fighters             | 72   | 607      
 Temple of the Dog        | 75   | 561      
@@ -119,8 +119,8 @@ The Beatles              | 78   | 529
 Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 479      
 Black Sabbath            | 85   | 476      
-The Twilight Singers     | 89   | 433      
-The Band                 | 91   | 432      
+The Band                 | 89   | 433      
+The Twilight Singers     | 90   | 433      
 Warren Zevon             | 95   | 420      
 Marillion                | 96   | 418      
 Jokke med Tourettes      | 97   | 412      
