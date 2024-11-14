@@ -32,7 +32,7 @@ The National                   | 22   | 2154
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1773     
 The Smashing Pumpkins          | 27   | 1604     
-Mark Lanegan                   | 29   | 1524     
+Mark Lanegan                   | 29   | 1525     
 Baroness                       | 30   | 1359     
 Kvelertak                      | 31   | 1355     
 Chuck Ragan                    | 34   | 1236     
@@ -56,10 +56,10 @@ Ghost                          | 64   | 675
 The Posies                     | 65   | 667      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
-Devin Townsend Project         | 70   | 608      
-Dropkick Murphys               | 71   | 608      
-Spielbergs                     | 73   | 603      
-Kylesa                         | 74   | 584      
+Kylesa                         | 70   | 619      
+Devin Townsend Project         | 71   | 608      
+Dropkick Murphys               | 72   | 608      
+Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 530      
 Jason Isbell and the 400 Unit  | 82   | 490      
 Gojira                         | 91   | 432      
@@ -79,7 +79,7 @@ Bob Mould        | 18   | 2282
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-Touché Amoré     | 33   | 1289     
+Touché Amoré     | 33   | 1293     
 The Black Crowes | 45   | 952      
 The Hold Steady  | 46   | 910      
 Melvins          | 52   | 797      
@@ -102,7 +102,7 @@ Richard Thompson | 93   | 427
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3365     
+The Replacements         | 5    | 3376     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2274     
 Sugar                    | 32   | 1297     
@@ -112,7 +112,7 @@ Fugazi                   | 42   | 997
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 725      
 Audioslave               | 62   | 695      
-Foo Fighters             | 72   | 607      
+Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 530      
 The Beatles              | 78   | 529      
