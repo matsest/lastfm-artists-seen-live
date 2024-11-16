@@ -4,13 +4,13 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of artists seen live in total: 465
 
-- Number of fetched top artists: 100 (Active: 70 Inactive: 30)
+- Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 53 (Active: 45 Inactive: 8)
+- Number of top artists seen live: 52 (Active: 45 Inactive: 7)
 
-- Number of top artists not seen live: 47 (Active: 25 Inactive: 22)
+- Number of top artists not seen live: 48 (Active: 26 Inactive: 22)
 
-## Top 100 artists seen live (53)
+## Top 100 artists seen live (52)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -41,7 +41,7 @@ Hellbillies                    | 37   | 1079
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1019     
-Pappasaft                      | 43   | 974      
+Pappasaft                      | 43   | 975      
 Thin Lizzy                     | 44   | 966      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -53,10 +53,10 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 64   | 675      
-The Posies                     | 65   | 667      
+The Posies                     | 65   | 668      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
-Kylesa                         | 70   | 622      
+Kylesa                         | 70   | 623      
 Devin Townsend Project         | 71   | 608      
 Dropkick Murphys               | 72   | 608      
 Spielbergs                     | 74   | 603      
@@ -65,10 +65,9 @@ Jason Isbell and the 400 Unit  | 82   | 490
 Gojira                         | 91   | 432      
 Backstreet Girls               | 94   | 426      
 Opeth                          | 98   | 411      
-Swans                          | 99   | 404      
-Kaizers Orchestra              | 100  | 401      
+Swans                          | 100  | 404      
 
-## Active top 100 artists not seen live (25)
+## Active top 100 artists not seen live (26)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
@@ -97,6 +96,7 @@ Dawes            | 87   | 457
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 93   | 427      
+Carcass          | 99   | 408      
 
 ## Inactive top 100 artists not seen live (22)
 
