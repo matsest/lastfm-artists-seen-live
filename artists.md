@@ -96,7 +96,7 @@ Dawes            | 87   | 457
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 93   | 427      
-Carcass          | 99   | 408      
+Carcass          | 99   | 409      
 
 ## Inactive top 100 artists not seen live (22)
 
