@@ -63,7 +63,7 @@ Spielbergs                     | 74   | 603
 The Good The Bad and The Zugly | 76   | 531      
 Jason Isbell and the 400 Unit  | 82   | 490      
 Gojira                         | 91   | 432      
-Backstreet Girls               | 94   | 426      
+Backstreet Girls               | 93   | 427      
 Opeth                          | 98   | 411      
 Swans                          | 100  | 404      
 
@@ -95,7 +95,7 @@ Faith No More    | 86   | 465
 Dawes            | 87   | 457      
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
-Richard Thompson | 93   | 427      
+Richard Thompson | 94   | 427      
 Carcass          | 99   | 409      
 
 ## Inactive top 100 artists not seen live (22)
