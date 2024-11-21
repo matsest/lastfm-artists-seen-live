@@ -21,7 +21,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3146     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2835     
+AC/DC                          | 10   | 2846     
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -30,11 +30,11 @@ Chris Cornell                  | 20   | 2239
 johndoe                        | 21   | 2164     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
-Mastodon                       | 25   | 1773     
+Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1604     
 Mark Lanegan                   | 29   | 1525     
-Baroness                       | 30   | 1359     
-Kvelertak                      | 31   | 1355     
+Kvelertak                      | 30   | 1360     
+Baroness                       | 31   | 1359     
 Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1079     
@@ -42,7 +42,7 @@ Stein Torleif Bjella           | 39   | 1057
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1019     
 Pappasaft                      | 43   | 975      
-Thin Lizzy                     | 44   | 966      
+Thin Lizzy                     | 44   | 968      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
@@ -56,7 +56,7 @@ Ghost                          | 64   | 675
 The Posies                     | 65   | 668      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
-Kylesa                         | 70   | 623      
+Kylesa                         | 70   | 625      
 Devin Townsend Project         | 71   | 608      
 Dropkick Murphys               | 72   | 608      
 Spielbergs                     | 74   | 603      
@@ -64,7 +64,7 @@ The Good The Bad and The Zugly | 76   | 531
 Jason Isbell and the 400 Unit  | 82   | 490      
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
-Opeth                          | 98   | 411      
+Opeth                          | 99   | 411      
 Swans                          | 100  | 404      
 
 ## Active top 100 artists not seen live (26)
@@ -96,7 +96,7 @@ Dawes            | 87   | 457
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 94   | 427      
-Carcass          | 99   | 409      
+Carcass          | 97   | 412      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -123,4 +123,4 @@ The Band                 | 89   | 433
 The Twilight Singers     | 90   | 433      
 Warren Zevon             | 95   | 420      
 Marillion                | 96   | 418      
-Jokke med Tourettes      | 97   | 412      
+Jokke med Tourettes      | 98   | 412      
