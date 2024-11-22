@@ -65,9 +65,9 @@ Write-Output "`n- Number of top artists not seen live: $totalNotSeen (Active: $(
 # Print last 10 seen live
 Write-Output "`n## Last 10 artists seen live`n"
 $last10SeenLiveObj = $last10SeenLive | ForEach-Object {
-    [PSCustomObject]@{ Artist = $_ }
+    [PSCustomObject]@{ Artist = $_; 'Seen live' = $true }
 }
-Write-Output ($last10SeenLiveObj | ConvertTo-Markdown)
+Write-Output ($last10SeenLiveObj | Select-Object Artist, 'Seen live' | ConvertTo-Markdown)
 
 # Print lists
 Write-Output "`n## Top $NumberOfArtists artists seen live ($totalSeen)`n"
