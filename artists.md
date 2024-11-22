@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist           
------------------
-The Sheepdogs    
-The Commoners    
-Big Star's Third 
-Inter Arma       
-Purple Hill Witch
-Feral Nature     
-SÂVER            
-Häxer            
-Strange Horizon  
-Monkey3          
+Artist            | Seen live
+----------------- | ---------
+The Sheepdogs     | True     
+The Commoners     | True     
+Big Star's Third  | True     
+Inter Arma        | True     
+Purple Hill Witch | True     
+Feral Nature      | True     
+SÂVER             | True     
+Häxer             | True     
+Strange Horizon   | True     
+Monkey3           | True     
 
 ## Top 100 artists seen live (52)
 
