@@ -46,6 +46,7 @@ $activeNotSeen = Select-LFMArtists $artists -Active $True -SeenLive $False
 $activeSeen = Select-LFMArtists $artists -Active $True -SeenLive $True
 $inactiveNotSeen = Select-LFMArtists $artists -Active $False -SeenLive $False
 $inactiveSeen = Select-LFMArtists $artists -Active $False -SeenLive $True
+$last10Seenlive = $artistsSeenLive | Select-Object -First 10
 
 # Statistics
 $totalActive = $activeSeen.Count + $activeNotSeen.Count
@@ -60,6 +61,14 @@ Write-Output "`n- Number of artists seen live in total: $($artistsSeenLive.Lengt
 Write-Output "`n- Number of fetched top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
 Write-Output "`n- Number of top artists seen live: $totalSeen (Active: $($activeSeen.Count) Inactive: $($inactiveSeen.Count))"
 Write-Output "`n- Number of top artists not seen live: $totalNotSeen (Active: $($activeNotSeen.Count) Inactive: $($inactiveNotSeen.Count))"
+
+# Print last 10 seen live
+Write-Output "`n## Last 10 artists seen live`n"
+Write-Output ($last10Seenlive | ConvertTo-Markdown)
+$last10SeenLiveObj = $last10SeenLive | ForEach-Object {
+    [PSCustomObject]@{ Artist = $_ }
+}
+Write-Output ($last10SeenLiveObj | ConvertTo-Markdown)
 
 # Print lists
 Write-Output "`n## Top $NumberOfArtists artists seen live ($totalSeen)`n"
