@@ -10,6 +10,33 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of top artists not seen live: 48 (Active: 26 Inactive: 22)
 
+## Last 10 artists seen live
+
+Length
+------
+13    
+13    
+16    
+10    
+17    
+12    
+5     
+5     
+15    
+7     
+Artist           
+-----------------
+The Sheepdogs    
+The Commoners    
+Big Star's Third 
+Inter Arma       
+Purple Hill Witch
+Feral Nature     
+SÂVER            
+Häxer            
+Strange Horizon  
+Monkey3          
+
 ## Top 100 artists seen live (52)
 
 Name                           | Rank | PlayCount
@@ -72,7 +99,7 @@ Swans                          | 100  | 404
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2373     
+Guided by Voices | 15   | 2375     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
