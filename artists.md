@@ -12,18 +12,6 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Length
-------
-13    
-13    
-16    
-10    
-17    
-12    
-5     
-5     
-15    
-7     
 Artist           
 -----------------
 The Sheepdogs    
