@@ -30,7 +30,7 @@ Monkey3           | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
-Soundgarden                    | 2    | 6129     
+Soundgarden                    | 2    | 6130     
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3146     
