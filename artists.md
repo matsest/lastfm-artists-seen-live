@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6146
 Soundgarden                    | 2    | 6130     
 Rush                           | 3    | 4658     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3146     
+DumDum Boys                    | 6    | 3151     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 10   | 2846     
@@ -87,7 +87,7 @@ Swans                          | 100  | 404
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2375     
+Guided by Voices | 15   | 2376     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
@@ -101,7 +101,7 @@ Bob Dylan        | 54   | 786
 Eddie Vedder     | 60   | 702      
 Afghan Whigs     | 61   | 696      
 Hot Water Music  | 63   | 680      
-The Hotelier     | 66   | 652      
+The Hotelier     | 66   | 656      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 506      
@@ -123,9 +123,9 @@ The Who                  | 19   | 2274
 Sugar                    | 32   | 1298     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
-Fugazi                   | 42   | 997      
+Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 726      
+Big Star                 | 58   | 728      
 Audioslave               | 62   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
@@ -136,6 +136,6 @@ Pink Floyd               | 83   | 479
 Black Sabbath            | 85   | 476      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
-Warren Zevon             | 95   | 420      
+Warren Zevon             | 95   | 421      
 Marillion                | 96   | 418      
 Jokke med Tourettes      | 98   | 412      
