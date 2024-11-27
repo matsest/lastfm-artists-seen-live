@@ -31,12 +31,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6146     
 Soundgarden                    | 2    | 6130     
-Rush                           | 3    | 4658     
+Rush                           | 3    | 4659     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3151     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2846     
+AC/DC                          | 10   | 2848     
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -46,7 +46,7 @@ johndoe                        | 21   | 2164
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1774     
-The Smashing Pumpkins          | 27   | 1604     
+The Smashing Pumpkins          | 27   | 1613     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1360     
 Baroness                       | 31   | 1359     
@@ -68,14 +68,14 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 64   | 675      
-The Posies                     | 65   | 668      
+The Posies                     | 65   | 669      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
 Kylesa                         | 70   | 625      
 Devin Townsend Project         | 71   | 608      
 Dropkick Murphys               | 72   | 608      
 Spielbergs                     | 74   | 603      
-The Good The Bad and The Zugly | 76   | 531      
+The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 82   | 490      
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
@@ -117,19 +117,19 @@ Carcass          | 97   | 412
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3376     
+The Replacements         | 5    | 3377     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2274     
-Sugar                    | 32   | 1298     
+Sugar                    | 32   | 1299     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 728      
+Big Star                 | 58   | 730      
 Audioslave               | 62   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
-Paul Westerberg          | 77   | 530      
+Paul Westerberg          | 76   | 531      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 479      
