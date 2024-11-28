@@ -33,26 +33,26 @@ Pearl Jam                      | 1    | 6146
 Soundgarden                    | 2    | 6130     
 Rush                           | 3    | 4659     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3151     
+DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 10   | 2848     
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2351     
+Raga Rockers                   | 16   | 2356     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2164     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1774     
-The Smashing Pumpkins          | 27   | 1613     
+The Smashing Pumpkins          | 27   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1360     
 Baroness                       | 31   | 1359     
 Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
-Hellbillies                    | 37   | 1079     
+Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1019     
@@ -87,7 +87,7 @@ Swans                          | 100  | 404
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2376     
+Guided by Voices | 15   | 2377     
 Propagandhi      | 17   | 2303     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
@@ -95,7 +95,7 @@ The Menzingers   | 26   | 1636
 Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1295     
 The Black Crowes | 45   | 952      
-The Hold Steady  | 46   | 910      
+The Hold Steady  | 46   | 912      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
 Eddie Vedder     | 60   | 702      
@@ -111,13 +111,13 @@ Dawes            | 87   | 457
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 94   | 427      
-Carcass          | 97   | 412      
+Carcass          | 98   | 412      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3377     
+The Replacements         | 5    | 3382     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2274     
 Sugar                    | 32   | 1299     
@@ -138,4 +138,4 @@ The Band                 | 89   | 433
 The Twilight Singers     | 90   | 433      
 Warren Zevon             | 95   | 421      
 Marillion                | 96   | 418      
-Jokke med Tourettes      | 98   | 412      
+Jokke med Tourettes      | 97   | 413      
