@@ -42,14 +42,14 @@ Manic Street Preachers         | 12   | 2638
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 16   | 2356     
 Chris Cornell                  | 20   | 2239     
-johndoe                        | 21   | 2164     
+johndoe                        | 21   | 2165     
 The National                   | 22   | 2154     
 Spidergawd                     | 24   | 1801     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1614     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1360     
-Baroness                       | 31   | 1359     
+Baroness                       | 30   | 1368     
+Kvelertak                      | 31   | 1360     
 Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
@@ -88,7 +88,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
 Guided by Voices | 15   | 2377     
-Propagandhi      | 17   | 2303     
+Propagandhi      | 17   | 2315     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
@@ -117,7 +117,7 @@ Carcass          | 98   | 412
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3382     
+The Replacements         | 5    | 3387     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2274     
 Sugar                    | 32   | 1299     
