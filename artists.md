@@ -55,7 +55,7 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
-Anti-Lam Front                 | 41   | 1019     
+Anti-Lam Front                 | 41   | 1020     
 Pappasaft                      | 43   | 975      
 Thin Lizzy                     | 44   | 968      
 Tool                           | 47   | 879      
@@ -88,7 +88,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2389     
 Guided by Voices | 15   | 2377     
-Propagandhi      | 17   | 2315     
+Propagandhi      | 17   | 2316     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
 The Menzingers   | 26   | 1636     
@@ -117,7 +117,7 @@ Carcass          | 98   | 412
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3387     
+The Replacements         | 5    | 3399     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2274     
 Sugar                    | 32   | 1299     
