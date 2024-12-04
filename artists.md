@@ -55,7 +55,7 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
-Anti-Lam Front                 | 41   | 1021     
+Anti-Lam Front                 | 41   | 1023     
 Pappasaft                      | 43   | 975      
 Thin Lizzy                     | 44   | 968      
 Tool                           | 47   | 879      
@@ -67,7 +67,7 @@ The Tallest Man on Earth       | 53   | 791
 Devin Townsend                 | 55   | 762      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
-Ghost                          | 64   | 675      
+Ghost                          | 60   | 706      
 The Posies                     | 65   | 669      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
@@ -98,9 +98,9 @@ The Black Crowes | 45   | 952
 The Hold Steady  | 46   | 912      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
-Eddie Vedder     | 60   | 702      
-Afghan Whigs     | 61   | 696      
-Hot Water Music  | 63   | 680      
+Eddie Vedder     | 61   | 702      
+Afghan Whigs     | 62   | 696      
+Hot Water Music  | 64   | 680      
 The Hotelier     | 66   | 656      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 521      
@@ -126,7 +126,7 @@ Genesis                  | 38   | 1067
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 730      
-Audioslave               | 62   | 695      
+Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 531      
