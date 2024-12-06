@@ -56,7 +56,7 @@ Hellbillies                    | 37   | 1080
 Stein Torleif Bjella           | 39   | 1057     
 Justin Townes Earle            | 40   | 1035     
 Anti-Lam Front                 | 41   | 1023     
-Pappasaft                      | 43   | 975      
+Pappasaft                      | 43   | 976      
 Thin Lizzy                     | 44   | 968      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -101,7 +101,7 @@ Bob Dylan        | 54   | 786
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
-The Hotelier     | 66   | 656      
+The Hotelier     | 66   | 664      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 506      
@@ -111,7 +111,7 @@ Dawes            | 87   | 457
 Thåström         | 88   | 437      
 Cloud Nothings   | 92   | 428      
 Richard Thompson | 94   | 427      
-Carcass          | 98   | 412      
+Carcass          | 95   | 421      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -125,7 +125,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 730      
+Big Star                 | 58   | 731      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
@@ -136,6 +136,6 @@ Pink Floyd               | 83   | 479
 Black Sabbath            | 85   | 476      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
-Warren Zevon             | 95   | 421      
-Marillion                | 96   | 418      
-Jokke med Tourettes      | 97   | 413      
+Warren Zevon             | 96   | 421      
+Marillion                | 97   | 418      
+Jokke med Tourettes      | 98   | 414      
