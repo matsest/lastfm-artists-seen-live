@@ -29,7 +29,7 @@ Monkey3           | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6146     
+Pearl Jam                      | 1    | 6147     
 Soundgarden                    | 2    | 6130     
 Rush                           | 3    | 4659     
 The Gaslight Anthem            | 4    | 4508     
@@ -40,11 +40,11 @@ AC/DC                          | 10   | 2849
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2356     
+Raga Rockers                   | 16   | 2357     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2154     
-Spidergawd                     | 24   | 1801     
+Spidergawd                     | 24   | 1802     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1614     
 Mark Lanegan                   | 29   | 1525     
@@ -54,8 +54,8 @@ Chuck Ragan                    | 34   | 1236
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1057     
-Justin Townes Earle            | 40   | 1035     
-Anti-Lam Front                 | 41   | 1023     
+Anti-Lam Front                 | 40   | 1041     
+Justin Townes Earle            | 41   | 1035     
 Pappasaft                      | 43   | 976      
 Thin Lizzy                     | 44   | 968      
 Tool                           | 47   | 879      
@@ -80,14 +80,14 @@ Jason Isbell and the 400 Unit  | 82   | 490
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
 Opeth                          | 99   | 411      
-Swans                          | 100  | 404      
+Lastkaj 14                     | 100  | 409      
 
 ## Active top 100 artists not seen live (26)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2389     
-Guided by Voices | 15   | 2377     
+Alice in Chains  | 14   | 2390     
+Guided by Voices | 15   | 2378     
 Propagandhi      | 17   | 2316     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2105     
@@ -105,7 +105,7 @@ The Hotelier     | 66   | 664
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 506      
-The War on Drugs | 84   | 477      
+The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
 Thåström         | 88   | 437      
@@ -119,8 +119,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3400     
 Hüsker Dü                | 9    | 2917     
-The Who                  | 19   | 2274     
-Sugar                    | 32   | 1299     
+The Who                  | 19   | 2275     
+Sugar                    | 32   | 1300     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
@@ -132,8 +132,8 @@ Temple of the Dog        | 75   | 561
 Paul Westerberg          | 76   | 531      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
-Pink Floyd               | 83   | 479      
-Black Sabbath            | 85   | 476      
+Pink Floyd               | 83   | 481      
+Black Sabbath            | 84   | 477      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
 Warren Zevon             | 96   | 421      
