@@ -57,7 +57,7 @@ Stein Torleif Bjella           | 39   | 1057
 Anti-Lam Front                 | 40   | 1041     
 Justin Townes Earle            | 41   | 1035     
 Pappasaft                      | 43   | 976      
-Thin Lizzy                     | 44   | 968      
+Thin Lizzy                     | 44   | 969      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
@@ -68,7 +68,7 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 60   | 706      
-The Posies                     | 65   | 669      
+The Posies                     | 65   | 670      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 628      
 Kylesa                         | 70   | 625      
@@ -117,19 +117,19 @@ Carcass          | 95   | 421
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3400     
+The Replacements         | 5    | 3401     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2275     
-Sugar                    | 32   | 1300     
+Sugar                    | 32   | 1301     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 731      
+Big Star                 | 58   | 734      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
-Paul Westerberg          | 76   | 531      
+Paul Westerberg          | 76   | 532      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 481      
