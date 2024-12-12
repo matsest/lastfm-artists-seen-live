@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2866     
+AC/DC                          | 10   | 2867     
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -129,7 +129,7 @@ Big Star                 | 58   | 734
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
-Paul Westerberg          | 76   | 532      
+Paul Westerberg          | 76   | 537      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 481      
