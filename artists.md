@@ -40,7 +40,7 @@ AC/DC                          | 10   | 2867
 Bruce Springsteen              | 11   | 2835     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 16   | 2357     
+Raga Rockers                   | 15   | 2380     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2154     
@@ -55,7 +55,7 @@ Biffy Clyro                    | 36   | 1114
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1057     
 Anti-Lam Front                 | 40   | 1041     
-Justin Townes Earle            | 41   | 1035     
+Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 976      
 Thin Lizzy                     | 44   | 969      
 Tool                           | 47   | 879      
@@ -87,7 +87,7 @@ Lastkaj 14                     | 100  | 409
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2390     
-Guided by Voices | 15   | 2378     
+Guided by Voices | 16   | 2378     
 Propagandhi      | 17   | 2316     
 Bob Mould        | 18   | 2283     
 Ryan Adams       | 23   | 2116     
