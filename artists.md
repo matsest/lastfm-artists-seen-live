@@ -29,15 +29,15 @@ Monkey3           | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6147     
+Pearl Jam                      | 1    | 6148     
 Soundgarden                    | 2    | 6130     
 Rush                           | 3    | 4659     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2867     
-Bruce Springsteen              | 11   | 2835     
+AC/DC                          | 10   | 2868     
+Bruce Springsteen              | 11   | 2836     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2380     
@@ -57,7 +57,7 @@ Stein Torleif Bjella           | 39   | 1057
 Anti-Lam Front                 | 40   | 1041     
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 976      
-Thin Lizzy                     | 44   | 969      
+Thin Lizzy                     | 44   | 973      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
 Japandroids                    | 49   | 834      
@@ -70,7 +70,7 @@ Jason Isbell                   | 59   | 708
 Ghost                          | 60   | 706      
 The Posies                     | 65   | 670      
 Blood Command                  | 68   | 635      
-Clutch                         | 69   | 628      
+Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
 Devin Townsend Project         | 71   | 608      
 Dropkick Murphys               | 72   | 608      
@@ -79,7 +79,7 @@ The Good The Bad and The Zugly | 77   | 531
 Jason Isbell and the 400 Unit  | 82   | 490      
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
-Opeth                          | 99   | 411      
+Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 409      
 
 ## Active top 100 artists not seen live (26)
@@ -104,7 +104,7 @@ Hot Water Music  | 64   | 680
 The Hotelier     | 66   | 664      
 Neil Young       | 67   | 649      
 Dinosaur Jr.     | 79   | 521      
-Yes              | 80   | 506      
+Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
@@ -117,9 +117,9 @@ Carcass          | 95   | 421
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3401     
+The Replacements         | 5    | 3403     
 Hüsker Dü                | 9    | 2917     
-The Who                  | 19   | 2275     
+The Who                  | 19   | 2277     
 Sugar                    | 32   | 1301     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
@@ -132,7 +132,7 @@ Temple of the Dog        | 75   | 561
 Paul Westerberg          | 76   | 537      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
-Pink Floyd               | 83   | 481      
+Pink Floyd               | 83   | 482      
 Black Sabbath            | 84   | 477      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
