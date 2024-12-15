@@ -133,7 +133,7 @@ Paul Westerberg          | 76   | 537
 The Beatles              | 78   | 529      
 Rage Against the Machine | 81   | 492      
 Pink Floyd               | 83   | 482      
-Black Sabbath            | 84   | 477      
+Black Sabbath            | 84   | 478      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
 Warren Zevon             | 96   | 421      
