@@ -43,7 +43,7 @@ Frank Turner                   | 13   | 2525
 Raga Rockers                   | 15   | 2380     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
-The National                   | 22   | 2154     
+The National                   | 22   | 2155     
 Spidergawd                     | 24   | 1802     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1614     
@@ -53,8 +53,8 @@ Kvelertak                      | 31   | 1360
 Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
-Stein Torleif Bjella           | 39   | 1057     
-Anti-Lam Front                 | 40   | 1041     
+Stein Torleif Bjella           | 39   | 1059     
+Anti-Lam Front                 | 40   | 1042     
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 976      
 Thin Lizzy                     | 44   | 973      
@@ -80,7 +80,7 @@ Jason Isbell and the 400 Unit  | 82   | 490
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
 Opeth                          | 99   | 412      
-Lastkaj 14                     | 100  | 409      
+Lastkaj 14                     | 100  | 410      
 
 ## Active top 100 artists not seen live (26)
 
@@ -94,7 +94,7 @@ Ryan Adams       | 23   | 2116
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1295     
-The Black Crowes | 45   | 952      
+The Black Crowes | 45   | 953      
 The Hold Steady  | 46   | 912      
 Melvins          | 52   | 797      
 Bob Dylan        | 54   | 786      
