@@ -44,19 +44,19 @@ Raga Rockers                   | 15   | 2380
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1802     
+Spidergawd                     | 24   | 1803     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1614     
 Mark Lanegan                   | 29   | 1525     
-Baroness                       | 30   | 1368     
+Baroness                       | 30   | 1369     
 Kvelertak                      | 31   | 1360     
 Chuck Ragan                    | 34   | 1236     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1059     
-Anti-Lam Front                 | 40   | 1042     
+Anti-Lam Front                 | 40   | 1045     
 Justin Townes Earle            | 41   | 1036     
-Pappasaft                      | 43   | 976      
+Pappasaft                      | 43   | 979      
 Thin Lizzy                     | 44   | 973      
 Tool                           | 47   | 879      
 Oslo Ess                       | 48   | 863      
@@ -86,7 +86,7 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2390     
+Alice in Chains  | 14   | 2391     
 Guided by Voices | 16   | 2378     
 Propagandhi      | 17   | 2316     
 Bob Mould        | 18   | 2283     
