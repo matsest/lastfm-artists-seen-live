@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2873     
+AC/DC                          | 10   | 2874     
 Bruce Springsteen              | 11   | 2836     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -86,7 +86,7 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2391     
+Alice in Chains  | 14   | 2392     
 Guided by Voices | 16   | 2378     
 Propagandhi      | 17   | 2316     
 Bob Mould        | 18   | 2283     
