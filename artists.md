@@ -50,7 +50,7 @@ The Smashing Pumpkins          | 27   | 1614
 Mark Lanegan                   | 29   | 1525     
 Baroness                       | 30   | 1369     
 Kvelertak                      | 31   | 1360     
-Chuck Ragan                    | 34   | 1236     
+Chuck Ragan                    | 34   | 1237     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1059     
@@ -125,7 +125,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 734      
+Big Star                 | 58   | 735      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
