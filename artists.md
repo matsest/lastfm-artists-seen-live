@@ -125,7 +125,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 735      
+Big Star                 | 58   | 739      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
