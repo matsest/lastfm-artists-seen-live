@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2886     
+AC/DC                          | 10   | 2890     
 Bruce Springsteen              | 11   | 2836     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -125,7 +125,7 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 739      
+Big Star                 | 58   | 740      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
