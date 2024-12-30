@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2890     
+AC/DC                          | 10   | 2891     
 Bruce Springsteen              | 11   | 2836     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
@@ -63,7 +63,7 @@ Oslo Ess                       | 48   | 863
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
-The Tallest Man on Earth       | 53   | 791      
+The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 55   | 762      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
@@ -97,7 +97,7 @@ Touché Amoré     | 33   | 1295
 The Black Crowes | 45   | 953      
 The Hold Steady  | 46   | 912      
 Melvins          | 52   | 797      
-Bob Dylan        | 54   | 786      
+Bob Dylan        | 53   | 796      
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
