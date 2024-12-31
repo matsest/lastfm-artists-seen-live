@@ -76,7 +76,7 @@ Devin Townsend Project         | 71   | 608
 Dropkick Murphys               | 72   | 608      
 Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 531      
-Jason Isbell and the 400 Unit  | 82   | 490      
+Jason Isbell and the 400 Unit  | 81   | 499      
 Gojira                         | 91   | 432      
 Backstreet Girls               | 93   | 427      
 Opeth                          | 99   | 412      
@@ -96,8 +96,8 @@ Weezer           | 28   | 1572
 Touché Amoré     | 33   | 1295     
 The Black Crowes | 45   | 953      
 The Hold Steady  | 46   | 912      
-Melvins          | 52   | 797      
-Bob Dylan        | 53   | 796      
+Bob Dylan        | 52   | 797      
+Melvins          | 53   | 797      
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
@@ -131,7 +131,7 @@ Foo Fighters             | 73   | 607
 Temple of the Dog        | 75   | 561      
 Paul Westerberg          | 76   | 537      
 The Beatles              | 78   | 529      
-Rage Against the Machine | 81   | 492      
+Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
 Black Sabbath            | 84   | 478      
 The Band                 | 89   | 433      
