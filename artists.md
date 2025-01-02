@@ -129,7 +129,7 @@ Big Star                 | 58   | 740
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
 Temple of the Dog        | 75   | 561      
-Paul Westerberg          | 76   | 537      
+Paul Westerberg          | 76   | 550      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
