@@ -37,7 +37,7 @@ DumDum Boys                    | 6    | 3155
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 10   | 2891     
-Bruce Springsteen              | 11   | 2836     
+Bruce Springsteen              | 11   | 2891     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2380     
@@ -78,7 +78,7 @@ Spielbergs                     | 74   | 603
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 499      
 Gojira                         | 91   | 432      
-Backstreet Girls               | 93   | 427      
+Backstreet Girls               | 92   | 429      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -109,7 +109,7 @@ The War on Drugs | 85   | 477
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
 Thåström         | 88   | 437      
-Cloud Nothings   | 92   | 428      
+Cloud Nothings   | 93   | 428      
 Richard Thompson | 94   | 427      
 Carcass          | 95   | 421      
 
