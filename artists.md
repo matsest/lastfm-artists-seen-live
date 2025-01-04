@@ -36,8 +36,8 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2891     
-Bruce Springsteen              | 11   | 2891     
+AC/DC                          | 10   | 2901     
+Bruce Springsteen              | 11   | 2900     
 Manic Street Preachers         | 12   | 2638     
 Frank Turner                   | 13   | 2525     
 Raga Rockers                   | 15   | 2380     
@@ -78,7 +78,7 @@ Spielbergs                     | 74   | 603
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 499      
 Gojira                         | 91   | 432      
-Backstreet Girls               | 92   | 429      
+Backstreet Girls               | 92   | 430      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -89,7 +89,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2392     
 Guided by Voices | 16   | 2378     
 Propagandhi      | 17   | 2316     
-Bob Mould        | 18   | 2283     
+Bob Mould        | 18   | 2289     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -109,15 +109,15 @@ The War on Drugs | 85   | 477
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
 Thåström         | 88   | 437      
-Cloud Nothings   | 93   | 428      
-Richard Thompson | 94   | 427      
-Carcass          | 95   | 421      
+Cloud Nothings   | 94   | 428      
+Richard Thompson | 95   | 427      
+Carcass          | 96   | 421      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3403     
+The Replacements         | 5    | 3404     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1301     
@@ -128,14 +128,14 @@ Jokke & Valentinerne     | 57   | 755
 Big Star                 | 58   | 740      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
-Temple of the Dog        | 75   | 561      
-Paul Westerberg          | 76   | 550      
+Paul Westerberg          | 75   | 564      
+Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
 Black Sabbath            | 84   | 478      
 The Band                 | 89   | 433      
 The Twilight Singers     | 90   | 433      
-Warren Zevon             | 96   | 421      
+Warren Zevon             | 93   | 429      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
