@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 467
+- Number of artists seen live in total: 468
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist            | Seen live
------------------ | ---------
-The Sheepdogs     | True     
-The Commoners     | True     
-Big Star's Third  | True     
-Inter Arma        | True     
-Purple Hill Witch | True     
-Feral Nature      | True     
-SÂVER             | True     
-Häxer             | True     
-Strange Horizon   | True     
-Monkey3           | True     
+Artist              | Seen live
+------------------- | ---------
+Kosmik Boogie Tribe | True     
+The Sheepdogs       | True     
+The Commoners       | True     
+Big Star's Third    | True     
+Inter Arma          | True     
+Purple Hill Witch   | True     
+Feral Nature        | True     
+SÂVER               | True     
+Häxer               | True     
+Strange Horizon     | True     
 
 ## Top 100 artists seen live (52)
 
@@ -68,7 +68,7 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 60   | 706      
-The Posies                     | 65   | 670      
+The Posies                     | 65   | 674      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
@@ -125,10 +125,10 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 740      
+Big Star                 | 58   | 750      
 Audioslave               | 63   | 695      
 Foo Fighters             | 73   | 607      
-Paul Westerberg          | 75   | 564      
+Paul Westerberg          | 75   | 568      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
