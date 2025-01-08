@@ -87,8 +87,8 @@ Lastkaj 14                     | 100  | 410
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2392     
-Guided by Voices | 16   | 2378     
-Propagandhi      | 17   | 2316     
+Guided by Voices | 16   | 2379     
+Propagandhi      | 17   | 2322     
 Bob Mould        | 18   | 2289     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 66   | 664      
-Neil Young       | 67   | 649      
+Neil Young       | 67   | 650      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
