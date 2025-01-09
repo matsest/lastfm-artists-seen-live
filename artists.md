@@ -48,7 +48,7 @@ Spidergawd                     | 24   | 1803
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1614     
 Mark Lanegan                   | 29   | 1525     
-Baroness                       | 30   | 1369     
+Baroness                       | 30   | 1370     
 Kvelertak                      | 31   | 1360     
 Chuck Ragan                    | 34   | 1237     
 Biffy Clyro                    | 36   | 1114     
@@ -89,7 +89,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2392     
 Guided by Voices | 16   | 2379     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2289     
+Bob Mould        | 18   | 2290     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -127,7 +127,7 @@ Fugazi                   | 42   | 999
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 750      
 Audioslave               | 63   | 695      
-Foo Fighters             | 73   | 607      
+Foo Fighters             | 73   | 608      
 Paul Westerberg          | 75   | 568      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
