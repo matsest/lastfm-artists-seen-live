@@ -59,7 +59,7 @@ Justin Townes Earle            | 41   | 1036
 Pappasaft                      | 43   | 979      
 Thin Lizzy                     | 44   | 973      
 Tool                           | 47   | 879      
-Oslo Ess                       | 48   | 863      
+Oslo Ess                       | 48   | 874      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
@@ -89,7 +89,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2392     
 Guided by Voices | 16   | 2379     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2290     
+Bob Mould        | 18   | 2291     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
