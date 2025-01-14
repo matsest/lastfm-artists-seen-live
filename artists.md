@@ -58,8 +58,8 @@ Anti-Lam Front                 | 40   | 1045
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 979      
 Thin Lizzy                     | 44   | 973      
-Tool                           | 47   | 879      
-Oslo Ess                       | 48   | 874      
+Oslo Ess                       | 47   | 892      
+Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
@@ -68,12 +68,12 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 60   | 706      
-The Posies                     | 65   | 674      
+The Posies                     | 65   | 675      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
-Devin Townsend Project         | 71   | 608      
-Dropkick Murphys               | 72   | 608      
+Devin Townsend Project         | 72   | 608      
+Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 499      
@@ -89,7 +89,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2392     
 Guided by Voices | 16   | 2379     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2291     
+Bob Mould        | 18   | 2293     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -125,10 +125,10 @@ The Horrible Crowes      | 35   | 1179
 Genesis                  | 38   | 1067     
 Fugazi                   | 42   | 999      
 Jokke & Valentinerne     | 57   | 755      
-Big Star                 | 58   | 750      
+Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
-Foo Fighters             | 73   | 608      
-Paul Westerberg          | 75   | 568      
+Foo Fighters             | 71   | 609      
+Paul Westerberg          | 75   | 582      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
