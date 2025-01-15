@@ -68,7 +68,7 @@ Devin Townsend                 | 55   | 762
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 60   | 706      
-The Posies                     | 65   | 675      
+The Posies                     | 66   | 675      
 Blood Command                  | 68   | 635      
 Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
@@ -101,7 +101,7 @@ Melvins          | 53   | 797
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
-The Hotelier     | 66   | 664      
+The Hotelier     | 65   | 676      
 Neil Young       | 67   | 650      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 507      
