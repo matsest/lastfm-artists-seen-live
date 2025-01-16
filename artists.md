@@ -36,11 +36,11 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 10   | 2901     
-Bruce Springsteen              | 11   | 2900     
-Manic Street Preachers         | 12   | 2638     
-Frank Turner                   | 13   | 2525     
-Raga Rockers                   | 15   | 2380     
+Bruce Springsteen              | 10   | 2914     
+AC/DC                          | 11   | 2903     
+Manic Street Preachers         | 12   | 2639     
+Frank Turner                   | 13   | 2526     
+Raga Rockers                   | 16   | 2380     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
@@ -57,7 +57,7 @@ Stein Torleif Bjella           | 39   | 1059
 Anti-Lam Front                 | 40   | 1045     
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 979      
-Thin Lizzy                     | 44   | 973      
+Thin Lizzy                     | 44   | 976      
 Oslo Ess                       | 47   | 892      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
@@ -87,9 +87,9 @@ Lastkaj 14                     | 100  | 410
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2392     
-Guided by Voices | 16   | 2379     
+Guided by Voices | 15   | 2382     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2293     
+Bob Mould        | 18   | 2294     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 650      
+Neil Young       | 67   | 651      
 Dinosaur Jr.     | 79   | 521      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
