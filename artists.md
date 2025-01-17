@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 468
+- Number of artists seen live in total: 469
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist              | Seen live
 ------------------- | ---------
+Göttemia            | True     
 Kosmik Boogie Tribe | True     
 The Sheepdogs       | True     
 The Commoners       | True     
@@ -23,7 +24,6 @@ Purple Hill Witch   | True
 Feral Nature        | True     
 SÂVER               | True     
 Häxer               | True     
-Strange Horizon     | True     
 
 ## Top 100 artists seen live (52)
 
@@ -57,8 +57,8 @@ Stein Torleif Bjella           | 39   | 1059
 Anti-Lam Front                 | 40   | 1045     
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 979      
-Thin Lizzy                     | 44   | 976      
-Oslo Ess                       | 47   | 892      
+Thin Lizzy                     | 44   | 977      
+Oslo Ess                       | 46   | 930      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
@@ -95,7 +95,7 @@ The Menzingers   | 26   | 1636
 Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1295     
 The Black Crowes | 45   | 953      
-The Hold Steady  | 46   | 912      
+The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
 Eddie Vedder     | 61   | 702      
@@ -117,7 +117,7 @@ Carcass          | 96   | 421
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3404     
+The Replacements         | 5    | 3406     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1309     
