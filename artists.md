@@ -37,7 +37,7 @@ DumDum Boys                    | 6    | 3155
 Motorpsycho                    | 7    | 3010     
 Against Me!                    | 8    | 3003     
 Bruce Springsteen              | 10   | 2914     
-AC/DC                          | 11   | 2903     
+AC/DC                          | 11   | 2905     
 Manic Street Preachers         | 12   | 2639     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2380     
@@ -58,13 +58,13 @@ Anti-Lam Front                 | 40   | 1045
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 979      
 Thin Lizzy                     | 44   | 977      
-Oslo Ess                       | 46   | 930      
+Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 54   | 791      
-Devin Townsend                 | 55   | 762      
+Devin Townsend                 | 55   | 771      
 Thulsa Doom                    | 56   | 758      
 Jason Isbell                   | 59   | 708      
 Ghost                          | 60   | 706      
@@ -117,7 +117,7 @@ Carcass          | 96   | 421
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3406     
+The Replacements         | 5    | 3409     
 Hüsker Dü                | 9    | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1309     
