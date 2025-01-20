@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6148     
 Soundgarden                    | 2    | 6130     
-Rush                           | 3    | 4659     
+Rush                           | 3    | 4660     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3010     
@@ -128,7 +128,7 @@ Jokke & Valentinerne     | 57   | 755
 Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 609      
-Paul Westerberg          | 75   | 582      
+Paul Westerberg          | 75   | 594      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
