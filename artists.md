@@ -77,8 +77,8 @@ Dropkick Murphys               | 73   | 608
 Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 499      
-Gojira                         | 91   | 432      
-Backstreet Girls               | 92   | 430      
+Gojira                         | 92   | 432      
+Backstreet Girls               | 93   | 430      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -108,9 +108,9 @@ Yes              | 80   | 507
 The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
-Thåström         | 88   | 437      
-Cloud Nothings   | 94   | 428      
-Richard Thompson | 95   | 427      
+Richard Thompson | 88   | 449      
+Thåström         | 89   | 437      
+Cloud Nothings   | 95   | 428      
 Carcass          | 96   | 421      
 
 ## Inactive top 100 artists not seen live (22)
@@ -134,8 +134,8 @@ The Beatles              | 78   | 529
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
 Black Sabbath            | 84   | 478      
-The Band                 | 89   | 433      
-The Twilight Singers     | 90   | 433      
-Warren Zevon             | 93   | 429      
+The Band                 | 90   | 433      
+The Twilight Singers     | 91   | 433      
+Warren Zevon             | 94   | 429      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
