@@ -89,12 +89,12 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2392     
 Guided by Voices | 15   | 2382     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2294     
+Bob Mould        | 18   | 2296     
 Ryan Adams       | 23   | 2116     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1295     
-The Black Crowes | 45   | 953      
+The Black Crowes | 45   | 954      
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
@@ -103,12 +103,12 @@ Afghan Whigs     | 62   | 696
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
 Neil Young       | 67   | 651      
-Dinosaur Jr.     | 79   | 521      
+Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
-Richard Thompson | 88   | 449      
+Richard Thompson | 88   | 453      
 Thåström         | 89   | 437      
 Cloud Nothings   | 95   | 428      
 Carcass          | 96   | 421      
