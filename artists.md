@@ -66,7 +66,7 @@ Sweden                         | 51   | 809
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 55   | 771      
 Thulsa Doom                    | 56   | 758      
-Jason Isbell                   | 59   | 708      
+Jason Isbell                   | 59   | 711      
 Ghost                          | 60   | 706      
 The Posies                     | 66   | 675      
 Blood Command                  | 68   | 635      
@@ -76,9 +76,9 @@ Devin Townsend Project         | 72   | 608
 Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 531      
-Jason Isbell and the 400 Unit  | 81   | 499      
+Jason Isbell and the 400 Unit  | 81   | 502      
 Gojira                         | 92   | 432      
-Backstreet Girls               | 93   | 430      
+Backstreet Girls               | 94   | 430      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -90,7 +90,7 @@ Alice in Chains  | 14   | 2392
 Guided by Voices | 15   | 2382     
 Propagandhi      | 17   | 2322     
 Bob Mould        | 18   | 2296     
-Ryan Adams       | 23   | 2116     
+Ryan Adams       | 23   | 2119     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 Touché Amoré     | 33   | 1295     
@@ -102,13 +102,13 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 651      
+Neil Young       | 67   | 652      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
 Dawes            | 87   | 457      
-Richard Thompson | 88   | 453      
+Richard Thompson | 88   | 454      
 Thåström         | 89   | 437      
 Cloud Nothings   | 95   | 428      
 Carcass          | 96   | 421      
@@ -136,6 +136,6 @@ Pink Floyd               | 83   | 482
 Black Sabbath            | 84   | 478      
 The Band                 | 90   | 433      
 The Twilight Singers     | 91   | 433      
-Warren Zevon             | 94   | 429      
+Warren Zevon             | 93   | 431      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
