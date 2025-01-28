@@ -34,10 +34,10 @@ Soundgarden                    | 2    | 6130
 Rush                           | 3    | 4660     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3155     
-Motorpsycho                    | 7    | 3010     
+Motorpsycho                    | 7    | 3011     
 Against Me!                    | 8    | 3003     
-Bruce Springsteen              | 10   | 2914     
-AC/DC                          | 11   | 2910     
+AC/DC                          | 9    | 2919     
+Bruce Springsteen              | 11   | 2914     
 Manic Street Preachers         | 12   | 2639     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2380     
@@ -107,8 +107,8 @@ Dinosaur Jr.     | 79   | 522
 Yes              | 80   | 507      
 The War on Drugs | 85   | 477      
 Faith No More    | 86   | 465      
-Dawes            | 87   | 457      
-Richard Thompson | 88   | 454      
+Richard Thompson | 87   | 461      
+Dawes            | 88   | 457      
 Thåström         | 89   | 437      
 Cloud Nothings   | 95   | 428      
 Carcass          | 96   | 421      
@@ -118,7 +118,7 @@ Carcass          | 96   | 421
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3409     
-Hüsker Dü                | 9    | 2917     
+Hüsker Dü                | 10   | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1309     
 The Horrible Crowes      | 35   | 1179     
