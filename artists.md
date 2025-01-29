@@ -36,9 +36,9 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3011     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2919     
+AC/DC                          | 9    | 2920     
 Bruce Springsteen              | 11   | 2914     
-Manic Street Preachers         | 12   | 2639     
+Manic Street Preachers         | 12   | 2640     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2380     
 Chris Cornell                  | 20   | 2239     
