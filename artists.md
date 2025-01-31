@@ -40,7 +40,7 @@ AC/DC                          | 9    | 2920
 Bruce Springsteen              | 11   | 2914     
 Manic Street Preachers         | 12   | 2640     
 Frank Turner                   | 13   | 2526     
-Raga Rockers                   | 16   | 2380     
+Raga Rockers                   | 16   | 2382     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
@@ -111,7 +111,7 @@ Richard Thompson | 87   | 461
 Dawes            | 88   | 457      
 Thåström         | 89   | 437      
 Cloud Nothings   | 95   | 428      
-Carcass          | 96   | 426      
+Carcass          | 96   | 427      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -127,7 +127,7 @@ Fugazi                   | 42   | 999
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
-Foo Fighters             | 71   | 609      
+Foo Fighters             | 71   | 610      
 Paul Westerberg          | 75   | 594      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
