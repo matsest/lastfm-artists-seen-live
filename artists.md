@@ -30,23 +30,23 @@ Häxer               | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6148     
-Soundgarden                    | 2    | 6130     
-Rush                           | 3    | 4660     
+Soundgarden                    | 2    | 6131     
+Rush                           | 3    | 4663     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3011     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2920     
-Bruce Springsteen              | 11   | 2914     
-Manic Street Preachers         | 12   | 2640     
+AC/DC                          | 9    | 2926     
+Bruce Springsteen              | 11   | 2915     
+Manic Street Preachers         | 12   | 2641     
 Frank Turner                   | 13   | 2526     
-Raga Rockers                   | 16   | 2382     
+Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
 Spidergawd                     | 24   | 1803     
 Mastodon                       | 25   | 1774     
-The Smashing Pumpkins          | 27   | 1614     
+The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
 Baroness                       | 30   | 1370     
 Kvelertak                      | 31   | 1360     
@@ -54,10 +54,10 @@ Chuck Ragan                    | 34   | 1237
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1059     
-Anti-Lam Front                 | 40   | 1045     
+Anti-Lam Front                 | 40   | 1047     
 Justin Townes Earle            | 41   | 1036     
 Pappasaft                      | 43   | 979      
-Thin Lizzy                     | 44   | 977      
+Thin Lizzy                     | 44   | 978      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
@@ -86,8 +86,8 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2392     
-Guided by Voices | 15   | 2382     
+Alice in Chains  | 14   | 2393     
+Guided by Voices | 15   | 2383     
 Propagandhi      | 17   | 2322     
 Bob Mould        | 18   | 2296     
 Ryan Adams       | 23   | 2119     
@@ -117,7 +117,7 @@ Carcass          | 96   | 427
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3409     
+The Replacements         | 5    | 3410     
 Hüsker Dü                | 10   | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1309     
