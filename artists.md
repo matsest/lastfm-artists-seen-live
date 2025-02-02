@@ -29,7 +29,7 @@ Häxer               | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6148     
+Pearl Jam                      | 1    | 6149     
 Soundgarden                    | 2    | 6131     
 Rush                           | 3    | 4663     
 The Gaslight Anthem            | 4    | 4508     
@@ -50,7 +50,7 @@ The Smashing Pumpkins          | 27   | 1615
 Mark Lanegan                   | 29   | 1525     
 Baroness                       | 30   | 1370     
 Kvelertak                      | 31   | 1360     
-Chuck Ragan                    | 34   | 1237     
+Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1059     
