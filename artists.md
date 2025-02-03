@@ -36,15 +36,15 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3155     
 Motorpsycho                    | 7    | 3011     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2926     
-Bruce Springsteen              | 11   | 2915     
+AC/DC                          | 9    | 2929     
+Bruce Springsteen              | 10   | 2917     
 Manic Street Preachers         | 12   | 2641     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1803     
+Spidergawd                     | 24   | 1809     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
@@ -87,7 +87,7 @@ Lastkaj 14                     | 100  | 410
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2393     
-Guided by Voices | 15   | 2383     
+Guided by Voices | 15   | 2384     
 Propagandhi      | 17   | 2322     
 Bob Mould        | 18   | 2296     
 Ryan Adams       | 23   | 2119     
@@ -102,10 +102,10 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 652      
+Neil Young       | 67   | 655      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
-The War on Drugs | 85   | 477      
+The War on Drugs | 85   | 478      
 Faith No More    | 86   | 465      
 Richard Thompson | 87   | 461      
 Dawes            | 88   | 457      
@@ -118,7 +118,7 @@ Carcass          | 96   | 427
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3410     
-Hüsker Dü                | 10   | 2917     
+Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2277     
 Sugar                    | 32   | 1309     
 The Horrible Crowes      | 35   | 1179     
@@ -127,7 +127,7 @@ Fugazi                   | 42   | 999
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
-Foo Fighters             | 71   | 610      
+Foo Fighters             | 71   | 612      
 Paul Westerberg          | 75   | 594      
 Temple of the Dog        | 76   | 561      
 The Beatles              | 78   | 529      
