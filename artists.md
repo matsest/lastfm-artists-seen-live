@@ -44,7 +44,7 @@ Raga Rockers                   | 16   | 2383
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1809     
+Spidergawd                     | 24   | 1810     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
@@ -56,8 +56,8 @@ Hellbillies                    | 37   | 1080
 Stein Torleif Bjella           | 39   | 1059     
 Anti-Lam Front                 | 40   | 1047     
 Justin Townes Earle            | 41   | 1036     
-Pappasaft                      | 43   | 979      
-Thin Lizzy                     | 44   | 978      
+Thin Lizzy                     | 43   | 988      
+Pappasaft                      | 44   | 979      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
