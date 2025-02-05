@@ -56,7 +56,7 @@ Hellbillies                    | 37   | 1080
 Stein Torleif Bjella           | 39   | 1059     
 Anti-Lam Front                 | 40   | 1047     
 Justin Townes Earle            | 41   | 1036     
-Thin Lizzy                     | 43   | 988      
+Thin Lizzy                     | 42   | 1033     
 Pappasaft                      | 44   | 979      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
@@ -123,7 +123,7 @@ The Who                  | 19   | 2277
 Sugar                    | 32   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
-Fugazi                   | 42   | 999      
+Fugazi                   | 43   | 999      
 Jokke & Valentinerne     | 57   | 755      
 Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
