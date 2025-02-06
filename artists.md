@@ -31,12 +31,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6149     
 Soundgarden                    | 2    | 6131     
-Rush                           | 3    | 4663     
+Rush                           | 3    | 4664     
 The Gaslight Anthem            | 4    | 4508     
-DumDum Boys                    | 6    | 3155     
+DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3011     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2929     
+AC/DC                          | 9    | 2936     
 Bruce Springsteen              | 10   | 2917     
 Manic Street Preachers         | 12   | 2641     
 Frank Turner                   | 13   | 2526     
@@ -56,7 +56,7 @@ Hellbillies                    | 37   | 1080
 Stein Torleif Bjella           | 39   | 1059     
 Anti-Lam Front                 | 40   | 1047     
 Justin Townes Earle            | 41   | 1036     
-Thin Lizzy                     | 42   | 1033     
+Thin Lizzy                     | 42   | 1036     
 Pappasaft                      | 44   | 979      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
@@ -89,11 +89,11 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2393     
 Guided by Voices | 15   | 2384     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2296     
+Bob Mould        | 18   | 2297     
 Ryan Adams       | 23   | 2119     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-Touché Amoré     | 33   | 1295     
+Touché Amoré     | 32   | 1317     
 The Black Crowes | 45   | 954      
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
@@ -120,11 +120,11 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3410     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2277     
-Sugar                    | 32   | 1309     
+Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 43   | 999      
-Jokke & Valentinerne     | 57   | 755      
+Jokke & Valentinerne     | 57   | 756      
 Big Star                 | 58   | 754      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
