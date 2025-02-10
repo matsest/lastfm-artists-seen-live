@@ -54,9 +54,9 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1059     
-Anti-Lam Front                 | 40   | 1047     
-Justin Townes Earle            | 41   | 1036     
-Thin Lizzy                     | 42   | 1036     
+Thin Lizzy                     | 40   | 1051     
+Anti-Lam Front                 | 41   | 1047     
+Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 44   | 979      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
@@ -86,8 +86,8 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2393     
-Guided by Voices | 15   | 2384     
+Guided by Voices | 14   | 2400     
+Alice in Chains  | 15   | 2393     
 Propagandhi      | 17   | 2322     
 Bob Mould        | 18   | 2297     
 Ryan Adams       | 23   | 2119     
