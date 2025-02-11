@@ -2,18 +2,19 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 469
+- Number of artists seen live in total: 470
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 52 (Active: 45 Inactive: 7)
+- Number of top artists seen live: 53 (Active: 46 Inactive: 7)
 
-- Number of top artists not seen live: 48 (Active: 26 Inactive: 22)
+- Number of top artists not seen live: 47 (Active: 25 Inactive: 22)
 
 ## Last 10 artists seen live
 
 Artist              | Seen live
 ------------------- | ---------
+Touché Amoré        | True     
 Göttemia            | True     
 Kosmik Boogie Tribe | True     
 The Sheepdogs       | True     
@@ -23,9 +24,8 @@ Inter Arma          | True
 Purple Hill Witch   | True     
 Feral Nature        | True     
 SÂVER               | True     
-Häxer               | True     
 
-## Top 100 artists seen live (52)
+## Top 100 artists seen live (53)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -49,7 +49,8 @@ Mastodon                       | 25   | 1774
 The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
 Baroness                       | 30   | 1370     
-Kvelertak                      | 31   | 1360     
+Touché Amoré                   | 31   | 1361     
+Kvelertak                      | 32   | 1360     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
@@ -82,18 +83,17 @@ Backstreet Girls               | 95   | 430
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
-## Active top 100 artists not seen live (26)
+## Active top 100 artists not seen live (25)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 14   | 2400     
 Alice in Chains  | 15   | 2393     
 Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2297     
+Bob Mould        | 18   | 2298     
 Ryan Adams       | 23   | 2119     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-Touché Amoré     | 32   | 1339     
 The Black Crowes | 45   | 954      
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
