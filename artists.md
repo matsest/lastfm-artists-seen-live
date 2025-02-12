@@ -48,13 +48,13 @@ Spidergawd                     | 24   | 1810
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
-Baroness                       | 30   | 1370     
-Touché Amoré                   | 31   | 1361     
+Touché Amoré                   | 30   | 1371     
+Baroness                       | 31   | 1370     
 Kvelertak                      | 32   | 1360     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
-Stein Torleif Bjella           | 39   | 1059     
+Stein Torleif Bjella           | 39   | 1060     
 Thin Lizzy                     | 40   | 1051     
 Anti-Lam Front                 | 41   | 1047     
 Justin Townes Earle            | 42   | 1036     
@@ -65,8 +65,8 @@ Japandroids                    | 49   | 834
 Brian Fallon                   | 50   | 818      
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 54   | 791      
-Devin Townsend                 | 55   | 771      
-Thulsa Doom                    | 56   | 758      
+Devin Townsend                 | 56   | 771      
+Thulsa Doom                    | 57   | 758      
 Jason Isbell                   | 59   | 711      
 Ghost                          | 60   | 706      
 The Posies                     | 66   | 675      
@@ -89,8 +89,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 14   | 2400     
 Alice in Chains  | 15   | 2393     
-Propagandhi      | 17   | 2322     
-Bob Mould        | 18   | 2298     
+Propagandhi      | 17   | 2323     
+Bob Mould        | 18   | 2299     
 Ryan Adams       | 23   | 2119     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -124,8 +124,8 @@ Sugar                    | 33   | 1309
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
 Fugazi                   | 43   | 999      
-Jokke & Valentinerne     | 57   | 756      
-Big Star                 | 58   | 754      
+Big Star                 | 55   | 775      
+Jokke & Valentinerne     | 58   | 756      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
 Paul Westerberg          | 75   | 594      
