@@ -38,7 +38,7 @@ Motorpsycho                    | 7    | 3012
 Against Me!                    | 8    | 3003     
 AC/DC                          | 9    | 2937     
 Bruce Springsteen              | 10   | 2917     
-Manic Street Preachers         | 12   | 2641     
+Manic Street Preachers         | 12   | 2653     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
@@ -89,9 +89,9 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 14   | 2400     
 Alice in Chains  | 15   | 2393     
-Propagandhi      | 17   | 2352     
+Propagandhi      | 17   | 2359     
 Bob Mould        | 18   | 2302     
-Ryan Adams       | 23   | 2119     
+Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 45   | 954      
@@ -107,7 +107,7 @@ Dinosaur Jr.     | 79   | 522
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
 Faith No More    | 86   | 465      
-Richard Thompson | 87   | 461      
+Richard Thompson | 87   | 465      
 Dawes            | 88   | 457      
 Thåström         | 89   | 437      
 Carcass          | 90   | 435      
