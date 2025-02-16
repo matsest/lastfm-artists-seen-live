@@ -106,8 +106,8 @@ Neil Young       | 67   | 655
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
-Faith No More    | 86   | 465      
-Richard Thompson | 87   | 465      
+Richard Thompson | 86   | 466      
+Faith No More    | 87   | 465      
 Dawes            | 88   | 457      
 Thåström         | 89   | 437      
 Carcass          | 90   | 435      
