@@ -44,7 +44,7 @@ Raga Rockers                   | 16   | 2383
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1810     
+Spidergawd                     | 24   | 1848     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1615     
 Mark Lanegan                   | 29   | 1525     
@@ -94,7 +94,7 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 45   | 954      
+The Black Crowes | 45   | 955      
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
