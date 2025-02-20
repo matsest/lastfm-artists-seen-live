@@ -58,7 +58,7 @@ Stein Torleif Bjella           | 39   | 1060
 Thin Lizzy                     | 40   | 1051     
 Anti-Lam Front                 | 41   | 1047     
 Justin Townes Earle            | 42   | 1036     
-Pappasaft                      | 44   | 979      
+Pappasaft                      | 45   | 979      
 Oslo Ess                       | 46   | 935      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
@@ -94,7 +94,7 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 45   | 971      
+The Black Crowes | 44   | 983      
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
