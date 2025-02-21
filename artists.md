@@ -94,7 +94,7 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 44   | 983      
+The Black Crowes | 43   | 1008     
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
@@ -123,7 +123,7 @@ The Who                  | 19   | 2277
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1067     
-Fugazi                   | 43   | 999      
+Fugazi                   | 44   | 999      
 Big Star                 | 55   | 781      
 Jokke & Valentinerne     | 58   | 757      
 Audioslave               | 63   | 695      
