@@ -29,24 +29,24 @@ SÂVER               | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6149     
+Pearl Jam                      | 1    | 6150     
 Soundgarden                    | 2    | 6131     
-Rush                           | 3    | 4664     
+Rush                           | 3    | 4665     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3012     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 9    | 2937     
-Bruce Springsteen              | 10   | 2917     
+Bruce Springsteen              | 10   | 2918     
 Manic Street Preachers         | 12   | 2653     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1848     
+Spidergawd                     | 24   | 1849     
 Mastodon                       | 25   | 1774     
-The Smashing Pumpkins          | 27   | 1615     
+The Smashing Pumpkins          | 27   | 1616     
 Mark Lanegan                   | 29   | 1525     
 Touché Amoré                   | 30   | 1371     
 Baroness                       | 31   | 1370     
@@ -55,7 +55,7 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1060     
-Thin Lizzy                     | 40   | 1051     
+Thin Lizzy                     | 40   | 1052     
 Anti-Lam Front                 | 41   | 1047     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
@@ -87,14 +87,14 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 14   | 2400     
+Guided by Voices | 14   | 2401     
 Alice in Chains  | 15   | 2393     
 Propagandhi      | 17   | 2359     
 Bob Mould        | 18   | 2302     
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1008     
+The Black Crowes | 43   | 1009     
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
@@ -129,7 +129,7 @@ Jokke & Valentinerne     | 58   | 757
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
 Paul Westerberg          | 75   | 600      
-Temple of the Dog        | 76   | 561      
+Temple of the Dog        | 76   | 562      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
