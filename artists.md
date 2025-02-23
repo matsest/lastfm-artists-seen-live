@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3012     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2937     
+AC/DC                          | 9    | 2965     
 Bruce Springsteen              | 10   | 2918     
 Manic Street Preachers         | 12   | 2653     
 Frank Turner                   | 13   | 2526     
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 655      
+Neil Young       | 67   | 656      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
