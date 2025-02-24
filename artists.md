@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3012     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2965     
+AC/DC                          | 9    | 2966     
 Bruce Springsteen              | 10   | 2918     
 Manic Street Preachers         | 12   | 2653     
 Frank Turner                   | 13   | 2526     
@@ -44,7 +44,7 @@ Raga Rockers                   | 16   | 2383
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2165     
 The National                   | 22   | 2155     
-Spidergawd                     | 24   | 1849     
+Spidergawd                     | 24   | 1850     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1616     
 Mark Lanegan                   | 29   | 1525     
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 656      
+Neil Young       | 67   | 657      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
