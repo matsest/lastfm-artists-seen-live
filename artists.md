@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6150     
 Soundgarden                    | 2    | 6131     
-Rush                           | 3    | 4665     
+Rush                           | 3    | 4688     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3012     
@@ -79,7 +79,7 @@ Spielbergs                     | 74   | 603
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Gojira                         | 93   | 432      
-Backstreet Girls               | 95   | 430      
+Backstreet Girls               | 94   | 431      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 Hot Water Music  | 64   | 680      
 The Hotelier     | 65   | 676      
-Neil Young       | 67   | 657      
+Neil Young       | 67   | 658      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
@@ -136,6 +136,6 @@ Pink Floyd               | 83   | 482
 Black Sabbath            | 84   | 478      
 The Band                 | 91   | 433      
 The Twilight Singers     | 92   | 433      
-Warren Zevon             | 94   | 431      
+Warren Zevon             | 95   | 431      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
