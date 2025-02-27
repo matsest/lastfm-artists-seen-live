@@ -34,9 +34,9 @@ Soundgarden                    | 2    | 6131
 Rush                           | 3    | 4689     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3156     
-Motorpsycho                    | 7    | 3012     
+Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2966     
+AC/DC                          | 9    | 2967     
 Bruce Springsteen              | 10   | 2918     
 Manic Street Preachers         | 12   | 2653     
 Frank Turner                   | 13   | 2526     
@@ -55,8 +55,8 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1060     
-Thin Lizzy                     | 40   | 1052     
-Anti-Lam Front                 | 41   | 1047     
+Thin Lizzy                     | 40   | 1054     
+Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
 Oslo Ess                       | 46   | 935      
@@ -122,7 +122,7 @@ Hüsker Dü                | 11   | 2917
 The Who                  | 19   | 2277     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
-Genesis                  | 38   | 1067     
+Genesis                  | 38   | 1068     
 Fugazi                   | 44   | 999      
 Big Star                 | 55   | 781      
 Jokke & Valentinerne     | 58   | 757      
