@@ -88,8 +88,8 @@ Lastkaj 14                     | 100  | 410
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 14   | 2401     
-Alice in Chains  | 15   | 2393     
-Propagandhi      | 17   | 2359     
+Alice in Chains  | 15   | 2398     
+Propagandhi      | 17   | 2360     
 Bob Mould        | 18   | 2302     
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
@@ -100,8 +100,8 @@ Bob Dylan        | 52   | 797
 Melvins          | 53   | 797      
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
-Hot Water Music  | 64   | 680      
-The Hotelier     | 65   | 676      
+The Hotelier     | 64   | 684      
+Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 658      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
