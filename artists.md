@@ -36,9 +36,9 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2967     
-Bruce Springsteen              | 10   | 2918     
-Manic Street Preachers         | 12   | 2653     
+AC/DC                          | 9    | 2968     
+Bruce Springsteen              | 10   | 2920     
+Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
@@ -46,7 +46,7 @@ johndoe                        | 21   | 2165
 The National                   | 22   | 2155     
 Spidergawd                     | 24   | 1850     
 Mastodon                       | 25   | 1774     
-The Smashing Pumpkins          | 27   | 1616     
+The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
 Touché Amoré                   | 30   | 1371     
 Baroness                       | 31   | 1370     
@@ -55,7 +55,7 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1060     
-Thin Lizzy                     | 40   | 1054     
+Thin Lizzy                     | 40   | 1055     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
@@ -66,7 +66,7 @@ Brian Fallon                   | 50   | 818
 Sweden                         | 51   | 809      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
-Thulsa Doom                    | 57   | 758      
+Thulsa Doom                    | 58   | 758      
 Jason Isbell                   | 59   | 711      
 Ghost                          | 60   | 706      
 The Posies                     | 66   | 675      
@@ -94,15 +94,15 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1009     
+The Black Crowes | 43   | 1010     
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
-The Hotelier     | 64   | 684      
+The Hotelier     | 64   | 685      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 658      
+Neil Young       | 67   | 659      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
@@ -117,15 +117,15 @@ Cloud Nothings   | 96   | 428
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3415     
+The Replacements         | 5    | 3416     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2277     
+The Who                  | 19   | 2279     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
 Fugazi                   | 44   | 999      
 Big Star                 | 55   | 781      
-Jokke & Valentinerne     | 58   | 757      
+Jokke & Valentinerne     | 57   | 758      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
 Paul Westerberg          | 75   | 600      
