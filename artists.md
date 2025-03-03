@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2654
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
 Chris Cornell                  | 20   | 2239     
-johndoe                        | 21   | 2165     
+johndoe                        | 21   | 2167     
 The National                   | 22   | 2155     
 Spidergawd                     | 24   | 1850     
 Mastodon                       | 25   | 1774     
@@ -59,7 +59,7 @@ Thin Lizzy                     | 40   | 1055
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
-Oslo Ess                       | 46   | 935      
+Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
 Brian Fallon                   | 50   | 818      
@@ -94,7 +94,7 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1010     
+The Black Crowes | 43   | 1011     
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
