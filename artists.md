@@ -37,7 +37,7 @@ DumDum Boys                    | 6    | 3156
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 9    | 2968     
-Bruce Springsteen              | 10   | 2921     
+Bruce Springsteen              | 10   | 2923     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2383     
@@ -55,7 +55,7 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1060     
-Thin Lizzy                     | 40   | 1055     
+Thin Lizzy                     | 40   | 1056     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
@@ -94,7 +94,7 @@ Bob Mould        | 18   | 2302
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1011     
+The Black Crowes | 43   | 1012     
 The Hold Steady  | 47   | 912      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
