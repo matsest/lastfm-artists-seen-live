@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2968     
+AC/DC                          | 9    | 2970     
 Bruce Springsteen              | 10   | 2923     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
@@ -78,8 +78,8 @@ Dropkick Murphys               | 73   | 608
 Spielbergs                     | 74   | 603      
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 502      
-Gojira                         | 93   | 432      
-Backstreet Girls               | 94   | 431      
+Backstreet Girls               | 88   | 458      
+Gojira                         | 94   | 432      
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
@@ -108,9 +108,9 @@ Yes              | 80   | 507
 The War on Drugs | 85   | 478      
 Richard Thompson | 86   | 466      
 Faith No More    | 87   | 465      
-Dawes            | 88   | 457      
-Thåström         | 89   | 437      
-Carcass          | 90   | 435      
+Dawes            | 89   | 457      
+Thåström         | 90   | 437      
+Carcass          | 91   | 435      
 Cloud Nothings   | 96   | 428      
 
 ## Inactive top 100 artists not seen live (22)
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3416     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2279     
+The Who                  | 19   | 2280     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
@@ -134,8 +134,8 @@ The Beatles              | 78   | 529
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 482      
 Black Sabbath            | 84   | 478      
-The Band                 | 91   | 433      
-The Twilight Singers     | 92   | 433      
+The Band                 | 92   | 433      
+The Twilight Singers     | 93   | 433      
 Warren Zevon             | 95   | 431      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
