@@ -31,12 +31,12 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6150     
 Soundgarden                    | 2    | 6131     
-Rush                           | 3    | 4689     
+Rush                           | 3    | 4690     
 The Gaslight Anthem            | 4    | 4508     
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2991     
+AC/DC                          | 9    | 2993     
 Bruce Springsteen              | 10   | 2923     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
@@ -109,8 +109,8 @@ The War on Drugs | 85   | 478
 Richard Thompson | 86   | 466      
 Faith No More    | 87   | 465      
 Dawes            | 89   | 457      
-Thåström         | 90   | 437      
-Carcass          | 91   | 435      
+Carcass          | 90   | 447      
+Thåström         | 91   | 437      
 Cloud Nothings   | 96   | 428      
 
 ## Inactive top 100 artists not seen live (22)
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3416     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2280     
+The Who                  | 19   | 2281     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
