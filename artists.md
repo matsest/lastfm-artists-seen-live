@@ -40,7 +40,7 @@ AC/DC                          | 9    | 2993
 Bruce Springsteen              | 10   | 2923     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
-Raga Rockers                   | 16   | 2383     
+Raga Rockers                   | 16   | 2392     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2167     
 The National                   | 22   | 2155     
@@ -67,8 +67,8 @@ Sweden                         | 51   | 809
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 758      
-Jason Isbell                   | 59   | 711      
-Ghost                          | 60   | 706      
+Jason Isbell                   | 59   | 722      
+Ghost                          | 60   | 708      
 The Posies                     | 66   | 675      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 Guided by Voices | 14   | 2401     
 Alice in Chains  | 15   | 2398     
 Propagandhi      | 17   | 2360     
-Bob Mould        | 18   | 2302     
+Bob Mould        | 18   | 2341     
 Ryan Adams       | 23   | 2121     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -109,7 +109,7 @@ The War on Drugs | 85   | 478
 Richard Thompson | 86   | 466      
 Faith No More    | 87   | 465      
 Dawes            | 89   | 457      
-Carcass          | 90   | 447      
+Carcass          | 90   | 449      
 Thåström         | 91   | 437      
 Cloud Nothings   | 96   | 428      
 
