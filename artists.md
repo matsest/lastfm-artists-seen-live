@@ -68,7 +68,7 @@ The Tallest Man on Earth       | 54   | 791
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 758      
 Jason Isbell                   | 59   | 722      
-Ghost                          | 60   | 708      
+Ghost                          | 60   | 709      
 The Posies                     | 66   | 675      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
@@ -87,8 +87,8 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 14   | 2401     
-Alice in Chains  | 15   | 2398     
+Alice in Chains  | 14   | 2403     
+Guided by Voices | 15   | 2401     
 Propagandhi      | 17   | 2360     
 Bob Mould        | 18   | 2341     
 Ryan Adams       | 23   | 2121     
