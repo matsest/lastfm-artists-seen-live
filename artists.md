@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4508
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
-AC/DC                          | 9    | 2993     
+AC/DC                          | 9    | 2994     
 Bruce Springsteen              | 10   | 2923     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
@@ -55,7 +55,7 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1060     
-Thin Lizzy                     | 40   | 1056     
+Thin Lizzy                     | 40   | 1057     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
@@ -90,8 +90,8 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2404     
 Guided by Voices | 15   | 2401     
 Propagandhi      | 17   | 2361     
-Bob Mould        | 18   | 2341     
-Ryan Adams       | 23   | 2121     
+Bob Mould        | 18   | 2351     
+Ryan Adams       | 23   | 2129     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3416     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2281     
+The Who                  | 19   | 2282     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
