@@ -2,18 +2,19 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 470
+- Number of artists seen live in total: 471
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 53 (Active: 46 Inactive: 7)
+- Number of top artists seen live: 54 (Active: 47 Inactive: 7)
 
-- Number of top artists not seen live: 47 (Active: 25 Inactive: 22)
+- Number of top artists not seen live: 46 (Active: 24 Inactive: 22)
 
 ## Last 10 artists seen live
 
 Artist              | Seen live
 ------------------- | ---------
+Ryan Adams          | True     
 Touché Amoré        | True     
 Göttemia            | True     
 Kosmik Boogie Tribe | True     
@@ -23,9 +24,8 @@ Big Star's Third    | True
 Inter Arma          | True     
 Purple Hill Witch   | True     
 Feral Nature        | True     
-SÂVER               | True     
 
-## Top 100 artists seen live (53)
+## Top 100 artists seen live (54)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -44,6 +44,7 @@ Raga Rockers                   | 16   | 2392
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2167     
 The National                   | 22   | 2155     
+Ryan Adams                     | 23   | 2135     
 Spidergawd                     | 24   | 1850     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1617     
@@ -83,7 +84,7 @@ Gojira                         | 94   | 432
 Opeth                          | 99   | 412      
 Lastkaj 14                     | 100  | 410      
 
-## Active top 100 artists not seen live (25)
+## Active top 100 artists not seen live (24)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
@@ -91,7 +92,6 @@ Alice in Chains  | 14   | 2404
 Guided by Voices | 15   | 2401     
 Propagandhi      | 17   | 2362     
 Bob Mould        | 18   | 2351     
-Ryan Adams       | 23   | 2135     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
