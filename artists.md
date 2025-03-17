@@ -42,9 +42,9 @@ Manic Street Preachers         | 12   | 2654
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2392     
 Chris Cornell                  | 20   | 2239     
-johndoe                        | 21   | 2167     
-The National                   | 22   | 2155     
-Ryan Adams                     | 23   | 2135     
+Ryan Adams                     | 21   | 2185     
+johndoe                        | 22   | 2167     
+The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1850     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1617     
