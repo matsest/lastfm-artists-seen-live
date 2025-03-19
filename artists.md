@@ -37,12 +37,12 @@ DumDum Boys                    | 6    | 3156
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3003     
 AC/DC                          | 9    | 2996     
-Bruce Springsteen              | 10   | 2923     
+Bruce Springsteen              | 10   | 2924     
 Manic Street Preachers         | 12   | 2654     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2392     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2185     
+Ryan Adams                     | 21   | 2186     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1850     
@@ -81,7 +81,7 @@ The Good The Bad and The Zugly | 77   | 531
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 458      
 Gojira                         | 94   | 432      
-Opeth                          | 99   | 412      
+Opeth                          | 99   | 413      
 Lastkaj 14                     | 100  | 410      
 
 ## Active top 100 artists not seen live (24)
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2404     
 Guided by Voices | 15   | 2401     
-Propagandhi      | 17   | 2362     
+Propagandhi      | 17   | 2363     
 Bob Mould        | 18   | 2351     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
@@ -109,7 +109,7 @@ The War on Drugs | 85   | 478
 Richard Thompson | 86   | 466      
 Faith No More    | 87   | 465      
 Dawes            | 89   | 457      
-Carcass          | 90   | 449      
+Carcass          | 90   | 452      
 Thåström         | 91   | 437      
 Cloud Nothings   | 96   | 428      
 
