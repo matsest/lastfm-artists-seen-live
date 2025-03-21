@@ -35,7 +35,7 @@ Rush                           | 3    | 4690
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
-Against Me!                    | 8    | 3003     
+Against Me!                    | 8    | 3004     
 AC/DC                          | 9    | 2996     
 Bruce Springsteen              | 10   | 2924     
 Manic Street Preachers         | 12   | 2654     
@@ -76,7 +76,7 @@ Clutch                         | 69   | 629
 Kylesa                         | 70   | 625      
 Devin Townsend Project         | 72   | 608      
 Dropkick Murphys               | 73   | 608      
-Spielbergs                     | 74   | 603      
+Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 531      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 458      
@@ -88,10 +88,10 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2404     
+Alice in Chains  | 14   | 2405     
 Guided by Voices | 15   | 2401     
 Propagandhi      | 17   | 2363     
-Bob Mould        | 18   | 2351     
+Bob Mould        | 18   | 2356     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
@@ -117,18 +117,18 @@ Cloud Nothings   | 96   | 428
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3416     
+The Replacements         | 5    | 3419     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2282     
 Sugar                    | 33   | 1309     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
 Fugazi                   | 44   | 999      
-Big Star                 | 55   | 781      
+Big Star                 | 55   | 783      
 Jokke & Valentinerne     | 57   | 758      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
-Paul Westerberg          | 75   | 600      
+Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 562      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
