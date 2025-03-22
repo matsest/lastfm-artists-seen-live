@@ -29,23 +29,23 @@ Feral Nature        | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6150     
-Soundgarden                    | 2    | 6131     
-Rush                           | 3    | 4690     
+Pearl Jam                      | 1    | 6151     
+Soundgarden                    | 2    | 6133     
+Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3004     
-AC/DC                          | 9    | 2996     
+AC/DC                          | 9    | 2997     
 Bruce Springsteen              | 10   | 2924     
-Manic Street Preachers         | 12   | 2654     
+Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
-Raga Rockers                   | 16   | 2392     
+Raga Rockers                   | 16   | 2393     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2186     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1850     
+Spidergawd                     | 24   | 1852     
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
@@ -56,7 +56,7 @@ Chuck Ragan                    | 34   | 1257
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
 Stein Torleif Bjella           | 39   | 1061     
-Thin Lizzy                     | 40   | 1057     
+Thin Lizzy                     | 40   | 1060     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 45   | 979      
@@ -88,8 +88,8 @@ Lastkaj 14                     | 100  | 410
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Alice in Chains  | 14   | 2405     
-Guided by Voices | 15   | 2401     
+Alice in Chains  | 14   | 2409     
+Guided by Voices | 15   | 2402     
 Propagandhi      | 17   | 2363     
 Bob Mould        | 18   | 2356     
 The Menzingers   | 26   | 1636     
@@ -102,12 +102,12 @@ Eddie Vedder     | 61   | 702
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 685      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 659      
+Neil Young       | 67   | 660      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 478      
-Richard Thompson | 86   | 466      
-Faith No More    | 87   | 465      
+Faith No More    | 86   | 466      
+Richard Thompson | 87   | 466      
 Dawes            | 89   | 457      
 Carcass          | 90   | 452      
 Thåström         | 91   | 437      
@@ -117,23 +117,23 @@ Cloud Nothings   | 96   | 428
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3419     
+The Replacements         | 5    | 3421     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2282     
-Sugar                    | 33   | 1309     
+The Who                  | 19   | 2284     
+Sugar                    | 33   | 1313     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
 Fugazi                   | 44   | 999      
 Big Star                 | 55   | 783      
-Jokke & Valentinerne     | 57   | 758      
+Jokke & Valentinerne     | 57   | 759      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
 Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 562      
 The Beatles              | 78   | 529      
 Rage Against the Machine | 82   | 492      
-Pink Floyd               | 83   | 482      
-Black Sabbath            | 84   | 478      
+Pink Floyd               | 83   | 483      
+Black Sabbath            | 84   | 479      
 The Band                 | 92   | 433      
 The Twilight Singers     | 93   | 433      
 Warren Zevon             | 95   | 431      
