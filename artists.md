@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4511
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3013     
 Against Me!                    | 8    | 3004     
-AC/DC                          | 9    | 2997     
+AC/DC                          | 9    | 2998     
 Bruce Springsteen              | 10   | 2924     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3421     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2284     
-Sugar                    | 33   | 1313     
+Sugar                    | 33   | 1314     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
 Fugazi                   | 44   | 999      
