@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2656
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2393     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2186     
+Ryan Adams                     | 21   | 2187     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1852     
@@ -91,11 +91,11 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2402     
 Propagandhi      | 17   | 2363     
-Bob Mould        | 18   | 2356     
+Bob Mould        | 18   | 2357     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
-The Hold Steady  | 47   | 912      
+The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
 Eddie Vedder     | 61   | 702      
