@@ -49,9 +49,9 @@ Spidergawd                     | 24   | 1852
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
-Touché Amoré                   | 30   | 1371     
-Baroness                       | 31   | 1370     
-Kvelertak                      | 32   | 1360     
+Kvelertak                      | 30   | 1379     
+Touché Amoré                   | 31   | 1371     
+Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
