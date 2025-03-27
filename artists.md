@@ -49,7 +49,7 @@ Spidergawd                     | 24   | 1852
 Mastodon                       | 25   | 1774     
 The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1379     
+Kvelertak                      | 30   | 1381     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
@@ -59,7 +59,7 @@ Stein Torleif Bjella           | 39   | 1061
 Thin Lizzy                     | 40   | 1060     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
-Pappasaft                      | 45   | 979      
+Pappasaft                      | 44   | 1006     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
@@ -77,7 +77,7 @@ Kylesa                         | 70   | 625
 Devin Townsend Project         | 72   | 608      
 Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 75   | 603      
-The Good The Bad and The Zugly | 77   | 531      
+The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 458      
 Gojira                         | 94   | 432      
@@ -90,8 +90,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2402     
-Propagandhi      | 17   | 2363     
-Bob Mould        | 18   | 2357     
+Propagandhi      | 17   | 2364     
+Bob Mould        | 18   | 2358     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
@@ -123,7 +123,7 @@ The Who                  | 19   | 2284
 Sugar                    | 33   | 1314     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 38   | 1068     
-Fugazi                   | 44   | 999      
+Fugazi                   | 45   | 999      
 Big Star                 | 55   | 783      
 Jokke & Valentinerne     | 57   | 759      
 Audioslave               | 63   | 695      
