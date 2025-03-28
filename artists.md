@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6133
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3156     
-Motorpsycho                    | 7    | 3013     
+Motorpsycho                    | 7    | 3014     
 Against Me!                    | 8    | 3004     
 AC/DC                          | 9    | 2998     
 Bruce Springsteen              | 10   | 2924     
@@ -59,7 +59,7 @@ Stein Torleif Bjella           | 39   | 1061
 Thin Lizzy                     | 40   | 1060     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
-Pappasaft                      | 44   | 1006     
+Pappasaft                      | 44   | 1009     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
@@ -82,7 +82,7 @@ Jason Isbell and the 400 Unit  | 81   | 502
 Backstreet Girls               | 88   | 458      
 Gojira                         | 94   | 432      
 Opeth                          | 99   | 413      
-Lastkaj 14                     | 100  | 410      
+Lastkaj 14                     | 100  | 411      
 
 ## Active top 100 artists not seen live (24)
 
@@ -90,8 +90,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2402     
-Propagandhi      | 17   | 2364     
-Bob Mould        | 18   | 2358     
+Propagandhi      | 17   | 2366     
+Bob Mould        | 18   | 2359     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
@@ -111,7 +111,7 @@ Richard Thompson | 87   | 466
 Dawes            | 89   | 457      
 Carcass          | 90   | 452      
 Thåström         | 91   | 437      
-Cloud Nothings   | 96   | 428      
+Cloud Nothings   | 96   | 430      
 
 ## Inactive top 100 artists not seen live (22)
 
