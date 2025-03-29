@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4511
 DumDum Boys                    | 6    | 3156     
 Motorpsycho                    | 7    | 3014     
 Against Me!                    | 8    | 3004     
-AC/DC                          | 9    | 2998     
+AC/DC                          | 9    | 3003     
 Bruce Springsteen              | 10   | 2924     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
@@ -46,7 +46,7 @@ Ryan Adams                     | 21   | 2187
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1852     
-Mastodon                       | 25   | 1774     
+Mastodon                       | 25   | 1777     
 The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1381     
@@ -91,7 +91,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2402     
 Propagandhi      | 17   | 2366     
-Bob Mould        | 18   | 2359     
+Bob Mould        | 18   | 2360     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
 The Black Crowes | 43   | 1012     
@@ -111,7 +111,7 @@ Richard Thompson | 87   | 466
 Dawes            | 89   | 457      
 Carcass          | 90   | 452      
 Thåström         | 91   | 437      
-Cloud Nothings   | 96   | 430      
+Cloud Nothings   | 95   | 431      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -136,6 +136,6 @@ Pink Floyd               | 83   | 483
 Black Sabbath            | 84   | 479      
 The Band                 | 92   | 433      
 The Twilight Singers     | 93   | 433      
-Warren Zevon             | 95   | 431      
+Warren Zevon             | 96   | 431      
 Marillion                | 97   | 418      
 Jokke med Tourettes      | 98   | 414      
