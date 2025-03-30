@@ -94,7 +94,7 @@ Propagandhi      | 17   | 2366
 Bob Mould        | 18   | 2360     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1012     
+The Black Crowes | 43   | 1017     
 The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
