@@ -63,8 +63,8 @@ Pappasaft                      | 44   | 1009
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Japandroids                    | 49   | 834      
-Brian Fallon                   | 50   | 818      
-Sweden                         | 51   | 809      
+Sweden                         | 50   | 822      
+Brian Fallon                   | 51   | 818      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 758      
