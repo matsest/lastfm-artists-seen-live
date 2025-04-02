@@ -62,8 +62,8 @@ Justin Townes Earle            | 42   | 1036
 Pappasaft                      | 44   | 1009     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
-Japandroids                    | 49   | 834      
-Sweden                         | 50   | 822      
+Sweden                         | 49   | 838      
+Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 818      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
@@ -93,8 +93,8 @@ Guided by Voices | 15   | 2402
 Propagandhi      | 17   | 2366     
 Bob Mould        | 18   | 2360     
 The Menzingers   | 26   | 1636     
-Weezer           | 28   | 1572     
-The Black Crowes | 43   | 1025     
+Weezer           | 28   | 1582     
+The Black Crowes | 43   | 1026     
 The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
