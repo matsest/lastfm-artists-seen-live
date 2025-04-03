@@ -33,11 +33,11 @@ Pearl Jam                      | 1    | 6152
 Soundgarden                    | 2    | 6133     
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4511     
-DumDum Boys                    | 6    | 3156     
+DumDum Boys                    | 6    | 3157     
 Motorpsycho                    | 7    | 3014     
-Against Me!                    | 8    | 3004     
-AC/DC                          | 9    | 3003     
-Bruce Springsteen              | 10   | 2924     
+AC/DC                          | 8    | 3006     
+Against Me!                    | 9    | 3004     
+Bruce Springsteen              | 10   | 2925     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2393     
@@ -94,7 +94,7 @@ Propagandhi      | 17   | 2366
 Bob Mould        | 18   | 2360     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1582     
-The Black Crowes | 43   | 1026     
+The Black Crowes | 43   | 1027     
 The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
