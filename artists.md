@@ -37,7 +37,7 @@ DumDum Boys                    | 6    | 3157
 Motorpsycho                    | 7    | 3014     
 AC/DC                          | 8    | 3006     
 Against Me!                    | 9    | 3004     
-Bruce Springsteen              | 10   | 2925     
+Bruce Springsteen              | 10   | 2926     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 16   | 2393     
@@ -55,8 +55,8 @@ Baroness                       | 32   | 1370
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Hellbillies                    | 37   | 1080     
-Stein Torleif Bjella           | 39   | 1061     
-Thin Lizzy                     | 40   | 1060     
+Thin Lizzy                     | 38   | 1079     
+Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1049     
 Justin Townes Earle            | 42   | 1036     
 Pappasaft                      | 44   | 1009     
@@ -122,7 +122,7 @@ Hüsker Dü                | 11   | 2917
 The Who                  | 19   | 2284     
 Sugar                    | 33   | 1314     
 The Horrible Crowes      | 35   | 1179     
-Genesis                  | 38   | 1068     
+Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 783      
 Jokke & Valentinerne     | 57   | 759      
