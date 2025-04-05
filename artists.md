@@ -54,12 +54,12 @@ Touché Amoré                   | 31   | 1371
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Hellbillies                    | 37   | 1080     
-Thin Lizzy                     | 38   | 1079     
+Thin Lizzy                     | 37   | 1081     
+Hellbillies                    | 38   | 1080     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1049     
-Justin Townes Earle            | 42   | 1036     
-Pappasaft                      | 44   | 1009     
+Pappasaft                      | 42   | 1044     
+Justin Townes Earle            | 43   | 1036     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 838      
@@ -94,7 +94,7 @@ Propagandhi      | 17   | 2366
 Bob Mould        | 18   | 2360     
 The Menzingers   | 26   | 1636     
 Weezer           | 28   | 1582     
-The Black Crowes | 43   | 1027     
+The Black Crowes | 44   | 1027     
 The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
