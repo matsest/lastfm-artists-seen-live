@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6133
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3157     
-Motorpsycho                    | 7    | 3014     
+Motorpsycho                    | 7    | 3023     
 AC/DC                          | 8    | 3006     
 Against Me!                    | 9    | 3004     
 Bruce Springsteen              | 10   | 2926     
@@ -54,7 +54,7 @@ Touché Amoré                   | 31   | 1371
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1081     
+Thin Lizzy                     | 37   | 1092     
 Hellbillies                    | 38   | 1080     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1049     
@@ -62,15 +62,15 @@ Pappasaft                      | 42   | 1044
 Justin Townes Earle            | 43   | 1036     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 838      
+Sweden                         | 49   | 841      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 818      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
-Thulsa Doom                    | 58   | 758      
+Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
 Ghost                          | 60   | 709      
-The Posies                     | 66   | 675      
+The Posies                     | 66   | 676      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
@@ -124,13 +124,13 @@ Sugar                    | 33   | 1314
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 55   | 783      
-Jokke & Valentinerne     | 57   | 759      
+Big Star                 | 55   | 786      
+Jokke & Valentinerne     | 57   | 760      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
 Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 562      
-The Beatles              | 78   | 529      
+The Beatles              | 78   | 530      
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 483      
 Black Sabbath            | 84   | 479      
