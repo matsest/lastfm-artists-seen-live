@@ -58,7 +58,7 @@ Thin Lizzy                     | 37   | 1092
 Hellbillies                    | 38   | 1080     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1049     
-Pappasaft                      | 42   | 1044     
+Pappasaft                      | 42   | 1045     
 Justin Townes Earle            | 43   | 1036     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
@@ -70,7 +70,7 @@ Devin Townsend                 | 56   | 771
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
 Ghost                          | 60   | 709      
-The Posies                     | 66   | 676      
+The Posies                     | 66   | 677      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
 Kylesa                         | 70   | 625      
@@ -79,7 +79,7 @@ Dropkick Murphys               | 73   | 608
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
-Backstreet Girls               | 88   | 458      
+Backstreet Girls               | 88   | 461      
 Gojira                         | 94   | 432      
 Opeth                          | 99   | 413      
 Lastkaj 14                     | 100  | 411      
@@ -89,10 +89,10 @@ Lastkaj 14                     | 100  | 411
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
-Guided by Voices | 15   | 2402     
+Guided by Voices | 15   | 2404     
 Propagandhi      | 17   | 2366     
-Bob Mould        | 18   | 2360     
-The Menzingers   | 26   | 1636     
+Bob Mould        | 18   | 2363     
+The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1027     
 The Hold Steady  | 47   | 913      
@@ -108,8 +108,8 @@ Yes              | 80   | 507
 The War on Drugs | 85   | 478      
 Faith No More    | 86   | 466      
 Richard Thompson | 87   | 466      
-Dawes            | 89   | 457      
-Carcass          | 90   | 452      
+Carcass          | 89   | 459      
+Dawes            | 90   | 457      
 Thåström         | 91   | 437      
 Cloud Nothings   | 95   | 431      
 
@@ -117,14 +117,14 @@ Cloud Nothings   | 95   | 431
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3421     
+The Replacements         | 5    | 3423     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2284     
 Sugar                    | 33   | 1314     
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 55   | 786      
+Big Star                 | 55   | 788      
 Jokke & Valentinerne     | 57   | 760      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
