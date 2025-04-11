@@ -35,7 +35,7 @@ Rush                           | 3    | 4697
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3157     
 Motorpsycho                    | 7    | 3023     
-AC/DC                          | 8    | 3006     
+AC/DC                          | 8    | 3007     
 Against Me!                    | 9    | 3004     
 Bruce Springsteen              | 10   | 2928     
 Manic Street Preachers         | 12   | 2656     
@@ -91,10 +91,10 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2404     
 Propagandhi      | 17   | 2366     
-Bob Mould        | 18   | 2363     
+Bob Mould        | 18   | 2364     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
-The Black Crowes | 44   | 1027     
+The Black Crowes | 44   | 1028     
 The Hold Steady  | 47   | 913      
 Bob Dylan        | 52   | 797      
 Melvins          | 53   | 797      
