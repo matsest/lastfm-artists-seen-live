@@ -91,7 +91,7 @@ Name             | Rank | PlayCount
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2404     
 Propagandhi      | 17   | 2366     
-Bob Mould        | 18   | 2364     
+Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1028     
