@@ -69,7 +69,7 @@ The Tallest Man on Earth       | 54   | 791
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 709      
+Ghost                          | 60   | 710      
 The Posies                     | 66   | 677      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
@@ -80,9 +80,9 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 461      
-Gojira                         | 94   | 432      
-Opeth                          | 99   | 413      
-Lastkaj 14                     | 100  | 411      
+Michael Krohn                  | 91   | 448      
+Gojira                         | 95   | 432      
+Opeth                          | 100  | 413      
 
 ## Active top 100 artists not seen live (24)
 
@@ -110,8 +110,8 @@ Faith No More    | 86   | 466
 Richard Thompson | 87   | 466      
 Carcass          | 89   | 459      
 Dawes            | 90   | 457      
-Thåström         | 91   | 437      
-Cloud Nothings   | 95   | 431      
+Thåström         | 92   | 437      
+Cloud Nothings   | 96   | 431      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -134,8 +134,8 @@ The Beatles              | 78   | 531
 Rage Against the Machine | 82   | 492      
 Pink Floyd               | 83   | 483      
 Black Sabbath            | 84   | 479      
-The Band                 | 92   | 433      
-The Twilight Singers     | 93   | 433      
-Warren Zevon             | 96   | 431      
-Marillion                | 97   | 418      
-Jokke med Tourettes      | 98   | 414      
+The Band                 | 93   | 433      
+The Twilight Singers     | 94   | 433      
+Warren Zevon             | 97   | 431      
+Marillion                | 98   | 418      
+Jokke med Tourettes      | 99   | 414      
