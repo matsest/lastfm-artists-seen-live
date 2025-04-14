@@ -80,7 +80,7 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 461      
-Michael Krohn                  | 91   | 448      
+Michael Krohn                  | 91   | 449      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
 
