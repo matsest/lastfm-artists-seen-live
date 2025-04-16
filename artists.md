@@ -35,7 +35,7 @@ Rush                           | 3    | 4697
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3157     
 Motorpsycho                    | 7    | 3023     
-AC/DC                          | 8    | 3007     
+AC/DC                          | 8    | 3015     
 Against Me!                    | 9    | 3004     
 Bruce Springsteen              | 10   | 2928     
 Manic Street Preachers         | 12   | 2656     
@@ -73,7 +73,7 @@ Ghost                          | 60   | 710
 The Posies                     | 66   | 677      
 Blood Command                  | 68   | 637      
 Clutch                         | 69   | 629      
-Kylesa                         | 70   | 625      
+Kylesa                         | 70   | 626      
 Devin Townsend Project         | 72   | 608      
 Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 75   | 603      
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2404     
-Propagandhi      | 17   | 2366     
+Propagandhi      | 17   | 2379     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
