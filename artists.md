@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 471
+- Number of artists seen live in total: 473
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist              | Seen live
 ------------------- | ---------
+Ponte del Diavolo   | True     
+Blood Incantation   | True     
 Ryan Adams          | True     
 Touché Amoré        | True     
 Göttemia            | True     
@@ -22,8 +24,6 @@ The Sheepdogs       | True
 The Commoners       | True     
 Big Star's Third    | True     
 Inter Arma          | True     
-Purple Hill Witch   | True     
-Feral Nature        | True     
 
 ## Top 100 artists seen live (54)
 
@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3004
 Bruce Springsteen              | 10   | 2928     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
-Raga Rockers                   | 16   | 2393     
+Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2187     
 johndoe                        | 22   | 2167     
@@ -71,9 +71,9 @@ Thulsa Doom                    | 58   | 759
 Jason Isbell                   | 59   | 733      
 Ghost                          | 60   | 710      
 The Posies                     | 66   | 677      
-Blood Command                  | 68   | 637      
-Clutch                         | 69   | 629      
-Kylesa                         | 70   | 626      
+Kylesa                         | 68   | 642      
+Blood Command                  | 69   | 637      
+Clutch                         | 70   | 629      
 Devin Townsend Project         | 72   | 608      
 Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 75   | 603      
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2404     
-Propagandhi      | 17   | 2379     
+Propagandhi      | 16   | 2397     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
