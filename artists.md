@@ -62,7 +62,7 @@ Pappasaft                      | 42   | 1045
 Justin Townes Earle            | 43   | 1036     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 841      
+Sweden                         | 49   | 842      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 818      
 The Tallest Man on Earth       | 54   | 791      
@@ -80,7 +80,7 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 88   | 461      
-Michael Krohn                  | 91   | 449      
+Michael Krohn                  | 91   | 450      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
 
@@ -89,8 +89,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
-Guided by Voices | 15   | 2404     
-Propagandhi      | 16   | 2397     
+Guided by Voices | 15   | 2405     
+Propagandhi      | 16   | 2398     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
@@ -124,7 +124,7 @@ Sugar                    | 33   | 1314
 The Horrible Crowes      | 35   | 1179     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 55   | 788      
+Big Star                 | 55   | 789      
 Jokke & Valentinerne     | 57   | 760      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 612      
