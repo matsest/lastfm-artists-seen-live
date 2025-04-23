@@ -69,9 +69,9 @@ The Tallest Man on Earth       | 54   | 791
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 710      
+Ghost                          | 60   | 711      
 The Posies                     | 66   | 677      
-Kylesa                         | 68   | 642      
+Kylesa                         | 68   | 643      
 Blood Command                  | 69   | 637      
 Clutch                         | 70   | 629      
 Devin Townsend Project         | 72   | 608      
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
 Guided by Voices | 15   | 2405     
-Propagandhi      | 16   | 2398     
+Propagandhi      | 16   | 2403     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
