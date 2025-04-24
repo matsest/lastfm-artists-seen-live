@@ -35,31 +35,31 @@ Rush                           | 3    | 4697
 The Gaslight Anthem            | 4    | 4511     
 DumDum Boys                    | 6    | 3157     
 Motorpsycho                    | 7    | 3023     
-AC/DC                          | 8    | 3015     
+AC/DC                          | 8    | 3021     
 Against Me!                    | 9    | 3004     
 Bruce Springsteen              | 10   | 2928     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2187     
+Ryan Adams                     | 21   | 2189     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1852     
+Spidergawd                     | 24   | 1853     
 Mastodon                       | 25   | 1777     
 The Smashing Pumpkins          | 27   | 1617     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1381     
+Kvelertak                      | 30   | 1383     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1092     
+Thin Lizzy                     | 37   | 1095     
 Hellbillies                    | 38   | 1080     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1049     
 Pappasaft                      | 42   | 1045     
-Justin Townes Earle            | 43   | 1036     
+Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 842      
@@ -69,9 +69,9 @@ The Tallest Man on Earth       | 54   | 791
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 711      
+Ghost                          | 60   | 712      
 The Posies                     | 66   | 677      
-Kylesa                         | 68   | 643      
+Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
 Clutch                         | 70   | 629      
 Devin Townsend Project         | 72   | 608      
@@ -79,7 +79,7 @@ Dropkick Murphys               | 73   | 608
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
-Backstreet Girls               | 88   | 461      
+Backstreet Girls               | 89   | 461      
 Michael Krohn                  | 91   | 450      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
@@ -96,8 +96,8 @@ The Menzingers   | 26   | 1637
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1028     
 The Hold Steady  | 47   | 913      
-Bob Dylan        | 52   | 797      
-Melvins          | 53   | 797      
+Melvins          | 52   | 805      
+Bob Dylan        | 53   | 797      
 Eddie Vedder     | 61   | 702      
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 685      
@@ -108,7 +108,7 @@ Yes              | 80   | 507
 The War on Drugs | 85   | 478      
 Faith No More    | 86   | 466      
 Richard Thompson | 87   | 466      
-Carcass          | 89   | 459      
+Carcass          | 88   | 462      
 Dawes            | 90   | 457      
 Thåström         | 92   | 437      
 Cloud Nothings   | 96   | 431      
