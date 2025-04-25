@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2656
 Frank Turner                   | 13   | 2526     
 Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2189     
+Ryan Adams                     | 21   | 2190     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1853     
@@ -69,7 +69,7 @@ The Tallest Man on Earth       | 54   | 791
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 712      
+Ghost                          | 60   | 713      
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
@@ -89,8 +89,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Alice in Chains  | 14   | 2409     
-Guided by Voices | 15   | 2405     
-Propagandhi      | 16   | 2403     
+Propagandhi      | 15   | 2406     
+Guided by Voices | 16   | 2405     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
