@@ -57,7 +57,7 @@ Biffy Clyro                    | 36   | 1114
 Thin Lizzy                     | 37   | 1096     
 Hellbillies                    | 38   | 1080     
 Stein Torleif Bjella           | 40   | 1061     
-Anti-Lam Front                 | 41   | 1049     
+Anti-Lam Front                 | 41   | 1050     
 Pappasaft                      | 42   | 1045     
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 937      
@@ -88,7 +88,7 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2410     
+Propagandhi      | 14   | 2413     
 Alice in Chains  | 15   | 2409     
 Guided by Voices | 16   | 2407     
 Bob Mould        | 18   | 2365     
