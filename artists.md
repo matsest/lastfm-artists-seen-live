@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 473
+- Number of artists seen live in total: 474
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist              | Seen live
 ------------------- | ---------
+The Mansters        | True     
 Ponte del Diavolo   | True     
 Blood Incantation   | True     
 Ryan Adams          | True     
@@ -23,7 +24,6 @@ Kosmik Boogie Tribe | True
 The Sheepdogs       | True     
 The Commoners       | True     
 Big Star's Third    | True     
-Inter Arma          | True     
 
 ## Top 100 artists seen live (54)
 
@@ -37,12 +37,12 @@ DumDum Boys                    | 6    | 3157
 Motorpsycho                    | 7    | 3023     
 AC/DC                          | 8    | 3022     
 Against Me!                    | 9    | 3005     
-Bruce Springsteen              | 10   | 2928     
+Bruce Springsteen              | 10   | 2929     
 Manic Street Preachers         | 12   | 2656     
-Frank Turner                   | 13   | 2528     
+Frank Turner                   | 13   | 2529     
 Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2190     
+Ryan Adams                     | 21   | 2191     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1853     
@@ -55,14 +55,14 @@ Baroness                       | 32   | 1370
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Thin Lizzy                     | 37   | 1096     
-Hellbillies                    | 38   | 1080     
+Hellbillies                    | 38   | 1084     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1050     
 Pappasaft                      | 42   | 1045     
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 937      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 845      
+Sweden                         | 49   | 846      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 818      
 The Tallest Man on Earth       | 54   | 791      
@@ -80,7 +80,7 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 89   | 461      
-Michael Krohn                  | 91   | 450      
+Michael Krohn                  | 91   | 451      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
 
@@ -88,24 +88,24 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2413     
+Propagandhi      | 14   | 2414     
 Alice in Chains  | 15   | 2409     
-Guided by Voices | 16   | 2407     
+Guided by Voices | 16   | 2408     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1028     
 The Hold Steady  | 47   | 913      
 Melvins          | 52   | 810      
-Bob Dylan        | 53   | 797      
-Eddie Vedder     | 61   | 702      
+Bob Dylan        | 53   | 798      
+Eddie Vedder     | 61   | 703      
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 685      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 660      
+Neil Young       | 67   | 661      
 Dinosaur Jr.     | 79   | 522      
 Yes              | 80   | 507      
-The War on Drugs | 85   | 478      
+The War on Drugs | 85   | 479      
 Faith No More    | 86   | 466      
 Richard Thompson | 87   | 466      
 Carcass          | 88   | 462      
