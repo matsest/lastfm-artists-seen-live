@@ -32,11 +32,11 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6153     
 Soundgarden                    | 2    | 6134     
 Rush                           | 3    | 4697     
-The Gaslight Anthem            | 4    | 4511     
+The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3157     
 Motorpsycho                    | 7    | 3023     
 AC/DC                          | 8    | 3022     
-Against Me!                    | 9    | 3005     
+Against Me!                    | 9    | 3007     
 Bruce Springsteen              | 10   | 2929     
 Manic Street Preachers         | 12   | 2656     
 Frank Turner                   | 13   | 2529     
@@ -55,7 +55,7 @@ Baroness                       | 32   | 1370
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
 Thin Lizzy                     | 37   | 1096     
-Hellbillies                    | 38   | 1084     
+Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1050     
 Pappasaft                      | 42   | 1045     
@@ -64,7 +64,7 @@ Oslo Ess                       | 46   | 937
 Tool                           | 48   | 879      
 Sweden                         | 49   | 846      
 Japandroids                    | 50   | 834      
-Brian Fallon                   | 51   | 818      
+Brian Fallon                   | 51   | 822      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
@@ -90,12 +90,12 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2414     
 Alice in Chains  | 15   | 2409     
-Guided by Voices | 16   | 2408     
+Guided by Voices | 16   | 2409     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1028     
-The Hold Steady  | 47   | 913      
+The Hold Steady  | 47   | 914      
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 798      
 Eddie Vedder     | 61   | 703      
@@ -121,7 +121,7 @@ The Replacements         | 5    | 3425
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2287     
 Sugar                    | 33   | 1314     
-The Horrible Crowes      | 35   | 1179     
+The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
