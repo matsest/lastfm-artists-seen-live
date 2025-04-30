@@ -38,7 +38,7 @@ Motorpsycho                    | 7    | 3023
 AC/DC                          | 8    | 3022     
 Against Me!                    | 9    | 3007     
 Bruce Springsteen              | 10   | 2929     
-Manic Street Preachers         | 12   | 2656     
+Manic Street Preachers         | 12   | 2658     
 Frank Turner                   | 13   | 2529     
 Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
@@ -60,9 +60,9 @@ Stein Torleif Bjella           | 40   | 1061
 Anti-Lam Front                 | 41   | 1050     
 Pappasaft                      | 42   | 1045     
 Justin Townes Earle            | 43   | 1038     
-Oslo Ess                       | 46   | 937      
+Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 846      
+Sweden                         | 49   | 848      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 822      
 The Tallest Man on Earth       | 54   | 791      
@@ -88,7 +88,7 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2414     
+Propagandhi      | 14   | 2427     
 Alice in Chains  | 15   | 2409     
 Guided by Voices | 16   | 2409     
 Bob Mould        | 18   | 2365     
@@ -125,9 +125,9 @@ The Horrible Crowes      | 35   | 1184
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
-Jokke & Valentinerne     | 57   | 760      
+Jokke & Valentinerne     | 57   | 761      
 Audioslave               | 63   | 695      
-Foo Fighters             | 71   | 612      
+Foo Fighters             | 71   | 613      
 Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 564      
 The Beatles              | 78   | 531      
