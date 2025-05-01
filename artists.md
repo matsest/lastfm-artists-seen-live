@@ -34,11 +34,11 @@ Soundgarden                    | 2    | 6134
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3157     
-Motorpsycho                    | 7    | 3023     
+Motorpsycho                    | 7    | 3025     
 AC/DC                          | 8    | 3022     
-Against Me!                    | 9    | 3007     
+Against Me!                    | 9    | 3008     
 Bruce Springsteen              | 10   | 2929     
-Manic Street Preachers         | 12   | 2658     
+Manic Street Preachers         | 12   | 2659     
 Frank Turner                   | 13   | 2529     
 Raga Rockers                   | 17   | 2393     
 Chris Cornell                  | 20   | 2239     
@@ -62,14 +62,14 @@ Pappasaft                      | 42   | 1045
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 848      
+Sweden                         | 49   | 849      
 Japandroids                    | 50   | 834      
-Brian Fallon                   | 51   | 822      
+Brian Fallon                   | 51   | 823      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 723      
+Ghost                          | 60   | 730      
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
@@ -88,7 +88,7 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2427     
+Propagandhi      | 14   | 2428     
 Alice in Chains  | 15   | 2409     
 Guided by Voices | 16   | 2409     
 Bob Mould        | 18   | 2365     
