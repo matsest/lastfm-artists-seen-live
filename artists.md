@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6134
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3157     
-Motorpsycho                    | 7    | 3025     
+Motorpsycho                    | 7    | 3026     
 AC/DC                          | 8    | 3022     
 Against Me!                    | 9    | 3008     
 Bruce Springsteen              | 10   | 2929     
@@ -64,7 +64,7 @@ Oslo Ess                       | 46   | 938
 Tool                           | 48   | 879      
 Sweden                         | 49   | 849      
 Japandroids                    | 50   | 834      
-Brian Fallon                   | 51   | 823      
+Brian Fallon                   | 51   | 824      
 The Tallest Man on Earth       | 54   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
