@@ -34,13 +34,13 @@ Soundgarden                    | 2    | 6134
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3157     
-Motorpsycho                    | 7    | 3026     
-AC/DC                          | 8    | 3022     
+Motorpsycho                    | 7    | 3027     
+AC/DC                          | 8    | 3023     
 Against Me!                    | 9    | 3008     
 Bruce Springsteen              | 10   | 2929     
 Manic Street Preachers         | 12   | 2659     
 Frank Turner                   | 13   | 2529     
-Raga Rockers                   | 17   | 2393     
+Raga Rockers                   | 17   | 2394     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2191     
 johndoe                        | 22   | 2167     
@@ -88,8 +88,8 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2428     
-Alice in Chains  | 15   | 2409     
+Propagandhi      | 14   | 2441     
+Alice in Chains  | 15   | 2410     
 Guided by Voices | 16   | 2409     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
@@ -102,8 +102,8 @@ Eddie Vedder     | 61   | 703
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 685      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 661      
-Dinosaur Jr.     | 79   | 522      
+Neil Young       | 67   | 662      
+Dinosaur Jr.     | 79   | 523      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 479      
 Faith No More    | 86   | 466      
@@ -117,10 +117,10 @@ Cloud Nothings   | 96   | 431
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3425     
+The Replacements         | 5    | 3426     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2287     
-Sugar                    | 33   | 1314     
+Sugar                    | 33   | 1315     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
