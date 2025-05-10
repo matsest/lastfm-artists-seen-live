@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 474
+- Number of artists seen live in total: 479
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist              | Seen live
-------------------- | ---------
-The Mansters        | True     
-Ponte del Diavolo   | True     
-Blood Incantation   | True     
-Ryan Adams          | True     
-Touché Amoré        | True     
-Göttemia            | True     
-Kosmik Boogie Tribe | True     
-The Sheepdogs       | True     
-The Commoners       | True     
-Big Star's Third    | True     
+Artist            | Seen live
+----------------- | ---------
+Black Pyramid     | True     
+Elephant Tree     | True     
+Messa             | True     
+Truckfighters     | True     
+Pallbearer        | True     
+The Mansters      | True     
+Ponte del Diavolo | True     
+Blood Incantation | True     
+Ryan Adams        | True     
+Touché Amoré      | True     
 
 ## Top 100 artists seen live (54)
 
