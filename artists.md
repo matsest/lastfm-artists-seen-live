@@ -30,7 +30,7 @@ Big Star's Third    | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6153     
-Soundgarden                    | 2    | 6134     
+Soundgarden                    | 2    | 6135     
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3157     
@@ -38,11 +38,11 @@ Motorpsycho                    | 7    | 3043
 AC/DC                          | 8    | 3023     
 Against Me!                    | 9    | 3009     
 Bruce Springsteen              | 10   | 2931     
-Manic Street Preachers         | 12   | 2671     
-Frank Turner                   | 13   | 2529     
+Manic Street Preachers         | 12   | 2673     
+Frank Turner                   | 13   | 2530     
 Raga Rockers                   | 17   | 2394     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2191     
+Ryan Adams                     | 21   | 2192     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1853     
@@ -54,7 +54,7 @@ Touché Amoré                   | 31   | 1371
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1096     
+Thin Lizzy                     | 37   | 1097     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1050     
@@ -62,7 +62,7 @@ Pappasaft                      | 42   | 1045
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 849      
+Sweden                         | 49   | 850      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 824      
 The Tallest Man on Earth       | 54   | 791      
@@ -73,7 +73,7 @@ Ghost                          | 60   | 730
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
-Clutch                         | 70   | 629      
+Clutch                         | 70   | 630      
 Devin Townsend Project         | 72   | 608      
 Dropkick Murphys               | 73   | 608      
 Spielbergs                     | 75   | 603      
@@ -89,8 +89,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2441     
-Alice in Chains  | 15   | 2410     
-Guided by Voices | 16   | 2409     
+Alice in Chains  | 15   | 2412     
+Guided by Voices | 16   | 2410     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
@@ -100,13 +100,13 @@ Melvins          | 52   | 810
 Bob Dylan        | 53   | 798      
 Eddie Vedder     | 61   | 703      
 Afghan Whigs     | 62   | 696      
-The Hotelier     | 64   | 686      
+The Hotelier     | 64   | 691      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 662      
 Dinosaur Jr.     | 79   | 524      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 479      
-Faith No More    | 86   | 466      
+Faith No More    | 86   | 467      
 Richard Thompson | 87   | 466      
 Carcass          | 88   | 462      
 Dawes            | 90   | 457      
@@ -119,13 +119,13 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3426     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2287     
+The Who                  | 19   | 2288     
 Sugar                    | 33   | 1315     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
-Jokke & Valentinerne     | 57   | 761      
+Jokke & Valentinerne     | 57   | 762      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 613      
 Paul Westerberg          | 74   | 605      
