@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 486
+- Number of artists seen live in total: 487
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Perfekt Defekt    | True     
 Whores.           | True     
 chat pile         | True     
 Help              | True     
@@ -23,7 +24,6 @@ Hippie Death Cult | True
 SLIFT             | True     
 Black Pyramid     | True     
 Elephant Tree     | True     
-Messa             | True     
 
 ## Top 100 artists seen live (54)
 
