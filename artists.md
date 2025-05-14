@@ -95,7 +95,7 @@ Bob Mould        | 18   | 2365
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
 The Black Crowes | 44   | 1028     
-The Hold Steady  | 47   | 914      
+The Hold Steady  | 47   | 915      
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 798      
 Eddie Vedder     | 61   | 703      
