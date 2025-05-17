@@ -30,31 +30,31 @@ Elephant Tree     | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6153     
-Soundgarden                    | 2    | 6135     
+Soundgarden                    | 2    | 6136     
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
-DumDum Boys                    | 6    | 3157     
+DumDum Boys                    | 6    | 3158     
 Motorpsycho                    | 7    | 3043     
-AC/DC                          | 8    | 3023     
+AC/DC                          | 8    | 3025     
 Against Me!                    | 9    | 3009     
 Bruce Springsteen              | 10   | 2931     
-Manic Street Preachers         | 12   | 2673     
+Manic Street Preachers         | 12   | 2675     
 Frank Turner                   | 13   | 2530     
 Raga Rockers                   | 17   | 2394     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2192     
 johndoe                        | 22   | 2167     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1853     
+Spidergawd                     | 24   | 1854     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1617     
+The Smashing Pumpkins          | 27   | 1618     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1383     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1097     
+Thin Lizzy                     | 37   | 1098     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1050     
@@ -88,13 +88,13 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2441     
+Propagandhi      | 14   | 2446     
 Alice in Chains  | 15   | 2412     
 Guided by Voices | 16   | 2410     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
-The Black Crowes | 44   | 1028     
+The Black Crowes | 44   | 1029     
 The Hold Steady  | 47   | 915      
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 798      
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 703
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 692      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 662      
+Neil Young       | 67   | 664      
 Dinosaur Jr.     | 79   | 524      
 Yes              | 80   | 507      
 The War on Drugs | 85   | 479      
@@ -119,13 +119,13 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3426     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2288     
-Sugar                    | 33   | 1315     
+The Who                  | 19   | 2291     
+Sugar                    | 33   | 1316     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
-Jokke & Valentinerne     | 57   | 762      
+Jokke & Valentinerne     | 57   | 763      
 Audioslave               | 63   | 695      
 Foo Fighters             | 71   | 613      
 Paul Westerberg          | 74   | 605      
