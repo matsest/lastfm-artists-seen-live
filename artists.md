@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6136
 Rush                           | 3    | 4697     
 The Gaslight Anthem            | 4    | 4515     
 DumDum Boys                    | 6    | 3158     
-Motorpsycho                    | 7    | 3043     
+Motorpsycho                    | 7    | 3045     
 AC/DC                          | 8    | 3025     
 Against Me!                    | 9    | 3009     
 Bruce Springsteen              | 10   | 2931     
@@ -58,7 +58,7 @@ Thin Lizzy                     | 37   | 1098
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1050     
-Pappasaft                      | 42   | 1045     
+Pappasaft                      | 42   | 1049     
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
@@ -80,7 +80,7 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 89   | 461      
-Michael Krohn                  | 91   | 451      
+Michael Krohn                  | 91   | 454      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
 
@@ -88,7 +88,7 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2446     
+Propagandhi      | 14   | 2454     
 Alice in Chains  | 15   | 2412     
 Guided by Voices | 16   | 2410     
 Bob Mould        | 18   | 2365     
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3426     
 Hüsker Dü                | 11   | 2917     
 The Who                  | 19   | 2291     
-Sugar                    | 33   | 1316     
+Sugar                    | 33   | 1317     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
