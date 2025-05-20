@@ -39,7 +39,7 @@ AC/DC                          | 8    | 3025
 Against Me!                    | 9    | 3009     
 Bruce Springsteen              | 10   | 2931     
 Manic Street Preachers         | 12   | 2675     
-Frank Turner                   | 13   | 2530     
+Frank Turner                   | 13   | 2531     
 Raga Rockers                   | 17   | 2394     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2192     
@@ -62,7 +62,7 @@ Pappasaft                      | 42   | 1049
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 850      
+Sweden                         | 49   | 851      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 824      
 The Tallest Man on Earth       | 54   | 791      
@@ -80,7 +80,7 @@ Spielbergs                     | 75   | 603
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 89   | 461      
-Michael Krohn                  | 91   | 454      
+Michael Krohn                  | 91   | 455      
 Gojira                         | 95   | 432      
 Opeth                          | 100  | 413      
 
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2454     
 Alice in Chains  | 15   | 2412     
-Guided by Voices | 16   | 2410     
+Guided by Voices | 16   | 2411     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1582     
@@ -102,10 +102,10 @@ Eddie Vedder     | 61   | 703
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 692      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 664      
+Neil Young       | 67   | 666      
 Dinosaur Jr.     | 79   | 524      
 Yes              | 80   | 507      
-The War on Drugs | 85   | 479      
+The War on Drugs | 84   | 480      
 Faith No More    | 86   | 467      
 Richard Thompson | 87   | 466      
 Carcass          | 88   | 462      
@@ -133,7 +133,7 @@ Temple of the Dog        | 76   | 564
 The Beatles              | 78   | 531      
 Rage Against the Machine | 82   | 493      
 Pink Floyd               | 83   | 483      
-Black Sabbath            | 84   | 479      
+Black Sabbath            | 85   | 479      
 The Band                 | 92   | 441      
 The Twilight Singers     | 94   | 433      
 Warren Zevon             | 97   | 431      
