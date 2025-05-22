@@ -32,7 +32,7 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6153     
 Soundgarden                    | 2    | 6136     
 Rush                           | 3    | 4697     
-The Gaslight Anthem            | 4    | 4518     
+The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3158     
 Motorpsycho                    | 7    | 3045     
 AC/DC                          | 8    | 3025     
@@ -49,7 +49,7 @@ Spidergawd                     | 24   | 1854
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1618     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1383     
+Kvelertak                      | 30   | 1384     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
@@ -81,21 +81,21 @@ The Good The Bad and The Zugly | 77   | 533
 Jason Isbell and the 400 Unit  | 81   | 502      
 Backstreet Girls               | 89   | 461      
 Michael Krohn                  | 91   | 456      
-Gojira                         | 95   | 432      
+Gojira                         | 96   | 432      
 Opeth                          | 100  | 413      
 
 ## Active top 100 artists not seen live (24)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2455     
+Propagandhi      | 14   | 2456     
 Alice in Chains  | 15   | 2412     
 Guided by Voices | 16   | 2412     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1583     
 The Black Crowes | 44   | 1029     
-The Hold Steady  | 47   | 915      
+The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 800      
 Eddie Vedder     | 61   | 703      
@@ -103,7 +103,7 @@ Afghan Whigs     | 62   | 696
 The Hotelier     | 64   | 693      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 667      
-Dinosaur Jr.     | 79   | 524      
+Dinosaur Jr.     | 79   | 526      
 Yes              | 80   | 507      
 The War on Drugs | 84   | 482      
 Faith No More    | 86   | 467      
@@ -111,7 +111,7 @@ Richard Thompson | 87   | 466
 Carcass          | 88   | 462      
 Dawes            | 90   | 457      
 Thåström         | 93   | 437      
-Cloud Nothings   | 96   | 431      
+Cloud Nothings   | 94   | 434      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -135,7 +135,7 @@ Rage Against the Machine | 82   | 493
 Pink Floyd               | 83   | 483      
 Black Sabbath            | 85   | 479      
 The Band                 | 92   | 441      
-The Twilight Singers     | 94   | 433      
+The Twilight Singers     | 95   | 433      
 Warren Zevon             | 97   | 431      
 Marillion                | 98   | 418      
 Jokke med Tourettes      | 99   | 414      
