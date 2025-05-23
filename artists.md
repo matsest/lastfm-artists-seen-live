@@ -35,7 +35,7 @@ Rush                           | 3    | 4697
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3158     
 Motorpsycho                    | 7    | 3045     
-AC/DC                          | 8    | 3025     
+AC/DC                          | 8    | 3030     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2931     
 Manic Street Preachers         | 12   | 2675     
@@ -54,7 +54,7 @@ Touché Amoré                   | 31   | 1371
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1098     
+Thin Lizzy                     | 37   | 1101     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
@@ -93,8 +93,8 @@ Alice in Chains  | 15   | 2412
 Guided by Voices | 16   | 2412     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
-Weezer           | 28   | 1583     
-The Black Crowes | 44   | 1029     
+Weezer           | 28   | 1586     
+The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 800      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 999
 Big Star                 | 55   | 789      
 Jokke & Valentinerne     | 57   | 763      
 Audioslave               | 63   | 695      
-Foo Fighters             | 71   | 613      
+Foo Fighters             | 71   | 614      
 Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 564      
 The Beatles              | 78   | 531      
