@@ -29,32 +29,32 @@ Elephant Tree     | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6153     
-Soundgarden                    | 2    | 6136     
-Rush                           | 3    | 4697     
+Pearl Jam                      | 1    | 6157     
+Soundgarden                    | 2    | 6140     
+Rush                           | 3    | 4700     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3158     
 Motorpsycho                    | 7    | 3045     
-AC/DC                          | 8    | 3030     
+AC/DC                          | 8    | 3036     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2931     
-Manic Street Preachers         | 12   | 2675     
+Bruce Springsteen              | 10   | 2932     
+Manic Street Preachers         | 12   | 2677     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 17   | 2394     
+Raga Rockers                   | 17   | 2395     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2193     
 johndoe                        | 22   | 2168     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1854     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1618     
+The Smashing Pumpkins          | 27   | 1621     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1384     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1101     
+Thin Lizzy                     | 37   | 1106     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
@@ -73,7 +73,7 @@ Ghost                          | 60   | 730
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
-Clutch                         | 70   | 630      
+Clutch                         | 70   | 632      
 Dropkick Murphys               | 72   | 609      
 Devin Townsend Project         | 73   | 608      
 Spielbergs                     | 75   | 603      
@@ -89,8 +89,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2456     
-Alice in Chains  | 15   | 2412     
-Guided by Voices | 16   | 2412     
+Guided by Voices | 15   | 2417     
+Alice in Chains  | 16   | 2415     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1586     
@@ -102,11 +102,11 @@ Eddie Vedder     | 61   | 703
 Afghan Whigs     | 62   | 696      
 The Hotelier     | 64   | 693      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 667      
-Dinosaur Jr.     | 79   | 526      
-Yes              | 80   | 507      
-The War on Drugs | 84   | 482      
-Faith No More    | 86   | 467      
+Neil Young       | 67   | 670      
+Dinosaur Jr.     | 79   | 528      
+Yes              | 80   | 508      
+The War on Drugs | 85   | 482      
+Faith No More    | 86   | 470      
 Richard Thompson | 87   | 466      
 Carcass          | 88   | 462      
 Dawes            | 90   | 457      
@@ -117,25 +117,25 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3427     
+The Replacements         | 5    | 3431     
 Hüsker Dü                | 11   | 2917     
-The Who                  | 19   | 2291     
-Sugar                    | 33   | 1317     
+The Who                  | 19   | 2297     
+Sugar                    | 33   | 1319     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
-Jokke & Valentinerne     | 57   | 763      
-Audioslave               | 63   | 695      
+Jokke & Valentinerne     | 57   | 764      
+Audioslave               | 63   | 696      
 Foo Fighters             | 71   | 614      
 Paul Westerberg          | 74   | 605      
-Temple of the Dog        | 76   | 564      
-The Beatles              | 78   | 531      
-Rage Against the Machine | 82   | 493      
-Pink Floyd               | 83   | 483      
-Black Sabbath            | 85   | 479      
+Temple of the Dog        | 76   | 565      
+The Beatles              | 78   | 532      
+Rage Against the Machine | 82   | 494      
+Pink Floyd               | 83   | 485      
+Black Sabbath            | 84   | 482      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
 Warren Zevon             | 97   | 431      
 Marillion                | 98   | 418      
-Jokke med Tourettes      | 99   | 414      
+Jokke med Tourettes      | 99   | 415      
