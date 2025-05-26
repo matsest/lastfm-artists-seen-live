@@ -53,8 +53,8 @@ Kvelertak                      | 30   | 1384
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Biffy Clyro                    | 36   | 1114     
-Thin Lizzy                     | 37   | 1106     
+Thin Lizzy                     | 36   | 1123     
+Biffy Clyro                    | 37   | 1114     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
@@ -78,7 +78,7 @@ Dropkick Murphys               | 72   | 609
 Devin Townsend Project         | 73   | 608      
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 533      
-Jason Isbell and the 400 Unit  | 81   | 502      
+Jason Isbell and the 400 Unit  | 82   | 502      
 Backstreet Girls               | 89   | 461      
 Michael Krohn                  | 91   | 456      
 Gojira                         | 96   | 432      
@@ -131,7 +131,7 @@ Foo Fighters             | 71   | 614
 Paul Westerberg          | 74   | 605      
 Temple of the Dog        | 76   | 565      
 The Beatles              | 78   | 532      
-Rage Against the Machine | 82   | 496      
+Rage Against the Machine | 81   | 503      
 Pink Floyd               | 83   | 485      
 Black Sabbath            | 84   | 482      
 The Band                 | 92   | 441      
