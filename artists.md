@@ -34,8 +34,8 @@ Soundgarden                    | 2    | 6140
 Rush                           | 3    | 4700     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3158     
-Motorpsycho                    | 7    | 3045     
-AC/DC                          | 8    | 3036     
+Motorpsycho                    | 7    | 3056     
+AC/DC                          | 8    | 3037     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2932     
 Manic Street Preachers         | 12   | 2677     
@@ -49,11 +49,11 @@ Spidergawd                     | 24   | 1855
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1621     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1384     
+Kvelertak                      | 30   | 1388     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1123     
+Thin Lizzy                     | 36   | 1126     
 Biffy Clyro                    | 37   | 1114     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -118,7 +118,7 @@ Cloud Nothings   | 94   | 434
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3431     
-Hüsker Dü                | 11   | 2917     
+Hüsker Dü                | 11   | 2919     
 The Who                  | 19   | 2297     
 Sugar                    | 33   | 1319     
 The Horrible Crowes      | 35   | 1184     
