@@ -29,27 +29,27 @@ Hippie Death Cult  | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6157     
+Pearl Jam                      | 1    | 6159     
 Soundgarden                    | 2    | 6140     
-Rush                           | 3    | 4700     
+Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3158     
 Motorpsycho                    | 7    | 3057     
-AC/DC                          | 8    | 3037     
+AC/DC                          | 8    | 3039     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2932     
-Manic Street Preachers         | 12   | 2677     
+Bruce Springsteen              | 10   | 2934     
+Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 17   | 2395     
+Raga Rockers                   | 17   | 2396     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2193     
 johndoe                        | 22   | 2168     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1855     
+Spidergawd                     | 24   | 1856     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1621     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1388     
+Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
@@ -73,9 +73,9 @@ Ghost                          | 60   | 730
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
-Clutch                         | 70   | 632      
-Dropkick Murphys               | 72   | 609      
-Devin Townsend Project         | 73   | 608      
+Clutch                         | 70   | 633      
+Dropkick Murphys               | 73   | 609      
+Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 533      
 Jason Isbell and the 400 Unit  | 82   | 502      
@@ -89,8 +89,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2456     
-Guided by Voices | 15   | 2417     
-Alice in Chains  | 16   | 2415     
+Guided by Voices | 15   | 2420     
+Alice in Chains  | 16   | 2417     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1586     
@@ -99,11 +99,11 @@ The Hold Steady  | 47   | 916
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 800      
 Eddie Vedder     | 61   | 703      
-Afghan Whigs     | 62   | 696      
+Afghan Whigs     | 63   | 696      
 The Hotelier     | 64   | 693      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 670      
-Dinosaur Jr.     | 79   | 528      
+Dinosaur Jr.     | 79   | 529      
 Yes              | 80   | 508      
 The War on Drugs | 85   | 482      
 Faith No More    | 86   | 470      
@@ -117,22 +117,22 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3431     
+The Replacements         | 5    | 3432     
 Hüsker Dü                | 11   | 2919     
-The Who                  | 19   | 2297     
+The Who                  | 19   | 2298     
 Sugar                    | 33   | 1319     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 55   | 789      
-Jokke & Valentinerne     | 57   | 764      
-Audioslave               | 63   | 696      
-Foo Fighters             | 71   | 614      
-Paul Westerberg          | 74   | 605      
-Temple of the Dog        | 76   | 565      
+Jokke & Valentinerne     | 57   | 765      
+Audioslave               | 62   | 697      
+Paul Westerberg          | 71   | 627      
+Foo Fighters             | 72   | 614      
+Temple of the Dog        | 76   | 566      
 The Beatles              | 78   | 532      
 Rage Against the Machine | 81   | 503      
-Pink Floyd               | 83   | 485      
+Pink Floyd               | 83   | 487      
 Black Sabbath            | 84   | 482      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
