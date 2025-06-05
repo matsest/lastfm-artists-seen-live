@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2934     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 17   | 2416     
+Raga Rockers                   | 16   | 2418     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2193     
 johndoe                        | 22   | 2168     
@@ -53,7 +53,7 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1126     
+Thin Lizzy                     | 36   | 1127     
 Biffy Clyro                    | 37   | 1114     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2456     
 Guided by Voices | 15   | 2420     
-Alice in Chains  | 16   | 2417     
+Alice in Chains  | 17   | 2417     
 Bob Mould        | 18   | 2365     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1586     
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3432     
 Hüsker Dü                | 11   | 2920     
 The Who                  | 19   | 2298     
-Sugar                    | 33   | 1321     
+Sugar                    | 33   | 1322     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
