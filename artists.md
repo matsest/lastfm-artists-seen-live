@@ -65,7 +65,7 @@ Tool                           | 48   | 879
 Sweden                         | 49   | 853      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 824      
-The Tallest Man on Earth       | 54   | 791      
+The Tallest Man on Earth       | 55   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 733      
@@ -73,7 +73,7 @@ Ghost                          | 60   | 730
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 648      
 Blood Command                  | 69   | 637      
-Clutch                         | 70   | 633      
+Clutch                         | 71   | 633      
 Dropkick Murphys               | 73   | 609      
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 603      
@@ -89,9 +89,9 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2456     
-Guided by Voices | 15   | 2420     
+Guided by Voices | 15   | 2424     
 Alice in Chains  | 17   | 2417     
-Bob Mould        | 18   | 2365     
+Bob Mould        | 18   | 2373     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1586     
 The Black Crowes | 44   | 1031     
@@ -117,17 +117,17 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3432     
-Hüsker Dü                | 11   | 2920     
+The Replacements         | 5    | 3439     
+Hüsker Dü                | 11   | 2922     
 The Who                  | 19   | 2298     
-Sugar                    | 33   | 1322     
+Sugar                    | 33   | 1329     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 55   | 789      
+Big Star                 | 54   | 792      
 Jokke & Valentinerne     | 57   | 765      
 Audioslave               | 62   | 697      
-Paul Westerberg          | 71   | 627      
+Paul Westerberg          | 70   | 634      
 Foo Fighters             | 72   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 78   | 532      
