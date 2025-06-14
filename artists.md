@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2678
 Frank Turner                   | 13   | 2531     
 Raga Rockers                   | 16   | 2418     
 Chris Cornell                  | 20   | 2239     
-Ryan Adams                     | 21   | 2194     
+Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1856     
@@ -88,10 +88,10 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 14   | 2457     
+Propagandhi      | 14   | 2458     
 Guided by Voices | 15   | 2428     
 Alice in Chains  | 17   | 2417     
-Bob Mould        | 18   | 2377     
+Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1586     
 The Black Crowes | 44   | 1031     
@@ -103,10 +103,10 @@ Afghan Whigs     | 63   | 696
 The Hotelier     | 64   | 693      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 670      
-Dinosaur Jr.     | 79   | 530      
+Dinosaur Jr.     | 79   | 531      
 Yes              | 80   | 508      
 The War on Drugs | 85   | 482      
-Faith No More    | 86   | 471      
+Faith No More    | 86   | 473      
 Richard Thompson | 87   | 466      
 Carcass          | 88   | 462      
 Dawes            | 90   | 457      
