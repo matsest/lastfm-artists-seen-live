@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2934     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 16   | 2418     
+Raga Rockers                   | 15   | 2446     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -89,7 +89,7 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2458     
-Guided by Voices | 15   | 2428     
+Guided by Voices | 16   | 2428     
 Alice in Chains  | 17   | 2417     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
