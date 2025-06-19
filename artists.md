@@ -37,10 +37,10 @@ DumDum Boys                    | 6    | 3158
 AC/DC                          | 7    | 3063     
 Motorpsycho                    | 8    | 3058     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2934     
+Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 15   | 2454     
+Raga Rockers                   | 15   | 2456     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -93,7 +93,7 @@ Guided by Voices | 16   | 2428
 Alice in Chains  | 17   | 2417     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
-Weezer           | 28   | 1586     
+Weezer           | 28   | 1592     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
@@ -108,7 +108,7 @@ Yes              | 80   | 508
 The War on Drugs | 85   | 482      
 Faith No More    | 86   | 473      
 Richard Thompson | 87   | 466      
-Carcass          | 88   | 462      
+Carcass          | 88   | 463      
 Dawes            | 90   | 457      
 Thåström         | 93   | 437      
 Cloud Nothings   | 94   | 434      
