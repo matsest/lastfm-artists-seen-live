@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6159
 Soundgarden                    | 2    | 6140     
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
-DumDum Boys                    | 6    | 3158     
+DumDum Boys                    | 6    | 3160     
 AC/DC                          | 7    | 3063     
 Motorpsycho                    | 8    | 3058     
 Against Me!                    | 9    | 3010     
@@ -102,7 +102,7 @@ Eddie Vedder     | 61   | 703
 Afghan Whigs     | 63   | 696      
 The Hotelier     | 64   | 693      
 Hot Water Music  | 65   | 680      
-Neil Young       | 67   | 670      
+Neil Young       | 67   | 671      
 Dinosaur Jr.     | 79   | 531      
 Yes              | 80   | 508      
 The War on Drugs | 85   | 482      
