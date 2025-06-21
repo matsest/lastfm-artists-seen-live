@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 15   | 2456     
+Raga Rockers                   | 15   | 2458     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -53,7 +53,7 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1132     
+Thin Lizzy                     | 36   | 1133     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -71,7 +71,7 @@ Thulsa Doom                    | 58   | 759
 Jason Isbell                   | 59   | 733      
 Ghost                          | 60   | 730      
 The Posies                     | 66   | 677      
-Kylesa                         | 68   | 648      
+Kylesa                         | 68   | 649      
 Blood Command                  | 70   | 637      
 Clutch                         | 71   | 633      
 Dropkick Murphys               | 73   | 609      
@@ -93,7 +93,7 @@ Guided by Voices | 16   | 2428
 Alice in Chains  | 17   | 2417     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
-Weezer           | 28   | 1592     
+Weezer           | 28   | 1594     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
@@ -105,10 +105,10 @@ Hot Water Music  | 65   | 680
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 79   | 531      
 Yes              | 80   | 508      
-The War on Drugs | 85   | 482      
-Faith No More    | 86   | 473      
-Richard Thompson | 87   | 466      
-Carcass          | 88   | 463      
+Carcass          | 84   | 486      
+The War on Drugs | 86   | 482      
+Faith No More    | 87   | 473      
+Richard Thompson | 88   | 466      
 Dawes            | 90   | 457      
 Thåström         | 93   | 437      
 Cloud Nothings   | 94   | 434      
@@ -133,7 +133,7 @@ Temple of the Dog        | 76   | 566
 The Beatles              | 78   | 532      
 Rage Against the Machine | 81   | 503      
 Pink Floyd               | 83   | 487      
-Black Sabbath            | 84   | 482      
+Black Sabbath            | 85   | 482      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
 Warren Zevon             | 97   | 431      
