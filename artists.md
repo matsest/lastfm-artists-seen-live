@@ -90,7 +90,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2458     
 Guided by Voices | 16   | 2428     
-Alice in Chains  | 17   | 2417     
+Alice in Chains  | 17   | 2418     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
 Weezer           | 28   | 1594     
