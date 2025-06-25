@@ -53,7 +53,7 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1133     
+Thin Lizzy                     | 36   | 1134     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -90,10 +90,10 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 14   | 2458     
 Guided by Voices | 16   | 2428     
-Alice in Chains  | 17   | 2418     
+Alice in Chains  | 17   | 2419     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
-Weezer           | 28   | 1594     
+Weezer           | 28   | 1601     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
