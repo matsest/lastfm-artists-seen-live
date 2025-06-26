@@ -2,30 +2,30 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 490
+- Number of artists seen live in total: 496
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 54 (Active: 47 Inactive: 7)
+- Number of top artists seen live: 56 (Active: 49 Inactive: 7)
 
-- Number of top artists not seen live: 46 (Active: 24 Inactive: 22)
+- Number of top artists not seen live: 44 (Active: 22 Inactive: 22)
 
 ## Last 10 artists seen live
 
 Artist             | Seen live
 ------------------ | ---------
+Sex Pistols        | True     
+BASTARDANE         | True     
+Weezer             | True     
+Green Day          | True     
+Bad Nerves         | True     
+Carcass            | True     
 Thefalls           | True     
 conjurer           | True     
 FORCEFED HORSEHEAD | True     
 Perfekt Defekt     | True     
-Whores.            | True     
-chat pile          | True     
-Help               | True     
-Eagle Twin         | True     
-Oranssi Pazuzu     | True     
-Hippie Death Cult  | True     
 
-## Top 100 artists seen live (54)
+## Top 100 artists seen live (56)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -48,12 +48,13 @@ The National                   | 23   | 2155
 Spidergawd                     | 24   | 1856     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1621     
+Weezer                         | 28   | 1613     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1134     
+Thin Lizzy                     | 36   | 1136     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -77,14 +78,15 @@ Clutch                         | 71   | 633
 Dropkick Murphys               | 73   | 609      
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 603      
-The Good The Bad and The Zugly | 77   | 533      
+The Good The Bad and The Zugly | 77   | 534      
 Jason Isbell and the 400 Unit  | 82   | 502      
+Carcass                        | 83   | 500      
 Backstreet Girls               | 89   | 461      
 Michael Krohn                  | 91   | 456      
 Gojira                         | 96   | 432      
 Opeth                          | 100  | 413      
 
-## Active top 100 artists not seen live (24)
+## Active top 100 artists not seen live (22)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
@@ -93,7 +95,6 @@ Guided by Voices | 16   | 2428
 Alice in Chains  | 17   | 2419     
 Bob Mould        | 18   | 2378     
 The Menzingers   | 26   | 1637     
-Weezer           | 28   | 1607     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
@@ -105,7 +106,6 @@ Hot Water Music  | 65   | 680
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 79   | 531      
 Yes              | 80   | 508      
-Carcass          | 84   | 486      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 473      
 Richard Thompson | 88   | 466      
@@ -132,7 +132,7 @@ Foo Fighters             | 72   | 614
 Temple of the Dog        | 76   | 566      
 The Beatles              | 78   | 532      
 Rage Against the Machine | 81   | 503      
-Pink Floyd               | 83   | 487      
+Pink Floyd               | 84   | 487      
 Black Sabbath            | 85   | 482      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
