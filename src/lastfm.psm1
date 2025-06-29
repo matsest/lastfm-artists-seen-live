@@ -42,7 +42,7 @@ function Invoke-LFMSeenLiveArtists {
         $ApiKey = $env:API_KEY,
         [Parameter(HelpMessage = "Maximum number of artists to get")]
         [string]
-        $Limit = "500"
+        $Limit = "1000"
     )
 
     $safeTagName = [uri]::EscapeDataString($TagName)
