@@ -2,13 +2,13 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 500
+- Number of artists seen live in total: 501
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 55 (Active: 49 Inactive: 6)
+- Number of top artists seen live: 56 (Active: 49 Inactive: 7)
 
-- Number of top artists not seen live: 45 (Active: 22 Inactive: 23)
+- Number of top artists not seen live: 44 (Active: 22 Inactive: 22)
 
 ## Last 10 artists seen live
 
@@ -25,11 +25,12 @@ Weezer         | True
 Green Day      | True     
 Bad Nerves     | True     
 
-## Top 100 artists seen live (55)
+## Top 100 artists seen live (56)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6160     
+Soundgarden                    | 2    | 6140     
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3160     
@@ -112,11 +113,10 @@ Dawes            | 90   | 457
 Thåström         | 93   | 437      
 Cloud Nothings   | 94   | 434      
 
-## Inactive top 100 artists not seen live (23)
+## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-Soundgarden              | 2    | 6140     
 The Replacements         | 5    | 3448     
 Hüsker Dü                | 11   | 2924     
 The Who                  | 19   | 2299     
