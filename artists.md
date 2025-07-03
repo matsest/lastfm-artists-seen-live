@@ -35,12 +35,12 @@ Rush                           | 3    | 4702
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
 AC/DC                          | 7    | 3063     
-Motorpsycho                    | 8    | 3058     
+Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 14   | 2462     
+Raga Rockers                   | 14   | 2463     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -79,8 +79,8 @@ Dropkick Murphys               | 73   | 609
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 534      
-Jason Isbell and the 400 Unit  | 82   | 502      
-Carcass                        | 83   | 500      
+Carcass                        | 80   | 512      
+Jason Isbell and the 400 Unit  | 83   | 502      
 Backstreet Girls               | 88   | 468      
 Michael Krohn                  | 91   | 456      
 Gojira                         | 96   | 432      
@@ -105,7 +105,7 @@ The Hotelier     | 64   | 693
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 532      
-Yes              | 80   | 508      
+Yes              | 81   | 508      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 474      
 Richard Thompson | 89   | 466      
@@ -131,7 +131,7 @@ Paul Westerberg          | 69   | 641
 Foo Fighters             | 72   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
-Rage Against the Machine | 81   | 503      
+Rage Against the Machine | 82   | 503      
 Pink Floyd               | 84   | 487      
 Black Sabbath            | 85   | 482      
 The Band                 | 92   | 441      
