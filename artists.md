@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 14   | 2463     
+Raga Rockers                   | 14   | 2469     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -75,11 +75,11 @@ The Posies                     | 66   | 677
 Kylesa                         | 68   | 649      
 Blood Command                  | 70   | 637      
 Clutch                         | 71   | 633      
-Dropkick Murphys               | 73   | 609      
+Dropkick Murphys               | 72   | 621      
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 603      
 The Good The Bad and The Zugly | 77   | 534      
-Carcass                        | 80   | 512      
+Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
 Backstreet Girls               | 88   | 468      
 Michael Krohn                  | 91   | 456      
@@ -128,7 +128,7 @@ Big Star                 | 54   | 793
 Jokke & Valentinerne     | 57   | 765      
 Audioslave               | 62   | 697      
 Paul Westerberg          | 69   | 641      
-Foo Fighters             | 72   | 614      
+Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
