@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 14   | 2469     
+Raga Rockers                   | 14   | 2470     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -118,7 +118,7 @@ Cloud Nothings   | 94   | 434
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3448     
-Hüsker Dü                | 11   | 2924     
+Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2299     
 Sugar                    | 33   | 1334     
 The Horrible Crowes      | 35   | 1184     
