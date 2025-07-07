@@ -133,7 +133,7 @@ Temple of the Dog        | 76   | 566
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
 Pink Floyd               | 84   | 487      
-Black Sabbath            | 85   | 482      
+Black Sabbath            | 85   | 483      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
 Warren Zevon             | 97   | 431      
