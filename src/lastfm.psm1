@@ -1,3 +1,37 @@
+# Test Last.fm API access
+function Test-LFMApiAccess {
+    [OutputType([bool])]
+    param (
+        [Parameter(Mandatory, HelpMessage = "Last.fm username to test API access with")]
+        [string]
+        $UserName,
+        [Parameter(HelpMessage = "Last.fm API key")]
+        [string]
+        $ApiKey = $env:API_KEY
+    )
+
+    if (!$ApiKey) {
+        Write-Error "API_KEY environment variable is not set"
+        return $false
+    }
+
+    try {
+        $testUri = "https://ws.audioscrobbler.com/2.0/?method=user.getinfo&user=$UserName&api_key=$ApiKey&format=json"
+        $test = Invoke-WebRequest -Uri $testUri -ErrorAction Stop
+
+        if ($test.StatusCode -ne 200) {
+            Write-Error "API returned invalid status: $($test.StatusCode) $($test.StatusDescription)"
+            return $false
+        }
+
+        Write-Verbose "API access test successful for user '$UserName'"
+        return $true
+    } catch {
+        Write-Error "Something went wrong when calling the API: $_"
+        return $false
+    }
+}
+
 # https://www.last.fm/api/show/user.getTopArtists
 function Invoke-LFMTopArtists {
     [OutputType([PSCustomObject[]])]

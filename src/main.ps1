@@ -15,29 +15,15 @@ param (
 $ErrorActionPreference = 'Stop'
 $InactiveArtists = Get-Content $InactiveArtistsFile
 
-# Set API Key variable
-$ApiKey = $env:API_KEY
-if (!$ApiKey) {
-    Write-Error "API_KEY environment variable is not set"
-}
-
-# Test API access
-$test = try {
-    Invoke-WebRequest -Uri "https://ws.audioscrobbler.com/2.0/?method=user.getinfo&user=$LastFmUserName&api_key=$ApiKey&format=json"
-} catch {
-    Write-Warning $_
-    Write-Error "Something went wrong when calling the API"
-}
-if ($test.StatusCode -ne 200) {
-    Write-Error "API returned invalid status: $($test.StatusCode) $($test.StatusDescription)"
-}
-
 # Import module
 Import-Module "$PSScriptRoot/lastfm.psm1" -Force
 
+# Test API access
+$null = Test-LFMApiAccess -UserName $LastFmUserName -ApiKey $env:API_KEY
+
 # Get artists
-$topArtists = Invoke-LFMTopArtists -UserName $LastFmUserName -ApiKey $ApiKey -Limit $NumberOfArtists
-$artistsSeenLive = Invoke-LFMSeenLiveArtists -UserName $LastFmUserName -ApiKey $ApiKey
+$topArtists = Invoke-LFMTopArtists -UserName $LastFmUserName -ApiKey $env:API_KEY -Limit $NumberOfArtists
+$artistsSeenLive = Invoke-LFMSeenLiveArtists -UserName $LastFmUserName -ApiKey $env:API_KEY
 $artists = Get-LFMTopArtistsStatus -TopArtists $topArtists -SeenLiveArtists $artistsSeenLive -InactiveArtists $InactiveArtists
 
 # Filter
