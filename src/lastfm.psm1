@@ -43,6 +43,7 @@ function Invoke-LFMTopArtists {
         [string]
         $ApiKey = $env:API_KEY,
         [Parameter(HelpMessage = "Number of top artists to get")]
+        [ValidateRange(1, 1000)]
         [int]
         $Limit = 100
     )
@@ -213,4 +214,26 @@ Function ConvertTo-Markdown {
             $values -join ' | '
         }
     }
+}
+
+function Get-ArtistStatus {
+    param([string]$ArtistName)
+
+    # Search MusicBrainz for artist
+    $userAgent = "LastFM-Artists-Status/1.0 ( https://github.com/matsest/lastfm-artists-seen-live )"
+    $searchUri = "https://musicbrainz.org/ws/2/artist/?query=artist:$([uri]::EscapeDataString($ArtistName))&fmt=json"
+    $result = Invoke-RestMethod -Uri $searchUri -UserAgent $userAgent
+
+    if ($result.artists -and $result.artists.Count -gt 0) {
+        $artist = $result.artists | Where-Object { $_.name -eq $ArtistName } | Select-Object -First 1
+    } else {
+        Write-Verbose "No artists found for '$ArtistName'"
+        return $true # Default to active if unknown
+    }
+
+    if ($artist) {
+        # Check if artist has an end date or is marked as ended
+        return -not ($artist.'life-span'.ended -eq $true -or $artist.'life-span'.end)
+    }
+    return $true # Default to active if unknown
 }

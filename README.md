@@ -35,6 +35,7 @@ See the latest run in [Actions](https://github.com/matsest/lastfm-artists-seen-l
 
 To be able to create a fork of this repo that runs towards your own last.fm account run the following steps:
 
+1. Tag your seen live artists on last.fm with the `seen live` tag. You can do this by going to the artist page and clicking on the "Add a tag" button.
 1. Create a [last.fm API Account](https://www.last.fm/api/account/create)
 1. [Fork this repo](https://github.com/matsest/lastfm-artists-seen-live/fork)
 1. Go to repository settings in your fork => Secrets and variables
@@ -43,7 +44,20 @@ To be able to create a fork of this repo that runs towards your own last.fm acco
 1. Open the Update Artists workflow and choose **Run workflow** to trigger the workflow
 1. Check the resulting `artists.md` at the root of your repo after the run has completed to see your own statistics.
 
-Remember that this utilizes the `seen live` tag on artists to resolve which artists you've seen live. Also note that the list of inactive artist (link) is manually maintained and based on my artists, so you might need to adjust them in your fork.
+> [!NOTE]
+> Remember that result relies on _your own_ `seen live` last.fm tag on artists to resolve which artists you've seen live.
+
+## Inactive artists
+
+The [list of inactive artists](./src/nonActiveArtists.txt) is manually maintained and based on my artists, so you might need to adjust them in your fork. You can automatically update the inactive artists by running the `update-inactive-artists.ps1` script:
+
+```powershell
+./src/update-inactive-artists.ps1 -LastFmUserName <string>
+# After running you will need to add and commit the changes
+# to the `nonActiveArtists.txt` file:
+git add src/nonActiveArtists.txt
+git commit -m "Update inactive artists"
+```
 
 ## License
 
