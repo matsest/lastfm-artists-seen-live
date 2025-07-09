@@ -9,11 +9,11 @@ function Invoke-LFMTopArtists {
         [string]
         $ApiKey = $env:API_KEY,
         [Parameter(HelpMessage = "Number of top artists to get")]
-        [string]
-        $Number = "100"
+        [int]
+        $Limit = 100
     )
 
-    $topArtistsUri = "https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=$UserName&api_key=$ApiKey&format=json&limit=$Number"
+    $topArtistsUri = "https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=$UserName&api_key=$ApiKey&format=json&limit=$Limit"
 
     try {
         $res = Invoke-RestMethod -Uri $topArtistsUri -ErrorAction Stop
@@ -47,8 +47,8 @@ function Invoke-LFMSeenLiveArtists {
         [string]
         $ApiKey = $env:API_KEY,
         [Parameter(HelpMessage = "Maximum number of artists to get")]
-        [string]
-        $Limit = "1000"
+        [int]
+        $Limit = 1000
     )
 
     $safeTagName = [uri]::EscapeDataString($TagName)
@@ -141,11 +141,11 @@ Function ConvertTo-Markdown {
     }
 
     Process {
-        ForEach($item in $collection) {
+        ForEach ($item in $collection) {
             $items += $item
 
             $item.PSObject.Properties | ForEach-Object {
-                if(-not $columns.Contains($_.Name) -or $columns[$_.Name] -lt $_.Value.ToString().Length) {
+                if (-not $columns.Contains($_.Name) -or $columns[$_.Name] -lt $_.Value.ToString().Length) {
                     $columns[$_.Name] = $_.Value.ToString().Length
                 }
             }
@@ -153,25 +153,25 @@ Function ConvertTo-Markdown {
     }
 
     End {
-        ForEach($key in $($columns.Keys)) {
+        ForEach ($key in $($columns.Keys)) {
             $columns[$key] = [Math]::Max($columns[$key], $key.Length)
         }
 
         $header = @()
-        ForEach($key in $columns.Keys) {
+        ForEach ($key in $columns.Keys) {
             $header += ('{0,-' + $columns[$key] + '}') -f $key
         }
         $header -join ' | '
 
         $separator = @()
-        ForEach($key in $columns.Keys) {
+        ForEach ($key in $columns.Keys) {
             $separator += '-' * $columns[$key]
         }
         $separator -join ' | '
 
-        ForEach($item in $items) {
+        ForEach ($item in $items) {
             $values = @()
-            ForEach($key in $columns.Keys) {
+            ForEach ($key in $columns.Keys) {
                 $values += ('{0,-' + $columns[$key] + '}') -f $item.($key)
             }
             $values -join ' | '

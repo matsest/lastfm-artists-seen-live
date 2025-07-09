@@ -4,8 +4,8 @@ param (
     [string]
     $LastFmUserName,
     [Parameter(HelpMessage = "Number of most listened to artists to fetch from Last.fm")]
-    [string]
-    $NumberOfArtists = "100",
+    [int]
+    $NumberOfArtists = 100,
     [Parameter(HelpMessage = "File with a list of artists that are no longer active (can't be seen live)")]
     [string]
     $InactiveArtistsFile = "$PSScriptRoot/nonActiveArtists.txt"
@@ -24,8 +24,7 @@ if (!$ApiKey) {
 # Test API access
 $test = try {
     Invoke-WebRequest -Uri "https://ws.audioscrobbler.com/2.0/?method=user.getinfo&user=$LastFmUserName&api_key=$ApiKey&format=json"
-}
-catch {
+} catch {
     Write-Warning $_
     Write-Error "Something went wrong when calling the API"
 }
@@ -37,7 +36,7 @@ if ($test.StatusCode -ne 200) {
 Import-Module "$PSScriptRoot/lastfm.psm1" -Force
 
 # Get artists
-$topArtists = Invoke-LFMTopArtists -UserName $LastFmUserName -ApiKey $ApiKey -Number $NumberOfArtists
+$topArtists = Invoke-LFMTopArtists -UserName $LastFmUserName -ApiKey $ApiKey -Limit $NumberOfArtists
 $artistsSeenLive = Invoke-LFMSeenLiveArtists -UserName $LastFmUserName -ApiKey $ApiKey
 $artists = Get-LFMTopArtistsStatus -TopArtists $topArtists -SeenLiveArtists $artistsSeenLive -InactiveArtists $InactiveArtists
 
