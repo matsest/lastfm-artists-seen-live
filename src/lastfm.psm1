@@ -133,7 +133,7 @@ Function ConvertTo-Markdown {
         ForEach($item in $collection) {
             $items += $item
 
-            $item.PSObject.Properties | %{
+            $item.PSObject.Properties | ForEach-Object {
                 if(-not $columns.Contains($_.Name) -or $columns[$_.Name] -lt $_.Value.ToString().Length) {
                     $columns[$_.Name] = $_.Value.ToString().Length
                 }

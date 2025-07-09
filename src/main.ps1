@@ -71,7 +71,7 @@ Write-Output ($last10SeenLiveObj | Select-Object Artist, 'Seen live' | ConvertTo
 
 # Print lists
 Write-Output "`n## Top $NumberOfArtists artists seen live ($totalSeen)`n"
-Write-Output ($artists | ? { $_.SeenLive } | Select-Object Name, Rank, PlayCount | ConvertTo-Markdown)
+Write-Output ($artists | Where-Object { $_.SeenLive } | Select-Object Name, Rank, PlayCount | ConvertTo-Markdown)
 
 Write-Output "`n## Active top $NumberOfArtists artists not seen live ($($activeNotSeen.Count))`n"
 Write-Output ($activeNotSeen | ConvertTo-Markdown)
