@@ -57,6 +57,7 @@ function Invoke-LFMTopArtists {
     }
 
     $artists = $res.topartists.artist
+    Write-Verbose "Found $($artists.Count) top artists for user '$UserName'"
 
     $artists | ForEach-Object {
         [PSCustomObject]@{
@@ -96,6 +97,7 @@ function Invoke-LFMSeenLiveArtists {
     }
 
     $artists = $res.taggings.artists.artist
+    Write-Verbose "Found $($artists.Count) artists tagged with '$TagName' for user '$UserName'"
     $artists.Name
 }
 
