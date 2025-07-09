@@ -14,8 +14,14 @@ function Invoke-LFMTopArtists {
     )
 
     $topArtistsUri = "https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=$UserName&api_key=$ApiKey&format=json&limit=$Number"
-    $res = Invoke-RestMethod -Uri $topArtistsUri
-    #todo: add error handling for rest call
+
+    try {
+        $res = Invoke-RestMethod -Uri $topArtistsUri -ErrorAction Stop
+    } catch {
+        Write-Error "Failed to fetch top artists. Error: $_"
+        return
+    }
+
     $artists = $res.topartists.artist
 
     $artists | ForEach-Object {
@@ -46,10 +52,15 @@ function Invoke-LFMSeenLiveArtists {
     )
 
     $safeTagName = [uri]::EscapeDataString($TagName)
-
     $seenLiveUri = "https://ws.audioscrobbler.com/2.0/?method=user.getpersonaltags&user=$UserName&tag=$safeTagName&taggingtype=artist&api_key=$ApiKey&format=json&limit=$Limit"
-    $res = Invoke-RestMethod -Uri $seenLiveUri
-    #todo: add error handling for rest call
+
+    try {
+        $res = Invoke-RestMethod -Uri $seenLiveUri
+    } catch {
+        Write-Error "Failed to fetch seen live artists. Error: $_"
+        return
+    }
+
     $artists = $res.taggings.artists.artist
     $artists.Name
 }
