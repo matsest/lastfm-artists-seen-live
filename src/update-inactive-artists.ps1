@@ -48,4 +48,4 @@ foreach ($artist in $activeTopArtists) {
 $InactiveArtists | Set-Content $InactiveArtistsFile -Force
 
 Write-Host "`nUpdated inactive artists list saved to $InactiveArtistsFile."
-Write-Host "Remember review changes, and commit the updated file to the repo!"
+Write-Host "Remember to review the changes and commit the updated file to the repo!"

@@ -6,14 +6,14 @@
 
 ## Background
 
-To answer the question above I'm using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the [`seen live` tag](https://www.last.fm/tag/seen+live) on my last.fm artists and the [last.fm API](https://www.last.fm/api) together with some PowerShell.
+To answer the question above, I'm using scrobbles from [my last.fm account](https://www.last.fm/user/matsest), the [`seen live` tag](https://www.last.fm/tag/seen+live) on my last.fm artists, and the [last.fm API](https://www.last.fm/api) together with some PowerShell.
 
 ## Usage
 
 ### Prerequisites
 
-  - [PowerShell 7.x](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
-  - [last.fm API Account](https://www.last.fm/api/account/create)
+- [PowerShell 7.x](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
+- [last.fm API Account](https://www.last.fm/api/account/create)
 
 ### Run script
 
@@ -33,31 +33,36 @@ See the latest run in [Actions](https://github.com/matsest/lastfm-artists-seen-l
 
 ## Create your own fork
 
-To be able to create a fork of this repo that runs towards your own last.fm account run the following steps:
+To create a fork of this repo that runs with your own last.fm account, follow these steps:
 
-1. Tag your seen live artists on last.fm with the `seen live` tag. You can do this by going to the artist page and clicking on the "Add a tag" button.
+1. Tag your seen live artists on last.fm with the `seen live` tag. You can do this by going to the artist page and clicking the "Add a tag" button.
 1. Create a [last.fm API Account](https://www.last.fm/api/account/create)
 1. [Fork this repo](https://github.com/matsest/lastfm-artists-seen-live/fork)
 1. Go to repository settings in your fork => Secrets and variables
-  1. Create a [**repository secret**](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository) named `API_KEY` with the value of the last.fm API key
-  1. Create a new [**repository variable**](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository) named `LASTFM_USERNAME` and set the value to your own last.fm username
+   1. Create a [**repository secret**](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository) named `API_KEY` with the value of the last.fm API key
+   1. Create a new [**repository variable**](https://docs.github.com/en/actions/learn-github-actions/variables#creating-configuration-variables-for-a-repository) named `LASTFM_USERNAME` and set the value to your own last.fm username
 1. Open the Update Artists workflow and choose **Run workflow** to trigger the workflow
 1. Check the resulting `artists.md` at the root of your repo after the run has completed to see your own statistics.
 
 > [!NOTE]
-> Remember that result relies on _your own_ `seen live` last.fm tag on artists to resolve which artists you've seen live.
+> Remember that the result relies on _your own_ `seen live` last.fm tag on artists to determine which artists you've seen live.
 
 ## Inactive artists
 
-The [list of inactive artists](./src/nonActiveArtists.txt) is manually maintained and based on my artists, so you might need to adjust them in your fork. You can automatically update the inactive artists by running the `update-inactive-artists.ps1` script:
+The [list of inactive artists](./src/nonActiveArtists.txt) is based on my artists, so you might need to adjust it in your fork. You can automatically update the inactive artists by running the `update-inactive-artists.ps1` script locally:
 
 ```powershell
+$env:API_KEY = "<API Key>"
 ./src/update-inactive-artists.ps1 -LastFmUserName <string>
-# After running you will need to add and commit the changes
+
+# After running, you will need to add and commit the changes
 # to the `nonActiveArtists.txt` file:
 git add src/nonActiveArtists.txt
 git commit -m "Update inactive artists"
 ```
+
+> [!NOTE]
+> This script utilizes the [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API) to check if an artist is still active or not, and might not be 100% accurate.
 
 ## License
 
