@@ -132,7 +132,7 @@ Foo Fighters             | 73   | 614
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
-Black Sabbath            | 84   | 494      
+Black Sabbath            | 84   | 495      
 Pink Floyd               | 85   | 487      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
