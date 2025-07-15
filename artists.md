@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3010
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2678     
 Frank Turner                   | 13   | 2531     
-Raga Rockers                   | 14   | 2470     
+Raga Rockers                   | 14   | 2472     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2195     
 johndoe                        | 22   | 2168     
@@ -137,5 +137,5 @@ Pink Floyd               | 85   | 487
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
 Warren Zevon             | 97   | 431      
-Marillion                | 98   | 418      
+Marillion                | 98   | 420      
 Jokke med Tourettes      | 99   | 415      
