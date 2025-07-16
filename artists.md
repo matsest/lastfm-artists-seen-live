@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 501
+- Number of artists seen live in total: 504
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist         | Seen live
--------------- | ---------
-Megadeth       | True     
-Emperor        | True     
-Jinjer         | True     
-Tarja          | True     
-Jerry Cantrell | True     
-Sex Pistols    | True     
-BASTARDANE     | True     
-Weezer         | True     
-Green Day      | True     
-Bad Nerves     | True     
+Artist           | Seen live
+---------------- | ---------
+Richard Ashcroft | True     
+Cast             | True     
+Oasis            | True     
+Megadeth         | True     
+Emperor          | True     
+Jinjer           | True     
+Tarja            | True     
+Jerry Cantrell   | True     
+Sex Pistols      | True     
+BASTARDANE       | True     
 
 ## Top 100 artists seen live (56)
 
