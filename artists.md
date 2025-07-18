@@ -69,8 +69,8 @@ Brian Fallon                   | 51   | 824
 The Tallest Man on Earth       | 55   | 791      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
-Jason Isbell                   | 59   | 733      
-Ghost                          | 60   | 730      
+Ghost                          | 59   | 738      
+Jason Isbell                   | 60   | 733      
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 649      
 Blood Command                  | 70   | 637      
@@ -100,8 +100,8 @@ The Hold Steady  | 47   | 916
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 800      
 Eddie Vedder     | 61   | 703      
-Afghan Whigs     | 63   | 696      
-The Hotelier     | 64   | 693      
+The Hotelier     | 62   | 699      
+Afghan Whigs     | 64   | 696      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 532      
@@ -126,7 +126,7 @@ Genesis                  | 39   | 1068
 Fugazi                   | 45   | 999      
 Big Star                 | 54   | 793      
 Jokke & Valentinerne     | 57   | 765      
-Audioslave               | 62   | 697      
+Audioslave               | 63   | 697      
 Paul Westerberg          | 69   | 641      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 566      
