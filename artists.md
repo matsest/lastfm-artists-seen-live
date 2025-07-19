@@ -100,7 +100,7 @@ The Hold Steady  | 47   | 916
 Melvins          | 52   | 810      
 Bob Dylan        | 53   | 800      
 Eddie Vedder     | 61   | 703      
-The Hotelier     | 62   | 699      
+The Hotelier     | 62   | 701      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
