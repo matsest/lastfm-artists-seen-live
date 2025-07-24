@@ -30,7 +30,7 @@ BASTARDANE       | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6160     
-Soundgarden                    | 2    | 6140     
+Soundgarden                    | 2    | 6141     
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
