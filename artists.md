@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6141
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3081     
+AC/DC                          | 7    | 3102     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
