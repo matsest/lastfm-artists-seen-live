@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6141
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3102     
+AC/DC                          | 7    | 3103     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -117,7 +117,7 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3448     
+The Replacements         | 5    | 3449     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2299     
 Sugar                    | 33   | 1334     
