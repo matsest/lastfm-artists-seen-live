@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 504
+- Number of artists seen live in total: 505
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist           | Seen live
 ---------------- | ---------
+Angus            | True     
 Richard Ashcroft | True     
 Cast             | True     
 Oasis            | True     
@@ -23,18 +24,17 @@ Jinjer           | True
 Tarja            | True     
 Jerry Cantrell   | True     
 Sex Pistols      | True     
-BASTARDANE       | True     
 
 ## Top 100 artists seen live (56)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6160     
-Soundgarden                    | 2    | 6141     
+Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3103     
+AC/DC                          | 7    | 3106     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -47,8 +47,8 @@ johndoe                        | 22   | 2180
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1856     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1621     
-Weezer                         | 28   | 1613     
+The Smashing Pumpkins          | 27   | 1623     
+Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
@@ -90,7 +90,7 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 15   | 2458     
+Propagandhi      | 15   | 2465     
 Guided by Voices | 16   | 2429     
 Alice in Chains  | 17   | 2419     
 Bob Mould        | 18   | 2378     
