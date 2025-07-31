@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 505
+- Number of artists seen live in total: 504
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -90,10 +90,10 @@ Opeth                          | 100  | 413
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 15   | 2465     
-Guided by Voices | 16   | 2429     
+Propagandhi      | 15   | 2466     
+Guided by Voices | 16   | 2430     
 Alice in Chains  | 17   | 2419     
-Bob Mould        | 18   | 2378     
+Bob Mould        | 18   | 2383     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
@@ -117,17 +117,17 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3449     
+The Replacements         | 5    | 3453     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2299     
 Sugar                    | 33   | 1334     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 54   | 793      
+Big Star                 | 54   | 794      
 Jokke & Valentinerne     | 57   | 765      
 Audioslave               | 63   | 697      
-Paul Westerberg          | 69   | 641      
+Paul Westerberg          | 69   | 646      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
