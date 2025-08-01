@@ -127,12 +127,12 @@ Fugazi                   | 45   | 999
 Big Star                 | 54   | 794      
 Jokke & Valentinerne     | 57   | 765      
 Audioslave               | 63   | 697      
-Paul Westerberg          | 69   | 646      
+Paul Westerberg          | 69   | 647      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
-Black Sabbath            | 84   | 495      
+Black Sabbath            | 84   | 496      
 Pink Floyd               | 85   | 487      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
