@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6142
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3106     
+AC/DC                          | 7    | 3107     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -132,7 +132,7 @@ Foo Fighters             | 73   | 614
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
-Black Sabbath            | 84   | 496      
+Black Sabbath            | 84   | 497      
 Pink Floyd               | 85   | 487      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
