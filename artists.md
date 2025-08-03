@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6142
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3107     
+AC/DC                          | 7    | 3123     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -54,7 +54,7 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1149     
+Thin Lizzy                     | 36   | 1152     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -132,7 +132,7 @@ Foo Fighters             | 73   | 614
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 503      
-Black Sabbath            | 84   | 497      
+Black Sabbath            | 84   | 500      
 Pink Floyd               | 85   | 487      
 The Band                 | 92   | 441      
 The Twilight Singers     | 95   | 433      
