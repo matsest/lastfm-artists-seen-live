@@ -29,12 +29,12 @@ Sex Pistols      | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6160     
+Pearl Jam                      | 1    | 6161     
 Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4702     
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3161     
-AC/DC                          | 7    | 3123     
+AC/DC                          | 7    | 3128     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -105,9 +105,9 @@ Afghan Whigs     | 64   | 696
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 532      
-Yes              | 81   | 508      
+Yes              | 81   | 509      
 The War on Drugs | 86   | 482      
-Faith No More    | 87   | 475      
+Faith No More    | 87   | 476      
 Richard Thompson | 89   | 466      
 Dawes            | 90   | 457      
 Thåström         | 93   | 437      
@@ -117,7 +117,7 @@ Cloud Nothings   | 94   | 434
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3453     
+The Replacements         | 5    | 3454     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2299     
 Sugar                    | 33   | 1334     
@@ -125,7 +125,7 @@ The Horrible Crowes      | 35   | 1184
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 54   | 794      
-Jokke & Valentinerne     | 57   | 765      
+Jokke & Valentinerne     | 57   | 767      
 Audioslave               | 63   | 697      
 Paul Westerberg          | 69   | 647      
 Foo Fighters             | 73   | 614      
