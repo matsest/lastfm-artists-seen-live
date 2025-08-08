@@ -82,8 +82,8 @@ The Good The Bad and The Zugly | 77   | 534
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
 Backstreet Girls               | 88   | 468      
-Michael Krohn                  | 91   | 456      
-Gojira                         | 96   | 432      
+Michael Krohn                  | 92   | 456      
+Gojira                         | 97   | 432      
 Opeth                          | 100  | 413      
 
 ## Active top 100 artists not seen live (22)
@@ -108,10 +108,10 @@ Dinosaur Jr.     | 78   | 532
 Yes              | 81   | 509      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 476      
-Richard Thompson | 89   | 466      
-Dawes            | 90   | 457      
-Thåström         | 93   | 437      
-Cloud Nothings   | 94   | 434      
+Richard Thompson | 90   | 466      
+Dawes            | 91   | 457      
+Thåström         | 94   | 437      
+Cloud Nothings   | 95   | 434      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -134,8 +134,8 @@ The Beatles              | 79   | 532
 Rage Against the Machine | 82   | 503      
 Black Sabbath            | 84   | 500      
 Pink Floyd               | 85   | 487      
-The Band                 | 92   | 441      
-The Twilight Singers     | 95   | 433      
-Warren Zevon             | 97   | 431      
+Warren Zevon             | 89   | 467      
+The Band                 | 93   | 441      
+The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
 Jokke med Tourettes      | 99   | 415      
