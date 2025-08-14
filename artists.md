@@ -29,9 +29,9 @@ Sex Pistols      | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6161     
+Pearl Jam                      | 1    | 6162     
 Soundgarden                    | 2    | 6142     
-Rush                           | 3    | 4702     
+Rush                           | 3    | 4704     
 The Gaslight Anthem            | 4    | 4519     
 AC/DC                          | 6    | 3177     
 DumDum Boys                    | 7    | 3161     
@@ -77,7 +77,7 @@ Blood Command                  | 70   | 637
 Clutch                         | 71   | 633      
 Dropkick Murphys               | 72   | 621      
 Devin Townsend Project         | 74   | 608      
-Spielbergs                     | 75   | 603      
+Spielbergs                     | 75   | 604      
 The Good The Bad and The Zugly | 77   | 534      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
@@ -98,7 +98,7 @@ The Menzingers   | 26   | 1637
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 52   | 810      
-Bob Dylan        | 53   | 800      
+Bob Dylan        | 53   | 801      
 Eddie Vedder     | 61   | 703      
 The Hotelier     | 62   | 701      
 Afghan Whigs     | 64   | 696      
