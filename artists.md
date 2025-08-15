@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1856     
+Spidergawd                     | 24   | 1857     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1623     
 Weezer                         | 28   | 1614     
@@ -97,8 +97,8 @@ Bob Mould        | 18   | 2383
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
-Melvins          | 52   | 810      
-Bob Dylan        | 53   | 801      
+Melvins          | 53   | 810      
+Bob Dylan        | 54   | 801      
 Eddie Vedder     | 61   | 703      
 The Hotelier     | 62   | 701      
 Afghan Whigs     | 64   | 696      
@@ -110,8 +110,8 @@ The War on Drugs | 86   | 482
 Faith No More    | 87   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
-Thåström         | 94   | 437      
-Cloud Nothings   | 95   | 434      
+Cloud Nothings   | 93   | 441      
+Thåström         | 95   | 437      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -124,7 +124,7 @@ Sugar                    | 33   | 1334
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 54   | 794      
+Big Star                 | 52   | 822      
 Jokke & Valentinerne     | 57   | 767      
 Audioslave               | 63   | 697      
 Paul Westerberg          | 69   | 647      
@@ -135,7 +135,7 @@ Rage Against the Machine | 82   | 503
 Black Sabbath            | 84   | 500      
 Pink Floyd               | 85   | 487      
 Warren Zevon             | 89   | 467      
-The Band                 | 93   | 441      
+The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
 Jokke med Tourettes      | 99   | 415      
