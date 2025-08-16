@@ -29,12 +29,12 @@ Sex Pistols      | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6162     
+Pearl Jam                      | 1    | 6163     
 Soundgarden                    | 2    | 6142     
-Rush                           | 3    | 4704     
+Rush                           | 3    | 4706     
 The Gaslight Anthem            | 4    | 4519     
-AC/DC                          | 6    | 3177     
-DumDum Boys                    | 7    | 3161     
+AC/DC                          | 6    | 3179     
+DumDum Boys                    | 7    | 3162     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -45,16 +45,16 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1857     
+Spidergawd                     | 24   | 1860     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1623     
+The Smashing Pumpkins          | 27   | 1624     
 Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1152     
+Thin Lizzy                     | 36   | 1153     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -74,7 +74,7 @@ Jason Isbell                   | 60   | 733
 The Posies                     | 66   | 677      
 Kylesa                         | 68   | 649      
 Blood Command                  | 70   | 637      
-Clutch                         | 71   | 633      
+Clutch                         | 71   | 634      
 Dropkick Murphys               | 72   | 621      
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 604      
@@ -91,7 +91,7 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2430     
+Guided by Voices | 16   | 2431     
 Alice in Chains  | 17   | 2419     
 Bob Mould        | 18   | 2383     
 The Menzingers   | 26   | 1637     
@@ -105,7 +105,7 @@ Afghan Whigs     | 64   | 696
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 532      
-Yes              | 81   | 509      
+Yes              | 81   | 510      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 476      
 Richard Thompson | 90   | 466      
@@ -117,21 +117,21 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3454     
+The Replacements         | 5    | 3457     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2299     
-Sugar                    | 33   | 1334     
+The Who                  | 19   | 2302     
+Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 52   | 822      
-Jokke & Valentinerne     | 57   | 767      
-Audioslave               | 63   | 697      
+Jokke & Valentinerne     | 57   | 768      
+Audioslave               | 63   | 698      
 Paul Westerberg          | 69   | 647      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 566      
 The Beatles              | 79   | 532      
-Rage Against the Machine | 82   | 503      
+Rage Against the Machine | 82   | 504      
 Black Sabbath            | 84   | 500      
 Pink Floyd               | 85   | 487      
 Warren Zevon             | 89   | 467      
