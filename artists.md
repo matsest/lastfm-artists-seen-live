@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6142
 Rush                           | 3    | 4706     
 The Gaslight Anthem            | 4    | 4519     
 AC/DC                          | 6    | 3179     
-DumDum Boys                    | 7    | 3162     
+DumDum Boys                    | 7    | 3163     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -110,7 +110,7 @@ The War on Drugs | 86   | 482
 Faith No More    | 87   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
-Cloud Nothings   | 93   | 441      
+Cloud Nothings   | 93   | 442      
 Thåström         | 95   | 437      
 
 ## Inactive top 100 artists not seen live (22)
