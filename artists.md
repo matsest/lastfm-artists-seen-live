@@ -33,8 +33,8 @@ Pearl Jam                      | 1    | 6163
 Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4706     
 The Gaslight Anthem            | 4    | 4519     
-AC/DC                          | 6    | 3179     
-DumDum Boys                    | 7    | 3163     
+DumDum Boys                    | 6    | 3181     
+AC/DC                          | 7    | 3179     
 Motorpsycho                    | 8    | 3059     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1860     
+Spidergawd                     | 24   | 1861     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1624     
 Weezer                         | 28   | 1614     
@@ -63,7 +63,7 @@ Pappasaft                      | 42   | 1050
 Justin Townes Earle            | 43   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
-Sweden                         | 49   | 853      
+Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 51   | 824      
 The Tallest Man on Earth       | 55   | 791      
