@@ -35,11 +35,11 @@ Rush                           | 3    | 4706
 The Gaslight Anthem            | 4    | 4519     
 DumDum Boys                    | 6    | 3181     
 AC/DC                          | 7    | 3179     
-Motorpsycho                    | 8    | 3059     
+Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
-Manic Street Preachers         | 12   | 2678     
-Frank Turner                   | 13   | 2531     
+Manic Street Preachers         | 12   | 2682     
+Frank Turner                   | 13   | 2532     
 Raga Rockers                   | 14   | 2473     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2197     
@@ -65,8 +65,8 @@ Oslo Ess                       | 46   | 938
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
-Brian Fallon                   | 51   | 824      
-The Tallest Man on Earth       | 55   | 791      
+Brian Fallon                   | 51   | 825      
+The Tallest Man on Earth       | 55   | 792      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Ghost                          | 59   | 738      
@@ -81,7 +81,7 @@ Spielbergs                     | 75   | 604
 The Good The Bad and The Zugly | 77   | 534      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
-Backstreet Girls               | 88   | 468      
+Backstreet Girls               | 88   | 472      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
 Opeth                          | 100  | 413      
@@ -104,7 +104,7 @@ The Hotelier     | 62   | 701
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
-Dinosaur Jr.     | 78   | 532      
+Dinosaur Jr.     | 78   | 533      
 Yes              | 81   | 510      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 476      
@@ -124,7 +124,7 @@ Sugar                    | 33   | 1336
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 52   | 822      
+Big Star                 | 52   | 823      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 69   | 647      
