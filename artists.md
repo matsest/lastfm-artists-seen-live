@@ -32,7 +32,7 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6163     
 Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4706     
-The Gaslight Anthem            | 4    | 4519     
+The Gaslight Anthem            | 4    | 4520     
 DumDum Boys                    | 6    | 3181     
 AC/DC                          | 7    | 3179     
 Motorpsycho                    | 8    | 3060     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1861     
+Spidergawd                     | 24   | 1862     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1624     
 Weezer                         | 28   | 1614     
@@ -81,7 +81,7 @@ Spielbergs                     | 75   | 604
 The Good The Bad and The Zugly | 77   | 534      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
-Backstreet Girls               | 88   | 472      
+Backstreet Girls               | 88   | 473      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
 Opeth                          | 100  | 413      
@@ -93,7 +93,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2431     
 Alice in Chains  | 17   | 2419     
-Bob Mould        | 18   | 2383     
+Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
@@ -110,7 +110,7 @@ The War on Drugs | 86   | 482
 Faith No More    | 87   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
-Cloud Nothings   | 93   | 442      
+Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
 
 ## Inactive top 100 artists not seen live (22)
