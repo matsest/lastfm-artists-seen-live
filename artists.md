@@ -31,10 +31,10 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6163     
 Soundgarden                    | 2    | 6142     
-Rush                           | 3    | 4706     
+Rush                           | 3    | 4709     
 The Gaslight Anthem            | 4    | 4520     
 DumDum Boys                    | 6    | 3181     
-AC/DC                          | 7    | 3179     
+AC/DC                          | 7    | 3180     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -47,14 +47,14 @@ johndoe                        | 22   | 2180
 The National                   | 23   | 2155     
 Spidergawd                     | 24   | 1862     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1624     
+The Smashing Pumpkins          | 27   | 1625     
 Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1153     
+Thin Lizzy                     | 36   | 1154     
 Biffy Clyro                    | 37   | 1115     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -91,8 +91,8 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2431     
-Alice in Chains  | 17   | 2419     
+Guided by Voices | 16   | 2433     
+Alice in Chains  | 17   | 2420     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
@@ -105,7 +105,7 @@ Afghan Whigs     | 64   | 696
 Hot Water Music  | 65   | 680      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 533      
-Yes              | 81   | 510      
+Yes              | 81   | 511      
 The War on Drugs | 86   | 482      
 Faith No More    | 87   | 476      
 Richard Thompson | 90   | 466      
@@ -129,10 +129,10 @@ Jokke & Valentinerne     | 57   | 768
 Audioslave               | 63   | 698      
 Paul Westerberg          | 69   | 647      
 Foo Fighters             | 73   | 614      
-Temple of the Dog        | 76   | 566      
+Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 504      
-Black Sabbath            | 84   | 500      
+Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
 Warren Zevon             | 89   | 467      
 The Band                 | 94   | 441      
