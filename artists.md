@@ -138,4 +138,4 @@ Warren Zevon             | 89   | 467
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
-Jokke med Tourettes      | 99   | 415      
+Jokke med Tourettes      | 99   | 417      
