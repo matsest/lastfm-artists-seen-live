@@ -33,14 +33,14 @@ Pearl Jam                      | 1    | 6163
 Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4709     
 The Gaslight Anthem            | 4    | 4520     
-DumDum Boys                    | 6    | 3181     
-AC/DC                          | 7    | 3180     
+AC/DC                          | 6    | 3181     
+DumDum Boys                    | 7    | 3181     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2682     
 Frank Turner                   | 13   | 2532     
-Raga Rockers                   | 14   | 2473     
+Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3458     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2318     
+The Who                  | 19   | 2334     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
