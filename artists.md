@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 505
+- Number of artists seen live in total: 507
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist           | Seen live
 ---------------- | ---------
+Jobi Riccio      | True     
+ian noe          | True     
 Angus            | True     
 Richard Ashcroft | True     
 Cast             | True     
@@ -22,8 +24,6 @@ Megadeth         | True
 Emperor          | True     
 Jinjer           | True     
 Tarja            | True     
-Jerry Cantrell   | True     
-Sex Pistols      | True     
 
 ## Top 100 artists seen live (56)
 
