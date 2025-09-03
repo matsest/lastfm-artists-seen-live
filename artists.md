@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2180     
 The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1862     
+Spidergawd                     | 24   | 1863     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1625     
 Weezer                         | 28   | 1614     
@@ -72,10 +72,10 @@ Thulsa Doom                    | 58   | 759
 Ghost                          | 59   | 738      
 Jason Isbell                   | 60   | 733      
 The Posies                     | 66   | 677      
-Kylesa                         | 68   | 649      
-Blood Command                  | 70   | 637      
-Clutch                         | 71   | 634      
-Dropkick Murphys               | 72   | 621      
+Clutch                         | 68   | 649      
+Kylesa                         | 69   | 649      
+Blood Command                  | 71   | 637      
+Dropkick Murphys               | 72   | 633      
 Devin Townsend Project         | 74   | 608      
 Spielbergs                     | 75   | 604      
 The Good The Bad and The Zugly | 77   | 534      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 999
 Big Star                 | 52   | 823      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
-Paul Westerberg          | 69   | 647      
+Paul Westerberg          | 70   | 647      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
