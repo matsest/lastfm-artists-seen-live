@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6163     
 Soundgarden                    | 2    | 6142     
-Rush                           | 3    | 4709     
+Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4520     
-AC/DC                          | 6    | 3185     
+AC/DC                          | 6    | 3189     
 DumDum Boys                    | 7    | 3181     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -43,9 +43,9 @@ Frank Turner                   | 13   | 2532
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2197     
-johndoe                        | 22   | 2180     
-The National                   | 23   | 2155     
-Spidergawd                     | 24   | 1863     
+johndoe                        | 22   | 2190     
+The National                   | 23   | 2156     
+Spidergawd                     | 24   | 1865     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1625     
 Weezer                         | 28   | 1614     
@@ -65,8 +65,8 @@ Oslo Ess                       | 46   | 938
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
-Brian Fallon                   | 51   | 825      
-The Tallest Man on Earth       | 55   | 792      
+Brian Fallon                   | 52   | 825      
+The Tallest Man on Earth       | 55   | 793      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Ghost                          | 59   | 738      
@@ -98,7 +98,7 @@ The Menzingers   | 26   | 1637
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
 Melvins          | 53   | 810      
-Bob Dylan        | 54   | 801      
+Bob Dylan        | 54   | 802      
 Eddie Vedder     | 61   | 703      
 The Hotelier     | 62   | 701      
 Afghan Whigs     | 64   | 696      
@@ -117,24 +117,24 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3458     
+The Replacements         | 5    | 3459     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2334     
+The Who                  | 19   | 2335     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 52   | 823      
+Big Star                 | 51   | 827      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
-Paul Westerberg          | 70   | 647      
+Paul Westerberg          | 70   | 648      
 Foo Fighters             | 73   | 614      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 504      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
-Warren Zevon             | 89   | 467      
+Warren Zevon             | 89   | 470      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
