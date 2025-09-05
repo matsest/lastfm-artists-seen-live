@@ -29,25 +29,25 @@ Tarja            | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6163     
+Pearl Jam                      | 1    | 6164     
 Soundgarden                    | 2    | 6142     
 Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4520     
 AC/DC                          | 6    | 3189     
-DumDum Boys                    | 7    | 3181     
+DumDum Boys                    | 7    | 3187     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
-Manic Street Preachers         | 12   | 2682     
+Manic Street Preachers         | 12   | 2683     
 Frank Turner                   | 13   | 2532     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2197     
-johndoe                        | 22   | 2190     
+johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 1865     
 Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1625     
+The Smashing Pumpkins          | 27   | 1626     
 Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
@@ -76,8 +76,8 @@ Clutch                         | 68   | 649
 Kylesa                         | 69   | 649      
 Blood Command                  | 71   | 637      
 Dropkick Murphys               | 72   | 633      
-Devin Townsend Project         | 74   | 608      
-Spielbergs                     | 75   | 604      
+Spielbergs                     | 74   | 609      
+Devin Townsend Project         | 75   | 608      
 The Good The Bad and The Zugly | 77   | 534      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2433     
-Alice in Chains  | 17   | 2420     
+Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3459     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2335     
+The Who                  | 19   | 2336     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
@@ -128,7 +128,7 @@ Big Star                 | 51   | 827
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 614      
+Foo Fighters             | 73   | 615      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 504      
