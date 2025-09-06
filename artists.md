@@ -30,15 +30,15 @@ Tarja            | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6164     
-Soundgarden                    | 2    | 6142     
+Soundgarden                    | 2    | 6155     
 Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4520     
-AC/DC                          | 6    | 3189     
-DumDum Boys                    | 7    | 3187     
+DumDum Boys                    | 6    | 3197     
+AC/DC                          | 7    | 3189     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
-Manic Street Preachers         | 12   | 2683     
+Manic Street Preachers         | 12   | 2684     
 Frank Turner                   | 13   | 2532     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
@@ -54,8 +54,8 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1154     
-Biffy Clyro                    | 37   | 1115     
+Thin Lizzy                     | 36   | 1155     
+Biffy Clyro                    | 37   | 1116     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
@@ -72,7 +72,7 @@ Thulsa Doom                    | 58   | 759
 Ghost                          | 59   | 738      
 Jason Isbell                   | 60   | 733      
 The Posies                     | 66   | 677      
-Clutch                         | 68   | 649      
+Clutch                         | 68   | 650      
 Kylesa                         | 69   | 649      
 Blood Command                  | 71   | 637      
 Dropkick Murphys               | 72   | 633      
@@ -91,7 +91,7 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2433     
+Guided by Voices | 16   | 2434     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
