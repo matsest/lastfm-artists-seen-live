@@ -32,8 +32,8 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6164     
 Soundgarden                    | 2    | 6155     
 Rush                           | 3    | 4710     
-The Gaslight Anthem            | 4    | 4520     
-DumDum Boys                    | 6    | 3197     
+The Gaslight Anthem            | 4    | 4546     
+DumDum Boys                    | 6    | 3198     
 AC/DC                          | 7    | 3189     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -78,7 +78,7 @@ Blood Command                  | 71   | 637
 Dropkick Murphys               | 72   | 633      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 77   | 534      
+The Good The Bad and The Zugly | 77   | 538      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
 Backstreet Girls               | 88   | 473      
@@ -117,7 +117,7 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3459     
+The Replacements         | 5    | 3473     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2336     
 Sugar                    | 33   | 1336     
