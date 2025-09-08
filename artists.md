@@ -33,8 +33,8 @@ Pearl Jam                      | 1    | 6164
 Soundgarden                    | 2    | 6155     
 Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3198     
-AC/DC                          | 7    | 3189     
+DumDum Boys                    | 6    | 3208     
+AC/DC                          | 7    | 3192     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -117,7 +117,7 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3473     
+The Replacements         | 5    | 3474     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2336     
 Sugar                    | 33   | 1336     
@@ -134,7 +134,7 @@ The Beatles              | 79   | 532
 Rage Against the Machine | 82   | 504      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
-Warren Zevon             | 89   | 470      
+Warren Zevon             | 89   | 471      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
