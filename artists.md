@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1865     
+Spidergawd                     | 24   | 1880     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1626     
 Weezer                         | 28   | 1614     
