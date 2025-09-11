@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6155
 Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4546     
 DumDum Boys                    | 6    | 3208     
-AC/DC                          | 7    | 3193     
+AC/DC                          | 7    | 3200     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1880     
+Spidergawd                     | 24   | 1882     
 Mastodon                       | 25   | 1778     
 The Smashing Pumpkins          | 27   | 1626     
 Weezer                         | 28   | 1614     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3474     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2336     
+The Who                  | 19   | 2355     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
