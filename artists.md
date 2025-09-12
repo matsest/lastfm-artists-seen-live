@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6155
 Rush                           | 3    | 4710     
 The Gaslight Anthem            | 4    | 4546     
 DumDum Boys                    | 6    | 3208     
-AC/DC                          | 7    | 3200     
+AC/DC                          | 7    | 3201     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
@@ -66,7 +66,7 @@ Tool                           | 48   | 879
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
 Brian Fallon                   | 52   | 825      
-The Tallest Man on Earth       | 55   | 793      
+The Tallest Man on Earth       | 55   | 794      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
 Ghost                          | 59   | 738      
@@ -124,7 +124,7 @@ Sugar                    | 33   | 1336
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 51   | 827      
+Big Star                 | 51   | 828      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
@@ -134,7 +134,7 @@ The Beatles              | 79   | 532
 Rage Against the Machine | 82   | 504      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
-Warren Zevon             | 89   | 471      
+Warren Zevon             | 89   | 472      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
