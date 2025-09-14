@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 507
+- Number of artists seen live in total: 509
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist           | Seen live
----------------- | ---------
-Jobi Riccio      | True     
-ian noe          | True     
-Angus            | True     
-Richard Ashcroft | True     
-Cast             | True     
-Oasis            | True     
-Megadeth         | True     
-Emperor          | True     
-Jinjer           | True     
-Tarja            | True     
+Artist            | Seen live
+----------------- | ---------
+Jøl               | True     
+Pushwagnergruppen | True     
+Jobi Riccio       | True     
+ian noe           | True     
+Angus             | True     
+Richard Ashcroft  | True     
+Cast              | True     
+Oasis             | True     
+Megadeth          | True     
+Emperor           | True     
 
 ## Top 100 artists seen live (56)
 
