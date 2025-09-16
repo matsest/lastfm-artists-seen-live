@@ -45,16 +45,16 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1898     
-Mastodon                       | 25   | 1778     
-The Smashing Pumpkins          | 27   | 1626     
+Spidergawd                     | 24   | 1905     
+Mastodon                       | 25   | 1784     
+The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1155     
+Thin Lizzy                     | 36   | 1156     
 Biffy Clyro                    | 37   | 1116     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -119,16 +119,16 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3474     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2355     
+The Who                  | 19   | 2360     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 51   | 828      
+Big Star                 | 51   | 830      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 615      
+Foo Fighters             | 73   | 618      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 504      
