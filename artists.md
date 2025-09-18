@@ -39,7 +39,7 @@ Motorpsycho                    | 8    | 3060
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2935     
 Manic Street Preachers         | 12   | 2684     
-Frank Turner                   | 13   | 2532     
+Frank Turner                   | 13   | 2533     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 Ryan Adams                     | 21   | 2197     
@@ -124,17 +124,17 @@ Sugar                    | 33   | 1336
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 51   | 830      
+Big Star                 | 51   | 831      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 618      
+Foo Fighters             | 73   | 620      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 504      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
-Warren Zevon             | 89   | 472      
+Warren Zevon             | 89   | 473      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
