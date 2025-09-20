@@ -30,14 +30,14 @@ Emperor           | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6164     
-Soundgarden                    | 2    | 6155     
+Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4720     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3209     
-AC/DC                          | 7    | 3201     
+DumDum Boys                    | 6    | 3211     
+AC/DC                          | 7    | 3202     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2935     
+Bruce Springsteen              | 10   | 2936     
 Manic Street Preachers         | 12   | 2684     
 Frank Turner                   | 13   | 2533     
 Raga Rockers                   | 14   | 2484     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1927     
+Spidergawd                     | 24   | 1936     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -54,8 +54,8 @@ Kvelertak                      | 30   | 1389
 Touché Amoré                   | 31   | 1371     
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
-Thin Lizzy                     | 36   | 1156     
-Biffy Clyro                    | 37   | 1116     
+Thin Lizzy                     | 36   | 1159     
+Biffy Clyro                    | 37   | 1133     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
@@ -91,7 +91,7 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2434     
+Guided by Voices | 16   | 2435     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
@@ -117,9 +117,9 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3474     
+The Replacements         | 5    | 3475     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2360     
+The Who                  | 19   | 2363     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
@@ -128,10 +128,10 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 620      
+Foo Fighters             | 73   | 622      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
-Rage Against the Machine | 82   | 504      
+Rage Against the Machine | 82   | 505      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
 Warren Zevon             | 89   | 473      
