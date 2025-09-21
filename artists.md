@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6164
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4720     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3211     
+DumDum Boys                    | 6    | 3212     
 AC/DC                          | 7    | 3202     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1936     
+Spidergawd                     | 24   | 1939     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -81,7 +81,7 @@ Devin Townsend Project         | 75   | 608
 The Good The Bad and The Zugly | 77   | 538      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 83   | 502      
-Backstreet Girls               | 88   | 473      
+Backstreet Girls               | 89   | 473      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
 Opeth                          | 100  | 413      
@@ -107,7 +107,7 @@ Neil Young       | 67   | 671
 Dinosaur Jr.     | 78   | 533      
 Yes              | 81   | 511      
 The War on Drugs | 86   | 482      
-Faith No More    | 87   | 476      
+Faith No More    | 88   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
@@ -117,7 +117,7 @@ Thåström         | 95   | 437
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3475     
+The Replacements         | 5    | 3476     
 Hüsker Dü                | 11   | 2925     
 The Who                  | 19   | 2363     
 Sugar                    | 33   | 1336     
@@ -128,13 +128,13 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 622      
+Foo Fighters             | 73   | 623      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
 Black Sabbath            | 84   | 501      
 Pink Floyd               | 85   | 487      
-Warren Zevon             | 89   | 473      
+Warren Zevon             | 87   | 478      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
