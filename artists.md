@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1940     
+Spidergawd                     | 24   | 1957     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -133,7 +133,7 @@ Temple of the Dog        | 76   | 567
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
 Black Sabbath            | 84   | 501      
-Pink Floyd               | 85   | 487      
+Pink Floyd               | 85   | 489      
 Warren Zevon             | 87   | 479      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
