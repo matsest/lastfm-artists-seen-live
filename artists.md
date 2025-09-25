@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6156
 Rush                           | 3    | 4720     
 The Gaslight Anthem            | 4    | 4546     
 DumDum Boys                    | 6    | 3214     
-AC/DC                          | 7    | 3202     
+AC/DC                          | 7    | 3208     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2936     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1957     
+Spidergawd                     | 24   | 1958     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -78,9 +78,9 @@ Blood Command                  | 71   | 637
 Dropkick Murphys               | 72   | 633      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 77   | 538      
+The Good The Bad and The Zugly | 77   | 547      
 Carcass                        | 80   | 513      
-Jason Isbell and the 400 Unit  | 83   | 502      
+Jason Isbell and the 400 Unit  | 84   | 502      
 Backstreet Girls               | 89   | 473      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
@@ -99,14 +99,14 @@ The Black Crowes | 44   | 1031
 The Hold Steady  | 47   | 916      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 802      
-Eddie Vedder     | 61   | 703      
-The Hotelier     | 62   | 701      
+The Hotelier     | 61   | 707      
+Eddie Vedder     | 62   | 703      
 Afghan Whigs     | 64   | 696      
-Hot Water Music  | 65   | 680      
+Hot Water Music  | 65   | 681      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 533      
 Yes              | 81   | 511      
-The War on Drugs | 86   | 482      
+The War on Drugs | 87   | 482      
 Faith No More    | 88   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
@@ -132,9 +132,9 @@ Foo Fighters             | 73   | 626
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
-Black Sabbath            | 84   | 501      
-Pink Floyd               | 85   | 489      
-Warren Zevon             | 87   | 479      
+Warren Zevon             | 83   | 503      
+Black Sabbath            | 85   | 501      
+Pink Floyd               | 86   | 489      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
