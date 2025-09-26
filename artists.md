@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6164     
 Soundgarden                    | 2    | 6156     
-Rush                           | 3    | 4720     
+Rush                           | 3    | 4737     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3214     
+DumDum Boys                    | 6    | 3215     
 AC/DC                          | 7    | 3208     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 Ryan Adams                     | 21   | 2197     
 johndoe                        | 22   | 2191     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1958     
+Spidergawd                     | 24   | 1965     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -69,8 +69,8 @@ Brian Fallon                   | 52   | 825
 The Tallest Man on Earth       | 55   | 794      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
-Ghost                          | 59   | 738      
-Jason Isbell                   | 60   | 733      
+Jason Isbell                   | 59   | 744      
+Ghost                          | 60   | 738      
 The Posies                     | 66   | 677      
 Clutch                         | 68   | 650      
 Kylesa                         | 69   | 649      
@@ -99,7 +99,7 @@ The Black Crowes | 44   | 1031
 The Hold Steady  | 47   | 916      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 802      
-The Hotelier     | 61   | 707      
+The Hotelier     | 61   | 708      
 Eddie Vedder     | 62   | 703      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 65   | 681      
@@ -128,7 +128,7 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 626      
+Foo Fighters             | 73   | 627      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
