@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6164
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4737     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3215     
+DumDum Boys                    | 6    | 3216     
 AC/DC                          | 7    | 3208     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -81,7 +81,7 @@ Devin Townsend Project         | 75   | 608
 The Good The Bad and The Zugly | 77   | 547      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 84   | 502      
-Backstreet Girls               | 89   | 473      
+Backstreet Girls               | 88   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
 Opeth                          | 100  | 413      
@@ -107,7 +107,7 @@ Neil Young       | 67   | 671
 Dinosaur Jr.     | 78   | 533      
 Yes              | 81   | 511      
 The War on Drugs | 87   | 482      
-Faith No More    | 88   | 476      
+Faith No More    | 89   | 476      
 Richard Thompson | 90   | 466      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
@@ -128,7 +128,7 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 73   | 627      
+Foo Fighters             | 73   | 628      
 Temple of the Dog        | 76   | 567      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
