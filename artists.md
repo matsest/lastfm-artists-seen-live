@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 johndoe                        | 21   | 2228     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1965     
+Spidergawd                     | 24   | 1966     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -91,7 +91,7 @@ Opeth                          | 100  | 413
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2435     
+Guided by Voices | 16   | 2436     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
@@ -105,7 +105,7 @@ Afghan Whigs     | 64   | 696
 Hot Water Music  | 65   | 681      
 Neil Young       | 67   | 671      
 Dinosaur Jr.     | 78   | 533      
-Yes              | 81   | 511      
+Yes              | 81   | 512      
 The War on Drugs | 87   | 482      
 Faith No More    | 89   | 476      
 Richard Thompson | 90   | 466      
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3476     
 Hüsker Dü                | 11   | 2925     
-The Who                  | 19   | 2363     
+The Who                  | 19   | 2364     
 Sugar                    | 33   | 1336     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
