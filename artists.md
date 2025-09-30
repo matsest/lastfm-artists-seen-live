@@ -129,7 +129,7 @@ Jokke & Valentinerne     | 57   | 768
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
 Foo Fighters             | 73   | 628      
-Temple of the Dog        | 76   | 567      
+Temple of the Dog        | 76   | 568      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
 Warren Zevon             | 83   | 503      
