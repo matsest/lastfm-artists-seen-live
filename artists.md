@@ -45,7 +45,7 @@ Chris Cornell                  | 20   | 2239
 johndoe                        | 21   | 2237     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 1986     
+Spidergawd                     | 24   | 1987     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -55,7 +55,7 @@ Touché Amoré                   | 31   | 1371
 Baroness                       | 32   | 1370     
 Chuck Ragan                    | 34   | 1257     
 Thin Lizzy                     | 36   | 1159     
-Biffy Clyro                    | 37   | 1144     
+Biffy Clyro                    | 37   | 1155     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
