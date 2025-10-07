@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6164     
 Soundgarden                    | 2    | 6156     
-Rush                           | 3    | 4737     
+Rush                           | 3    | 4739     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3221     
+DumDum Boys                    | 6    | 3223     
 AC/DC                          | 7    | 3208     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -51,8 +51,8 @@ The Smashing Pumpkins          | 27   | 1627
 Weezer                         | 28   | 1614     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
-Touché Amoré                   | 31   | 1371     
-Baroness                       | 32   | 1370     
+Baroness                       | 31   | 1373     
+Touché Amoré                   | 32   | 1371     
 Chuck Ragan                    | 34   | 1257     
 Thin Lizzy                     | 36   | 1159     
 Biffy Clyro                    | 37   | 1155     
