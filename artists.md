@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6164
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4739     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3223     
+DumDum Boys                    | 6    | 3225     
 AC/DC                          | 7    | 3208     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
@@ -128,7 +128,7 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 70   | 648      
-Foo Fighters             | 72   | 634      
+Foo Fighters             | 72   | 635      
 Temple of the Dog        | 76   | 568      
 The Beatles              | 79   | 532      
 Rage Against the Machine | 82   | 505      
