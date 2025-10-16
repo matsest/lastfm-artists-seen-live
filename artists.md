@@ -39,7 +39,7 @@ Motorpsycho                    | 8    | 3060
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2936     
 Manic Street Preachers         | 12   | 2684     
-Frank Turner                   | 13   | 2533     
+Frank Turner                   | 13   | 2549     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2237     
