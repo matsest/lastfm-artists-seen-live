@@ -37,15 +37,15 @@ DumDum Boys                    | 6    | 3226
 AC/DC                          | 7    | 3209     
 Motorpsycho                    | 8    | 3060     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2936     
+Bruce Springsteen              | 11   | 2936     
 Manic Street Preachers         | 12   | 2684     
-Frank Turner                   | 13   | 2549     
+Frank Turner                   | 13   | 2569     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2237     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2004     
+Spidergawd                     | 24   | 2010     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
 Weezer                         | 28   | 1614     
@@ -118,9 +118,9 @@ Thåström         | 95   | 437
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3476     
-Hüsker Dü                | 11   | 2925     
+Hüsker Dü                | 10   | 2941     
 The Who                  | 19   | 2364     
-Sugar                    | 33   | 1336     
+Sugar                    | 33   | 1341     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
