@@ -6,9 +6,9 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
-- Number of top artists seen live: 56 (Active: 47 Inactive: 9)
+- Number of top artists seen live: 55 (Active: 46 Inactive: 9)
 
-- Number of top artists not seen live: 44 (Active: 22 Inactive: 22)
+- Number of top artists not seen live: 45 (Active: 23 Inactive: 22)
 
 ## Last 10 artists seen live
 
@@ -25,7 +25,7 @@ Oasis             | True
 Megadeth          | True     
 Emperor           | True     
 
-## Top 100 artists seen live (56)
+## Top 100 artists seen live (55)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -84,9 +84,8 @@ Jason Isbell and the 400 Unit  | 84   | 502
 Backstreet Girls               | 88   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
-Opeth                          | 100  | 413      
 
-## Active top 100 artists not seen live (22)
+## Active top 100 artists not seen live (23)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
@@ -112,13 +111,14 @@ Richard Thompson | 90   | 466
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
+Kiss             | 100  | 413      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3476     
-Hüsker Dü                | 10   | 2941     
+Hüsker Dü                | 10   | 2942     
 The Who                  | 19   | 2364     
 Sugar                    | 33   | 1341     
 The Horrible Crowes      | 35   | 1184     
