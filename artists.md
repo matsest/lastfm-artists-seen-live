@@ -90,7 +90,7 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2436     
+Guided by Voices | 16   | 2437     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2385     
 The Menzingers   | 26   | 1637     
