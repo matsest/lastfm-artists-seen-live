@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3476     
 Hüsker Dü                | 10   | 2942     
 The Who                  | 19   | 2364     
-Sugar                    | 33   | 1341     
+Sugar                    | 33   | 1369     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
