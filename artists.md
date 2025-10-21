@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 509
+- Number of artists seen live in total: 510
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Haywire           | True     
 Jøl               | True     
 Pushwagnergruppen | True     
 Jobi Riccio       | True     
@@ -23,7 +24,6 @@ Richard Ashcroft  | True
 Cast              | True     
 Oasis             | True     
 Megadeth          | True     
-Emperor           | True     
 
 ## Top 100 artists seen live (55)
 
@@ -39,7 +39,7 @@ Motorpsycho                    | 8    | 3060
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 11   | 2936     
 Manic Street Preachers         | 12   | 2684     
-Frank Turner                   | 13   | 2569     
+Frank Turner                   | 13   | 2584     
 Raga Rockers                   | 14   | 2484     
 Chris Cornell                  | 20   | 2239     
 johndoe                        | 21   | 2237     
@@ -71,11 +71,11 @@ Devin Townsend                 | 56   | 771
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 744      
 Ghost                          | 60   | 738      
-The Posies                     | 66   | 677      
-Clutch                         | 68   | 650      
-Kylesa                         | 69   | 649      
-Blood Command                  | 71   | 637      
-Dropkick Murphys               | 72   | 636      
+Dropkick Murphys               | 65   | 681      
+The Posies                     | 67   | 677      
+Clutch                         | 69   | 650      
+Kylesa                         | 70   | 649      
+Blood Command                  | 72   | 637      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
 The Good The Bad and The Zugly | 77   | 547      
@@ -101,8 +101,8 @@ Bob Dylan        | 54   | 802
 The Hotelier     | 61   | 712      
 Eddie Vedder     | 62   | 703      
 Afghan Whigs     | 64   | 696      
-Hot Water Music  | 65   | 681      
-Neil Young       | 67   | 671      
+Hot Water Music  | 66   | 681      
+Neil Young       | 68   | 671      
 Dinosaur Jr.     | 78   | 533      
 Yes              | 81   | 512      
 The War on Drugs | 87   | 482      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 999
 Big Star                 | 51   | 831      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
-Paul Westerberg          | 70   | 648      
+Paul Westerberg          | 71   | 648      
 Foo Fighters             | 73   | 635      
 Temple of the Dog        | 76   | 568      
 The Beatles              | 79   | 532      
