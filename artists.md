@@ -48,7 +48,7 @@ The National                   | 23   | 2156
 Spidergawd                     | 24   | 2010     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
-Weezer                         | 28   | 1614     
+Weezer                         | 28   | 1626     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1378     
@@ -78,7 +78,7 @@ Kylesa                         | 70   | 649
 Blood Command                  | 72   | 637      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 77   | 547      
+The Good The Bad and The Zugly | 77   | 555      
 Carcass                        | 80   | 513      
 Jason Isbell and the 400 Unit  | 84   | 502      
 Backstreet Girls               | 88   | 477      
