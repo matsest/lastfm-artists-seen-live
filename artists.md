@@ -29,31 +29,31 @@ Megadeth          | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6164     
+Pearl Jam                      | 1    | 6165     
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4777     
 The Gaslight Anthem            | 4    | 4546     
 DumDum Boys                    | 6    | 3227     
 AC/DC                          | 7    | 3209     
-Motorpsycho                    | 8    | 3060     
+Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 11   | 2936     
 Manic Street Preachers         | 12   | 2684     
-Frank Turner                   | 13   | 2600     
+Frank Turner                   | 13   | 2605     
 Raga Rockers                   | 14   | 2484     
-Chris Cornell                  | 20   | 2239     
-johndoe                        | 21   | 2237     
+johndoe                        | 20   | 2246     
+Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2010     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1627     
-Weezer                         | 28   | 1626     
+Weezer                         | 28   | 1627     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1378     
 Baroness                       | 32   | 1374     
-Chuck Ragan                    | 34   | 1257     
+Chuck Ragan                    | 34   | 1258     
 Thin Lizzy                     | 36   | 1159     
 Biffy Clyro                    | 37   | 1156     
 Hellbillies                    | 38   | 1085     
@@ -69,17 +69,17 @@ Brian Fallon                   | 52   | 825
 The Tallest Man on Earth       | 55   | 794      
 Devin Townsend                 | 56   | 771      
 Thulsa Doom                    | 58   | 759      
-Jason Isbell                   | 59   | 744      
+Jason Isbell                   | 59   | 749      
 Ghost                          | 60   | 738      
 Dropkick Murphys               | 65   | 682      
 The Posies                     | 67   | 677      
 Clutch                         | 69   | 650      
 Kylesa                         | 70   | 649      
-Blood Command                  | 72   | 637      
+Blood Command                  | 73   | 637      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 77   | 555      
-Carcass                        | 80   | 513      
+The Good The Bad and The Zugly | 77   | 556      
+Carcass                        | 81   | 513      
 Jason Isbell and the 400 Unit  | 84   | 502      
 Backstreet Girls               | 88   | 477      
 Michael Krohn                  | 92   | 456      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2437     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2385     
+Bob Mould        | 18   | 2386     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
 The Hold Steady  | 47   | 916      
@@ -104,7 +104,7 @@ Afghan Whigs     | 64   | 696
 Hot Water Music  | 66   | 681      
 Neil Young       | 68   | 671      
 Dinosaur Jr.     | 78   | 533      
-Yes              | 81   | 512      
+Yes              | 82   | 512      
 The War on Drugs | 87   | 482      
 Faith No More    | 89   | 476      
 Richard Thompson | 90   | 466      
@@ -128,11 +128,11 @@ Big Star                 | 51   | 831
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 698      
 Paul Westerberg          | 71   | 648      
-Foo Fighters             | 73   | 637      
+Foo Fighters             | 72   | 639      
 Temple of the Dog        | 76   | 568      
 The Beatles              | 79   | 532      
-Rage Against the Machine | 82   | 505      
-Warren Zevon             | 83   | 504      
+Warren Zevon             | 80   | 532      
+Rage Against the Machine | 83   | 505      
 Black Sabbath            | 85   | 501      
 Pink Floyd               | 86   | 489      
 The Band                 | 94   | 441      
