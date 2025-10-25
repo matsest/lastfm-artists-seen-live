@@ -29,32 +29,32 @@ Megadeth          | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6165     
+Pearl Jam                      | 1    | 6166     
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4777     
 The Gaslight Anthem            | 4    | 4546     
-DumDum Boys                    | 6    | 3227     
-AC/DC                          | 7    | 3209     
+DumDum Boys                    | 6    | 3229     
+AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 11   | 2936     
-Manic Street Preachers         | 12   | 2684     
+Bruce Springsteen              | 10   | 2948     
+Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2605     
-Raga Rockers                   | 14   | 2484     
-johndoe                        | 20   | 2246     
+Raga Rockers                   | 14   | 2487     
+johndoe                        | 20   | 2250     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2010     
 Mastodon                       | 25   | 1784     
-The Smashing Pumpkins          | 27   | 1627     
+The Smashing Pumpkins          | 27   | 1628     
 Weezer                         | 28   | 1627     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 31   | 1378     
 Baroness                       | 32   | 1374     
 Chuck Ragan                    | 34   | 1258     
-Thin Lizzy                     | 36   | 1159     
+Thin Lizzy                     | 36   | 1160     
 Biffy Clyro                    | 37   | 1156     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
@@ -80,7 +80,7 @@ Spielbergs                     | 74   | 609
 Devin Townsend Project         | 75   | 608      
 The Good The Bad and The Zugly | 77   | 556      
 Carcass                        | 81   | 513      
-Jason Isbell and the 400 Unit  | 84   | 502      
+Jason Isbell and the 400 Unit  | 85   | 502      
 Backstreet Girls               | 88   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 97   | 432      
@@ -117,23 +117,23 @@ Kiss             | 100  | 413
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3476     
-Hüsker Dü                | 10   | 2942     
-The Who                  | 19   | 2364     
+The Replacements         | 5    | 3477     
+Hüsker Dü                | 11   | 2942     
+The Who                  | 19   | 2366     
 Sugar                    | 33   | 1369     
 The Horrible Crowes      | 35   | 1184     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 51   | 831      
 Jokke & Valentinerne     | 57   | 768      
-Audioslave               | 63   | 698      
+Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
-Foo Fighters             | 72   | 639      
+Foo Fighters             | 72   | 641      
 Temple of the Dog        | 76   | 568      
 The Beatles              | 79   | 532      
 Warren Zevon             | 80   | 532      
 Rage Against the Machine | 83   | 505      
-Black Sabbath            | 85   | 501      
+Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
 The Band                 | 94   | 441      
 The Twilight Singers     | 96   | 433      
