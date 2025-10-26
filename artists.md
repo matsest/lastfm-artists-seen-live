@@ -37,11 +37,11 @@ DumDum Boys                    | 6    | 3229
 AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2948     
+Bruce Springsteen              | 10   | 2967     
 Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2605     
 Raga Rockers                   | 14   | 2487     
-johndoe                        | 20   | 2250     
+johndoe                        | 20   | 2251     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
