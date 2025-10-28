@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6166     
 Soundgarden                    | 2    | 6156     
-Rush                           | 3    | 4777     
+Rush                           | 3    | 4778     
 The Gaslight Anthem            | 4    | 4546     
 DumDum Boys                    | 6    | 3229     
 AC/DC                          | 7    | 3211     
@@ -41,7 +41,7 @@ Bruce Springsteen              | 10   | 2967
 Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2605     
 Raga Rockers                   | 14   | 2487     
-johndoe                        | 20   | 2251     
+johndoe                        | 20   | 2265     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
