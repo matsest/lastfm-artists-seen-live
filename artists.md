@@ -32,16 +32,16 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6166     
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4778     
-The Gaslight Anthem            | 4    | 4546     
+The Gaslight Anthem            | 4    | 4549     
 DumDum Boys                    | 6    | 3229     
 AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
-Bruce Springsteen              | 10   | 2967     
+Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2685     
-Frank Turner                   | 13   | 2605     
+Frank Turner                   | 13   | 2606     
 Raga Rockers                   | 14   | 2487     
-johndoe                        | 20   | 2265     
+johndoe                        | 20   | 2266     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
@@ -95,7 +95,7 @@ Alice in Chains  | 17   | 2424
 Bob Mould        | 18   | 2386     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 44   | 1031     
-The Hold Steady  | 47   | 916      
+The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 802      
 The Hotelier     | 61   | 712      
@@ -119,9 +119,9 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
 Hüsker Dü                | 11   | 2942     
-The Who                  | 19   | 2366     
+The Who                  | 19   | 2367     
 Sugar                    | 33   | 1369     
-The Horrible Crowes      | 35   | 1184     
+The Horrible Crowes      | 35   | 1186     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 51   | 831      
