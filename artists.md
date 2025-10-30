@@ -32,14 +32,14 @@ Name                           | Rank | PlayCount
 Pearl Jam                      | 1    | 6166     
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4778     
-The Gaslight Anthem            | 4    | 4549     
+The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3229     
 AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2685     
-Frank Turner                   | 13   | 2606     
+Frank Turner                   | 13   | 2607     
 Raga Rockers                   | 14   | 2487     
 johndoe                        | 20   | 2266     
 Chris Cornell                  | 21   | 2239     
@@ -55,12 +55,12 @@ Touché Amoré                   | 31   | 1378
 Baroness                       | 32   | 1374     
 Chuck Ragan                    | 34   | 1258     
 Thin Lizzy                     | 36   | 1160     
-Biffy Clyro                    | 37   | 1156     
+Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 40   | 1061     
 Anti-Lam Front                 | 41   | 1051     
 Pappasaft                      | 42   | 1050     
-Justin Townes Earle            | 43   | 1038     
+Justin Townes Earle            | 44   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
@@ -94,16 +94,16 @@ Guided by Voices | 16   | 2437
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2386     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 44   | 1031     
+The Black Crowes | 43   | 1039     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
-Bob Dylan        | 54   | 802      
+Bob Dylan        | 54   | 803      
 The Hotelier     | 61   | 712      
-Eddie Vedder     | 62   | 703      
+Eddie Vedder     | 62   | 704      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
 Neil Young       | 68   | 671      
-Dinosaur Jr.     | 78   | 533      
+Dinosaur Jr.     | 79   | 533      
 Yes              | 82   | 512      
 The War on Drugs | 87   | 482      
 Faith No More    | 89   | 476      
@@ -124,14 +124,14 @@ Sugar                    | 33   | 1369
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
-Big Star                 | 51   | 831      
+Big Star                 | 51   | 832      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 641      
 Temple of the Dog        | 76   | 568      
-The Beatles              | 79   | 532      
-Warren Zevon             | 80   | 532      
+Warren Zevon             | 78   | 536      
+The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 505      
 Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
