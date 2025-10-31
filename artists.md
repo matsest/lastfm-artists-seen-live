@@ -57,9 +57,9 @@ Chuck Ragan                    | 34   | 1258
 Thin Lizzy                     | 36   | 1160     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 38   | 1085     
-Stein Torleif Bjella           | 40   | 1061     
-Anti-Lam Front                 | 41   | 1051     
-Pappasaft                      | 42   | 1050     
+Stein Torleif Bjella           | 41   | 1061     
+Anti-Lam Front                 | 42   | 1051     
+Pappasaft                      | 43   | 1050     
 Justin Townes Earle            | 44   | 1038     
 Oslo Ess                       | 46   | 938      
 Tool                           | 48   | 879      
@@ -78,7 +78,7 @@ Kylesa                         | 70   | 649
 Blood Command                  | 73   | 637      
 Spielbergs                     | 74   | 609      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 77   | 556      
+The Good The Bad and The Zugly | 78   | 556      
 Carcass                        | 81   | 513      
 Jason Isbell and the 400 Unit  | 85   | 502      
 Backstreet Girls               | 88   | 477      
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2437
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2386     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 43   | 1039     
+The Black Crowes | 40   | 1063     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 803      
@@ -130,7 +130,7 @@ Audioslave               | 63   | 699
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 641      
 Temple of the Dog        | 76   | 568      
-Warren Zevon             | 78   | 536      
+Warren Zevon             | 77   | 567      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 505      
 Black Sabbath            | 84   | 502      
