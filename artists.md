@@ -33,14 +33,14 @@ Pearl Jam                      | 1    | 6166
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4778     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3229     
+DumDum Boys                    | 6    | 3230     
 AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2607     
-Raga Rockers                   | 14   | 2487     
+Raga Rockers                   | 14   | 2497     
 johndoe                        | 20   | 2266     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
@@ -90,7 +90,7 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2437     
+Guided by Voices | 16   | 2452     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2386     
 The Menzingers   | 26   | 1637     
@@ -128,7 +128,7 @@ Big Star                 | 51   | 832
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
-Foo Fighters             | 72   | 641      
+Foo Fighters             | 72   | 643      
 Temple of the Dog        | 76   | 568      
 Warren Zevon             | 77   | 567      
 The Beatles              | 80   | 532      
