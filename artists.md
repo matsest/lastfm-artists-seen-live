@@ -45,14 +45,14 @@ johndoe                        | 20   | 2266
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2016     
+Spidergawd                     | 24   | 2017     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1628     
 Weezer                         | 28   | 1627     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
-Touché Amoré                   | 31   | 1378     
-Baroness                       | 32   | 1374     
+Touché Amoré                   | 32   | 1378     
+Baroness                       | 33   | 1374     
 Chuck Ragan                    | 34   | 1258     
 Thin Lizzy                     | 36   | 1160     
 Biffy Clyro                    | 37   | 1158     
@@ -97,17 +97,17 @@ The Menzingers   | 26   | 1637
 The Black Crowes | 40   | 1063     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
-Bob Dylan        | 54   | 803      
+Bob Dylan        | 54   | 805      
 The Hotelier     | 61   | 712      
 Eddie Vedder     | 62   | 704      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
-Neil Young       | 68   | 671      
+Neil Young       | 68   | 672      
 Dinosaur Jr.     | 79   | 533      
 Yes              | 82   | 512      
 The War on Drugs | 87   | 482      
 Faith No More    | 89   | 476      
-Richard Thompson | 90   | 466      
+Richard Thompson | 90   | 467      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3477     
 Hüsker Dü                | 11   | 2942     
 The Who                  | 19   | 2367     
-Sugar                    | 33   | 1369     
+Sugar                    | 31   | 1379     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
@@ -135,7 +135,7 @@ The Beatles              | 80   | 532
 Rage Against the Machine | 83   | 505      
 Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
-The Band                 | 94   | 441      
+The Band                 | 94   | 442      
 The Twilight Singers     | 96   | 433      
 Marillion                | 98   | 420      
 Jokke med Tourettes      | 99   | 417      
