@@ -33,19 +33,19 @@ Pearl Jam                      | 1    | 6166
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4778     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3231     
+DumDum Boys                    | 6    | 3235     
 AC/DC                          | 7    | 3211     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2607     
-Raga Rockers                   | 14   | 2498     
-johndoe                        | 20   | 2266     
+Raga Rockers                   | 14   | 2499     
+johndoe                        | 20   | 2270     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2017     
+Spidergawd                     | 24   | 2027     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1628     
 Weezer                         | 28   | 1627     
@@ -61,7 +61,7 @@ Stein Torleif Bjella           | 41   | 1061
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1050     
 Justin Townes Earle            | 44   | 1038     
-Oslo Ess                       | 46   | 938      
+Oslo Ess                       | 46   | 939      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
@@ -76,9 +76,9 @@ The Posies                     | 67   | 677
 Clutch                         | 69   | 650      
 Kylesa                         | 70   | 649      
 Blood Command                  | 73   | 637      
-Spielbergs                     | 74   | 609      
+Spielbergs                     | 74   | 610      
 Devin Townsend Project         | 75   | 608      
-The Good The Bad and The Zugly | 78   | 562      
+The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 81   | 513      
 Jason Isbell and the 400 Unit  | 85   | 502      
 Backstreet Girls               | 88   | 477      
