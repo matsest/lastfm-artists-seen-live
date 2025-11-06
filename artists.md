@@ -41,11 +41,11 @@ Bruce Springsteen              | 10   | 2969
 Manic Street Preachers         | 12   | 2685     
 Frank Turner                   | 13   | 2607     
 Raga Rockers                   | 14   | 2499     
-johndoe                        | 20   | 2270     
+johndoe                        | 20   | 2271     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2027     
+Spidergawd                     | 24   | 2043     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1628     
 Weezer                         | 28   | 1627     
@@ -59,7 +59,7 @@ Biffy Clyro                    | 37   | 1158
 Hellbillies                    | 38   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
-Pappasaft                      | 43   | 1050     
+Pappasaft                      | 43   | 1051     
 Justin Townes Earle            | 44   | 1038     
 Oslo Ess                       | 46   | 939      
 Tool                           | 48   | 879      
