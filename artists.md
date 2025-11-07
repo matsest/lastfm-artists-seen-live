@@ -33,21 +33,21 @@ Pearl Jam                      | 1    | 6166
 Soundgarden                    | 2    | 6156     
 Rush                           | 3    | 4778     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3235     
-AC/DC                          | 7    | 3211     
+DumDum Boys                    | 6    | 3236     
+AC/DC                          | 7    | 3213     
 Motorpsycho                    | 8    | 3061     
 Against Me!                    | 9    | 3010     
 Bruce Springsteen              | 10   | 2969     
-Manic Street Preachers         | 12   | 2685     
+Manic Street Preachers         | 12   | 2687     
 Frank Turner                   | 13   | 2607     
-Raga Rockers                   | 14   | 2499     
+Raga Rockers                   | 14   | 2500     
 johndoe                        | 20   | 2271     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2043     
 Mastodon                       | 25   | 1784     
-The Smashing Pumpkins          | 27   | 1628     
+The Smashing Pumpkins          | 27   | 1629     
 Weezer                         | 28   | 1627     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
@@ -90,11 +90,11 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2454     
+Guided by Voices | 16   | 2455     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2386     
+Bob Mould        | 18   | 2387     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 40   | 1063     
+The Black Crowes | 40   | 1064     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 805      
@@ -119,8 +119,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
 Hüsker Dü                | 11   | 2942     
-The Who                  | 19   | 2367     
-Sugar                    | 31   | 1379     
+The Who                  | 19   | 2369     
+Sugar                    | 31   | 1381     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 39   | 1068     
 Fugazi                   | 45   | 999      
