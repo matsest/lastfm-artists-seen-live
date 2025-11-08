@@ -30,8 +30,8 @@ Jobi Riccio       | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6166     
-Soundgarden                    | 2    | 6156     
-Rush                           | 3    | 4778     
+Soundgarden                    | 2    | 6157     
+Rush                           | 3    | 4779     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3236     
 AC/DC                          | 7    | 3213     
@@ -45,10 +45,10 @@ johndoe                        | 20   | 2271
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2043     
+Spidergawd                     | 24   | 2045     
 Mastodon                       | 25   | 1784     
 The Smashing Pumpkins          | 27   | 1629     
-Weezer                         | 28   | 1627     
+Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1389     
 Touché Amoré                   | 32   | 1378     
@@ -90,7 +90,7 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2455     
+Guided by Voices | 16   | 2456     
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2387     
 The Menzingers   | 26   | 1637     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
 Hüsker Dü                | 11   | 2942     
-The Who                  | 19   | 2369     
+The Who                  | 19   | 2370     
 Sugar                    | 31   | 1381     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 39   | 1068     
