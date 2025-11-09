@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6166     
 Soundgarden                    | 2    | 6157     
-Rush                           | 3    | 4779     
+Rush                           | 3    | 4780     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3236     
 AC/DC                          | 7    | 3213     
@@ -45,8 +45,8 @@ johndoe                        | 20   | 2271
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2045     
-Mastodon                       | 25   | 1784     
+Spidergawd                     | 24   | 2061     
+Mastodon                       | 25   | 1785     
 The Smashing Pumpkins          | 27   | 1629     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
@@ -61,7 +61,7 @@ Stein Torleif Bjella           | 41   | 1061
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
 Justin Townes Earle            | 44   | 1038     
-Oslo Ess                       | 46   | 939      
+Oslo Ess                       | 46   | 941      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
@@ -132,7 +132,7 @@ Foo Fighters             | 72   | 645
 Temple of the Dog        | 76   | 568      
 Warren Zevon             | 77   | 567      
 The Beatles              | 80   | 532      
-Rage Against the Machine | 83   | 505      
+Rage Against the Machine | 83   | 506      
 Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
 The Band                 | 94   | 442      
