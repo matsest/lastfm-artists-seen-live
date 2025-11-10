@@ -30,7 +30,7 @@ Jobi Riccio       | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6166     
-Soundgarden                    | 2    | 6157     
+Soundgarden                    | 2    | 6162     
 Rush                           | 3    | 4780     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3236     
