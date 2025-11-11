@@ -30,7 +30,7 @@ Jobi Riccio       | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6166     
-Soundgarden                    | 2    | 6162     
+Soundgarden                    | 2    | 6163     
 Rush                           | 3    | 4780     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3236     
@@ -50,13 +50,13 @@ Mastodon                       | 25   | 1785
 The Smashing Pumpkins          | 27   | 1629     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1389     
+Kvelertak                      | 30   | 1390     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1374     
 Chuck Ragan                    | 34   | 1258     
 Thin Lizzy                     | 36   | 1160     
 Biffy Clyro                    | 37   | 1158     
-Hellbillies                    | 38   | 1085     
+Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
@@ -71,9 +71,9 @@ Devin Townsend                 | 56   | 771
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 749      
 Ghost                          | 60   | 738      
-Dropkick Murphys               | 65   | 682      
+Dropkick Murphys               | 65   | 683      
 The Posies                     | 67   | 677      
-Clutch                         | 69   | 650      
+Clutch                         | 69   | 651      
 Kylesa                         | 70   | 649      
 Blood Command                  | 73   | 637      
 Spielbergs                     | 74   | 610      
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2456
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2387     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 40   | 1064     
+The Black Crowes | 38   | 1098     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 805      
@@ -122,7 +122,7 @@ Hüsker Dü                | 11   | 2942
 The Who                  | 19   | 2370     
 Sugar                    | 31   | 1381     
 The Horrible Crowes      | 35   | 1186     
-Genesis                  | 39   | 1068     
+Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 999      
 Big Star                 | 51   | 832      
 Jokke & Valentinerne     | 57   | 768      
