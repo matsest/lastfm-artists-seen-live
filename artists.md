@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4550
 DumDum Boys                    | 6    | 3236     
 AC/DC                          | 7    | 3213     
 Motorpsycho                    | 8    | 3061     
-Against Me!                    | 9    | 3010     
+Against Me!                    | 9    | 3023     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2687     
 Frank Turner                   | 13   | 2607     
@@ -47,7 +47,7 @@ Ryan Adams                     | 22   | 2197
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2061     
 Mastodon                       | 25   | 1785     
-The Smashing Pumpkins          | 27   | 1629     
+The Smashing Pumpkins          | 27   | 1630     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1390     
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2456
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2387     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1098     
+The Black Crowes | 38   | 1111     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 805      
