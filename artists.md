@@ -29,14 +29,14 @@ Jobi Riccio       | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6166     
+Pearl Jam                      | 1    | 6167     
 Soundgarden                    | 2    | 6163     
-Rush                           | 3    | 4780     
+Rush                           | 3    | 4781     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3236     
+DumDum Boys                    | 6    | 3237     
 AC/DC                          | 7    | 3213     
 Motorpsycho                    | 8    | 3061     
-Against Me!                    | 9    | 3023     
+Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2687     
 Frank Turner                   | 13   | 2607     
@@ -46,22 +46,22 @@ Chris Cornell                  | 21   | 2239
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2061     
-Mastodon                       | 25   | 1785     
-The Smashing Pumpkins          | 27   | 1630     
+Mastodon                       | 25   | 1786     
+The Smashing Pumpkins          | 27   | 1631     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 30   | 1390     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1374     
 Chuck Ragan                    | 34   | 1258     
-Thin Lizzy                     | 36   | 1160     
+Thin Lizzy                     | 36   | 1161     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
 Justin Townes Earle            | 44   | 1038     
-Oslo Ess                       | 46   | 941      
+Oslo Ess                       | 46   | 942      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 834      
@@ -71,7 +71,7 @@ Devin Townsend                 | 56   | 771
 Thulsa Doom                    | 58   | 759      
 Jason Isbell                   | 59   | 749      
 Ghost                          | 60   | 738      
-Dropkick Murphys               | 65   | 683      
+Dropkick Murphys               | 65   | 684      
 The Posies                     | 67   | 677      
 Clutch                         | 69   | 651      
 Kylesa                         | 70   | 649      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2456     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2387     
+Bob Mould        | 18   | 2388     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1111     
 The Hold Steady  | 47   | 918      
@@ -118,12 +118,12 @@ Kiss             | 100  | 413
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
-Hüsker Dü                | 11   | 2942     
+Hüsker Dü                | 11   | 2944     
 The Who                  | 19   | 2370     
 Sugar                    | 31   | 1381     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 999      
+Fugazi                   | 45   | 1000     
 Big Star                 | 51   | 832      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 699      
