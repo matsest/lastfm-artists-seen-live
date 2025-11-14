@@ -60,7 +60,7 @@ Hellbillies                    | 39   | 1085
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
-Justin Townes Earle            | 44   | 1038     
+Justin Townes Earle            | 44   | 1040     
 Oslo Ess                       | 46   | 942      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2456     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2388     
+Bob Mould        | 18   | 2389     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1111     
 The Hold Steady  | 47   | 918      
@@ -107,7 +107,7 @@ Dinosaur Jr.     | 79   | 533
 Yes              | 82   | 512      
 The War on Drugs | 87   | 482      
 Faith No More    | 89   | 476      
-Richard Thompson | 90   | 467      
+Richard Thompson | 90   | 472      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
@@ -129,8 +129,8 @@ Jokke & Valentinerne     | 57   | 768
 Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 645      
-Temple of the Dog        | 76   | 568      
-Warren Zevon             | 77   | 567      
+Warren Zevon             | 76   | 571      
+Temple of the Dog        | 77   | 568      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 506      
 Black Sabbath            | 84   | 502      
