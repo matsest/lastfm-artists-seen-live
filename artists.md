@@ -34,8 +34,8 @@ Soundgarden                    | 2    | 6163
 Rush                           | 3    | 4781     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3237     
-AC/DC                          | 7    | 3213     
-Motorpsycho                    | 8    | 3061     
+AC/DC                          | 7    | 3217     
+Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 10   | 2969     
 Manic Street Preachers         | 12   | 2687     
@@ -45,7 +45,7 @@ johndoe                        | 20   | 2271
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2061     
+Spidergawd                     | 24   | 2063     
 Mastodon                       | 25   | 1786     
 The Smashing Pumpkins          | 27   | 1631     
 Weezer                         | 28   | 1628     
@@ -60,7 +60,7 @@ Hellbillies                    | 39   | 1085
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
-Justin Townes Earle            | 44   | 1040     
+Justin Townes Earle            | 44   | 1041     
 Oslo Ess                       | 46   | 942      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2456
 Alice in Chains  | 17   | 2424     
 Bob Mould        | 18   | 2389     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1111     
+The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 918      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 805      
