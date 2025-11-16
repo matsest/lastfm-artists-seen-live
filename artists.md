@@ -45,7 +45,7 @@ johndoe                        | 20   | 2271
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2197     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2063     
+Spidergawd                     | 24   | 2064     
 Mastodon                       | 25   | 1786     
 The Smashing Pumpkins          | 27   | 1631     
 Weezer                         | 28   | 1628     
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2456     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2389     
+Bob Mould        | 18   | 2403     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 918      
@@ -118,9 +118,9 @@ Kiss             | 100  | 413
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
-Hüsker Dü                | 11   | 2944     
+Hüsker Dü                | 11   | 2949     
 The Who                  | 19   | 2370     
-Sugar                    | 31   | 1381     
+Sugar                    | 31   | 1383     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1000     
