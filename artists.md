@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2456     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2403     
+Bob Mould        | 18   | 2416     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 918      
@@ -118,9 +118,9 @@ Kiss             | 100  | 413
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3477     
-Hüsker Dü                | 11   | 2949     
+Hüsker Dü                | 11   | 2958     
 The Who                  | 19   | 2370     
-Sugar                    | 31   | 1383     
+Sugar                    | 31   | 1385     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1000     
