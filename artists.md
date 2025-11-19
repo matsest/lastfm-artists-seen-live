@@ -34,7 +34,7 @@ Soundgarden                    | 2    | 6163
 Rush                           | 3    | 4781     
 The Gaslight Anthem            | 4    | 4550     
 DumDum Boys                    | 6    | 3237     
-AC/DC                          | 7    | 3217     
+AC/DC                          | 7    | 3219     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 10   | 2969     
@@ -90,12 +90,12 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2456     
+Guided by Voices | 16   | 2458     
 Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2416     
+Bob Mould        | 18   | 2418     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
-The Hold Steady  | 47   | 918      
+The Hold Steady  | 47   | 919      
 Melvins          | 53   | 810      
 Bob Dylan        | 54   | 805      
 The Hotelier     | 61   | 712      
@@ -117,14 +117,14 @@ Kiss             | 100  | 413
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3477     
+The Replacements         | 5    | 3480     
 Hüsker Dü                | 11   | 2958     
 The Who                  | 19   | 2370     
-Sugar                    | 31   | 1385     
+Sugar                    | 31   | 1388     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1000     
-Big Star                 | 51   | 832      
+Big Star                 | 51   | 833      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
