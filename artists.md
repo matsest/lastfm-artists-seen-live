@@ -29,21 +29,21 @@ Jobi Riccio       | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6167     
-Soundgarden                    | 2    | 6163     
+Pearl Jam                      | 1    | 6168     
+Soundgarden                    | 2    | 6164     
 Rush                           | 3    | 4781     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3237     
-AC/DC                          | 7    | 3219     
+DumDum Boys                    | 6    | 3241     
+AC/DC                          | 7    | 3221     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 10   | 2969     
+Bruce Springsteen              | 10   | 2973     
 Manic Street Preachers         | 12   | 2687     
 Frank Turner                   | 13   | 2607     
-Raga Rockers                   | 14   | 2500     
-johndoe                        | 20   | 2271     
+Raga Rockers                   | 14   | 2502     
+johndoe                        | 20   | 2274     
 Chris Cornell                  | 21   | 2239     
-Ryan Adams                     | 22   | 2197     
+Ryan Adams                     | 22   | 2198     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2064     
 Mastodon                       | 25   | 1786     
@@ -53,8 +53,8 @@ Mark Lanegan                   | 29   | 1525
 Kvelertak                      | 30   | 1390     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1374     
-Chuck Ragan                    | 34   | 1258     
-Thin Lizzy                     | 36   | 1161     
+Chuck Ragan                    | 34   | 1263     
+Thin Lizzy                     | 36   | 1162     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -64,7 +64,7 @@ Justin Townes Earle            | 44   | 1041
 Oslo Ess                       | 46   | 942      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
-Japandroids                    | 50   | 834      
+Japandroids                    | 51   | 834      
 Brian Fallon                   | 52   | 825      
 The Tallest Man on Earth       | 55   | 794      
 Devin Townsend                 | 56   | 771      
@@ -77,7 +77,7 @@ Clutch                         | 69   | 651
 Kylesa                         | 70   | 649      
 Blood Command                  | 73   | 637      
 Spielbergs                     | 74   | 610      
-Devin Townsend Project         | 75   | 608      
+Devin Townsend Project         | 75   | 609      
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 81   | 513      
 Jason Isbell and the 400 Unit  | 85   | 502      
@@ -91,8 +91,8 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2458     
-Alice in Chains  | 17   | 2424     
-Bob Mould        | 18   | 2418     
+Alice in Chains  | 17   | 2425     
+Bob Mould        | 18   | 2422     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 919      
@@ -117,20 +117,20 @@ Kiss             | 100  | 413
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3480     
+The Replacements         | 5    | 3482     
 Hüsker Dü                | 11   | 2958     
 The Who                  | 19   | 2370     
-Sugar                    | 31   | 1388     
+Sugar                    | 31   | 1390     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1000     
-Big Star                 | 51   | 833      
+Big Star                 | 50   | 834      
 Jokke & Valentinerne     | 57   | 768      
 Audioslave               | 63   | 699      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 645      
-Warren Zevon             | 76   | 571      
-Temple of the Dog        | 77   | 568      
+Warren Zevon             | 76   | 573      
+Temple of the Dog        | 77   | 570      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 506      
 Black Sabbath            | 84   | 502      
