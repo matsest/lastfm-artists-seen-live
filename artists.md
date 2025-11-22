@@ -29,32 +29,32 @@ Jobi Riccio       | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6168     
-Soundgarden                    | 2    | 6164     
-Rush                           | 3    | 4781     
+Pearl Jam                      | 1    | 6169     
+Soundgarden                    | 2    | 6166     
+Rush                           | 3    | 4786     
 The Gaslight Anthem            | 4    | 4550     
-DumDum Boys                    | 6    | 3241     
-AC/DC                          | 7    | 3221     
+DumDum Boys                    | 6    | 3242     
+AC/DC                          | 7    | 3226     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 10   | 2973     
-Manic Street Preachers         | 12   | 2687     
+Bruce Springsteen              | 10   | 2974     
+Manic Street Preachers         | 12   | 2689     
 Frank Turner                   | 13   | 2607     
 Raga Rockers                   | 14   | 2502     
 johndoe                        | 20   | 2274     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2198     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2064     
+Spidergawd                     | 24   | 2065     
 Mastodon                       | 25   | 1786     
-The Smashing Pumpkins          | 27   | 1631     
+The Smashing Pumpkins          | 27   | 1632     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 30   | 1390     
+Kvelertak                      | 31   | 1390     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1374     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1162     
+Thin Lizzy                     | 36   | 1164     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -73,7 +73,7 @@ Jason Isbell                   | 59   | 749
 Ghost                          | 60   | 738      
 Dropkick Murphys               | 65   | 684      
 The Posies                     | 67   | 677      
-Clutch                         | 69   | 651      
+Clutch                         | 69   | 653      
 Kylesa                         | 70   | 649      
 Blood Command                  | 73   | 637      
 Spielbergs                     | 74   | 610      
@@ -90,8 +90,8 @@ Gojira                         | 97   | 432
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2458     
-Alice in Chains  | 17   | 2425     
+Guided by Voices | 16   | 2461     
+Alice in Chains  | 17   | 2428     
 Bob Mould        | 18   | 2422     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
@@ -106,33 +106,33 @@ Neil Young       | 68   | 672
 Dinosaur Jr.     | 79   | 533      
 Yes              | 82   | 512      
 The War on Drugs | 87   | 482      
-Faith No More    | 89   | 476      
+Faith No More    | 89   | 477      
 Richard Thompson | 90   | 472      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
-Kiss             | 100  | 413      
+Kiss             | 100  | 414      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3482     
+The Replacements         | 5    | 3487     
 Hüsker Dü                | 11   | 2958     
-The Who                  | 19   | 2370     
-Sugar                    | 31   | 1390     
+The Who                  | 19   | 2372     
+Sugar                    | 30   | 1392     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1000     
 Big Star                 | 50   | 834      
-Jokke & Valentinerne     | 57   | 768      
-Audioslave               | 63   | 699      
+Jokke & Valentinerne     | 57   | 769      
+Audioslave               | 63   | 700      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 645      
 Warren Zevon             | 76   | 573      
 Temple of the Dog        | 77   | 570      
 The Beatles              | 80   | 532      
-Rage Against the Machine | 83   | 506      
+Rage Against the Machine | 83   | 507      
 Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
 The Band                 | 94   | 442      
