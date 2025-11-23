@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 516
+- Number of artists seen live in total: 517
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Cockhouse         | True     
 YOB               | True     
 New Money         | True     
 Ahab              | True     
@@ -23,13 +24,12 @@ John Cxnnor       | True
 Haywire           | True     
 Jøl               | True     
 Pushwagnergruppen | True     
-Jobi Riccio       | True     
 
 ## Top 100 artists seen live (55)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6169     
+Pearl Jam                      | 1    | 6170     
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4786     
 The Gaslight Anthem            | 4    | 4550     
@@ -54,7 +54,7 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1374     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1164     
+Thin Lizzy                     | 36   | 1165     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 Propagandhi      | 15   | 2466     
 Guided by Voices | 16   | 2461     
 Alice in Chains  | 17   | 2428     
-Bob Mould        | 18   | 2422     
+Bob Mould        | 18   | 2423     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 919      
@@ -117,8 +117,8 @@ Kiss             | 100  | 414
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3487     
-Hüsker Dü                | 11   | 2958     
+The Replacements         | 5    | 3488     
+Hüsker Dü                | 11   | 2959     
 The Who                  | 19   | 2372     
 Sugar                    | 30   | 1392     
 The Horrible Crowes      | 35   | 1186     
@@ -129,7 +129,7 @@ Jokke & Valentinerne     | 57   | 769
 Audioslave               | 63   | 700      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 645      
-Warren Zevon             | 76   | 573      
+Warren Zevon             | 76   | 574      
 Temple of the Dog        | 77   | 570      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 507      
