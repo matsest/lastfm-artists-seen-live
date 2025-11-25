@@ -46,7 +46,7 @@ Chris Cornell                  | 21   | 2239
 Ryan Adams                     | 22   | 2199     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2065     
-Mastodon                       | 25   | 1787     
+Mastodon                       | 25   | 1788     
 The Smashing Pumpkins          | 27   | 1632     
 Weezer                         | 28   | 1628     
 Mark Lanegan                   | 29   | 1525     
@@ -54,14 +54,14 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1166     
+Thin Lizzy                     | 36   | 1167     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Anti-Lam Front                 | 42   | 1051     
 Pappasaft                      | 43   | 1051     
 Justin Townes Earle            | 44   | 1043     
-Oslo Ess                       | 46   | 944      
+Oslo Ess                       | 46   | 946      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 50   | 835      
@@ -75,7 +75,7 @@ Dropkick Murphys               | 65   | 684
 The Posies                     | 67   | 677      
 Clutch                         | 69   | 653      
 Kylesa                         | 70   | 649      
-Blood Command                  | 73   | 637      
+Blood Command                  | 73   | 639      
 Spielbergs                     | 74   | 610      
 Devin Townsend Project         | 75   | 609      
 The Good The Bad and The Zugly | 78   | 564      
@@ -83,7 +83,7 @@ Carcass                        | 81   | 513
 Jason Isbell and the 400 Unit  | 85   | 502      
 Backstreet Girls               | 88   | 477      
 Michael Krohn                  | 92   | 456      
-Gojira                         | 97   | 432      
+Gojira                         | 96   | 433      
 
 ## Active top 100 artists not seen live (23)
 
@@ -118,12 +118,12 @@ Kiss             | 100  | 414
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3488     
-Hüsker Dü                | 11   | 2959     
+Hüsker Dü                | 11   | 2960     
 The Who                  | 19   | 2372     
 Sugar                    | 30   | 1393     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1001     
+Fugazi                   | 45   | 1002     
 Big Star                 | 51   | 834      
 Jokke & Valentinerne     | 57   | 769      
 Audioslave               | 63   | 700      
@@ -136,6 +136,6 @@ Rage Against the Machine | 83   | 507
 Black Sabbath            | 84   | 502      
 Pink Floyd               | 86   | 489      
 The Band                 | 94   | 442      
-The Twilight Singers     | 96   | 433      
+The Twilight Singers     | 97   | 433      
 Marillion                | 98   | 420      
 Jokke med Tourettes      | 99   | 417      
