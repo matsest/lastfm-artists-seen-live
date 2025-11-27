@@ -89,10 +89,10 @@ Gojira                         | 96   | 433
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Propagandhi      | 15   | 2466     
-Guided by Voices | 16   | 2461     
-Alice in Chains  | 17   | 2428     
-Bob Mould        | 18   | 2423     
+Bob Mould        | 15   | 2475     
+Propagandhi      | 16   | 2466     
+Guided by Voices | 17   | 2461     
+Alice in Chains  | 18   | 2428     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1115     
 The Hold Steady  | 47   | 919      
@@ -118,9 +118,9 @@ Kiss             | 100  | 414
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3488     
-Hüsker Dü                | 11   | 2960     
+Hüsker Dü                | 11   | 2965     
 The Who                  | 19   | 2372     
-Sugar                    | 30   | 1393     
+Sugar                    | 30   | 1394     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1002     
