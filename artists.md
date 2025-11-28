@@ -2,30 +2,30 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 517
+- Number of artists seen live in total: 519
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
-- Number of top artists seen live: 55 (Active: 46 Inactive: 9)
+- Number of top artists seen live: 56 (Active: 47 Inactive: 9)
 
-- Number of top artists not seen live: 45 (Active: 23 Inactive: 22)
+- Number of top artists not seen live: 44 (Active: 22 Inactive: 22)
 
 ## Last 10 artists seen live
 
-Artist            | Seen live
------------------ | ---------
-Cockhouse         | True     
-YOB               | True     
-New Money         | True     
-Ahab              | True     
-ARV               | True     
-Redwood Temple    | True     
-John Cxnnor       | True     
-Haywire           | True     
-Jøl               | True     
-Pushwagnergruppen | True     
+Artist         | Seen live
+-------------- | ---------
+Che Arthur     | True     
+Bob Mould      | True     
+Cockhouse      | True     
+YOB            | True     
+New Money      | True     
+Ahab           | True     
+ARV            | True     
+Redwood Temple | True     
+John Cxnnor    | True     
+Haywire        | True     
 
-## Top 100 artists seen live (55)
+## Top 100 artists seen live (56)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -37,15 +37,16 @@ DumDum Boys                    | 6    | 3265
 AC/DC                          | 7    | 3226     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 10   | 2974     
+Bruce Springsteen              | 11   | 2974     
 Manic Street Preachers         | 12   | 2689     
 Frank Turner                   | 13   | 2607     
-Raga Rockers                   | 14   | 2502     
+Bob Mould                      | 14   | 2505     
+Raga Rockers                   | 15   | 2502     
 johndoe                        | 20   | 2274     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2199     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2065     
+Spidergawd                     | 24   | 2073     
 Mastodon                       | 25   | 1788     
 The Smashing Pumpkins          | 27   | 1632     
 Weezer                         | 28   | 1628     
@@ -85,11 +86,10 @@ Backstreet Girls               | 88   | 477
 Michael Krohn                  | 92   | 456      
 Gojira                         | 96   | 433      
 
-## Active top 100 artists not seen live (23)
+## Active top 100 artists not seen live (22)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Bob Mould        | 15   | 2475     
 Propagandhi      | 16   | 2466     
 Guided by Voices | 17   | 2461     
 Alice in Chains  | 18   | 2428     
@@ -118,9 +118,9 @@ Kiss             | 100  | 414
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3488     
-Hüsker Dü                | 11   | 2965     
+Hüsker Dü                | 10   | 2982     
 The Who                  | 19   | 2372     
-Sugar                    | 30   | 1394     
+Sugar                    | 30   | 1395     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1002     
