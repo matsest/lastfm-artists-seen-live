@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1175     
+Thin Lizzy                     | 36   | 1182     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -82,7 +82,7 @@ Devin Townsend Project         | 75   | 609
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 81   | 513      
 Jason Isbell and the 400 Unit  | 85   | 502      
-Backstreet Girls               | 88   | 477      
+Backstreet Girls               | 89   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 96   | 434      
 
@@ -105,9 +105,9 @@ Hot Water Music  | 66   | 681
 Neil Young       | 68   | 674      
 Dinosaur Jr.     | 79   | 534      
 Yes              | 82   | 513      
-The War on Drugs | 87   | 482      
-Faith No More    | 89   | 477      
-Richard Thompson | 90   | 472      
+Richard Thompson | 86   | 499      
+The War on Drugs | 88   | 482      
+Faith No More    | 90   | 477      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
@@ -134,7 +134,7 @@ Temple of the Dog        | 77   | 570
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 507      
 Black Sabbath            | 84   | 502      
-Pink Floyd               | 86   | 490      
+Pink Floyd               | 87   | 490      
 The Band                 | 94   | 442      
 The Twilight Singers     | 97   | 433      
 Jokke med Tourettes      | 98   | 422      
