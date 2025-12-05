@@ -31,10 +31,10 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6171     
 Soundgarden                    | 2    | 6166     
-Rush                           | 3    | 4792     
+Rush                           | 3    | 4793     
 The Gaslight Anthem            | 4    | 4552     
 DumDum Boys                    | 6    | 3265     
-AC/DC                          | 7    | 3256     
+AC/DC                          | 7    | 3258     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 11   | 2975     
@@ -44,7 +44,7 @@ Bob Mould                      | 14   | 2511
 Raga Rockers                   | 15   | 2502     
 johndoe                        | 20   | 2283     
 Chris Cornell                  | 21   | 2239     
-Ryan Adams                     | 22   | 2204     
+Ryan Adams                     | 22   | 2205     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2074     
 Mastodon                       | 25   | 1790     
@@ -55,12 +55,12 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1183     
+Thin Lizzy                     | 36   | 1184     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
-Anti-Lam Front                 | 42   | 1051     
-Pappasaft                      | 43   | 1051     
+Pappasaft                      | 42   | 1054     
+Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 948      
 Tool                           | 48   | 879      
@@ -81,7 +81,7 @@ Spielbergs                     | 74   | 610
 Devin Townsend Project         | 75   | 609      
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 81   | 513      
-Jason Isbell and the 400 Unit  | 85   | 502      
+Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 89   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 96   | 434      
@@ -97,21 +97,21 @@ The Menzingers   | 26   | 1637
 The Black Crowes | 38   | 1117     
 The Hold Steady  | 47   | 923      
 Melvins          | 53   | 810      
-Bob Dylan        | 54   | 805      
+Bob Dylan        | 54   | 807      
 The Hotelier     | 61   | 712      
 Eddie Vedder     | 62   | 705      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
-Neil Young       | 68   | 674      
+Neil Young       | 68   | 675      
 Dinosaur Jr.     | 79   | 534      
 Yes              | 82   | 513      
-Richard Thompson | 86   | 499      
+Richard Thompson | 84   | 503      
 The War on Drugs | 88   | 482      
 Faith No More    | 90   | 477      
 Dawes            | 91   | 457      
 Cloud Nothings   | 93   | 443      
 Thåström         | 95   | 437      
-Kiss             | 100  | 414      
+Kiss             | 100  | 415      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -119,22 +119,22 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3495     
 Hüsker Dü                | 10   | 2982     
-The Who                  | 19   | 2375     
+The Who                  | 19   | 2376     
 Sugar                    | 30   | 1402     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1003     
 Big Star                 | 50   | 838      
 Jokke & Valentinerne     | 56   | 779      
-Audioslave               | 63   | 702      
+Audioslave               | 63   | 703      
 Paul Westerberg          | 71   | 648      
 Foo Fighters             | 72   | 646      
-Warren Zevon             | 76   | 575      
+Warren Zevon             | 76   | 576      
 Temple of the Dog        | 77   | 570      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 507      
-Black Sabbath            | 84   | 502      
-Pink Floyd               | 87   | 490      
+Black Sabbath            | 85   | 502      
+Pink Floyd               | 87   | 491      
 The Band                 | 94   | 442      
 The Twilight Singers     | 97   | 433      
 Jokke med Tourettes      | 98   | 422      
