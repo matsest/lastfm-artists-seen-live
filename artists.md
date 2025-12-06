@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6171     
 Soundgarden                    | 2    | 6166     
-Rush                           | 3    | 4793     
+Rush                           | 3    | 4794     
 The Gaslight Anthem            | 4    | 4552     
 DumDum Boys                    | 6    | 3265     
 AC/DC                          | 7    | 3258     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2239
 Ryan Adams                     | 22   | 2205     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2074     
-Mastodon                       | 25   | 1790     
+Mastodon                       | 25   | 1791     
 The Smashing Pumpkins          | 27   | 1634     
 Weezer                         | 28   | 1629     
 Mark Lanegan                   | 29   | 1525     
@@ -55,14 +55,14 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1184     
+Thin Lizzy                     | 36   | 1185     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
-Pappasaft                      | 42   | 1054     
+Pappasaft                      | 42   | 1055     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 948      
+Oslo Ess                       | 46   | 950      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 835      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Propagandhi      | 16   | 2466     
 Guided by Voices | 17   | 2464     
-Alice in Chains  | 18   | 2430     
+Alice in Chains  | 18   | 2431     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1117     
 The Hold Steady  | 47   | 923      
@@ -119,20 +119,20 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3495     
 Hüsker Dü                | 10   | 2982     
-The Who                  | 19   | 2376     
+The Who                  | 19   | 2377     
 Sugar                    | 30   | 1402     
 The Horrible Crowes      | 35   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1003     
+Fugazi                   | 45   | 1004     
 Big Star                 | 50   | 838      
 Jokke & Valentinerne     | 56   | 779      
 Audioslave               | 63   | 703      
-Paul Westerberg          | 71   | 648      
-Foo Fighters             | 72   | 646      
-Warren Zevon             | 76   | 576      
+Foo Fighters             | 71   | 648      
+Paul Westerberg          | 72   | 648      
+Warren Zevon             | 76   | 577      
 Temple of the Dog        | 77   | 570      
 The Beatles              | 80   | 532      
-Rage Against the Machine | 83   | 507      
+Rage Against the Machine | 83   | 508      
 Black Sabbath            | 85   | 502      
 Pink Floyd               | 87   | 491      
 The Band                 | 94   | 442      
