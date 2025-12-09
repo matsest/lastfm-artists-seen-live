@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 36   | 1186     
+Thin Lizzy                     | 35   | 1187     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -96,20 +96,20 @@ Alice in Chains  | 18   | 2431
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1117     
 The Hold Steady  | 47   | 923      
-Melvins          | 53   | 810      
-Bob Dylan        | 54   | 807      
+Bob Dylan        | 53   | 810      
+Melvins          | 54   | 810      
 The Hotelier     | 61   | 712      
 Eddie Vedder     | 62   | 705      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
-Neil Young       | 67   | 677      
+Neil Young       | 67   | 680      
 Dinosaur Jr.     | 79   | 534      
 Yes              | 81   | 514      
-Richard Thompson | 84   | 503      
+Richard Thompson | 84   | 504      
 The War on Drugs | 88   | 482      
 Faith No More    | 90   | 477      
 Dawes            | 91   | 457      
-Cloud Nothings   | 93   | 443      
+Cloud Nothings   | 94   | 443      
 Thåström         | 95   | 437      
 Kiss             | 100  | 415      
 
@@ -121,21 +121,21 @@ The Replacements         | 5    | 3496
 Hüsker Dü                | 10   | 2982     
 The Who                  | 19   | 2377     
 Sugar                    | 30   | 1402     
-The Horrible Crowes      | 35   | 1186     
+The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1004     
-Big Star                 | 50   | 838      
+Big Star                 | 50   | 839      
 Jokke & Valentinerne     | 56   | 779      
 Audioslave               | 63   | 703      
 Foo Fighters             | 71   | 648      
 Paul Westerberg          | 72   | 648      
-Warren Zevon             | 76   | 577      
+Warren Zevon             | 76   | 584      
 Temple of the Dog        | 77   | 571      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 508      
 Black Sabbath            | 85   | 502      
 Pink Floyd               | 87   | 491      
-The Band                 | 94   | 442      
+The Band                 | 93   | 446      
 The Twilight Singers     | 97   | 433      
 Jokke med Tourettes      | 98   | 423      
 Marillion                | 99   | 420      
