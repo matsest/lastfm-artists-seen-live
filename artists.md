@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3269
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 11   | 2975     
+Bruce Springsteen              | 11   | 2976     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
 Bob Mould                      | 14   | 2511     
@@ -94,8 +94,8 @@ Guided by Voices | 16   | 2466
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2431     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1117     
-The Hold Steady  | 47   | 923      
+The Black Crowes | 38   | 1120     
+The Hold Steady  | 47   | 924      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
 The Hotelier     | 61   | 712      
