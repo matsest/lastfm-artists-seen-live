@@ -33,21 +33,21 @@ Pearl Jam                      | 1    | 6171
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4794     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3269     
+AC/DC                          | 6    | 3294     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 11   | 2976     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
-Bob Mould                      | 14   | 2511     
+Bob Mould                      | 14   | 2512     
 Raga Rockers                   | 15   | 2503     
 johndoe                        | 20   | 2283     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2205     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2075     
-Mastodon                       | 25   | 1791     
+Mastodon                       | 25   | 1792     
 The Smashing Pumpkins          | 27   | 1634     
 Weezer                         | 28   | 1629     
 Mark Lanegan                   | 29   | 1525     
@@ -62,7 +62,7 @@ Stein Torleif Bjella           | 41   | 1061
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 950      
+Oslo Ess                       | 46   | 951      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 835      
@@ -74,7 +74,7 @@ Jason Isbell                   | 59   | 755
 Ghost                          | 60   | 738      
 Dropkick Murphys               | 65   | 684      
 The Posies                     | 68   | 677      
-Clutch                         | 69   | 653      
+Clutch                         | 69   | 654      
 Kylesa                         | 70   | 649      
 Blood Command                  | 73   | 639      
 Spielbergs                     | 74   | 610      
@@ -82,7 +82,7 @@ Devin Townsend Project         | 75   | 609
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
-Backstreet Girls               | 89   | 477      
+Backstreet Girls               | 90   | 477      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 96   | 434      
 
@@ -95,7 +95,7 @@ Propagandhi      | 17   | 2466
 Alice in Chains  | 18   | 2431     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1120     
-The Hold Steady  | 47   | 924      
+The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
 The Hotelier     | 61   | 712      
@@ -107,7 +107,7 @@ Dinosaur Jr.     | 79   | 534
 Yes              | 81   | 514      
 Richard Thompson | 84   | 504      
 The War on Drugs | 88   | 482      
-Faith No More    | 90   | 477      
+Faith No More    | 89   | 478      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 95   | 437      
