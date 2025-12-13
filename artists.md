@@ -29,11 +29,11 @@ ARV               | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6171     
+Pearl Jam                      | 1    | 6172     
 Soundgarden                    | 2    | 6166     
-Rush                           | 3    | 4794     
+Rush                           | 3    | 4796     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3294     
+AC/DC                          | 6    | 3296     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1390
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1375     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1187     
+Thin Lizzy                     | 35   | 1188     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -90,7 +90,7 @@ Gojira                         | 96   | 434
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2466     
+Guided by Voices | 16   | 2467     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2431     
 The Menzingers   | 26   | 1637     
@@ -103,7 +103,7 @@ Eddie Vedder     | 62   | 705
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
 Neil Young       | 67   | 680      
-Dinosaur Jr.     | 79   | 534      
+Dinosaur Jr.     | 79   | 536      
 Yes              | 81   | 514      
 Richard Thompson | 84   | 504      
 The War on Drugs | 88   | 482      
@@ -125,7 +125,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1004     
 Big Star                 | 50   | 839      
-Jokke & Valentinerne     | 56   | 779      
+Jokke & Valentinerne     | 56   | 780      
 Audioslave               | 63   | 703      
 Foo Fighters             | 71   | 648      
 Paul Westerberg          | 72   | 648      
