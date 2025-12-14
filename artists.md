@@ -68,7 +68,7 @@ Sweden                         | 49   | 859
 Japandroids                    | 51   | 835      
 Brian Fallon                   | 52   | 825      
 The Tallest Man on Earth       | 55   | 795      
-Thulsa Doom                    | 57   | 777      
+Thulsa Doom                    | 57   | 778      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 755      
 Ghost                          | 60   | 738      
