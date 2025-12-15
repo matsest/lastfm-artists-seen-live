@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6172
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4796     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3296     
+AC/DC                          | 6    | 3311     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
