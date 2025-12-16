@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6172
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4796     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3311     
+AC/DC                          | 6    | 3320     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2690
 Frank Turner                   | 13   | 2607     
 Bob Mould                      | 14   | 2512     
 Raga Rockers                   | 15   | 2503     
-johndoe                        | 20   | 2283     
+johndoe                        | 20   | 2303     
 Chris Cornell                  | 21   | 2239     
 Ryan Adams                     | 22   | 2205     
 The National                   | 23   | 2156     
