@@ -29,22 +29,22 @@ ARV               | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6172     
+Pearl Jam                      | 1    | 6173     
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4796     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3320     
+AC/DC                          | 6    | 3321     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 11   | 2976     
+Bruce Springsteen              | 11   | 2978     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
 Bob Mould                      | 14   | 2512     
-Raga Rockers                   | 15   | 2503     
+Raga Rockers                   | 15   | 2504     
 johndoe                        | 20   | 2303     
-Chris Cornell                  | 21   | 2239     
-Ryan Adams                     | 22   | 2205     
+Chris Cornell                  | 21   | 2241     
+Ryan Adams                     | 22   | 2207     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2075     
 Mastodon                       | 25   | 1792     
@@ -53,7 +53,7 @@ Weezer                         | 28   | 1629
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1390     
 Touché Amoré                   | 32   | 1378     
-Baroness                       | 33   | 1375     
+Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
 Thin Lizzy                     | 35   | 1188     
 Biffy Clyro                    | 37   | 1158     
@@ -75,7 +75,7 @@ Ghost                          | 60   | 738
 Dropkick Murphys               | 65   | 684      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
-Kylesa                         | 70   | 649      
+Kylesa                         | 71   | 649      
 Blood Command                  | 73   | 639      
 Spielbergs                     | 74   | 610      
 Devin Townsend Project         | 75   | 609      
@@ -92,17 +92,17 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2467     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2431     
+Alice in Chains  | 18   | 2433     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1120     
 The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
 The Hotelier     | 61   | 712      
-Eddie Vedder     | 62   | 705      
+Eddie Vedder     | 62   | 706      
 Afghan Whigs     | 64   | 696      
 Hot Water Music  | 66   | 681      
-Neil Young       | 67   | 680      
+Neil Young       | 67   | 681      
 Dinosaur Jr.     | 79   | 536      
 Yes              | 81   | 514      
 Richard Thompson | 84   | 504      
@@ -111,7 +111,7 @@ Faith No More    | 89   | 478
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 95   | 437      
-Kiss             | 100  | 415      
+Kiss             | 100  | 416      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -126,11 +126,11 @@ Genesis                  | 40   | 1068
 Fugazi                   | 45   | 1004     
 Big Star                 | 50   | 839      
 Jokke & Valentinerne     | 56   | 780      
-Audioslave               | 63   | 703      
-Foo Fighters             | 71   | 648      
+Audioslave               | 63   | 705      
+Foo Fighters             | 70   | 650      
 Paul Westerberg          | 72   | 648      
 Warren Zevon             | 76   | 584      
-Temple of the Dog        | 77   | 571      
+Temple of the Dog        | 77   | 572      
 The Beatles              | 80   | 532      
 Rage Against the Machine | 83   | 508      
 Black Sabbath            | 85   | 502      
