@@ -33,14 +33,14 @@ Pearl Jam                      | 1    | 6173
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4796     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3321     
+AC/DC                          | 6    | 3327     
 DumDum Boys                    | 7    | 3266     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 11   | 2978     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
-Bob Mould                      | 14   | 2512     
+Bob Mould                      | 14   | 2514     
 Raga Rockers                   | 15   | 2504     
 johndoe                        | 20   | 2303     
 Chris Cornell                  | 21   | 2241     
@@ -77,8 +77,8 @@ The Posies                     | 68   | 677
 Clutch                         | 69   | 654      
 Kylesa                         | 71   | 649      
 Blood Command                  | 73   | 639      
-Spielbergs                     | 74   | 610      
-Devin Townsend Project         | 75   | 609      
+Devin Townsend Project         | 74   | 610      
+Spielbergs                     | 75   | 610      
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
