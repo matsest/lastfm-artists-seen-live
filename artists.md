@@ -31,10 +31,10 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6173     
 Soundgarden                    | 2    | 6166     
-Rush                           | 3    | 4796     
+Rush                           | 3    | 4797     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3327     
-DumDum Boys                    | 7    | 3266     
+DumDum Boys                    | 7    | 3267     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
 Bruce Springsteen              | 11   | 2978     
@@ -62,7 +62,7 @@ Stein Torleif Bjella           | 41   | 1061
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 953      
+Oslo Ess                       | 46   | 954      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 835      
@@ -98,9 +98,9 @@ The Black Crowes | 38   | 1120
 The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
-The Hotelier     | 61   | 712      
-Eddie Vedder     | 62   | 706      
-Afghan Whigs     | 64   | 699      
+Afghan Whigs     | 61   | 723      
+The Hotelier     | 62   | 712      
+Eddie Vedder     | 63   | 706      
 Hot Water Music  | 66   | 681      
 Neil Young       | 67   | 681      
 Dinosaur Jr.     | 79   | 536      
@@ -126,8 +126,8 @@ Genesis                  | 40   | 1068
 Fugazi                   | 45   | 1005     
 Big Star                 | 50   | 839      
 Jokke & Valentinerne     | 56   | 780      
-Audioslave               | 63   | 705      
-Foo Fighters             | 70   | 650      
+Audioslave               | 64   | 705      
+Foo Fighters             | 70   | 651      
 Paul Westerberg          | 72   | 648      
 Warren Zevon             | 76   | 584      
 Temple of the Dog        | 77   | 572      
@@ -136,6 +136,6 @@ Rage Against the Machine | 83   | 508
 Black Sabbath            | 85   | 502      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 446      
-The Twilight Singers     | 97   | 433      
+The Twilight Singers     | 97   | 434      
 Jokke med Tourettes      | 98   | 423      
 Marillion                | 99   | 420      
