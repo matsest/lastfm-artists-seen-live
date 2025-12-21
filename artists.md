@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1392
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1189     
+Thin Lizzy                     | 35   | 1190     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -65,9 +65,9 @@ Justin Townes Earle            | 44   | 1047
 Oslo Ess                       | 46   | 954      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
-Japandroids                    | 51   | 835      
+Japandroids                    | 51   | 838      
 Brian Fallon                   | 52   | 825      
-The Tallest Man on Earth       | 55   | 795      
+The Tallest Man on Earth       | 56   | 795      
 Thulsa Doom                    | 57   | 778      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 755      
@@ -84,7 +84,7 @@ Carcass                        | 82   | 513
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 477      
 Michael Krohn                  | 92   | 456      
-Gojira                         | 96   | 435      
+Gojira                         | 96   | 436      
 
 ## Active top 100 artists not seen live (22)
 
@@ -98,7 +98,7 @@ The Black Crowes | 38   | 1120
 The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
-Afghan Whigs     | 61   | 723      
+Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 63   | 706      
 Hot Water Music  | 66   | 681      
@@ -125,7 +125,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1005     
 Big Star                 | 50   | 839      
-Jokke & Valentinerne     | 56   | 780      
+Jokke & Valentinerne     | 55   | 798      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 651      
 Paul Westerberg          | 72   | 648      
@@ -137,5 +137,5 @@ Black Sabbath            | 85   | 502
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 446      
 The Twilight Singers     | 97   | 434      
-Jokke med Tourettes      | 98   | 423      
+Jokke med Tourettes      | 98   | 431      
 Marillion                | 99   | 420      
