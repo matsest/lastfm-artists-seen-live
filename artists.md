@@ -65,7 +65,7 @@ Justin Townes Earle            | 44   | 1047
 Oslo Ess                       | 46   | 954      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
-Japandroids                    | 51   | 838      
+Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
 The Tallest Man on Earth       | 56   | 795      
 Thulsa Doom                    | 57   | 778      
