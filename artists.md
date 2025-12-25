@@ -29,15 +29,15 @@ ARV               | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6173     
+Pearl Jam                      | 1    | 6174     
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4797     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3337     
-DumDum Boys                    | 7    | 3267     
+DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3027     
-Bruce Springsteen              | 11   | 2978     
+Bruce Springsteen              | 11   | 2979     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
 Bob Mould                      | 14   | 2514     
@@ -48,8 +48,8 @@ Ryan Adams                     | 22   | 2207
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2075     
 Mastodon                       | 25   | 1793     
-The Smashing Pumpkins          | 27   | 1634     
-Weezer                         | 28   | 1629     
+The Smashing Pumpkins          | 27   | 1635     
+Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1392     
 Touché Amoré                   | 32   | 1378     
@@ -72,7 +72,7 @@ Thulsa Doom                    | 57   | 778
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 755      
 Ghost                          | 60   | 738      
-Dropkick Murphys               | 65   | 684      
+Dropkick Murphys               | 65   | 685      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
 Kylesa                         | 71   | 649      
@@ -124,7 +124,7 @@ Sugar                    | 30   | 1402
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1005     
-Big Star                 | 50   | 839      
+Big Star                 | 50   | 840      
 Jokke & Valentinerne     | 55   | 798      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 652      
@@ -135,7 +135,7 @@ The Beatles              | 80   | 532
 Rage Against the Machine | 83   | 508      
 Black Sabbath            | 85   | 502      
 Pink Floyd               | 87   | 491      
-The Band                 | 93   | 446      
+The Band                 | 93   | 447      
 The Twilight Singers     | 97   | 434      
 Jokke med Tourettes      | 98   | 431      
 Marillion                | 99   | 420      
