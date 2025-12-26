@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4552
 AC/DC                          | 6    | 3337     
 DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
-Against Me!                    | 9    | 3027     
+Against Me!                    | 9    | 3041     
 Bruce Springsteen              | 11   | 2979     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2607     
@@ -90,7 +90,7 @@ Gojira                         | 96   | 436
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2467     
+Guided by Voices | 16   | 2482     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2433     
 The Menzingers   | 26   | 1637     
