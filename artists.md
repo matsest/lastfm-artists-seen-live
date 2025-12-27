@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 522
+- Number of artists seen live in total: 523
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Grå Java          | True     
 You Know Who      | True     
 White Urine       | True     
 Konger Og Keisere | True     
@@ -23,7 +24,6 @@ Cockhouse         | True
 YOB               | True     
 New Money         | True     
 Ahab              | True     
-ARV               | True     
 
 ## Top 100 artists seen live (56)
 
@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6174
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4797     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3337     
+AC/DC                          | 6    | 3348     
 DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3041     
