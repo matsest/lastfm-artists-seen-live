@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 523
+- Number of artists seen live in total: 524
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Drakånis          | True     
 Grå Java          | True     
 You Know Who      | True     
 White Urine       | True     
@@ -23,7 +24,6 @@ Bob Mould         | True
 Cockhouse         | True     
 YOB               | True     
 New Money         | True     
-Ahab              | True     
 
 ## Top 100 artists seen live (56)
 
@@ -33,13 +33,13 @@ Pearl Jam                      | 1    | 6174
 Soundgarden                    | 2    | 6166     
 Rush                           | 3    | 4797     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3354     
+AC/DC                          | 6    | 3364     
 DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3041     
 Bruce Springsteen              | 11   | 2979     
 Manic Street Preachers         | 12   | 2690     
-Frank Turner                   | 13   | 2607     
+Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2514     
 Raga Rockers                   | 15   | 2504     
 johndoe                        | 20   | 2303     
@@ -118,7 +118,7 @@ Kiss             | 100  | 416
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3517     
-Hüsker Dü                | 10   | 2982     
+Hüsker Dü                | 10   | 2983     
 The Who                  | 19   | 2379     
 Sugar                    | 30   | 1402     
 The Horrible Crowes      | 36   | 1186     
