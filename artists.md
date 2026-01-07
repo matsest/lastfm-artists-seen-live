@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3365
 DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3041     
-Bruce Springsteen              | 11   | 2979     
+Bruce Springsteen              | 11   | 2980     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2514     
@@ -131,7 +131,7 @@ Foo Fighters             | 70   | 652
 Paul Westerberg          | 72   | 648      
 Warren Zevon             | 76   | 584      
 Temple of the Dog        | 77   | 572      
-The Beatles              | 80   | 532      
+The Beatles              | 80   | 533      
 Rage Against the Machine | 83   | 508      
 Black Sabbath            | 85   | 502      
 Pink Floyd               | 87   | 491      
