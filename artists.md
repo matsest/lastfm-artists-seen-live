@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4552
 AC/DC                          | 6    | 3365     
 DumDum Boys                    | 7    | 3268     
 Motorpsycho                    | 8    | 3062     
-Against Me!                    | 9    | 3041     
+Against Me!                    | 9    | 3052     
 Bruce Springsteen              | 11   | 2980     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
@@ -72,7 +72,7 @@ Thulsa Doom                    | 57   | 778
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 755      
 Ghost                          | 60   | 738      
-Dropkick Murphys               | 65   | 685      
+Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
 Kylesa                         | 71   | 649      
@@ -101,11 +101,11 @@ Melvins          | 54   | 810
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 63   | 706      
-Hot Water Music  | 66   | 681      
-Neil Young       | 67   | 681      
+Neil Young       | 65   | 687      
+Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 79   | 536      
 Yes              | 81   | 514      
-Richard Thompson | 84   | 504      
+Richard Thompson | 84   | 505      
 The War on Drugs | 88   | 482      
 Faith No More    | 89   | 478      
 Dawes            | 91   | 457      
