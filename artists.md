@@ -29,25 +29,25 @@ New Money         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6174     
-Soundgarden                    | 2    | 6166     
-Rush                           | 3    | 4797     
+Pearl Jam                      | 1    | 6177     
+Soundgarden                    | 2    | 6167     
+Rush                           | 3    | 4798     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3366     
-DumDum Boys                    | 7    | 3268     
+AC/DC                          | 6    | 3374     
+DumDum Boys                    | 7    | 3269     
 Motorpsycho                    | 8    | 3062     
-Against Me!                    | 9    | 3052     
-Bruce Springsteen              | 11   | 2980     
+Against Me!                    | 9    | 3053     
+Bruce Springsteen              | 11   | 2981     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2514     
 Raga Rockers                   | 15   | 2504     
 johndoe                        | 20   | 2303     
-Chris Cornell                  | 21   | 2241     
+Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2207     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2075     
-Mastodon                       | 25   | 1793     
+Mastodon                       | 25   | 1794     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -55,14 +55,14 @@ Kvelertak                      | 31   | 1392
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1190     
+Thin Lizzy                     | 35   | 1193     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 954      
+Oslo Ess                       | 46   | 956      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -76,7 +76,7 @@ Dropkick Murphys               | 66   | 685
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
 Kylesa                         | 71   | 649      
-Blood Command                  | 73   | 641      
+Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
 Spielbergs                     | 75   | 610      
 The Good The Bad and The Zugly | 78   | 564      
@@ -84,56 +84,56 @@ Carcass                        | 82   | 513
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 477      
 Michael Krohn                  | 92   | 456      
-Gojira                         | 96   | 436      
+Gojira                         | 95   | 437      
 
 ## Active top 100 artists not seen live (22)
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2482     
+Guided by Voices | 16   | 2484     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2433     
+Alice in Chains  | 18   | 2434     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1120     
+The Black Crowes | 38   | 1121     
 The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 63   | 706      
-Neil Young       | 65   | 688      
+Neil Young       | 65   | 689      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 79   | 536      
+Dinosaur Jr.     | 79   | 537      
 Yes              | 81   | 514      
 Richard Thompson | 84   | 505      
 The War on Drugs | 88   | 482      
-Faith No More    | 89   | 478      
+Faith No More    | 89   | 480      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
-Thåström         | 95   | 437      
-Kiss             | 100  | 416      
+Thåström         | 96   | 437      
+Kiss             | 100  | 417      
 
 ## Inactive top 100 artists not seen live (22)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3517     
+The Replacements         | 5    | 3519     
 Hüsker Dü                | 10   | 2983     
-The Who                  | 19   | 2404     
-Sugar                    | 30   | 1402     
+The Who                  | 19   | 2406     
+Sugar                    | 30   | 1405     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1005     
-Big Star                 | 50   | 840      
-Jokke & Valentinerne     | 55   | 798      
+Fugazi                   | 45   | 1006     
+Big Star                 | 50   | 841      
+Jokke & Valentinerne     | 55   | 799      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 72   | 648      
 Warren Zevon             | 76   | 584      
-Temple of the Dog        | 77   | 572      
-The Beatles              | 80   | 533      
+Temple of the Dog        | 77   | 573      
+The Beatles              | 80   | 534      
 Rage Against the Machine | 83   | 508      
-Black Sabbath            | 85   | 502      
+Black Sabbath            | 85   | 503      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 447      
 The Twilight Singers     | 97   | 434      
