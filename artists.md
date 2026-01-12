@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6177
 Soundgarden                    | 2    | 6167     
 Rush                           | 3    | 4798     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3375     
+AC/DC                          | 6    | 3381     
 DumDum Boys                    | 7    | 3269     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3053     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2207     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2075     
-Mastodon                       | 25   | 1794     
+Mastodon                       | 25   | 1795     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -62,7 +62,7 @@ Stein Torleif Bjella           | 41   | 1061
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 956      
+Oslo Ess                       | 46   | 957      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2484
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2434     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1121     
+The Black Crowes | 38   | 1127     
 The Hold Steady  | 47   | 925      
 Bob Dylan        | 53   | 810      
 Melvins          | 54   | 810      
