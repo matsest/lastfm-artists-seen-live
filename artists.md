@@ -40,7 +40,7 @@ Against Me!                    | 9    | 3053
 Bruce Springsteen              | 10   | 2984     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
-Bob Mould                      | 14   | 2514     
+Bob Mould                      | 14   | 2516     
 Raga Rockers                   | 15   | 2504     
 johndoe                        | 20   | 2303     
 Chris Cornell                  | 21   | 2242     
@@ -75,7 +75,7 @@ Ghost                          | 60   | 739
 Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
-Kylesa                         | 71   | 649      
+Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
 Spielbergs                     | 75   | 610      
@@ -95,7 +95,7 @@ Propagandhi      | 17   | 2466
 Alice in Chains  | 18   | 2434     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1127     
-The Hold Steady  | 47   | 925      
+The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 811      
 Melvins          | 54   | 810      
 Afghan Whigs     | 61   | 725      
@@ -117,7 +117,7 @@ Kiss             | 100  | 417
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3519     
+The Replacements         | 5    | 3520     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2407     
 Sugar                    | 30   | 1405     
@@ -128,8 +128,8 @@ Big Star                 | 50   | 841
 Jokke & Valentinerne     | 55   | 799      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 652      
-Paul Westerberg          | 72   | 648      
-Warren Zevon             | 76   | 585      
+Paul Westerberg          | 71   | 651      
+Warren Zevon             | 76   | 586      
 Temple of the Dog        | 77   | 573      
 The Beatles              | 80   | 534      
 Rage Against the Machine | 83   | 508      
