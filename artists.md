@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6177
 Soundgarden                    | 2    | 6168     
 Rush                           | 3    | 4799     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3384     
+AC/DC                          | 6    | 3386     
 DumDum Boys                    | 7    | 3269     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3053     
@@ -46,7 +46,7 @@ johndoe                        | 20   | 2303
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2209     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2075     
+Spidergawd                     | 24   | 2078     
 Mastodon                       | 25   | 1796     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1392
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1195     
+Thin Lizzy                     | 35   | 1196     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -82,7 +82,7 @@ Spielbergs                     | 75   | 610
 The Good The Bad and The Zugly | 78   | 564      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
-Backstreet Girls               | 90   | 477      
+Backstreet Girls               | 90   | 478      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 95   | 437      
 
@@ -111,7 +111,7 @@ Faith No More    | 89   | 481
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
-Kiss             | 100  | 417      
+Kiss             | 100  | 418      
 
 ## Inactive top 100 artists not seen live (22)
 
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3520     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2407     
+The Who                  | 19   | 2410     
 Sugar                    | 30   | 1405     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
