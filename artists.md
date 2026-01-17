@@ -30,10 +30,10 @@ New Money         | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6177     
-Soundgarden                    | 2    | 6168     
-Rush                           | 3    | 4799     
+Soundgarden                    | 2    | 6169     
+Rush                           | 3    | 4800     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3386     
+AC/DC                          | 6    | 3388     
 DumDum Boys                    | 7    | 3269     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3053     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2209     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2078     
-Mastodon                       | 25   | 1796     
+Mastodon                       | 25   | 1797     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -55,14 +55,14 @@ Kvelertak                      | 31   | 1392
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1196     
+Thin Lizzy                     | 35   | 1199     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 959      
+Oslo Ess                       | 46   | 960      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -71,7 +71,7 @@ The Tallest Man on Earth       | 56   | 795
 Thulsa Doom                    | 57   | 778      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
-Ghost                          | 60   | 739      
+Ghost                          | 60   | 740      
 Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 654      
@@ -90,9 +90,9 @@ Gojira                         | 95   | 437
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2484     
+Guided by Voices | 16   | 2486     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2434     
+Alice in Chains  | 18   | 2435     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1127     
 The Hold Steady  | 47   | 926      
@@ -103,7 +103,7 @@ The Hotelier     | 62   | 712
 Eddie Vedder     | 63   | 706      
 Neil Young       | 65   | 690      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 79   | 537      
+Dinosaur Jr.     | 79   | 538      
 Yes              | 81   | 514      
 Richard Thompson | 84   | 505      
 The War on Drugs | 88   | 482      
@@ -117,13 +117,13 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3520     
+The Replacements         | 5    | 3521     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2410     
-Sugar                    | 30   | 1405     
+The Who                  | 19   | 2411     
+Sugar                    | 30   | 1406     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1007     
+Fugazi                   | 45   | 1008     
 Big Star                 | 50   | 841      
 Jokke & Valentinerne     | 55   | 799      
 Audioslave               | 64   | 705      
