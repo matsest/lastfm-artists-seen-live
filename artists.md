@@ -34,14 +34,14 @@ Soundgarden                    | 2    | 6169
 Rush                           | 3    | 4800     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3388     
-DumDum Boys                    | 7    | 3269     
+DumDum Boys                    | 7    | 3272     
 Motorpsycho                    | 8    | 3062     
-Against Me!                    | 9    | 3053     
-Bruce Springsteen              | 10   | 2984     
+Against Me!                    | 9    | 3055     
+Bruce Springsteen              | 10   | 2985     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
-Raga Rockers                   | 15   | 2504     
+Raga Rockers                   | 15   | 2505     
 johndoe                        | 20   | 2303     
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2209     
@@ -62,7 +62,7 @@ Stein Torleif Bjella           | 41   | 1061
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 960      
+Oslo Ess                       | 46   | 962      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -96,16 +96,16 @@ Alice in Chains  | 18   | 2435
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1127     
 The Hold Steady  | 47   | 926      
-Bob Dylan        | 53   | 811      
+Bob Dylan        | 53   | 812      
 Melvins          | 54   | 810      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 63   | 706      
-Neil Young       | 65   | 690      
+Neil Young       | 65   | 693      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 79   | 538      
 Yes              | 81   | 514      
-Richard Thompson | 84   | 505      
+Richard Thompson | 85   | 505      
 The War on Drugs | 88   | 482      
 Faith No More    | 89   | 481      
 Dawes            | 91   | 457      
@@ -119,23 +119,23 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3521     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2411     
+The Who                  | 19   | 2412     
 Sugar                    | 30   | 1406     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1008     
-Big Star                 | 50   | 841      
-Jokke & Valentinerne     | 55   | 799      
+Big Star                 | 50   | 842      
+Jokke & Valentinerne     | 55   | 802      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 652      
-Paul Westerberg          | 71   | 651      
+Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 77   | 573      
 The Beatles              | 80   | 534      
 Rage Against the Machine | 83   | 508      
-Black Sabbath            | 85   | 504      
+Black Sabbath            | 84   | 505      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 447      
 The Twilight Singers     | 97   | 434      
-Jokke med Tourettes      | 98   | 431      
+Jokke med Tourettes      | 98   | 433      
 Marillion                | 99   | 420      
