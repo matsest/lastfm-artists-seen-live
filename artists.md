@@ -42,12 +42,12 @@ Manic Street Preachers         | 12   | 2690
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
 Raga Rockers                   | 15   | 2505     
-johndoe                        | 20   | 2303     
+johndoe                        | 20   | 2307     
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2078     
-Mastodon                       | 25   | 1797     
+Mastodon                       | 25   | 1799     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -55,14 +55,14 @@ Kvelertak                      | 31   | 1392
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1376     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1199     
+Thin Lizzy                     | 35   | 1200     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 962      
+Oslo Ess                       | 46   | 963      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -97,7 +97,7 @@ The Menzingers   | 26   | 1637
 The Black Crowes | 38   | 1127     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 812      
-Melvins          | 54   | 810      
+Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 63   | 706      
@@ -106,8 +106,8 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 79   | 538      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
-The War on Drugs | 88   | 482      
-Faith No More    | 89   | 481      
+Faith No More    | 88   | 482      
+The War on Drugs | 89   | 482      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
@@ -123,17 +123,17 @@ The Who                  | 19   | 2412
 Sugar                    | 30   | 1406     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1008     
+Fugazi                   | 45   | 1009     
 Big Star                 | 50   | 842      
 Jokke & Valentinerne     | 55   | 802      
 Audioslave               | 64   | 705      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
-Temple of the Dog        | 77   | 573      
+Temple of the Dog        | 77   | 574      
 The Beatles              | 80   | 534      
 Rage Against the Machine | 83   | 508      
-Black Sabbath            | 84   | 505      
+Black Sabbath            | 84   | 506      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 447      
 The Twilight Singers     | 97   | 434      
