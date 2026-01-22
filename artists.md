@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 524
+- Number of artists seen live in total: 525
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Kliss Lik         | True     
 Drakånis          | True     
 Grå Java          | True     
 You Know Who      | True     
@@ -23,7 +24,6 @@ Che Arthur        | True
 Bob Mould         | True     
 Cockhouse         | True     
 YOB               | True     
-New Money         | True     
 
 ## Top 100 artists seen live (56)
 
@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6177
 Soundgarden                    | 2    | 6169     
 Rush                           | 3    | 4800     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3388     
+AC/DC                          | 6    | 3389     
 DumDum Boys                    | 7    | 3272     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3057     
@@ -62,7 +62,7 @@ Stein Torleif Bjella           | 41   | 1061
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 963      
+Oslo Ess                       | 46   | 964      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -120,10 +120,10 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3521     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2412     
-Sugar                    | 30   | 1406     
+Sugar                    | 30   | 1429     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1009     
+Fugazi                   | 45   | 1010     
 Big Star                 | 50   | 842      
 Jokke & Valentinerne     | 55   | 802      
 Audioslave               | 64   | 705      
