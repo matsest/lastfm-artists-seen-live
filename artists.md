@@ -30,39 +30,39 @@ YOB               | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6177     
-Soundgarden                    | 2    | 6169     
+Soundgarden                    | 2    | 6170     
 Rush                           | 3    | 4800     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3390     
-DumDum Boys                    | 7    | 3272     
+AC/DC                          | 6    | 3401     
+DumDum Boys                    | 7    | 3273     
 Motorpsycho                    | 8    | 3062     
 Against Me!                    | 9    | 3057     
-Bruce Springsteen              | 10   | 2985     
+Bruce Springsteen              | 10   | 2986     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
-Raga Rockers                   | 15   | 2505     
+Raga Rockers                   | 15   | 2506     
 johndoe                        | 20   | 2307     
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2078     
-Mastodon                       | 25   | 1799     
+Spidergawd                     | 24   | 2079     
+Mastodon                       | 25   | 1800     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1392     
 Touché Amoré                   | 32   | 1378     
-Baroness                       | 33   | 1376     
+Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1200     
+Thin Lizzy                     | 35   | 1201     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 964      
+Oslo Ess                       | 46   | 965      
 Tool                           | 48   | 879      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2486     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2435     
+Alice in Chains  | 18   | 2437     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1127     
 The Hold Steady  | 47   | 926      
@@ -100,10 +100,10 @@ Bob Dylan        | 53   | 812
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
-Eddie Vedder     | 63   | 706      
+Eddie Vedder     | 64   | 706      
 Neil Young       | 65   | 693      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 79   | 538      
+Dinosaur Jr.     | 79   | 539      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
 Faith No More    | 88   | 482      
@@ -119,20 +119,20 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3521     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2412     
+The Who                  | 19   | 2413     
 Sugar                    | 30   | 1429     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1010     
 Big Star                 | 50   | 842      
 Jokke & Valentinerne     | 55   | 802      
-Audioslave               | 64   | 705      
+Audioslave               | 63   | 706      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 77   | 574      
 The Beatles              | 80   | 534      
-Rage Against the Machine | 83   | 508      
+Rage Against the Machine | 83   | 509      
 Black Sabbath            | 84   | 506      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 447      
