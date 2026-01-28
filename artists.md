@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6177     
 Soundgarden                    | 2    | 6170     
-Rush                           | 3    | 4814     
+Rush                           | 3    | 4816     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3401     
 DumDum Boys                    | 7    | 3273     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1395
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1202     
+Thin Lizzy                     | 35   | 1203     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -79,7 +79,7 @@ Kylesa                         | 72   | 649
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
 Spielbergs                     | 75   | 610      
-The Good The Bad and The Zugly | 77   | 579      
+The Good The Bad and The Zugly | 77   | 582      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 478      
@@ -101,7 +101,7 @@ Melvins          | 54   | 811
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 64   | 706      
-Neil Young       | 65   | 693      
+Neil Young       | 65   | 694      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 79   | 539      
 Yes              | 81   | 514      
@@ -131,7 +131,7 @@ Foo Fighters             | 70   | 652
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 574      
-The Beatles              | 80   | 534      
+The Beatles              | 80   | 535      
 Rage Against the Machine | 83   | 509      
 Black Sabbath            | 84   | 506      
 Pink Floyd               | 87   | 491      
