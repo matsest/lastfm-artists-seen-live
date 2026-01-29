@@ -35,9 +35,9 @@ Rush                           | 3    | 4816
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3401     
 DumDum Boys                    | 7    | 3273     
-Motorpsycho                    | 8    | 3062     
+Motorpsycho                    | 8    | 3063     
 Against Me!                    | 9    | 3057     
-Bruce Springsteen              | 10   | 2986     
+Bruce Springsteen              | 10   | 2987     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
@@ -79,7 +79,7 @@ Kylesa                         | 72   | 649
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
 Spielbergs                     | 75   | 610      
-The Good The Bad and The Zugly | 77   | 582      
+The Good The Bad and The Zugly | 77   | 583      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 478      
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2486
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2437     
 The Menzingers   | 26   | 1637     
-The Black Crowes | 38   | 1127     
+The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 812      
 Melvins          | 54   | 811      
