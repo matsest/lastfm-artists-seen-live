@@ -35,7 +35,7 @@ Rush                           | 3    | 4816
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3401     
 DumDum Boys                    | 7    | 3273     
-Motorpsycho                    | 8    | 3063     
+Motorpsycho                    | 8    | 3070     
 Against Me!                    | 9    | 3057     
 Bruce Springsteen              | 10   | 2987     
 Manic Street Preachers         | 12   | 2690     
@@ -124,7 +124,7 @@ Sugar                    | 30   | 1429
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1011     
-Big Star                 | 50   | 842      
+Big Star                 | 50   | 843      
 Jokke & Valentinerne     | 55   | 802      
 Audioslave               | 63   | 706      
 Foo Fighters             | 70   | 652      
