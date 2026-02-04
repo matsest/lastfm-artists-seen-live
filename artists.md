@@ -30,12 +30,12 @@ YOB               | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6177     
-Soundgarden                    | 2    | 6170     
+Soundgarden                    | 2    | 6171     
 Rush                           | 3    | 4816     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3409     
 DumDum Boys                    | 7    | 3273     
-Against Me!                    | 8    | 3072     
+Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
 Bruce Springsteen              | 10   | 2987     
 Manic Street Preachers         | 12   | 2690     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2079     
-Mastodon                       | 25   | 1801     
+Mastodon                       | 25   | 1802     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -55,15 +55,15 @@ Kvelertak                      | 31   | 1395
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1203     
+Thin Lizzy                     | 35   | 1204     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 966      
-Tool                           | 48   | 879      
+Oslo Ess                       | 46   | 967      
+Tool                           | 48   | 892      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
@@ -84,7 +84,7 @@ Carcass                        | 82   | 513
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 478      
 Michael Krohn                  | 92   | 456      
-Gojira                         | 95   | 437      
+Gojira                         | 95   | 438      
 
 ## Active top 100 artists not seen live (22)
 
