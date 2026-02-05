@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 525
+- Number of artists seen live in total: 527
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,6 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Militarie Gun     | True     
+Spite House       | True     
 Kliss Lik         | True     
 Drakånis          | True     
 Grå Java          | True     
@@ -22,8 +24,6 @@ White Urine       | True
 Konger Og Keisere | True     
 Che Arthur        | True     
 Bob Mould         | True     
-Cockhouse         | True     
-YOB               | True     
 
 ## Top 100 artists seen live (56)
 
@@ -63,7 +63,7 @@ Pappasaft                      | 42   | 1056
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 967      
-Tool                           | 48   | 892      
+Tool                           | 48   | 903      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
