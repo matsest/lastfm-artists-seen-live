@@ -31,13 +31,13 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6177     
 Soundgarden                    | 2    | 6171     
-Rush                           | 3    | 4816     
+Rush                           | 3    | 4817     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3409     
+AC/DC                          | 6    | 3411     
 DumDum Boys                    | 7    | 3273     
 Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
-Bruce Springsteen              | 10   | 2987     
+Bruce Springsteen              | 10   | 2988     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1395
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1204     
+Thin Lizzy                     | 35   | 1206     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -101,7 +101,7 @@ Melvins          | 54   | 811
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
 Eddie Vedder     | 64   | 706      
-Neil Young       | 65   | 694      
+Neil Young       | 65   | 695      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 79   | 539      
 Yes              | 81   | 514      
@@ -133,7 +133,7 @@ Warren Zevon             | 76   | 586
 Temple of the Dog        | 78   | 574      
 The Beatles              | 80   | 535      
 Rage Against the Machine | 83   | 509      
-Black Sabbath            | 84   | 506      
+Black Sabbath            | 84   | 507      
 Pink Floyd               | 87   | 491      
 The Band                 | 93   | 447      
 The Twilight Singers     | 97   | 434      
