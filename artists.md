@@ -29,24 +29,24 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6177     
+Pearl Jam                      | 1    | 6178     
 Soundgarden                    | 2    | 6171     
 Rush                           | 3    | 4817     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3411     
-DumDum Boys                    | 7    | 3273     
+DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
-Bruce Springsteen              | 10   | 2988     
+Bruce Springsteen              | 10   | 2996     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
-Raga Rockers                   | 15   | 2508     
+Raga Rockers                   | 15   | 2509     
 johndoe                        | 20   | 2307     
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2079     
+Spidergawd                     | 24   | 2080     
 Mastodon                       | 25   | 1802     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
@@ -90,20 +90,20 @@ Gojira                         | 95   | 438
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2486     
+Guided by Voices | 16   | 2487     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2437     
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
-Bob Dylan        | 53   | 812      
+Bob Dylan        | 53   | 817      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
-Eddie Vedder     | 64   | 706      
-Neil Young       | 65   | 695      
+Neil Young       | 63   | 707      
+Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 79   | 539      
+Dinosaur Jr.     | 79   | 540      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
 Faith No More    | 88   | 482      
@@ -126,16 +126,16 @@ Genesis                  | 40   | 1068
 Fugazi                   | 45   | 1011     
 Big Star                 | 50   | 843      
 Jokke & Valentinerne     | 55   | 802      
-Audioslave               | 63   | 706      
+Audioslave               | 64   | 706      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 574      
-The Beatles              | 80   | 535      
-Rage Against the Machine | 83   | 509      
+The Beatles              | 80   | 539      
+Rage Against the Machine | 83   | 510      
 Black Sabbath            | 84   | 507      
-Pink Floyd               | 87   | 491      
+Pink Floyd               | 87   | 492      
 The Band                 | 93   | 447      
-The Twilight Singers     | 97   | 434      
-Jokke med Tourettes      | 98   | 433      
+Jokke med Tourettes      | 97   | 434      
+The Twilight Singers     | 98   | 434      
 Marillion                | 99   | 420      
