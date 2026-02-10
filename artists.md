@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3413
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
-Bruce Springsteen              | 10   | 2996     
+Bruce Springsteen              | 10   | 2998     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
@@ -46,7 +46,7 @@ johndoe                        | 20   | 2307
 Chris Cornell                  | 21   | 2242     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2080     
+Spidergawd                     | 24   | 2081     
 Mastodon                       | 25   | 1802     
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
@@ -79,7 +79,7 @@ Kylesa                         | 72   | 649
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
 Spielbergs                     | 75   | 610      
-The Good The Bad and The Zugly | 77   | 583      
+The Good The Bad and The Zugly | 77   | 585      
 Carcass                        | 82   | 513      
 Jason Isbell and the 400 Unit  | 86   | 502      
 Backstreet Girls               | 90   | 478      
