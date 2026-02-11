@@ -30,14 +30,14 @@ Bob Mould         | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6178     
-Soundgarden                    | 2    | 6171     
+Soundgarden                    | 2    | 6172     
 Rush                           | 3    | 4817     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3413     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
-Bruce Springsteen              | 10   | 2998     
+Bruce Springsteen              | 10   | 2999     
 Manic Street Preachers         | 12   | 2690     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1802
 The Smashing Pumpkins          | 27   | 1635     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 31   | 1395     
+Kvelertak                      | 31   | 1396     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
@@ -74,7 +74,7 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 740      
 Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
-Clutch                         | 69   | 654      
+Clutch                         | 69   | 655      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 610      
@@ -96,11 +96,11 @@ Alice in Chains  | 18   | 2437
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
-Bob Dylan        | 53   | 817      
+Bob Dylan        | 53   | 818      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
 The Hotelier     | 62   | 712      
-Neil Young       | 63   | 707      
+Neil Young       | 63   | 708      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 79   | 540      
@@ -117,7 +117,7 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3521     
+The Replacements         | 5    | 3522     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2413     
 Sugar                    | 30   | 1429     
@@ -131,7 +131,7 @@ Foo Fighters             | 70   | 652
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 574      
-The Beatles              | 80   | 539      
+The Beatles              | 80   | 540      
 Rage Against the Machine | 83   | 510      
 Black Sabbath            | 84   | 507      
 Pink Floyd               | 87   | 492      
