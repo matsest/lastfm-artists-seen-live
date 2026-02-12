@@ -33,7 +33,7 @@ Pearl Jam                      | 1    | 6178
 Soundgarden                    | 2    | 6172     
 Rush                           | 3    | 4817     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3413     
+AC/DC                          | 6    | 3414     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3082     
 Motorpsycho                    | 9    | 3070     
@@ -63,7 +63,7 @@ Pappasaft                      | 42   | 1056
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 967      
-Tool                           | 48   | 903      
+Tool                           | 48   | 904      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
@@ -71,7 +71,7 @@ The Tallest Man on Earth       | 56   | 795
 Thulsa Doom                    | 57   | 778      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
-Ghost                          | 60   | 740      
+Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 655      
@@ -126,7 +126,7 @@ Genesis                  | 40   | 1068
 Fugazi                   | 45   | 1011     
 Big Star                 | 50   | 843      
 Jokke & Valentinerne     | 55   | 802      
-Audioslave               | 64   | 706      
+Audioslave               | 64   | 707      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
