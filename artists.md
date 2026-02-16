@@ -35,9 +35,9 @@ Rush                           | 3    | 4818
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3415     
 DumDum Boys                    | 7    | 3274     
-Against Me!                    | 8    | 3082     
-Motorpsycho                    | 9    | 3070     
-Bruce Springsteen              | 10   | 2999     
+Against Me!                    | 8    | 3083     
+Motorpsycho                    | 9    | 3071     
+Bruce Springsteen              | 10   | 3002     
 Manic Street Preachers         | 12   | 2691     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2516     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2082     
-Mastodon                       | 25   | 1802     
+Mastodon                       | 25   | 1803     
 The Smashing Pumpkins          | 27   | 1636     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -55,14 +55,14 @@ Kvelertak                      | 31   | 1396
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1207     
+Thin Lizzy                     | 35   | 1209     
 Biffy Clyro                    | 37   | 1158     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 967      
+Oslo Ess                       | 46   | 968      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 859      
 Japandroids                    | 51   | 839      
@@ -96,14 +96,14 @@ Alice in Chains  | 18   | 2438
 The Menzingers   | 26   | 1637     
 The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
-Bob Dylan        | 53   | 818      
+Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
-The Hotelier     | 62   | 712      
-Neil Young       | 63   | 708      
+Neil Young       | 62   | 713      
+The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 79   | 540      
+Dinosaur Jr.     | 80   | 540      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
 Faith No More    | 88   | 485      
@@ -123,7 +123,7 @@ The Who                  | 19   | 2415
 Sugar                    | 30   | 1430     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
-Fugazi                   | 45   | 1011     
+Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 843      
 Jokke & Valentinerne     | 55   | 803      
 Audioslave               | 64   | 707      
@@ -131,7 +131,7 @@ Foo Fighters             | 70   | 652
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 574      
-The Beatles              | 80   | 540      
+The Beatles              | 79   | 542      
 Rage Against the Machine | 83   | 510      
 Black Sabbath            | 84   | 509      
 Pink Floyd               | 87   | 493      
