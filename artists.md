@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2082     
-Mastodon                       | 25   | 1803     
+Mastodon                       | 25   | 1810     
 The Smashing Pumpkins          | 27   | 1636     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
