@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2242
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2082     
-Mastodon                       | 25   | 1810     
+Mastodon                       | 25   | 1811     
 The Smashing Pumpkins          | 27   | 1636     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3523     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2415     
-Sugar                    | 30   | 1430     
+Sugar                    | 30   | 1437     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1012     
