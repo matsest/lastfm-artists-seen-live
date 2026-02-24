@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6179     
 Soundgarden                    | 2    | 6172     
-Rush                           | 3    | 4818     
+Rush                           | 3    | 4825     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3415     
+AC/DC                          | 6    | 3416     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3071     
@@ -103,10 +103,10 @@ Neil Young       | 62   | 713
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 540      
+Dinosaur Jr.     | 80   | 541      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
-Faith No More    | 88   | 485      
+Faith No More    | 88   | 486      
 The War on Drugs | 89   | 482      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
@@ -131,7 +131,7 @@ Foo Fighters             | 70   | 652
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 574      
-The Beatles              | 79   | 542      
+The Beatles              | 79   | 543      
 Rage Against the Machine | 83   | 510      
 Black Sabbath            | 84   | 509      
 Pink Floyd               | 87   | 493      
