@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6179     
 Soundgarden                    | 2    | 6172     
-Rush                           | 3    | 4825     
+Rush                           | 3    | 4847     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3416     
 DumDum Boys                    | 7    | 3274     
