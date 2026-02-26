@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6179     
 Soundgarden                    | 2    | 6172     
-Rush                           | 3    | 4847     
+Rush                           | 3    | 4848     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3416     
 DumDum Boys                    | 7    | 3274     
@@ -93,7 +93,7 @@ Name             | Rank | PlayCount
 Guided by Voices | 16   | 2488     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2438     
-The Menzingers   | 26   | 1637     
+The Menzingers   | 26   | 1638     
 The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
