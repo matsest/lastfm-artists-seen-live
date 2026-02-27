@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6179     
 Soundgarden                    | 2    | 6172     
-Rush                           | 3    | 4848     
+Rush                           | 3    | 4864     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3416     
 DumDum Boys                    | 7    | 3274     
@@ -40,7 +40,7 @@ Motorpsycho                    | 9    | 3071
 Bruce Springsteen              | 10   | 3002     
 Manic Street Preachers         | 12   | 2691     
 Frank Turner                   | 13   | 2608     
-Bob Mould                      | 14   | 2516     
+Bob Mould                      | 14   | 2517     
 Raga Rockers                   | 15   | 2510     
 johndoe                        | 20   | 2307     
 Chris Cornell                  | 21   | 2242     
@@ -90,7 +90,7 @@ Gojira                         | 95   | 438
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2488     
+Guided by Voices | 16   | 2489     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2438     
 The Menzingers   | 26   | 1638     
