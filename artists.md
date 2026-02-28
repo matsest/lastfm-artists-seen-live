@@ -29,34 +29,34 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6179     
-Soundgarden                    | 2    | 6172     
+Pearl Jam                      | 1    | 6180     
+Soundgarden                    | 2    | 6173     
 Rush                           | 3    | 4864     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3416     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3071     
-Bruce Springsteen              | 10   | 3002     
+Bruce Springsteen              | 10   | 3003     
 Manic Street Preachers         | 12   | 2691     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2517     
-Raga Rockers                   | 15   | 2510     
+Raga Rockers                   | 15   | 2511     
 johndoe                        | 20   | 2307     
-Chris Cornell                  | 21   | 2242     
+Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2082     
 Mastodon                       | 25   | 1811     
-The Smashing Pumpkins          | 27   | 1636     
+The Smashing Pumpkins          | 27   | 1637     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1396     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1209     
-Biffy Clyro                    | 37   | 1158     
+Thin Lizzy                     | 35   | 1210     
+Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
 Pappasaft                      | 42   | 1056     
@@ -77,7 +77,7 @@ The Posies                     | 68   | 677
 Clutch                         | 69   | 655      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
-Devin Townsend Project         | 74   | 610      
+Devin Townsend Project         | 74   | 611      
 Spielbergs                     | 75   | 610      
 The Good The Bad and The Zugly | 77   | 585      
 Carcass                        | 82   | 513      
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2489     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2438     
+Alice in Chains  | 18   | 2440     
 The Menzingers   | 26   | 1638     
 The Black Crowes | 38   | 1131     
 The Hold Steady  | 47   | 926      
@@ -119,22 +119,22 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3523     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2415     
+The Who                  | 19   | 2416     
 Sugar                    | 30   | 1438     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1012     
-Big Star                 | 50   | 843      
-Jokke & Valentinerne     | 55   | 803      
+Big Star                 | 50   | 844      
+Jokke & Valentinerne     | 55   | 804      
 Audioslave               | 64   | 707      
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
-Temple of the Dog        | 78   | 574      
+Temple of the Dog        | 78   | 575      
 The Beatles              | 79   | 543      
 Rage Against the Machine | 83   | 510      
 Black Sabbath            | 84   | 509      
-Pink Floyd               | 87   | 493      
+Pink Floyd               | 87   | 494      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 434      
 The Twilight Singers     | 98   | 434      
