@@ -30,10 +30,10 @@ Bob Mould         | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Pearl Jam                      | 1    | 6180     
-Soundgarden                    | 2    | 6173     
-Rush                           | 3    | 4864     
+Soundgarden                    | 2    | 6174     
+Rush                           | 3    | 4865     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3416     
+AC/DC                          | 6    | 3417     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3071     
@@ -103,7 +103,7 @@ Neil Young       | 62   | 713
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 541      
+Dinosaur Jr.     | 80   | 542      
 Yes              | 81   | 514      
 Richard Thompson | 85   | 505      
 Faith No More    | 88   | 486      
@@ -117,7 +117,7 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3523     
+The Replacements         | 5    | 3525     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2416     
 Sugar                    | 30   | 1438     
@@ -132,8 +132,8 @@ Paul Westerberg          | 71   | 652
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 575      
 The Beatles              | 79   | 543      
-Rage Against the Machine | 83   | 510      
-Black Sabbath            | 84   | 509      
+Black Sabbath            | 83   | 510      
+Rage Against the Machine | 84   | 510      
 Pink Floyd               | 87   | 494      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 434      
