@@ -29,8 +29,8 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Pearl Jam                      | 1    | 6180     
-Soundgarden                    | 2    | 6174     
+Soundgarden                    | 1    | 6193     
+Pearl Jam                      | 2    | 6180     
 Rush                           | 3    | 4865     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3417     
