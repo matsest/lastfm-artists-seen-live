@@ -29,15 +29,15 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6193     
-Pearl Jam                      | 2    | 6180     
+Soundgarden                    | 1    | 6194     
+Pearl Jam                      | 2    | 6181     
 Rush                           | 3    | 4865     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3417     
+AC/DC                          | 6    | 3420     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3071     
-Bruce Springsteen              | 10   | 3003     
+Bruce Springsteen              | 10   | 3004     
 Manic Street Preachers         | 12   | 2691     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2517     
@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2210
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2082     
 Mastodon                       | 25   | 1811     
-The Smashing Pumpkins          | 27   | 1637     
+The Smashing Pumpkins          | 27   | 1638     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1396     
@@ -90,7 +90,7 @@ Gojira                         | 95   | 438
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2489     
+Guided by Voices | 16   | 2490     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2440     
 The Menzingers   | 26   | 1660     
@@ -99,7 +99,7 @@ The Hold Steady  | 47   | 926
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 725      
-Neil Young       | 62   | 713      
+Neil Young       | 62   | 714      
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
@@ -130,7 +130,7 @@ Audioslave               | 64   | 707
 Foo Fighters             | 70   | 652      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
-Temple of the Dog        | 78   | 575      
+Temple of the Dog        | 78   | 576      
 The Beatles              | 79   | 543      
 Black Sabbath            | 83   | 510      
 Rage Against the Machine | 84   | 510      
