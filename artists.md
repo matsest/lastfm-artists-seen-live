@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1811
 The Smashing Pumpkins          | 27   | 1638     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 31   | 1396     
+Kvelertak                      | 31   | 1400     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
