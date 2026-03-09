@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6194
 Pearl Jam                      | 2    | 6181     
 Rush                           | 3    | 4865     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3420     
+AC/DC                          | 6    | 3421     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3071     
@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1811
 The Smashing Pumpkins          | 27   | 1638     
 Weezer                         | 28   | 1630     
 Mark Lanegan                   | 29   | 1525     
-Kvelertak                      | 31   | 1400     
+Kvelertak                      | 31   | 1405     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3525     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2417     
+The Who                  | 19   | 2418     
 Sugar                    | 30   | 1438     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
