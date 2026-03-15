@@ -41,7 +41,7 @@ Bruce Springsteen              | 10   | 3004
 Manic Street Preachers         | 12   | 2691     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2517     
-Raga Rockers                   | 15   | 2512     
+Raga Rockers                   | 15   | 2513     
 johndoe                        | 20   | 2307     
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
@@ -49,7 +49,7 @@ The National                   | 23   | 2156
 Spidergawd                     | 24   | 2082     
 Mastodon                       | 25   | 1811     
 The Smashing Pumpkins          | 27   | 1638     
-Weezer                         | 28   | 1633     
+Weezer                         | 28   | 1634     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1405     
 Touché Amoré                   | 32   | 1378     
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 844      
 Jokke & Valentinerne     | 55   | 804      
 Audioslave               | 64   | 707      
-Foo Fighters             | 70   | 652      
+Foo Fighters             | 70   | 653      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 576      
