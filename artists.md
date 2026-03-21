@@ -46,16 +46,16 @@ johndoe                        | 20   | 2307
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2082     
+Spidergawd                     | 24   | 2083     
 Mastodon                       | 25   | 1811     
-The Smashing Pumpkins          | 27   | 1638     
+The Smashing Pumpkins          | 27   | 1639     
 Weezer                         | 28   | 1634     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1405     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1211     
+Thin Lizzy                     | 35   | 1212     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 41   | 1061     
@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2490
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2441     
 The Menzingers   | 26   | 1660     
-The Black Crowes | 38   | 1142     
+The Black Crowes | 38   | 1149     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
@@ -119,8 +119,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3525     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2418     
-Sugar                    | 30   | 1440     
+The Who                  | 19   | 2419     
+Sugar                    | 30   | 1441     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
 Fugazi                   | 45   | 1012     
@@ -133,7 +133,7 @@ Warren Zevon             | 76   | 586
 Temple of the Dog        | 78   | 576      
 Pink Floyd               | 79   | 569      
 The Beatles              | 81   | 543      
-Rage Against the Machine | 84   | 511      
+Rage Against the Machine | 84   | 512      
 Black Sabbath            | 85   | 510      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 434      
