@@ -94,7 +94,7 @@ Guided by Voices | 16   | 2490
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2441     
 The Menzingers   | 26   | 1660     
-The Black Crowes | 38   | 1151     
+The Black Crowes | 38   | 1152     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
