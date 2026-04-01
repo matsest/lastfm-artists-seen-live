@@ -31,14 +31,14 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6194     
 Pearl Jam                      | 2    | 6181     
-Rush                           | 3    | 4870     
+Rush                           | 3    | 4871     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3432     
+AC/DC                          | 6    | 3436     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3004     
-Manic Street Preachers         | 12   | 2692     
+Manic Street Preachers         | 12   | 2693     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
 Raga Rockers                   | 15   | 2514     
@@ -46,7 +46,7 @@ johndoe                        | 20   | 2307
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2084     
+Spidergawd                     | 24   | 2097     
 Mastodon                       | 25   | 1811     
 The Smashing Pumpkins          | 27   | 1639     
 Weezer                         | 28   | 1634     
@@ -64,10 +64,10 @@ Anti-Lam Front                 | 43   | 1051
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 968      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 859      
+Sweden                         | 49   | 860      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
-The Tallest Man on Earth       | 56   | 795      
+The Tallest Man on Earth       | 56   | 796      
 Thulsa Doom                    | 57   | 778      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
@@ -106,8 +106,8 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 81   | 543      
 Yes              | 82   | 514      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 487      
-The War on Drugs | 89   | 482      
+Faith No More    | 88   | 488      
+The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
@@ -117,9 +117,9 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3525     
+The Replacements         | 5    | 3526     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2419     
+The Who                  | 19   | 2420     
 Sugar                    | 30   | 1441     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 40   | 1068     
