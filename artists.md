@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6194
 Pearl Jam                      | 2    | 6181     
 Rush                           | 3    | 4871     
 The Gaslight Anthem            | 4    | 4552     
-AC/DC                          | 6    | 3436     
+AC/DC                          | 6    | 3437     
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
@@ -106,7 +106,7 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 81   | 543      
 Yes              | 82   | 514      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 488      
+Faith No More    | 88   | 489      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
