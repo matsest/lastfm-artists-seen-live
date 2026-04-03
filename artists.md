@@ -30,7 +30,7 @@ Bob Mould         | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6194     
-Pearl Jam                      | 2    | 6181     
+Pearl Jam                      | 2    | 6183     
 Rush                           | 3    | 4871     
 The Gaslight Anthem            | 4    | 4552     
 AC/DC                          | 6    | 3437     
@@ -48,8 +48,8 @@ Ryan Adams                     | 22   | 2210
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2097     
 Mastodon                       | 25   | 1811     
-The Smashing Pumpkins          | 27   | 1639     
-Weezer                         | 28   | 1634     
+Weezer                         | 27   | 1641     
+The Smashing Pumpkins          | 28   | 1639     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
@@ -58,7 +58,7 @@ Chuck Ragan                    | 34   | 1263
 Thin Lizzy                     | 35   | 1214     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
-Stein Torleif Bjella           | 41   | 1061     
+Stein Torleif Bjella           | 40   | 1071     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
@@ -99,14 +99,14 @@ The Hold Steady  | 47   | 926
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 726      
-Neil Young       | 62   | 714      
+Neil Young       | 62   | 715      
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 81   | 543      
 Yes              | 82   | 514      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 489      
+Faith No More    | 88   | 490      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
@@ -119,10 +119,10 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3526     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2420     
+The Who                  | 19   | 2422     
 Sugar                    | 30   | 1441     
 The Horrible Crowes      | 36   | 1186     
-Genesis                  | 40   | 1068     
+Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 844      
 Jokke & Valentinerne     | 55   | 804      
