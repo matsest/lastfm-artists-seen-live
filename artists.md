@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2210
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2097     
 Mastodon                       | 25   | 1811     
-Weezer                         | 27   | 1644     
+Weezer                         | 27   | 1645     
 The Smashing Pumpkins          | 28   | 1639     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
