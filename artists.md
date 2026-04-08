@@ -29,7 +29,7 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6194     
+Soundgarden                    | 1    | 6195     
 Pearl Jam                      | 2    | 6183     
 Rush                           | 3    | 4871     
 The Gaslight Anthem            | 4    | 4552     
@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3437
 DumDum Boys                    | 7    | 3274     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
-Bruce Springsteen              | 10   | 3004     
+Bruce Springsteen              | 10   | 3005     
 Manic Street Preachers         | 12   | 2693     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1214     
+Thin Lizzy                     | 35   | 1215     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 40   | 1071     
@@ -74,7 +74,7 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 685      
 The Posies                     | 68   | 677      
-Clutch                         | 69   | 655      
+Clutch                         | 69   | 657      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 611      
@@ -90,7 +90,7 @@ Gojira                         | 95   | 438
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2490     
+Guided by Voices | 16   | 2491     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2441     
 The Menzingers   | 26   | 1660     
@@ -103,10 +103,10 @@ Neil Young       | 62   | 715
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 81   | 543      
+Dinosaur Jr.     | 80   | 545      
 Yes              | 82   | 514      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 490      
+Faith No More    | 88   | 491      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
@@ -119,22 +119,22 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3526     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2422     
-Sugar                    | 30   | 1441     
+The Who                  | 19   | 2424     
+Sugar                    | 30   | 1442     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 844      
-Jokke & Valentinerne     | 55   | 804      
+Jokke & Valentinerne     | 55   | 805      
 Audioslave               | 64   | 707      
 Foo Fighters             | 70   | 653      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 576      
 Pink Floyd               | 79   | 569      
-The Beatles              | 80   | 544      
-Rage Against the Machine | 84   | 512      
-Black Sabbath            | 85   | 510      
+The Beatles              | 81   | 544      
+Black Sabbath            | 84   | 512      
+Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 434      
 The Twilight Singers     | 98   | 434      
