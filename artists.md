@@ -32,9 +32,9 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6195     
 Pearl Jam                      | 2    | 6183     
 Rush                           | 3    | 4871     
-The Gaslight Anthem            | 4    | 4552     
+The Gaslight Anthem            | 4    | 4553     
 AC/DC                          | 6    | 3437     
-DumDum Boys                    | 7    | 3274     
+DumDum Boys                    | 7    | 3275     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3005     
@@ -64,7 +64,7 @@ Anti-Lam Front                 | 43   | 1051
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 968      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 860      
+Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
 The Tallest Man on Earth       | 56   | 796      
@@ -84,7 +84,7 @@ Carcass                        | 83   | 513
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 90   | 478      
 Michael Krohn                  | 92   | 456      
-Gojira                         | 95   | 438      
+Gojira                         | 95   | 439      
 
 ## Active top 100 artists not seen live (22)
 
