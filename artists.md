@@ -58,11 +58,11 @@ Chuck Ragan                    | 34   | 1263
 Thin Lizzy                     | 35   | 1215     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
-Stein Torleif Bjella           | 40   | 1071     
+Stein Torleif Bjella           | 40   | 1077     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 968      
+Oslo Ess                       | 46   | 969      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
