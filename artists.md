@@ -29,16 +29,16 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6195     
-Pearl Jam                      | 2    | 6183     
+Soundgarden                    | 1    | 6196     
+Pearl Jam                      | 2    | 6184     
 Rush                           | 3    | 4871     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3437     
-DumDum Boys                    | 7    | 3275     
+AC/DC                          | 6    | 3439     
+DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
-Bruce Springsteen              | 10   | 3005     
-Manic Street Preachers         | 12   | 2693     
+Bruce Springsteen              | 10   | 3007     
+Manic Street Preachers         | 12   | 2695     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
 Raga Rockers                   | 15   | 2514     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1215     
+Thin Lizzy                     | 35   | 1219     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 40   | 1077     
@@ -80,9 +80,9 @@ Blood Command                  | 73   | 643
 Devin Townsend Project         | 74   | 611      
 Spielbergs                     | 75   | 610      
 The Good The Bad and The Zugly | 77   | 585      
-Carcass                        | 83   | 513      
+Carcass                        | 84   | 513      
 Jason Isbell and the 400 Unit  | 87   | 502      
-Backstreet Girls               | 90   | 478      
+Backstreet Girls               | 90   | 479      
 Michael Krohn                  | 92   | 456      
 Gojira                         | 95   | 439      
 
@@ -90,11 +90,11 @@ Gojira                         | 95   | 439
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2491     
+Guided by Voices | 16   | 2494     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2441     
+Alice in Chains  | 18   | 2443     
 The Menzingers   | 26   | 1660     
-The Black Crowes | 38   | 1152     
+The Black Crowes | 38   | 1153     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
@@ -104,9 +104,9 @@ The Hotelier     | 63   | 712
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 80   | 545      
-Yes              | 82   | 514      
+Yes              | 82   | 516      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 491      
+Faith No More    | 88   | 494      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
@@ -117,25 +117,25 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3526     
+The Replacements         | 5    | 3527     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2424     
-Sugar                    | 30   | 1442     
+The Who                  | 19   | 2425     
+Sugar                    | 30   | 1443     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 844      
 Jokke & Valentinerne     | 55   | 805      
-Audioslave               | 64   | 707      
+Audioslave               | 64   | 708      
 Foo Fighters             | 70   | 653      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
-Temple of the Dog        | 78   | 576      
+Temple of the Dog        | 78   | 577      
 Pink Floyd               | 79   | 569      
 The Beatles              | 81   | 544      
-Black Sabbath            | 84   | 512      
+Black Sabbath            | 83   | 514      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
-Jokke med Tourettes      | 97   | 434      
+Jokke med Tourettes      | 97   | 435      
 The Twilight Singers     | 98   | 434      
 Marillion                | 99   | 420      
