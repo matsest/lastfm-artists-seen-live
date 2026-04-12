@@ -29,11 +29,11 @@ Bob Mould         | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6196     
-Pearl Jam                      | 2    | 6184     
-Rush                           | 3    | 4871     
+Soundgarden                    | 1    | 6198     
+Pearl Jam                      | 2    | 6185     
+Rush                           | 3    | 4872     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3439     
+AC/DC                          | 6    | 3442     
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
@@ -46,8 +46,8 @@ johndoe                        | 20   | 2307
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2097     
-Mastodon                       | 25   | 1811     
+Spidergawd                     | 24   | 2098     
+Mastodon                       | 25   | 1812     
 Weezer                         | 27   | 1645     
 The Smashing Pumpkins          | 28   | 1639     
 Mark Lanegan                   | 29   | 1525     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1219     
+Thin Lizzy                     | 35   | 1221     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1085     
 Stein Torleif Bjella           | 40   | 1077     
@@ -106,7 +106,7 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 80   | 545      
 Yes              | 82   | 516      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 494      
+Faith No More    | 88   | 496      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
