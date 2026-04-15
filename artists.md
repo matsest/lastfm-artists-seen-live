@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2695
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
 Raga Rockers                   | 15   | 2514     
-johndoe                        | 20   | 2307     
+johndoe                        | 20   | 2309     
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
@@ -68,7 +68,7 @@ Sweden                         | 49   | 861
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
 The Tallest Man on Earth       | 56   | 796      
-Thulsa Doom                    | 57   | 784      
+Thulsa Doom                    | 57   | 795      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
