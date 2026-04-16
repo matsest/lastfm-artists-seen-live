@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6198
 Pearl Jam                      | 2    | 6185     
 Rush                           | 3    | 4872     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3442     
+AC/DC                          | 6    | 3444     
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
@@ -42,7 +42,7 @@ Manic Street Preachers         | 12   | 2695
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
 Raga Rockers                   | 15   | 2514     
-johndoe                        | 20   | 2309     
+johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
@@ -67,8 +67,8 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
-The Tallest Man on Earth       | 56   | 796      
-Thulsa Doom                    | 57   | 795      
+Thulsa Doom                    | 56   | 797      
+The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
@@ -106,7 +106,7 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 80   | 545      
 Yes              | 82   | 516      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 496      
+Faith No More    | 88   | 497      
 The War on Drugs | 89   | 483      
 Dawes            | 91   | 457      
 Cloud Nothings   | 94   | 443      
@@ -117,10 +117,10 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3527     
+The Replacements         | 5    | 3528     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2425     
-Sugar                    | 30   | 1443     
+Sugar                    | 30   | 1444     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
