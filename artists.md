@@ -31,17 +31,17 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6198     
 Pearl Jam                      | 2    | 6185     
-Rush                           | 3    | 4872     
+Rush                           | 3    | 4873     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3444     
+AC/DC                          | 6    | 3445     
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3007     
-Manic Street Preachers         | 12   | 2695     
+Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2518     
-Raga Rockers                   | 15   | 2514     
+Raga Rockers                   | 15   | 2515     
 johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
@@ -57,7 +57,7 @@ Baroness                       | 33   | 1377
 Chuck Ragan                    | 34   | 1263     
 Thin Lizzy                     | 35   | 1221     
 Biffy Clyro                    | 37   | 1159     
-Hellbillies                    | 39   | 1085     
+Hellbillies                    | 39   | 1087     
 Stein Torleif Bjella           | 40   | 1077     
 Pappasaft                      | 42   | 1056     
 Anti-Lam Front                 | 43   | 1051     
@@ -67,7 +67,7 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
-Thulsa Doom                    | 56   | 797      
+Thulsa Doom                    | 55   | 809      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
@@ -103,7 +103,7 @@ Neil Young       | 62   | 715
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 545      
+Dinosaur Jr.     | 80   | 549      
 Yes              | 82   | 516      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 497      
@@ -125,7 +125,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 844      
-Jokke & Valentinerne     | 55   | 805      
+Jokke & Valentinerne     | 56   | 805      
 Audioslave               | 64   | 708      
 Foo Fighters             | 70   | 653      
 Paul Westerberg          | 71   | 652      
@@ -136,6 +136,6 @@ The Beatles              | 81   | 544
 Black Sabbath            | 83   | 514      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
-Jokke med Tourettes      | 97   | 435      
+Jokke med Tourettes      | 97   | 436      
 The Twilight Singers     | 98   | 434      
 Marillion                | 99   | 420      
