@@ -72,7 +72,7 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 685      
+Dropkick Murphys               | 66   | 686      
 The Posies                     | 68   | 677      
 Clutch                         | 69   | 657      
 Kylesa                         | 72   | 649      
@@ -83,7 +83,7 @@ The Good The Bad and The Zugly | 77   | 585
 Carcass                        | 84   | 513      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 90   | 479      
-Michael Krohn                  | 92   | 456      
+Michael Krohn                  | 91   | 466      
 Gojira                         | 95   | 439      
 
 ## Active top 100 artists not seen live (22)
@@ -108,7 +108,7 @@ Yes              | 82   | 516
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 497      
 The War on Drugs | 89   | 483      
-Dawes            | 91   | 457      
+Dawes            | 92   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
 Kiss             | 100  | 418      
