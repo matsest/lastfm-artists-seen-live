@@ -33,14 +33,14 @@ Soundgarden                    | 1    | 6198
 Pearl Jam                      | 2    | 6185     
 Rush                           | 3    | 4873     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3450     
+AC/DC                          | 6    | 3451     
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3007     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2608     
-Bob Mould                      | 14   | 2518     
+Bob Mould                      | 14   | 2521     
 Raga Rockers                   | 15   | 2515     
 johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2243     
@@ -90,7 +90,7 @@ Gojira                         | 95   | 439
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2494     
+Guided by Voices | 16   | 2497     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2443     
 The Menzingers   | 26   | 1660     
@@ -117,10 +117,10 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3528     
+The Replacements         | 5    | 3531     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2425     
-Sugar                    | 30   | 1445     
+Sugar                    | 30   | 1449     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
