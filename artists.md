@@ -117,10 +117,10 @@ Kiss             | 100  | 418
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3531     
+The Replacements         | 5    | 3532     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2425     
-Sugar                    | 30   | 1449     
+Sugar                    | 30   | 1450     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
