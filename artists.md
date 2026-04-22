@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3451
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
-Bruce Springsteen              | 10   | 3007     
+Bruce Springsteen              | 10   | 3008     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2521     
@@ -48,14 +48,14 @@ Ryan Adams                     | 22   | 2210
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2098     
 Mastodon                       | 25   | 1812     
-Weezer                         | 27   | 1645     
+Weezer                         | 27   | 1646     
 The Smashing Pumpkins          | 28   | 1639     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1221     
+Thin Lizzy                     | 35   | 1222     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1087     
 Stein Torleif Bjella           | 40   | 1077     
@@ -132,7 +132,7 @@ Paul Westerberg          | 71   | 652
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 577      
 Pink Floyd               | 79   | 569      
-The Beatles              | 81   | 544      
+The Beatles              | 81   | 545      
 Black Sabbath            | 83   | 514      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
