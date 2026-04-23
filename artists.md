@@ -74,13 +74,13 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 686      
 The Posies                     | 68   | 677      
-Clutch                         | 69   | 657      
+Clutch                         | 69   | 658      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 611      
 Spielbergs                     | 75   | 610      
 The Good The Bad and The Zugly | 77   | 585      
-Carcass                        | 84   | 513      
+Carcass                        | 82   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 90   | 479      
 Michael Krohn                  | 91   | 466      
@@ -104,7 +104,7 @@ The Hotelier     | 63   | 712
 Eddie Vedder     | 65   | 706      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 80   | 549      
-Yes              | 82   | 516      
+Yes              | 83   | 516      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 498      
 The War on Drugs | 89   | 483      
@@ -133,7 +133,7 @@ Warren Zevon             | 76   | 586
 Temple of the Dog        | 78   | 577      
 Pink Floyd               | 79   | 569      
 The Beatles              | 81   | 545      
-Black Sabbath            | 83   | 514      
+Black Sabbath            | 84   | 514      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 436      
