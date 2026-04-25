@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6198
 Pearl Jam                      | 2    | 6185     
 Rush                           | 3    | 4873     
 The Gaslight Anthem            | 4    | 4553     
-AC/DC                          | 6    | 3451     
+AC/DC                          | 6    | 3453     
 DumDum Boys                    | 7    | 3276     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
@@ -74,7 +74,7 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 686      
 The Posies                     | 68   | 677      
-Clutch                         | 69   | 658      
+Clutch                         | 70   | 658      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 611      
@@ -98,7 +98,7 @@ The Black Crowes | 38   | 1153
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
-Afghan Whigs     | 61   | 726      
+Afghan Whigs     | 61   | 728      
 Neil Young       | 62   | 715      
 The Hotelier     | 63   | 712      
 Eddie Vedder     | 65   | 706      
@@ -106,7 +106,7 @@ Hot Water Music  | 67   | 681
 Dinosaur Jr.     | 80   | 549      
 Yes              | 83   | 516      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 498      
+Faith No More    | 88   | 499      
 The War on Drugs | 89   | 483      
 Dawes            | 92   | 457      
 Cloud Nothings   | 94   | 443      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 844      
 Jokke & Valentinerne     | 56   | 805      
 Audioslave               | 64   | 708      
-Foo Fighters             | 70   | 653      
+Foo Fighters             | 69   | 664      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 577      
