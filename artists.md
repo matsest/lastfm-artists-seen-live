@@ -34,19 +34,19 @@ Pearl Jam                      | 2    | 6185
 Rush                           | 3    | 4873     
 The Gaslight Anthem            | 4    | 4553     
 AC/DC                          | 6    | 3453     
-DumDum Boys                    | 7    | 3276     
+DumDum Boys                    | 7    | 3277     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3008     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2521     
-Raga Rockers                   | 15   | 2515     
+Raga Rockers                   | 15   | 2517     
 johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2243     
 Ryan Adams                     | 22   | 2210     
 The National                   | 23   | 2156     
-Spidergawd                     | 24   | 2098     
+Spidergawd                     | 24   | 2099     
 Mastodon                       | 25   | 1812     
 Weezer                         | 27   | 1646     
 The Smashing Pumpkins          | 28   | 1639     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1222     
+Thin Lizzy                     | 35   | 1223     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1087     
 Stein Torleif Bjella           | 40   | 1077     
@@ -119,8 +119,8 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3532     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2425     
-Sugar                    | 30   | 1450     
+The Who                  | 19   | 2426     
+Sugar                    | 30   | 1451     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
