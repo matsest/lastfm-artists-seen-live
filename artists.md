@@ -30,7 +30,7 @@ Bob Mould         | True
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6198     
-Pearl Jam                      | 2    | 6185     
+Pearl Jam                      | 2    | 6187     
 Rush                           | 3    | 4873     
 The Gaslight Anthem            | 4    | 4553     
 AC/DC                          | 6    | 3453     
@@ -92,7 +92,7 @@ Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2497     
 Propagandhi      | 17   | 2466     
-Alice in Chains  | 18   | 2443     
+Alice in Chains  | 18   | 2444     
 The Menzingers   | 26   | 1660     
 The Black Crowes | 38   | 1153     
 The Hold Steady  | 47   | 926      
@@ -119,7 +119,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3532     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2426     
+The Who                  | 19   | 2427     
 Sugar                    | 30   | 1451     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
