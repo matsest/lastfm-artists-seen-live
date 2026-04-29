@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3453
 DumDum Boys                    | 7    | 3277     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
-Bruce Springsteen              | 10   | 3008     
+Bruce Springsteen              | 10   | 3009     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2608     
 Bob Mould                      | 14   | 2521     
@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2210
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2099     
 Mastodon                       | 25   | 1812     
-Weezer                         | 27   | 1646     
+Weezer                         | 27   | 1647     
 The Smashing Pumpkins          | 28   | 1639     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
