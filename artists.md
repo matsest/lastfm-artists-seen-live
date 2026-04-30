@@ -49,7 +49,7 @@ The National                   | 23   | 2156
 Spidergawd                     | 24   | 2099     
 Mastodon                       | 25   | 1812     
 Weezer                         | 27   | 1647     
-The Smashing Pumpkins          | 28   | 1639     
+The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
