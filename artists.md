@@ -59,7 +59,7 @@ Thin Lizzy                     | 35   | 1223
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1087     
 Stein Torleif Bjella           | 40   | 1077     
-Pappasaft                      | 42   | 1056     
+Pappasaft                      | 42   | 1057     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 969      
@@ -125,7 +125,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 844      
-Jokke & Valentinerne     | 56   | 805      
+Jokke & Valentinerne     | 56   | 806      
 Audioslave               | 64   | 708      
 Foo Fighters             | 69   | 664      
 Paul Westerberg          | 71   | 652      
