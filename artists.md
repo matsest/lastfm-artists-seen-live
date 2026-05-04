@@ -72,7 +72,7 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 686      
+Dropkick Murphys               | 66   | 692      
 The Posies                     | 68   | 677      
 Clutch                         | 70   | 658      
 Kylesa                         | 72   | 649      
