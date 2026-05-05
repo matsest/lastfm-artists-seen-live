@@ -39,12 +39,12 @@ Against Me!                    | 8    | 3083
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3009     
 Manic Street Preachers         | 12   | 2696     
-Frank Turner                   | 13   | 2608     
+Frank Turner                   | 13   | 2609     
 Bob Mould                      | 14   | 2521     
 Raga Rockers                   | 15   | 2517     
 johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2243     
-Ryan Adams                     | 22   | 2210     
+Ryan Adams                     | 22   | 2211     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2099     
 Mastodon                       | 25   | 1812     
@@ -57,12 +57,12 @@ Baroness                       | 33   | 1377
 Chuck Ragan                    | 34   | 1263     
 Thin Lizzy                     | 35   | 1223     
 Biffy Clyro                    | 37   | 1159     
-Hellbillies                    | 39   | 1087     
+Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1077     
 Pappasaft                      | 42   | 1057     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
-Oslo Ess                       | 46   | 969      
+Oslo Ess                       | 46   | 970      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
@@ -72,7 +72,7 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 692      
+Dropkick Murphys               | 66   | 693      
 The Posies                     | 68   | 677      
 Clutch                         | 70   | 658      
 Kylesa                         | 72   | 649      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 844      
 Jokke & Valentinerne     | 56   | 806      
 Audioslave               | 64   | 708      
-Foo Fighters             | 69   | 664      
+Foo Fighters             | 69   | 665      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 577      
