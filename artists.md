@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3453
 DumDum Boys                    | 7    | 3277     
 Against Me!                    | 8    | 3083     
 Motorpsycho                    | 9    | 3072     
-Bruce Springsteen              | 10   | 3009     
+Bruce Springsteen              | 10   | 3010     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2609     
 Bob Mould                      | 14   | 2521     
@@ -67,7 +67,7 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
 Brian Fallon                   | 52   | 825      
-Thulsa Doom                    | 55   | 809      
+Thulsa Doom                    | 55   | 810      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 771      
 Jason Isbell                   | 59   | 756      
@@ -94,17 +94,17 @@ Guided by Voices | 16   | 2497
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2444     
 The Menzingers   | 26   | 1660     
-The Black Crowes | 38   | 1153     
+The Black Crowes | 38   | 1154     
 The Hold Steady  | 47   | 926      
 Bob Dylan        | 53   | 821      
 Melvins          | 54   | 811      
 Afghan Whigs     | 61   | 728      
 Neil Young       | 62   | 715      
 The Hotelier     | 63   | 712      
-Eddie Vedder     | 65   | 706      
+Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 80   | 549      
-Yes              | 83   | 516      
+Yes              | 84   | 516      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 499      
 The War on Drugs | 89   | 483      
@@ -133,7 +133,7 @@ Warren Zevon             | 76   | 586
 Temple of the Dog        | 78   | 577      
 Pink Floyd               | 79   | 569      
 The Beatles              | 81   | 545      
-Black Sabbath            | 84   | 514      
+Black Sabbath            | 83   | 520      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
 Jokke med Tourettes      | 97   | 436      
