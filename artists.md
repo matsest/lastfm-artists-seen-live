@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 527
+- Number of artists seen live in total: 531
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
@@ -14,16 +14,16 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist            | Seen live
 ----------------- | ---------
+Dopelord          | True     
+Nebula            | True     
+Pelican           | True     
+High Desert Queen | True     
 Militarie Gun     | True     
 Spite House       | True     
 Kliss Lik         | True     
 Drakånis          | True     
 Grå Java          | True     
 You Know Who      | True     
-White Urine       | True     
-Konger Og Keisere | True     
-Che Arthur        | True     
-Bob Mould         | True     
 
 ## Top 100 artists seen live (56)
 
