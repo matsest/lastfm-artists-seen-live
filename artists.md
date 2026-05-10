@@ -66,7 +66,7 @@ Oslo Ess                       | 46   | 970
 Tool                           | 48   | 916      
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
-Thulsa Doom                    | 52   | 832      
+Thulsa Doom                    | 52   | 833      
 Brian Fallon                   | 53   | 825      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 771      
@@ -74,7 +74,7 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 693      
 The Posies                     | 68   | 677      
-Clutch                         | 70   | 658      
+Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 611      
