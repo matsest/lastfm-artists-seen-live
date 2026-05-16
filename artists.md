@@ -66,8 +66,8 @@ Oslo Ess                       | 46   | 970
 Tool                           | 48   | 916      
 Sweden                         | 49   | 861      
 Japandroids                    | 51   | 839      
-Thulsa Doom                    | 52   | 833      
-Brian Fallon                   | 53   | 825      
+Thulsa Doom                    | 52   | 834      
+Brian Fallon                   | 53   | 827      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 772      
 Jason Isbell                   | 59   | 756      
@@ -82,7 +82,7 @@ Spielbergs                     | 75   | 610
 The Good The Bad and The Zugly | 77   | 585      
 Carcass                        | 82   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
-Backstreet Girls               | 90   | 479      
+Backstreet Girls               | 89   | 488      
 Michael Krohn                  | 91   | 466      
 Gojira                         | 95   | 439      
 
@@ -107,7 +107,7 @@ Dinosaur Jr.     | 80   | 549
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 499      
-The War on Drugs | 89   | 483      
+The War on Drugs | 90   | 483      
 Dawes            | 92   | 457      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
