@@ -34,8 +34,8 @@ Pearl Jam                      | 2    | 6191
 Rush                           | 3    | 4876     
 The Gaslight Anthem            | 4    | 4554     
 AC/DC                          | 6    | 3479     
-DumDum Boys                    | 7    | 3277     
-Against Me!                    | 8    | 3083     
+DumDum Boys                    | 7    | 3278     
+Against Me!                    | 8    | 3084     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
@@ -59,7 +59,7 @@ Thin Lizzy                     | 35   | 1225
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1077     
-Pappasaft                      | 42   | 1057     
+Pappasaft                      | 42   | 1058     
 Anti-Lam Front                 | 43   | 1051     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 970      
@@ -72,7 +72,7 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 772      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 693      
+Dropkick Murphys               | 66   | 694      
 The Posies                     | 68   | 677      
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
@@ -127,7 +127,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 806      
 Audioslave               | 63   | 712      
-Foo Fighters             | 69   | 668      
+Foo Fighters             | 69   | 670      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 76   | 586      
 Temple of the Dog        | 78   | 579      
