@@ -40,8 +40,8 @@ Motorpsycho                    | 9    | 3072
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2609     
-Bob Mould                      | 14   | 2521     
-Raga Rockers                   | 15   | 2517     
+Raga Rockers                   | 14   | 2538     
+Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2314     
 Chris Cornell                  | 21   | 2248     
 Ryan Adams                     | 22   | 2214     
