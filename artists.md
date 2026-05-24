@@ -32,7 +32,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6199     
 Pearl Jam                      | 2    | 6191     
 Rush                           | 3    | 4877     
-The Gaslight Anthem            | 4    | 4554     
+The Gaslight Anthem            | 4    | 4557     
 AC/DC                          | 6    | 3480     
 DumDum Boys                    | 7    | 3278     
 Against Me!                    | 8    | 3084     
@@ -42,9 +42,9 @@ Manic Street Preachers         | 12   | 2696
 Frank Turner                   | 13   | 2609     
 Raga Rockers                   | 14   | 2540     
 Bob Mould                      | 15   | 2521     
-johndoe                        | 20   | 2314     
+johndoe                        | 20   | 2316     
 Chris Cornell                  | 21   | 2248     
-Ryan Adams                     | 22   | 2214     
+Ryan Adams                     | 22   | 2215     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1812     
@@ -60,7 +60,7 @@ Biffy Clyro                    | 37   | 1159
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1077     
 Pappasaft                      | 42   | 1058     
-Anti-Lam Front                 | 43   | 1051     
+Anti-Lam Front                 | 43   | 1052     
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 970      
 Tool                           | 48   | 916      
@@ -72,7 +72,7 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 772      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 694      
+Dropkick Murphys               | 66   | 695      
 The Posies                     | 68   | 677      
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
@@ -95,7 +95,7 @@ Propagandhi      | 17   | 2466
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 26   | 1660     
 The Black Crowes | 38   | 1154     
-The Hold Steady  | 47   | 926      
+The Hold Steady  | 47   | 927      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
 Afghan Whigs     | 61   | 728      
@@ -108,7 +108,7 @@ Yes              | 84   | 517
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 499      
 The War on Drugs | 90   | 483      
-Dawes            | 92   | 457      
+Dawes            | 92   | 458      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
