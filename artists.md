@@ -44,7 +44,7 @@ Raga Rockers                   | 14   | 2540
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2316     
 Chris Cornell                  | 21   | 2248     
-Ryan Adams                     | 22   | 2215     
+Ryan Adams                     | 22   | 2216     
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1812     
@@ -64,7 +64,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1047     
 Oslo Ess                       | 46   | 970      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 861      
+Sweden                         | 49   | 862      
 Japandroids                    | 51   | 839      
 Thulsa Doom                    | 52   | 834      
 Brian Fallon                   | 53   | 827      
