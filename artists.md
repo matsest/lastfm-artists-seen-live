@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2216
 The National                   | 23   | 2156     
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1812     
-Weezer                         | 27   | 1647     
+Weezer                         | 27   | 1648     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
@@ -108,7 +108,7 @@ Yes              | 84   | 517
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 499      
 The War on Drugs | 90   | 483      
-Dawes            | 92   | 458      
+Dawes            | 92   | 459      
 Cloud Nothings   | 94   | 443      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
