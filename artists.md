@@ -35,11 +35,11 @@ Rush                           | 3    | 4877
 The Gaslight Anthem            | 4    | 4557     
 AC/DC                          | 6    | 3480     
 DumDum Boys                    | 7    | 3279     
-Against Me!                    | 8    | 3084     
+Against Me!                    | 8    | 3085     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
-Frank Turner                   | 13   | 2609     
+Frank Turner                   | 13   | 2610     
 Raga Rockers                   | 14   | 2540     
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2316     
@@ -61,7 +61,7 @@ Hellbillies                    | 39   | 1088
 Stein Torleif Bjella           | 40   | 1077     
 Pappasaft                      | 42   | 1058     
 Anti-Lam Front                 | 43   | 1052     
-Justin Townes Earle            | 44   | 1047     
+Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 970      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 862      
@@ -78,7 +78,7 @@ Clutch                         | 70   | 659
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Devin Townsend Project         | 74   | 611      
-Spielbergs                     | 75   | 610      
+Spielbergs                     | 75   | 611      
 The Good The Bad and The Zugly | 77   | 585      
 Carcass                        | 82   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
@@ -95,7 +95,7 @@ Propagandhi      | 17   | 2466
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 26   | 1660     
 The Black Crowes | 38   | 1154     
-The Hold Steady  | 47   | 927      
+The Hold Steady  | 47   | 928      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
 Afghan Whigs     | 61   | 728      
