@@ -45,7 +45,7 @@ Bob Mould                      | 15   | 2521
 johndoe                        | 20   | 2316     
 Chris Cornell                  | 21   | 2248     
 Ryan Adams                     | 22   | 2216     
-The National                   | 23   | 2157     
+The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1812     
 Weezer                         | 27   | 1648     
@@ -77,8 +77,8 @@ The Posies                     | 68   | 677
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
-Devin Townsend Project         | 74   | 611      
-Spielbergs                     | 75   | 611      
+Spielbergs                     | 74   | 613      
+Devin Townsend Project         | 75   | 611      
 The Good The Bad and The Zugly | 77   | 585      
 Carcass                        | 82   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
@@ -109,7 +109,7 @@ Richard Thompson | 86   | 505
 Faith No More    | 88   | 499      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
-Cloud Nothings   | 94   | 444      
+Cloud Nothings   | 94   | 445      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
