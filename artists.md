@@ -47,8 +47,8 @@ Chris Cornell                  | 21   | 2248
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2100     
-Mastodon                       | 25   | 1812     
-Weezer                         | 27   | 1648     
+Mastodon                       | 25   | 1813     
+Weezer                         | 27   | 1651     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
 Kvelertak                      | 31   | 1406     
@@ -58,7 +58,7 @@ Chuck Ragan                    | 34   | 1263
 Thin Lizzy                     | 35   | 1225     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
-Stein Torleif Bjella           | 40   | 1077     
+Stein Torleif Bjella           | 40   | 1080     
 Pappasaft                      | 42   | 1058     
 Anti-Lam Front                 | 43   | 1052     
 Justin Townes Earle            | 44   | 1048     
@@ -120,7 +120,7 @@ Name                     | Rank | PlayCount
 The Replacements         | 5    | 3532     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2427     
-Sugar                    | 30   | 1452     
+Sugar                    | 30   | 1459     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
