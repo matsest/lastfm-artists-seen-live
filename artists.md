@@ -32,9 +32,9 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6199     
 Pearl Jam                      | 2    | 6191     
 Rush                           | 3    | 4877     
-The Gaslight Anthem            | 4    | 4557     
-AC/DC                          | 6    | 3480     
-DumDum Boys                    | 7    | 3279     
+The Gaslight Anthem            | 4    | 4562     
+AC/DC                          | 6    | 3481     
+DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3085     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3012     
@@ -55,7 +55,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1225     
+Thin Lizzy                     | 35   | 1226     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
@@ -79,7 +79,7 @@ Kylesa                         | 72   | 649
 Blood Command                  | 73   | 643      
 Spielbergs                     | 74   | 613      
 Devin Townsend Project         | 75   | 611      
-The Good The Bad and The Zugly | 77   | 585      
+The Good The Bad and The Zugly | 76   | 586      
 Carcass                        | 82   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 493      
@@ -129,9 +129,9 @@ Jokke & Valentinerne     | 56   | 806
 Audioslave               | 63   | 712      
 Foo Fighters             | 69   | 670      
 Paul Westerberg          | 71   | 652      
-Warren Zevon             | 76   | 586      
+Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 579      
-Pink Floyd               | 79   | 569      
+Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 545      
 Black Sabbath            | 83   | 521      
 Rage Against the Machine | 85   | 512      
