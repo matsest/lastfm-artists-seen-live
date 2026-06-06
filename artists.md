@@ -77,7 +77,7 @@ The Posies                     | 68   | 677
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
-Spielbergs                     | 74   | 613      
+Spielbergs                     | 74   | 615      
 Devin Townsend Project         | 75   | 611      
 The Good The Bad and The Zugly | 76   | 586      
 Carcass                        | 82   | 522      
@@ -109,7 +109,7 @@ Richard Thompson | 86   | 505
 Faith No More    | 88   | 499      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
-Cloud Nothings   | 94   | 445      
+Cloud Nothings   | 94   | 446      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
