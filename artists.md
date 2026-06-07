@@ -2,18 +2,20 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 531
+- Number of artists seen live in total: 533
 
 - Number of fetched top artists: 100 (Active: 69 Inactive: 31)
 
-- Number of top artists seen live: 56 (Active: 47 Inactive: 9)
+- Number of top artists seen live: 57 (Active: 47 Inactive: 10)
 
-- Number of top artists not seen live: 44 (Active: 22 Inactive: 22)
+- Number of top artists not seen live: 43 (Active: 22 Inactive: 21)
 
 ## Last 10 artists seen live
 
 Artist            | Seen live
 ----------------- | ---------
+J. Robbins        | True     
+Sugar             | True     
 Dopelord          | True     
 Nebula            | True     
 Pelican           | True     
@@ -22,10 +24,8 @@ Militarie Gun     | True
 Spite House       | True     
 Kliss Lik         | True     
 Drakånis          | True     
-Grå Java          | True     
-You Know Who      | True     
 
-## Top 100 artists seen live (56)
+## Top 100 artists seen live (57)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
@@ -51,6 +51,7 @@ Mastodon                       | 25   | 1813
 Weezer                         | 27   | 1651     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
+Sugar                          | 30   | 1483     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
@@ -113,14 +114,13 @@ Cloud Nothings   | 94   | 446
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
-## Inactive top 100 artists not seen live (22)
+## Inactive top 100 artists not seen live (21)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3532     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2427     
-Sugar                    | 30   | 1459     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
