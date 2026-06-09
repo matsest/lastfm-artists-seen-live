@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6199     
 Pearl Jam                      | 2    | 6191     
-Rush                           | 3    | 4877     
+Rush                           | 3    | 4881     
 The Gaslight Anthem            | 4    | 4562     
-AC/DC                          | 6    | 3481     
+AC/DC                          | 6    | 3482     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3085     
 Motorpsycho                    | 9    | 3072     
@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1813
 Weezer                         | 27   | 1651     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1483     
+Sugar                          | 30   | 1484     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
@@ -132,7 +132,7 @@ Paul Westerberg          | 71   | 652
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 579      
 Pink Floyd               | 79   | 570      
-The Beatles              | 81   | 545      
+The Beatles              | 81   | 546      
 Black Sabbath            | 83   | 521      
 Rage Against the Machine | 85   | 512      
 The Band                 | 93   | 447      
