@@ -9,12 +9,10 @@ The Posies
 Kaizers Orchestra
 Hüsker Dü
 The Horrible Crowes
-Sugar
 Genesis
 Fugazi
 Audioslave
 Jokke & Valentinerne
-Foo Fighters
 Big Star
 Temple of the Dog
 Paul Westerberg
@@ -29,7 +27,6 @@ Mother Love Bone
 Screaming Trees
 The Band
 Dag Nasty
-Tom Gabel
 Jeff Buckley
 Mad Season
 R.E.M.
