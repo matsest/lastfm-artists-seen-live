@@ -2,18 +2,20 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 533
+- Number of artists seen live in total: 535
 
-- Number of fetched top artists: 100 (Active: 69 Inactive: 31)
+- Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
-- Number of top artists seen live: 57 (Active: 47 Inactive: 10)
+- Number of top artists seen live: 58 (Active: 49 Inactive: 9)
 
-- Number of top artists not seen live: 43 (Active: 22 Inactive: 21)
+- Number of top artists not seen live: 42 (Active: 22 Inactive: 20)
 
 ## Last 10 artists seen live
 
 Artist            | Seen live
 ----------------- | ---------
+Royel Otis        | True     
+Foo Fighters      | True     
 J. Robbins        | True     
 Sugar             | True     
 Dopelord          | True     
@@ -22,17 +24,15 @@ Pelican           | True
 High Desert Queen | True     
 Militarie Gun     | True     
 Spite House       | True     
-Kliss Lik         | True     
-Drakånis          | True     
 
-## Top 100 artists seen live (57)
+## Top 100 artists seen live (58)
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6199     
 Pearl Jam                      | 2    | 6191     
 Rush                           | 3    | 4881     
-The Gaslight Anthem            | 4    | 4562     
+The Gaslight Anthem            | 4    | 4564     
 AC/DC                          | 6    | 3482     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3085     
@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1813
 Weezer                         | 27   | 1653     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1485     
+Sugar                          | 30   | 1486     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
@@ -66,7 +66,7 @@ Justin Townes Earle            | 44   | 1048
 Oslo Ess                       | 46   | 971      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 862      
-Japandroids                    | 51   | 839      
+Japandroids                    | 51   | 843      
 Thulsa Doom                    | 52   | 834      
 Brian Fallon                   | 53   | 827      
 The Tallest Man on Earth       | 57   | 796      
@@ -75,6 +75,7 @@ Jason Isbell                   | 59   | 756
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 695      
 The Posies                     | 68   | 677      
+Foo Fighters                   | 69   | 670      
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
@@ -110,11 +111,11 @@ Richard Thompson | 86   | 505
 Faith No More    | 88   | 499      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
-Cloud Nothings   | 94   | 446      
+Cloud Nothings   | 93   | 447      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
-## Inactive top 100 artists not seen live (21)
+## Inactive top 100 artists not seen live (20)
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
@@ -127,7 +128,6 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 806      
 Audioslave               | 63   | 712      
-Foo Fighters             | 69   | 670      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 579      
@@ -135,7 +135,7 @@ Pink Floyd               | 79   | 570
 The Beatles              | 81   | 546      
 Black Sabbath            | 83   | 521      
 Rage Against the Machine | 85   | 512      
-The Band                 | 93   | 447      
+The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
 The Twilight Singers     | 98   | 434      
 Marillion                | 99   | 420      
