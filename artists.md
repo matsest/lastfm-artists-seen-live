@@ -48,10 +48,10 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1813     
-Weezer                         | 27   | 1651     
+Weezer                         | 27   | 1653     
 The Smashing Pumpkins          | 28   | 1640     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1484     
+Sugar                          | 30   | 1485     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
@@ -91,7 +91,7 @@ Gojira                         | 95   | 439
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2510     
+Guided by Voices | 16   | 2511     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 26   | 1660     
