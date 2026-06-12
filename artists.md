@@ -32,10 +32,10 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6199     
 Pearl Jam                      | 2    | 6191     
 Rush                           | 3    | 4881     
-The Gaslight Anthem            | 4    | 4564     
+The Gaslight Anthem            | 4    | 4579     
 AC/DC                          | 6    | 3482     
 DumDum Boys                    | 7    | 3280     
-Against Me!                    | 8    | 3085     
+Against Me!                    | 8    | 3090     
 Motorpsycho                    | 9    | 3072     
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
@@ -68,7 +68,7 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 862      
 Japandroids                    | 51   | 843      
 Thulsa Doom                    | 52   | 834      
-Brian Fallon                   | 53   | 827      
+Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 783      
 Jason Isbell                   | 59   | 756      
