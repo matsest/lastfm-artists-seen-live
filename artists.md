@@ -29,9 +29,9 @@ Spite House       | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6199     
-Pearl Jam                      | 2    | 6191     
-Rush                           | 3    | 4881     
+Soundgarden                    | 1    | 6201     
+Pearl Jam                      | 2    | 6192     
+Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4579     
 AC/DC                          | 6    | 3482     
 DumDum Boys                    | 7    | 3280     
@@ -49,14 +49,14 @@ The National                   | 23   | 2158
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1813     
 Weezer                         | 27   | 1653     
-The Smashing Pumpkins          | 28   | 1640     
+The Smashing Pumpkins          | 28   | 1641     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1486     
+Sugar                          | 30   | 1487     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1226     
+Thin Lizzy                     | 35   | 1228     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
@@ -92,7 +92,7 @@ Gojira                         | 95   | 439
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2511     
+Guided by Voices | 16   | 2512     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 26   | 1660     
@@ -105,10 +105,10 @@ Neil Young       | 62   | 715
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 549      
+Dinosaur Jr.     | 80   | 551      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
-Faith No More    | 88   | 499      
+Faith No More    | 88   | 500      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
 Cloud Nothings   | 93   | 447      
@@ -119,9 +119,9 @@ Kiss             | 100  | 419
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3532     
+The Replacements         | 5    | 3533     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2427     
+The Who                  | 19   | 2429     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
