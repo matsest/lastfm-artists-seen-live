@@ -32,7 +32,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6201     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
-The Gaslight Anthem            | 4    | 4579     
+The Gaslight Anthem            | 4    | 4580     
 AC/DC                          | 6    | 3482     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3090     
@@ -126,7 +126,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 846      
-Jokke & Valentinerne     | 56   | 806      
+Jokke & Valentinerne     | 56   | 807      
 Audioslave               | 63   | 712      
 Paul Westerberg          | 71   | 652      
 Warren Zevon             | 77   | 586      
