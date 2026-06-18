@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2248
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2100     
-Mastodon                       | 25   | 1813     
+Mastodon                       | 25   | 1814     
 Weezer                         | 27   | 1653     
 The Smashing Pumpkins          | 28   | 1641     
 Mark Lanegan                   | 29   | 1525     
@@ -65,7 +65,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 971      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 862      
+Sweden                         | 49   | 864      
 Japandroids                    | 51   | 843      
 Thulsa Doom                    | 52   | 834      
 Brian Fallon                   | 53   | 828      
