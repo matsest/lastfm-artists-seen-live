@@ -32,7 +32,7 @@ Name                           | Rank | PlayCount
 Soundgarden                    | 1    | 6201     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
-The Gaslight Anthem            | 4    | 4580     
+The Gaslight Anthem            | 4    | 4581     
 AC/DC                          | 6    | 3483     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3090     
@@ -65,7 +65,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 971      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 864      
+Sweden                         | 49   | 865      
 Japandroids                    | 51   | 843      
 Thulsa Doom                    | 52   | 834      
 Brian Fallon                   | 53   | 828      
@@ -74,7 +74,7 @@ Devin Townsend                 | 58   | 783
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
 Dropkick Murphys               | 66   | 695      
-The Posies                     | 68   | 677      
+The Posies                     | 68   | 678      
 Foo Fighters                   | 69   | 670      
 Clutch                         | 70   | 659      
 Kylesa                         | 72   | 649      
