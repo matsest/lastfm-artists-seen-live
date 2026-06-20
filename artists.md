@@ -73,10 +73,10 @@ The Tallest Man on Earth       | 57   | 796
 Devin Townsend                 | 58   | 783      
 Jason Isbell                   | 59   | 756      
 Ghost                          | 60   | 741      
-Dropkick Murphys               | 66   | 695      
+Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 69   | 670      
-Clutch                         | 70   | 659      
+Foo Fighters                   | 70   | 670      
+Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 643      
 Spielbergs                     | 74   | 615      
@@ -128,7 +128,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 807      
 Audioslave               | 63   | 712      
-Paul Westerberg          | 71   | 652      
+Paul Westerberg          | 69   | 675      
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 579      
 Pink Floyd               | 79   | 570      
