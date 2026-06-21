@@ -29,11 +29,11 @@ Spite House       | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6201     
+Soundgarden                    | 1    | 6202     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4581     
-AC/DC                          | 6    | 3483     
+AC/DC                          | 6    | 3484     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3090     
 Motorpsycho                    | 9    | 3072     
@@ -49,14 +49,14 @@ The National                   | 23   | 2158
 Spidergawd                     | 24   | 2100     
 Mastodon                       | 25   | 1814     
 Weezer                         | 27   | 1653     
-The Smashing Pumpkins          | 28   | 1641     
+The Smashing Pumpkins          | 28   | 1642     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1487     
+Sugar                          | 30   | 1489     
 Kvelertak                      | 31   | 1406     
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1228     
+Thin Lizzy                     | 35   | 1230     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
@@ -105,7 +105,7 @@ Neil Young       | 62   | 715
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 551      
+Dinosaur Jr.     | 80   | 554      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 500      
@@ -128,7 +128,7 @@ Fugazi                   | 45   | 1012
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 807      
 Audioslave               | 63   | 712      
-Paul Westerberg          | 69   | 675      
+Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 579      
 Pink Floyd               | 79   | 570      
