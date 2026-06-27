@@ -36,13 +36,13 @@ The Gaslight Anthem            | 4    | 4583
 AC/DC                          | 6    | 3484     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3092     
-Motorpsycho                    | 9    | 3076     
+Motorpsycho                    | 9    | 3079     
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
-Raga Rockers                   | 14   | 2540     
+Raga Rockers                   | 14   | 2557     
 Bob Mould                      | 15   | 2521     
-johndoe                        | 20   | 2347     
+johndoe                        | 20   | 2348     
 Chris Cornell                  | 21   | 2248     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
@@ -100,7 +100,7 @@ The Black Crowes | 38   | 1154
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 61   | 728      
+Afghan Whigs     | 61   | 729      
 Neil Young       | 62   | 715      
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
