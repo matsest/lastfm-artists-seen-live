@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 535
+- Number of artists seen live in total: 542
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -12,18 +12,18 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 ## Last 10 artists seen live
 
-Artist            | Seen live
------------------ | ---------
-Royel Otis        | True     
-Foo Fighters      | True     
-J. Robbins        | True     
-Sugar             | True     
-Dopelord          | True     
-Nebula            | True     
-Pelican           | True     
-High Desert Queen | True     
-Militarie Gun     | True     
-Spite House       | True     
+Artist                        | Seen live
+----------------------------- | ---------
+Koco Franco                   | True     
+Joan Jett                     | True     
+Joan Jett and the Blackhearts | True     
+Behemoth                      | True     
+The Hellacopters              | True     
+Kublai Khan TX                | True     
+Eivør Pálsdóttir              | True     
+Royel Otis                    | True     
+Foo Fighters                  | True     
+J. Robbins                    | True     
 
 ## Top 100 artists seen live (58)
 
