@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 542
+- Number of artists seen live in total: 544
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist                        | Seen live
 ----------------------------- | ---------
+Acid Bath                     | True     
+System of a Down              | True     
 Koco Franco                   | True     
 Joan Jett                     | True     
 Joan Jett and the Blackhearts | True     
@@ -22,8 +24,6 @@ The Hellacopters              | True
 Kublai Khan TX                | True     
 Eivør Pálsdóttir              | True     
 Royel Otis                    | True     
-Foo Fighters                  | True     
-J. Robbins                    | True     
 
 ## Top 100 artists seen live (58)
 
@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4583
 AC/DC                          | 6    | 3484     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3092     
-Motorpsycho                    | 9    | 3082     
+Motorpsycho                    | 9    | 3084     
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
@@ -86,7 +86,7 @@ Carcass                        | 82   | 522
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 493      
 Michael Krohn                  | 91   | 466      
-Gojira                         | 95   | 439      
+Gojira                         | 95   | 441      
 
 ## Active top 100 artists not seen live (22)
 
