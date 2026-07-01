@@ -46,7 +46,7 @@ johndoe                        | 20   | 2348
 Chris Cornell                  | 21   | 2248     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
-Spidergawd                     | 24   | 2100     
+Spidergawd                     | 24   | 2101     
 Mastodon                       | 25   | 1814     
 Weezer                         | 27   | 1653     
 The Smashing Pumpkins          | 28   | 1642     
@@ -86,7 +86,7 @@ Carcass                        | 82   | 522
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 493      
 Michael Krohn                  | 91   | 466      
-Gojira                         | 95   | 441      
+Gojira                         | 95   | 443      
 
 ## Active top 100 artists not seen live (22)
 
@@ -100,7 +100,7 @@ The Black Crowes | 38   | 1154
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 61   | 729      
+Afghan Whigs     | 61   | 739      
 Neil Young       | 62   | 715      
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
