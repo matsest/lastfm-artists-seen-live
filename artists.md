@@ -71,8 +71,8 @@ Thulsa Doom                    | 52   | 834
 Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 783      
-Jason Isbell                   | 59   | 756      
-Ghost                          | 60   | 741      
+Jason Isbell                   | 60   | 756      
+Ghost                          | 61   | 741      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
 Foo Fighters                   | 70   | 670      
@@ -100,7 +100,7 @@ The Black Crowes | 38   | 1154
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 61   | 739      
+Afghan Whigs     | 59   | 774      
 Neil Young       | 62   | 715      
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
