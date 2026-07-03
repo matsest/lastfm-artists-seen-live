@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6203
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3484     
+AC/DC                          | 6    | 3485     
 DumDum Boys                    | 7    | 3280     
 Against Me!                    | 8    | 3092     
 Motorpsycho                    | 9    | 3084     
@@ -105,7 +105,7 @@ Neil Young       | 62   | 715
 The Hotelier     | 64   | 712      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 681      
-Dinosaur Jr.     | 80   | 554      
+Dinosaur Jr.     | 80   | 555      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 500      
@@ -121,7 +121,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3533     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2429     
+The Who                  | 19   | 2430     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
