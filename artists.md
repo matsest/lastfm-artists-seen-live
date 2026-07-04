@@ -34,7 +34,7 @@ Pearl Jam                      | 2    | 6192
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3485     
-DumDum Boys                    | 7    | 3280     
+DumDum Boys                    | 7    | 3281     
 Against Me!                    | 8    | 3092     
 Motorpsycho                    | 9    | 3084     
 Bruce Springsteen              | 10   | 3012     
@@ -56,7 +56,7 @@ Kvelertak                      | 31   | 1406
 Touché Amoré                   | 32   | 1378     
 Baroness                       | 33   | 1377     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1230     
+Thin Lizzy                     | 35   | 1231     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
