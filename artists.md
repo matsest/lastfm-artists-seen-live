@@ -29,7 +29,7 @@ Royel Otis                    | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6203     
+Soundgarden                    | 1    | 6204     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
@@ -40,7 +40,7 @@ Motorpsycho                    | 9    | 3084
 Bruce Springsteen              | 10   | 3012     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
-Raga Rockers                   | 14   | 2557     
+Raga Rockers                   | 14   | 2558     
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2348     
 Chris Cornell                  | 21   | 2248     
@@ -67,7 +67,7 @@ Oslo Ess                       | 46   | 971
 Tool                           | 48   | 916      
 Sweden                         | 49   | 867      
 Japandroids                    | 51   | 843      
-Thulsa Doom                    | 52   | 834      
+Thulsa Doom                    | 52   | 835      
 Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 58   | 783      
