@@ -33,8 +33,8 @@ Soundgarden                    | 1    | 6204
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3485     
-DumDum Boys                    | 7    | 3281     
+AC/DC                          | 6    | 3487     
+DumDum Boys                    | 7    | 3282     
 Against Me!                    | 8    | 3092     
 Motorpsycho                    | 9    | 3084     
 Bruce Springsteen              | 10   | 3012     
@@ -82,7 +82,7 @@ Blood Command                  | 73   | 643
 Spielbergs                     | 74   | 616      
 Devin Townsend Project         | 75   | 611      
 The Good The Bad and The Zugly | 76   | 586      
-Carcass                        | 82   | 522      
+Carcass                        | 83   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 493      
 Michael Krohn                  | 91   | 466      
@@ -121,7 +121,7 @@ Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3533     
 Hüsker Dü                | 11   | 2983     
-The Who                  | 19   | 2430     
+The Who                  | 19   | 2431     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
@@ -133,7 +133,7 @@ Warren Zevon             | 77   | 586
 Temple of the Dog        | 78   | 579      
 Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 546      
-Black Sabbath            | 83   | 521      
+Black Sabbath            | 82   | 522      
 Rage Against the Machine | 85   | 512      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
