@@ -63,7 +63,7 @@ Stein Torleif Bjella           | 40   | 1080
 Pappasaft                      | 42   | 1058     
 Anti-Lam Front                 | 43   | 1052     
 Justin Townes Earle            | 44   | 1048     
-Oslo Ess                       | 46   | 971      
+Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 867      
 Japandroids                    | 51   | 843      
@@ -78,7 +78,7 @@ The Posies                     | 68   | 678
 Foo Fighters                   | 70   | 670      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
-Blood Command                  | 73   | 643      
+Blood Command                  | 73   | 644      
 Spielbergs                     | 74   | 616      
 Devin Townsend Project         | 75   | 611      
 The Good The Bad and The Zugly | 76   | 586      
