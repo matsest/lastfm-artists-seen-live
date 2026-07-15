@@ -111,7 +111,7 @@ Richard Thompson | 86   | 505
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
-Cloud Nothings   | 93   | 448      
+Cloud Nothings   | 93   | 449      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
