@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6204
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3487     
+AC/DC                          | 6    | 3489     
 DumDum Boys                    | 7    | 3282     
 Against Me!                    | 8    | 3093     
 Motorpsycho                    | 9    | 3084     
@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
 Mastodon                       | 25   | 1814     
-Weezer                         | 27   | 1653     
+Weezer                         | 26   | 1663     
 The Smashing Pumpkins          | 28   | 1642     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1490     
@@ -95,7 +95,7 @@ Name             | Rank | PlayCount
 Guided by Voices | 16   | 2512     
 Propagandhi      | 17   | 2466     
 Alice in Chains  | 18   | 2445     
-The Menzingers   | 26   | 1660     
+The Menzingers   | 27   | 1660     
 The Black Crowes | 38   | 1154     
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
