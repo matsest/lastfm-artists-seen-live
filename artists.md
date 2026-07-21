@@ -43,7 +43,7 @@ Frank Turner                   | 13   | 2611
 Raga Rockers                   | 14   | 2558     
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2348     
-Chris Cornell                  | 21   | 2248     
+Chris Cornell                  | 21   | 2282     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
@@ -130,7 +130,7 @@ Jokke & Valentinerne     | 56   | 807
 Audioslave               | 63   | 712      
 Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
-Temple of the Dog        | 78   | 579      
+Temple of the Dog        | 78   | 580      
 Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 546      
 Black Sabbath            | 82   | 522      
