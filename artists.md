@@ -43,7 +43,7 @@ Frank Turner                   | 13   | 2611
 Raga Rockers                   | 14   | 2558     
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2348     
-Chris Cornell                  | 21   | 2283     
+Chris Cornell                  | 21   | 2284     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
@@ -102,7 +102,7 @@ Bob Dylan        | 54   | 821
 Melvins          | 55   | 820      
 Afghan Whigs     | 59   | 776      
 Neil Young       | 62   | 715      
-The Hotelier     | 64   | 712      
+The Hotelier     | 63   | 714      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 681      
 Dinosaur Jr.     | 80   | 555      
@@ -127,7 +127,7 @@ Genesis                  | 41   | 1068
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 807      
-Audioslave               | 63   | 712      
+Audioslave               | 64   | 712      
 Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 580      
