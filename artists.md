@@ -29,21 +29,21 @@ Royel Otis                    | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6204     
+Soundgarden                    | 1    | 6236     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3490     
-DumDum Boys                    | 7    | 3282     
+DumDum Boys                    | 7    | 3283     
 Against Me!                    | 8    | 3093     
-Motorpsycho                    | 9    | 3085     
+Motorpsycho                    | 9    | 3086     
 Bruce Springsteen              | 10   | 3045     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2558     
 Bob Mould                      | 15   | 2521     
 johndoe                        | 20   | 2348     
-Chris Cornell                  | 21   | 2284     
+Chris Cornell                  | 21   | 2286     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
@@ -75,7 +75,7 @@ Jason Isbell                   | 60   | 756
 Ghost                          | 61   | 741      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 70   | 670      
+Foo Fighters                   | 70   | 671      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
@@ -104,7 +104,7 @@ Afghan Whigs     | 59   | 776
 Neil Young       | 62   | 715      
 The Hotelier     | 63   | 714      
 Eddie Vedder     | 65   | 707      
-Hot Water Music  | 67   | 681      
+Hot Water Music  | 67   | 690      
 Dinosaur Jr.     | 80   | 555      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
