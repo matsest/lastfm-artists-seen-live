@@ -29,7 +29,7 @@ Royel Otis                    | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6236     
+Soundgarden                    | 1    | 6239     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2286
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
-Mastodon                       | 25   | 1814     
+Mastodon                       | 25   | 1815     
 Weezer                         | 27   | 1663     
 The Smashing Pumpkins          | 28   | 1642     
 Mark Lanegan                   | 29   | 1525     
@@ -93,7 +93,7 @@ Gojira                         | 95   | 443
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2512     
-Propagandhi      | 17   | 2466     
+Propagandhi      | 17   | 2467     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 26   | 1667     
 The Black Crowes | 38   | 1154     
