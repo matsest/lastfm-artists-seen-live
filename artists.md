@@ -47,14 +47,14 @@ Chris Cornell                  | 21   | 2286
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
-Mastodon                       | 25   | 1815     
+Mastodon                       | 25   | 1816     
 Weezer                         | 27   | 1663     
 The Smashing Pumpkins          | 28   | 1642     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
 Kvelertak                      | 31   | 1406     
-Touché Amoré                   | 32   | 1378     
-Baroness                       | 33   | 1377     
+Baroness                       | 32   | 1378     
+Touché Amoré                   | 33   | 1378     
 Chuck Ragan                    | 34   | 1263     
 Thin Lizzy                     | 35   | 1231     
 Biffy Clyro                    | 37   | 1159     
@@ -70,7 +70,7 @@ Japandroids                    | 51   | 843
 Thulsa Doom                    | 52   | 835      
 Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
-Devin Townsend                 | 58   | 783      
+Devin Townsend                 | 59   | 783      
 Jason Isbell                   | 60   | 756      
 Ghost                          | 61   | 741      
 Dropkick Murphys               | 66   | 696      
@@ -100,7 +100,7 @@ The Black Crowes | 38   | 1154
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 59   | 776      
+Afghan Whigs     | 58   | 785      
 Neil Young       | 62   | 715      
 The Hotelier     | 63   | 714      
 Eddie Vedder     | 65   | 707      
