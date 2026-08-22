@@ -35,7 +35,7 @@ Rush                           | 3    | 4882
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3490     
 DumDum Boys                    | 7    | 3283     
-Against Me!                    | 8    | 3093     
+Against Me!                    | 8    | 3095     
 Motorpsycho                    | 9    | 3086     
 Bruce Springsteen              | 10   | 3045     
 Manic Street Preachers         | 12   | 2696     
@@ -48,8 +48,8 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
 Mastodon                       | 25   | 1816     
-Weezer                         | 27   | 1663     
-The Smashing Pumpkins          | 28   | 1642     
+Weezer                         | 26   | 1673     
+The Smashing Pumpkins          | 28   | 1643     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
 Kvelertak                      | 31   | 1406     
@@ -95,12 +95,12 @@ Name             | Rank | PlayCount
 Guided by Voices | 16   | 2512     
 Propagandhi      | 17   | 2467     
 Alice in Chains  | 18   | 2445     
-The Menzingers   | 26   | 1667     
+The Menzingers   | 27   | 1667     
 The Black Crowes | 38   | 1154     
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 58   | 785      
+Afghan Whigs     | 58   | 786      
 Neil Young       | 62   | 715      
 The Hotelier     | 63   | 714      
 Eddie Vedder     | 65   | 707      
@@ -132,7 +132,7 @@ Paul Westerberg          | 69   | 676
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 580      
 Pink Floyd               | 79   | 570      
-The Beatles              | 81   | 546      
+The Beatles              | 81   | 547      
 Black Sabbath            | 82   | 522      
 Rage Against the Machine | 85   | 512      
 The Band                 | 94   | 447      
