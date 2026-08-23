@@ -34,8 +34,8 @@ Pearl Jam                      | 2    | 6192
 Rush                           | 3    | 4882     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3490     
-DumDum Boys                    | 7    | 3283     
-Against Me!                    | 8    | 3095     
+DumDum Boys                    | 7    | 3284     
+Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3086     
 Bruce Springsteen              | 10   | 3045     
 Manic Street Preachers         | 12   | 2696     
@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
 Mastodon                       | 25   | 1816     
-Weezer                         | 26   | 1673     
+Weezer                         | 26   | 1674     
 The Smashing Pumpkins          | 28   | 1643     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
@@ -75,7 +75,7 @@ Jason Isbell                   | 60   | 756
 Ghost                          | 61   | 741      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 70   | 671      
+Foo Fighters                   | 70   | 672      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
