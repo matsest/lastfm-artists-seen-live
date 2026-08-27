@@ -66,7 +66,7 @@ Justin Townes Earle            | 44   | 1048
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 867      
-Japandroids                    | 51   | 843      
+Japandroids                    | 51   | 844      
 Thulsa Doom                    | 52   | 835      
 Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
@@ -111,7 +111,7 @@ Richard Thompson | 86   | 505
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 483      
 Dawes            | 92   | 459      
-Cloud Nothings   | 93   | 449      
+Cloud Nothings   | 93   | 450      
 Thåström         | 96   | 437      
 Kiss             | 100  | 419      
 
@@ -137,5 +137,5 @@ Black Sabbath            | 82   | 522
 Rage Against the Machine | 85   | 512      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
-The Twilight Singers     | 98   | 434      
+The Twilight Singers     | 98   | 435      
 Marillion                | 99   | 420      
