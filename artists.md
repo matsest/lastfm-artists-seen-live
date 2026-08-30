@@ -102,7 +102,7 @@ Bob Dylan        | 54   | 821
 Melvins          | 55   | 820      
 Afghan Whigs     | 58   | 786      
 Neil Young       | 62   | 715      
-The Hotelier     | 63   | 714      
+The Hotelier     | 63   | 715      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 690      
 Dinosaur Jr.     | 80   | 555      
