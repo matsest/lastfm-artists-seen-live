@@ -34,7 +34,7 @@ Pearl Jam                      | 2    | 6192
 Rush                           | 3    | 4887     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3491     
-DumDum Boys                    | 7    | 3284     
+DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3086     
 Bruce Springsteen              | 10   | 3045     
@@ -75,7 +75,7 @@ Jason Isbell                   | 60   | 756
 Ghost                          | 61   | 741      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 70   | 672      
+Foo Fighters                   | 70   | 674      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
@@ -134,7 +134,7 @@ Temple of the Dog        | 78   | 580
 Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 547      
 Black Sabbath            | 82   | 522      
-Rage Against the Machine | 85   | 512      
+Rage Against the Machine | 85   | 513      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
 The Twilight Singers     | 98   | 435      
