@@ -31,9 +31,9 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6239     
 Pearl Jam                      | 2    | 6192     
-Rush                           | 3    | 4887     
+Rush                           | 3    | 4888     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3491     
+AC/DC                          | 6    | 3492     
 DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3086     
@@ -56,7 +56,7 @@ Kvelertak                      | 31   | 1406
 Baroness                       | 32   | 1378     
 Touché Amoré                   | 33   | 1378     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1232     
+Thin Lizzy                     | 35   | 1233     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
@@ -126,7 +126,7 @@ The Horrible Crowes      | 36   | 1186
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 846      
-Jokke & Valentinerne     | 56   | 807      
+Jokke & Valentinerne     | 56   | 808      
 Audioslave               | 64   | 712      
 Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
