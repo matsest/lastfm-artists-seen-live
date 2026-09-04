@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of artists seen live in total: 544
+- Number of unique artists seen live: 544
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -10,7 +10,7 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 - Number of top artists not seen live: 42 (Active: 22 Inactive: 20)
 
-## Last 10 artists seen live
+## Last 10 new artists seen live
 
 Artist                        | Seen live
 ----------------------------- | ---------
@@ -29,15 +29,15 @@ Royel Otis                    | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6239     
+Soundgarden                    | 1    | 6240     
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4889     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3492     
+AC/DC                          | 6    | 3493     
 DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3086     
-Bruce Springsteen              | 10   | 3045     
+Bruce Springsteen              | 10   | 3046     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2558     
@@ -49,7 +49,7 @@ The National                   | 23   | 2158
 Spidergawd                     | 24   | 2101     
 Mastodon                       | 25   | 1829     
 Weezer                         | 26   | 1674     
-The Smashing Pumpkins          | 28   | 1643     
+The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
 Kvelertak                      | 31   | 1406     
@@ -92,7 +92,7 @@ Gojira                         | 95   | 443
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2512     
+Guided by Voices | 16   | 2513     
 Propagandhi      | 17   | 2467     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 27   | 1667     
@@ -119,7 +119,7 @@ Kiss             | 100  | 419
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3533     
+The Replacements         | 5    | 3534     
 Hüsker Dü                | 11   | 2983     
 The Who                  | 19   | 2432     
 The Horrible Crowes      | 36   | 1186     
@@ -130,10 +130,10 @@ Jokke & Valentinerne     | 56   | 808
 Audioslave               | 64   | 712      
 Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
-Temple of the Dog        | 78   | 580      
+Temple of the Dog        | 78   | 581      
 Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 547      
-Black Sabbath            | 82   | 522      
+Black Sabbath            | 82   | 523      
 Rage Against the Machine | 85   | 514      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
