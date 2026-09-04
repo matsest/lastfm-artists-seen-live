@@ -42,13 +42,13 @@ $totalNotSeen = $activeNotSeen.Count + $inactiveNotSeen.Count
 # Print summary
 Write-Output "## Seen Live Stats"
 Write-Output "`nLast.fm user: [$LastFmUserName](https://www.last.fm/user/$LastFMUserName)"
-Write-Output "`n- Number of artists seen live in total: $($artistsSeenLive.Length)"
+Write-Output "`n- Number of unique artists seen live: $($artistsSeenLive.Length)"
 Write-Output "`n- Number of fetched top artists: $($artists.Count) (Active: $totalActive Inactive: $totalInactive)"
 Write-Output "`n- Number of top artists seen live: $totalSeen (Active: $($activeSeen.Count) Inactive: $($inactiveSeen.Count))"
 Write-Output "`n- Number of top artists not seen live: $totalNotSeen (Active: $($activeNotSeen.Count) Inactive: $($inactiveNotSeen.Count))"
 
 # Print last 10 seen live
-Write-Output "`n## Last 10 artists seen live`n"
+Write-Output "`n## Last 10 new artists seen live`n"
 $last10SeenLiveObj = $last10SeenLive | ForEach-Object {
     [PSCustomObject]@{ Artist = $_; 'Seen live' = $true }
 }
