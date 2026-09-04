@@ -31,7 +31,7 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6239     
 Pearl Jam                      | 2    | 6192     
-Rush                           | 3    | 4888     
+Rush                           | 3    | 4889     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3492     
 DumDum Boys                    | 7    | 3285     
@@ -101,7 +101,7 @@ The Hold Steady  | 47   | 934
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
 Afghan Whigs     | 58   | 786      
-Neil Young       | 62   | 715      
+Neil Young       | 62   | 716      
 The Hotelier     | 63   | 715      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 690      
@@ -134,7 +134,7 @@ Temple of the Dog        | 78   | 580
 Pink Floyd               | 79   | 570      
 The Beatles              | 81   | 547      
 Black Sabbath            | 82   | 522      
-Rage Against the Machine | 85   | 513      
+Rage Against the Machine | 85   | 514      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
 The Twilight Singers     | 98   | 435      
