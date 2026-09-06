@@ -56,7 +56,7 @@ Kvelertak                      | 31   | 1406
 Baroness                       | 32   | 1378     
 Touché Amoré                   | 33   | 1378     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1233     
+Thin Lizzy                     | 35   | 1242     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
