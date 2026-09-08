@@ -33,7 +33,7 @@ Soundgarden                    | 1    | 6240
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4889     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3493     
+AC/DC                          | 6    | 3494     
 DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3086     
@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2286
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2101     
-Mastodon                       | 25   | 1829     
+Mastodon                       | 25   | 1835     
 Weezer                         | 26   | 1674     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
@@ -56,7 +56,7 @@ Kvelertak                      | 31   | 1406
 Baroness                       | 32   | 1378     
 Touché Amoré                   | 33   | 1378     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1242     
+Thin Lizzy                     | 35   | 1243     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 39   | 1088     
 Stein Torleif Bjella           | 40   | 1080     
@@ -105,7 +105,7 @@ Neil Young       | 62   | 716
 The Hotelier     | 63   | 715      
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 690      
-Dinosaur Jr.     | 80   | 555      
+Dinosaur Jr.     | 80   | 566      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 500      
