@@ -36,7 +36,7 @@ The Gaslight Anthem            | 4    | 4583
 AC/DC                          | 6    | 3494     
 DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
-Motorpsycho                    | 9    | 3086     
+Motorpsycho                    | 9    | 3088     
 Bruce Springsteen              | 10   | 3046     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
@@ -46,8 +46,8 @@ johndoe                        | 20   | 2348
 Chris Cornell                  | 21   | 2286     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
-Spidergawd                     | 24   | 2101     
-Mastodon                       | 25   | 1842     
+Spidergawd                     | 24   | 2102     
+Mastodon                       | 25   | 1843     
 Weezer                         | 26   | 1674     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
@@ -67,12 +67,12 @@ Oslo Ess                       | 46   | 972
 Tool                           | 48   | 916      
 Sweden                         | 49   | 867      
 Japandroids                    | 51   | 844      
-Thulsa Doom                    | 52   | 835      
+Thulsa Doom                    | 52   | 836      
 Brian Fallon                   | 53   | 828      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 59   | 783      
 Jason Isbell                   | 60   | 756      
-Ghost                          | 61   | 741      
+Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
 Foo Fighters                   | 70   | 674      
@@ -84,7 +84,7 @@ Devin Townsend Project         | 75   | 611
 The Good The Bad and The Zugly | 76   | 586      
 Carcass                        | 83   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
-Backstreet Girls               | 89   | 493      
+Backstreet Girls               | 89   | 494      
 Michael Krohn                  | 91   | 466      
 Gojira                         | 95   | 443      
 
@@ -93,7 +93,7 @@ Gojira                         | 95   | 443
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
 Guided by Voices | 16   | 2513     
-Propagandhi      | 17   | 2467     
+Propagandhi      | 17   | 2468     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 27   | 1667     
 The Black Crowes | 38   | 1154     
