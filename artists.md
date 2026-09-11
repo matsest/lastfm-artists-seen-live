@@ -36,13 +36,13 @@ The Gaslight Anthem            | 4    | 4583
 AC/DC                          | 6    | 3494     
 DumDum Boys                    | 7    | 3285     
 Against Me!                    | 8    | 3099     
-Motorpsycho                    | 9    | 3088     
+Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3046     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2558     
 Bob Mould                      | 15   | 2521     
-johndoe                        | 20   | 2348     
+johndoe                        | 20   | 2350     
 Chris Cornell                  | 21   | 2286     
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
@@ -120,7 +120,7 @@ Kiss             | 100  | 419
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3534     
-Hüsker Dü                | 11   | 2983     
+Hüsker Dü                | 11   | 2984     
 The Who                  | 19   | 2432     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
