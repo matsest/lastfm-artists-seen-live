@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2286
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2102     
-Mastodon                       | 25   | 1843     
+Mastodon                       | 25   | 1845     
 Weezer                         | 26   | 1674     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
@@ -68,7 +68,7 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 867      
 Japandroids                    | 51   | 844      
 Thulsa Doom                    | 52   | 836      
-Brian Fallon                   | 53   | 828      
+Brian Fallon                   | 53   | 834      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 59   | 783      
 Jason Isbell                   | 60   | 756      
