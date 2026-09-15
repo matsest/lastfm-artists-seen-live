@@ -47,7 +47,7 @@ Chris Cornell                  | 21   | 2286
 Ryan Adams                     | 22   | 2217     
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2102     
-Mastodon                       | 25   | 1845     
+Mastodon                       | 25   | 1846     
 Weezer                         | 26   | 1674     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
@@ -75,7 +75,7 @@ Jason Isbell                   | 60   | 756
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 70   | 674      
+Foo Fighters                   | 70   | 675      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
