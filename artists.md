@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2102     
 Mastodon                       | 25   | 1846     
-Weezer                         | 26   | 1674     
+Weezer                         | 26   | 1675     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
@@ -66,9 +66,9 @@ Justin Townes Earle            | 44   | 1048
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 867      
-Japandroids                    | 51   | 844      
-Thulsa Doom                    | 52   | 836      
-Brian Fallon                   | 53   | 834      
+Brian Fallon                   | 51   | 846      
+Japandroids                    | 52   | 844      
+Thulsa Doom                    | 53   | 836      
 The Tallest Man on Earth       | 57   | 796      
 Devin Townsend                 | 59   | 783      
 Jason Isbell                   | 60   | 756      
