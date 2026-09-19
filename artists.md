@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2102     
 Mastodon                       | 25   | 1846     
-Weezer                         | 26   | 1675     
+Weezer                         | 26   | 1676     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
@@ -109,7 +109,7 @@ Dinosaur Jr.     | 80   | 566
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
 Faith No More    | 88   | 500      
-The War on Drugs | 90   | 483      
+The War on Drugs | 90   | 484      
 Dawes            | 92   | 459      
 Cloud Nothings   | 93   | 450      
 Thåström         | 96   | 437      
