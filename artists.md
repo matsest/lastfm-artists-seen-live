@@ -65,7 +65,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 867      
+Sweden                         | 49   | 869      
 Brian Fallon                   | 51   | 846      
 Japandroids                    | 52   | 844      
 Thulsa Doom                    | 53   | 836      
@@ -92,7 +92,7 @@ Gojira                         | 95   | 443
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2513     
+Guided by Voices | 16   | 2514     
 Propagandhi      | 17   | 2468     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 27   | 1667     
@@ -119,9 +119,9 @@ Kiss             | 100  | 419
 
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
-The Replacements         | 5    | 3534     
+The Replacements         | 5    | 3535     
 Hüsker Dü                | 11   | 2984     
-The Who                  | 19   | 2432     
+The Who                  | 19   | 2433     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 41   | 1068     
 Fugazi                   | 45   | 1012     
@@ -131,7 +131,7 @@ Audioslave               | 64   | 712
 Paul Westerberg          | 69   | 676      
 Warren Zevon             | 77   | 586      
 Temple of the Dog        | 78   | 581      
-Pink Floyd               | 79   | 570      
+Pink Floyd               | 79   | 571      
 The Beatles              | 81   | 547      
 Black Sabbath            | 82   | 523      
 Rage Against the Machine | 85   | 514      
