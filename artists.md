@@ -58,8 +58,8 @@ Touché Amoré                   | 33   | 1378
 Chuck Ragan                    | 34   | 1263     
 Thin Lizzy                     | 35   | 1243     
 Biffy Clyro                    | 37   | 1159     
-Hellbillies                    | 39   | 1088     
-Stein Torleif Bjella           | 40   | 1080     
+Hellbillies                    | 40   | 1088     
+Stein Torleif Bjella           | 41   | 1080     
 Pappasaft                      | 42   | 1058     
 Anti-Lam Front                 | 43   | 1052     
 Justin Townes Earle            | 44   | 1048     
@@ -123,7 +123,7 @@ The Replacements         | 5    | 3535
 Hüsker Dü                | 11   | 2984     
 The Who                  | 19   | 2433     
 The Horrible Crowes      | 36   | 1186     
-Genesis                  | 41   | 1068     
+Genesis                  | 39   | 1102     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 808      
