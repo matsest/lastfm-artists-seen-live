@@ -123,7 +123,7 @@ The Replacements         | 5    | 3535
 Hüsker Dü                | 11   | 2984     
 The Who                  | 19   | 2433     
 The Horrible Crowes      | 36   | 1186     
-Genesis                  | 39   | 1102     
+Genesis                  | 39   | 1103     
 Fugazi                   | 45   | 1012     
 Big Star                 | 50   | 846      
 Jokke & Valentinerne     | 56   | 808      
