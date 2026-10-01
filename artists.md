@@ -48,7 +48,7 @@ Ryan Adams                     | 22   | 2217
 The National                   | 23   | 2158     
 Spidergawd                     | 24   | 2102     
 Mastodon                       | 25   | 1846     
-Weezer                         | 26   | 1676     
+Weezer                         | 26   | 1678     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
 Sugar                          | 30   | 1491     
@@ -100,7 +100,7 @@ The Black Crowes | 38   | 1154
 The Hold Steady  | 47   | 934      
 Bob Dylan        | 54   | 821      
 Melvins          | 55   | 820      
-Afghan Whigs     | 58   | 786      
+Afghan Whigs     | 58   | 791      
 Neil Young       | 62   | 716      
 The Hotelier     | 63   | 715      
 Eddie Vedder     | 65   | 707      
