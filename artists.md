@@ -65,7 +65,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 869      
+Sweden                         | 49   | 877      
 Brian Fallon                   | 51   | 846      
 Japandroids                    | 52   | 844      
 Thulsa Doom                    | 53   | 836      
