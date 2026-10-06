@@ -75,7 +75,7 @@ Jason Isbell                   | 60   | 756
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
 The Posies                     | 68   | 678      
-Foo Fighters                   | 69   | 676      
+Foo Fighters                   | 69   | 677      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
@@ -113,7 +113,7 @@ The War on Drugs | 90   | 484
 Dawes            | 92   | 459      
 Cloud Nothings   | 93   | 450      
 Thåström         | 96   | 437      
-Kiss             | 100  | 419      
+Kiss             | 99   | 420      
 
 ## Inactive top 100 artists not seen live (20)
 
@@ -138,4 +138,4 @@ Rage Against the Machine | 85   | 514
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 97   | 436      
 The Twilight Singers     | 98   | 435      
-Marillion                | 99   | 420      
+Marillion                | 100  | 420      
