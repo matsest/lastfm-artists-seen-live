@@ -65,8 +65,8 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 877      
-Brian Fallon                   | 51   | 846      
+Sweden                         | 49   | 888      
+Brian Fallon                   | 50   | 848      
 Japandroids                    | 52   | 844      
 Thulsa Doom                    | 53   | 836      
 The Tallest Man on Earth       | 57   | 796      
@@ -125,7 +125,7 @@ The Who                  | 19   | 2433
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 39   | 1103     
 Fugazi                   | 45   | 1012     
-Big Star                 | 50   | 846      
+Big Star                 | 51   | 846      
 Jokke & Valentinerne     | 56   | 808      
 Audioslave               | 64   | 712      
 Paul Westerberg          | 70   | 676      
