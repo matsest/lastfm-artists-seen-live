@@ -2,7 +2,7 @@
 
 Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
-- Number of unique artists seen live: 544
+- Number of unique artists seen live: 546
 
 - Number of fetched top artists: 100 (Active: 71 Inactive: 29)
 
@@ -14,6 +14,8 @@ Last.fm user: [matsest](https://www.last.fm/user/matsest)
 
 Artist                        | Seen live
 ----------------------------- | ---------
+The Mountain Goats            | True     
+Craig Finn                    | True     
 Acid Bath                     | True     
 System of a Down              | True     
 Koco Franco                   | True     
@@ -22,8 +24,6 @@ Joan Jett and the Blackhearts | True
 Behemoth                      | True     
 The Hellacopters              | True     
 Kublai Khan TX                | True     
-Eivør Pálsdóttir              | True     
-Royel Otis                    | True     
 
 ## Top 100 artists seen live (58)
 
@@ -66,7 +66,7 @@ Justin Townes Earle            | 44   | 1048
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
 Sweden                         | 49   | 888      
-Brian Fallon                   | 50   | 848      
+Brian Fallon                   | 50   | 849      
 Japandroids                    | 52   | 844      
 Thulsa Doom                    | 53   | 836      
 The Tallest Man on Earth       | 57   | 796      
