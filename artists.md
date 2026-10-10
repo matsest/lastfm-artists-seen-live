@@ -34,7 +34,7 @@ Pearl Jam                      | 2    | 6192
 Rush                           | 3    | 4889     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3494     
-DumDum Boys                    | 7    | 3286     
+DumDum Boys                    | 7    | 3294     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3047     
