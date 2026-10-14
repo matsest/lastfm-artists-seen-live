@@ -104,7 +104,7 @@ Afghan Whigs     | 58   | 791
 Neil Young       | 62   | 716      
 The Hotelier     | 63   | 715      
 Eddie Vedder     | 65   | 707      
-Hot Water Music  | 67   | 690      
+Hot Water Music  | 67   | 691      
 Dinosaur Jr.     | 80   | 566      
 Yes              | 84   | 517      
 Richard Thompson | 86   | 505      
