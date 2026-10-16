@@ -68,7 +68,7 @@ Tool                           | 48   | 916
 Sweden                         | 49   | 889      
 Brian Fallon                   | 50   | 849      
 Japandroids                    | 52   | 844      
-Thulsa Doom                    | 53   | 836      
+Thulsa Doom                    | 53   | 839      
 The Tallest Man on Earth       | 57   | 807      
 Devin Townsend                 | 59   | 783      
 Jason Isbell                   | 60   | 756      
