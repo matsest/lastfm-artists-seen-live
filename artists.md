@@ -51,7 +51,7 @@ Mastodon                       | 25   | 1856
 Weezer                         | 26   | 1679     
 The Smashing Pumpkins          | 28   | 1644     
 Mark Lanegan                   | 29   | 1525     
-Sugar                          | 30   | 1491     
+Sugar                          | 30   | 1492     
 Kvelertak                      | 31   | 1406     
 Baroness                       | 32   | 1378     
 Touché Amoré                   | 33   | 1378     
@@ -106,13 +106,13 @@ The Hotelier     | 63   | 715
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 691      
 Dinosaur Jr.     | 80   | 567      
-Yes              | 84   | 517      
-Richard Thompson | 86   | 508      
+Richard Thompson | 84   | 519      
+Yes              | 85   | 517      
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 484      
 Dawes            | 92   | 459      
 Cloud Nothings   | 93   | 450      
-Thåström         | 96   | 437      
+Thåström         | 97   | 437      
 Kiss             | 99   | 420      
 
 ## Inactive top 100 artists not seen live (20)
@@ -134,8 +134,8 @@ Temple of the Dog        | 78   | 581
 Pink Floyd               | 79   | 571      
 The Beatles              | 81   | 547      
 Black Sabbath            | 82   | 523      
-Rage Against the Machine | 85   | 515      
+Rage Against the Machine | 86   | 515      
 The Band                 | 94   | 447      
-Jokke med Tourettes      | 97   | 436      
+Jokke med Tourettes      | 96   | 439      
 The Twilight Singers     | 98   | 435      
 Marillion                | 100  | 420      
