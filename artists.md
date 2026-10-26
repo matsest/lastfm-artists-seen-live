@@ -34,7 +34,7 @@ Pearl Jam                      | 2    | 6192
 Rush                           | 3    | 4896     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3498     
-DumDum Boys                    | 7    | 3302     
+DumDum Boys                    | 7    | 3303     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3047     
@@ -80,8 +80,8 @@ Clutch                         | 71   | 659
 Kylesa                         | 72   | 649      
 Blood Command                  | 73   | 644      
 Spielbergs                     | 74   | 616      
-Devin Townsend Project         | 75   | 611      
-The Good The Bad and The Zugly | 76   | 586      
+Devin Townsend Project         | 76   | 611      
+The Good The Bad and The Zugly | 77   | 586      
 Carcass                        | 83   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 494      
@@ -129,7 +129,7 @@ Big Star                 | 51   | 846
 Jokke & Valentinerne     | 56   | 809      
 Audioslave               | 64   | 712      
 Paul Westerberg          | 70   | 676      
-Warren Zevon             | 77   | 586      
+Warren Zevon             | 75   | 613      
 Temple of the Dog        | 78   | 581      
 Pink Floyd               | 79   | 571      
 The Beatles              | 81   | 547      
