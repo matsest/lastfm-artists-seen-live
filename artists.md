@@ -65,7 +65,7 @@ Anti-Lam Front                 | 43   | 1052
 Justin Townes Earle            | 44   | 1048     
 Oslo Ess                       | 46   | 972      
 Tool                           | 48   | 916      
-Sweden                         | 49   | 889      
+Sweden                         | 49   | 900      
 Brian Fallon                   | 50   | 849      
 Japandroids                    | 52   | 844      
 Thulsa Doom                    | 53   | 839      
@@ -74,7 +74,7 @@ Devin Townsend                 | 59   | 783
 Jason Isbell                   | 60   | 756      
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
-Foo Fighters                   | 68   | 684      
+Foo Fighters                   | 68   | 685      
 The Posies                     | 69   | 678      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
@@ -129,7 +129,7 @@ Big Star                 | 51   | 846
 Jokke & Valentinerne     | 56   | 809      
 Audioslave               | 64   | 712      
 Paul Westerberg          | 70   | 676      
-Warren Zevon             | 75   | 613      
+Warren Zevon             | 75   | 614      
 Temple of the Dog        | 78   | 581      
 Pink Floyd               | 79   | 571      
 The Beatles              | 81   | 547      
