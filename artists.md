@@ -37,7 +37,7 @@ AC/DC                          | 6    | 3499
 DumDum Boys                    | 7    | 3303     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
-Bruce Springsteen              | 10   | 3047     
+Bruce Springsteen              | 10   | 3052     
 Manic Street Preachers         | 12   | 2696     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2559     
