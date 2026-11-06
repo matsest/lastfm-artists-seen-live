@@ -92,7 +92,7 @@ Gojira                         | 95   | 443
 
 Name             | Rank | PlayCount
 ---------------- | ---- | ---------
-Guided by Voices | 16   | 2515     
+Guided by Voices | 16   | 2516     
 Propagandhi      | 17   | 2468     
 Alice in Chains  | 18   | 2445     
 The Menzingers   | 27   | 1667     
@@ -106,7 +106,7 @@ The Hotelier     | 63   | 715
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 691      
 Dinosaur Jr.     | 80   | 567      
-Richard Thompson | 84   | 519      
+Richard Thompson | 84   | 521      
 Yes              | 85   | 517      
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 484      
