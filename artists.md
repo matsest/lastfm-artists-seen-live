@@ -31,14 +31,14 @@ Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
 Soundgarden                    | 1    | 6240     
 Pearl Jam                      | 2    | 6192     
-Rush                           | 3    | 4896     
+Rush                           | 3    | 4897     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3499     
-DumDum Boys                    | 7    | 3304     
+DumDum Boys                    | 7    | 3305     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3052     
-Manic Street Preachers         | 12   | 2696     
+Manic Street Preachers         | 12   | 2699     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2559     
 Bob Mould                      | 15   | 2521     
