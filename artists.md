@@ -33,12 +33,12 @@ Soundgarden                    | 1    | 6240
 Pearl Jam                      | 2    | 6192     
 Rush                           | 3    | 4897     
 The Gaslight Anthem            | 4    | 4583     
-AC/DC                          | 6    | 3499     
+AC/DC                          | 6    | 3513     
 DumDum Boys                    | 7    | 3305     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3052     
-Manic Street Preachers         | 12   | 2699     
+Manic Street Preachers         | 12   | 2700     
 Frank Turner                   | 13   | 2611     
 Raga Rockers                   | 14   | 2559     
 Bob Mould                      | 15   | 2521     
@@ -106,7 +106,7 @@ The Hotelier     | 63   | 715
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 691      
 Dinosaur Jr.     | 80   | 567      
-Richard Thompson | 84   | 521      
+Richard Thompson | 84   | 522      
 Yes              | 85   | 517      
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 484      
