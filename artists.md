@@ -82,7 +82,7 @@ Blood Command                  | 73   | 644
 Spielbergs                     | 74   | 616      
 Devin Townsend Project         | 76   | 611      
 The Good The Bad and The Zugly | 77   | 586      
-Carcass                        | 83   | 522      
+Carcass                        | 84   | 522      
 Jason Isbell and the 400 Unit  | 87   | 502      
 Backstreet Girls               | 89   | 494      
 Michael Krohn                  | 91   | 466      
@@ -106,7 +106,7 @@ The Hotelier     | 63   | 715
 Eddie Vedder     | 65   | 707      
 Hot Water Music  | 67   | 691      
 Dinosaur Jr.     | 80   | 567      
-Richard Thompson | 84   | 522      
+Richard Thompson | 82   | 524      
 Yes              | 85   | 517      
 Faith No More    | 88   | 500      
 The War on Drugs | 90   | 484      
@@ -133,7 +133,7 @@ Warren Zevon             | 75   | 614
 Temple of the Dog        | 78   | 581      
 Pink Floyd               | 79   | 571      
 The Beatles              | 81   | 547      
-Black Sabbath            | 82   | 523      
+Black Sabbath            | 83   | 523      
 Rage Against the Machine | 86   | 515      
 The Band                 | 94   | 447      
 Jokke med Tourettes      | 96   | 439      
