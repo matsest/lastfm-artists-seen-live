@@ -50,7 +50,7 @@ Spidergawd                     | 24   | 2102
 Mastodon                       | 25   | 1856     
 Weezer                         | 26   | 1679     
 The Smashing Pumpkins          | 28   | 1644     
-Mark Lanegan                   | 29   | 1525     
+Mark Lanegan                   | 29   | 1540     
 Sugar                          | 30   | 1492     
 Kvelertak                      | 31   | 1406     
 Baroness                       | 32   | 1378     
@@ -74,7 +74,7 @@ Devin Townsend                 | 59   | 783
 Jason Isbell                   | 60   | 756      
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
-Foo Fighters                   | 68   | 688      
+Foo Fighters                   | 68   | 689      
 The Posies                     | 69   | 678      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
