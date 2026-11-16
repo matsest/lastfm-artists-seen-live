@@ -74,7 +74,7 @@ Devin Townsend                 | 59   | 783
 Jason Isbell                   | 60   | 756      
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
-Foo Fighters                   | 68   | 689      
+Foo Fighters                   | 68   | 690      
 The Posies                     | 69   | 678      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
