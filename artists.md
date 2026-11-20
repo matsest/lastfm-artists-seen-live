@@ -29,8 +29,8 @@ Kublai Khan TX                | True
 
 Name                           | Rank | PlayCount
 ------------------------------ | ---- | ---------
-Soundgarden                    | 1    | 6240     
-Pearl Jam                      | 2    | 6192     
+Soundgarden                    | 1    | 6241     
+Pearl Jam                      | 2    | 6193     
 Rush                           | 3    | 4897     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3513     
@@ -49,7 +49,7 @@ The National                   | 23   | 2158
 Spidergawd                     | 24   | 2102     
 Mastodon                       | 25   | 1856     
 Weezer                         | 26   | 1679     
-The Smashing Pumpkins          | 28   | 1644     
+The Smashing Pumpkins          | 28   | 1645     
 Mark Lanegan                   | 29   | 1540     
 Sugar                          | 30   | 1492     
 Kvelertak                      | 31   | 1406     
@@ -120,7 +120,7 @@ Kiss             | 99   | 420
 Name                     | Rank | PlayCount
 ------------------------ | ---- | ---------
 The Replacements         | 5    | 3535     
-Hüsker Dü                | 11   | 2984     
+Hüsker Dü                | 11   | 2985     
 The Who                  | 19   | 2433     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 39   | 1103     
