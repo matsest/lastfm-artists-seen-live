@@ -34,7 +34,7 @@ Pearl Jam                      | 2    | 6193
 Rush                           | 3    | 4897     
 The Gaslight Anthem            | 4    | 4583     
 AC/DC                          | 6    | 3516     
-DumDum Boys                    | 7    | 3308     
+DumDum Boys                    | 7    | 3309     
 Against Me!                    | 8    | 3099     
 Motorpsycho                    | 9    | 3089     
 Bruce Springsteen              | 10   | 3052     
@@ -74,7 +74,7 @@ Devin Townsend                 | 59   | 783
 Jason Isbell                   | 60   | 756      
 Ghost                          | 61   | 742      
 Dropkick Murphys               | 66   | 696      
-Foo Fighters                   | 67   | 691      
+Foo Fighters                   | 67   | 693      
 The Posies                     | 69   | 678      
 Clutch                         | 71   | 659      
 Kylesa                         | 72   | 649      
