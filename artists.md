@@ -56,7 +56,7 @@ Kvelertak                      | 31   | 1406
 Baroness                       | 32   | 1378     
 Touché Amoré                   | 33   | 1378     
 Chuck Ragan                    | 34   | 1263     
-Thin Lizzy                     | 35   | 1244     
+Thin Lizzy                     | 35   | 1245     
 Biffy Clyro                    | 37   | 1159     
 Hellbillies                    | 40   | 1088     
 Stein Torleif Bjella           | 41   | 1080     
@@ -124,7 +124,7 @@ Hüsker Dü                | 11   | 2985
 The Who                  | 19   | 2433     
 The Horrible Crowes      | 36   | 1186     
 Genesis                  | 39   | 1103     
-Fugazi                   | 45   | 1012     
+Fugazi                   | 45   | 1023     
 Big Star                 | 51   | 846      
 Jokke & Valentinerne     | 56   | 809      
 Audioslave               | 64   | 712      
